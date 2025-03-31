@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6,7
+3,,0501.00,00,00,"- Cheveux bruts, mÃªme lavÃ©s ou dÃ©graissÃ©s; dÃ©chets de cheveux",KG,- - - - -
+,05.02,,,,Soies de porc ou de sanglier; poils de blaireau et autres poils pour la brosserie; dÃ©chets de ces soies ou poils.,,
+,,0502.10,00,,- Soies de porc ou de sanglier et dÃ©chets de ces soies,,
+3,,,,10,- - - soies brutes et dÃ©chets de soies,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+3,,0502.90,00,00,- Autres,KG,- - - - -
+,,0503.00,00,,"Crins et dÃ©chets de crins, mÃªme en nappes avec ou sans support",,
+,,0504.00,,,"- - - - Boyaux, vessies et estomacs d'animaux, entiers ou en morceaux, autres que ceux de poissons, Ã  l'Ã©tat frais, rÃ©frigÃ©rÃ©, congelÃ©, salÃ© ou en saumure, sÃ©chÃ© ou fumÃ©.Â£- - - non comestibles :",,
+3,,,00,00,"- - - - Boyaux, vessies et estomacs d animaux, entiers ou en morceaux, autres que ceux de poissons, Ã  l Ã©tat frais, rÃ©frigÃ©rÃ©, congelÃ©, salÃ© ou en saumure, sÃ©chÃ© ou fumÃ©.",KG,- - - - -
+,,,21,,- - - - - - boyaux :Â£- - - - - - frais :,,
+,05.05,,,,"Peaux et autres parties d'oiseaux revÃªtues de leurs plumes ou de leur duvet, plumes et parties de plumes (mÃªme rognÃ©es), duvet, bruts ou simplement nettoyÃ©s, dÃ©sinfectÃ©s ou traitÃ©s en vue de leur conser- vation; poudres et dÃ©chets de plumes ou de",,
+,,0505.10,00,,- Plumes des espÃ¨ces utilisÃ©es pour le rembourrage; duvet,,
+3,,,,00,"- - - - "" Plumes des espÃ¨ces utilisÃ©es pour le rembourrage; duvet""",KG,- - - - -
+,,0505.90,00,,- Autres,,
+3,,,,00,- - - - Autres,KG,- - - - -
+,05.06,,,,"Os et cornillons, bruts, dÃ©graissÃ©s, simplement prÃ©parÃ©s (mais non dÃ©coupÃ©s en forme), acidulÃ©s ou dÃ©gÃ©latinÃ©s; poudres et dÃ©chets de ces matiÃ¨res.",,
+3,,0506.10,00,00,- OssÃ©ine et os acidulÃ©s,KG,- - - - -
+,,0506.90,,,- Autres,,
+3,,,00,00,- - - Autres,KG,- - - - -
+,05.07,,,,"Ivoire, Ã©caille de tortue, fanons (y compris les barbes) de baleine ou d'autres mammifÃ¨res marins, cornes, bois, sabots, ongles, griffes et becs, bruts ou simplement prÃ©parÃ©s, mais non dÃ©coupÃ©s en forme; poudres et dÃ©chets de ces matiÃ¨res.",,
+3,,0507.10,00,00,- Ivoire ; poudre et dÃ©chets d'ivoire,KG,- - - - -
+,,0507.90,,,"- AutresÂ£- - - Ã©caille de tortue (carapaces, feuilles dÃ©tachÃ©es), brute ou simplement prÃ©- parÃ©e, mais non dÃ©coupÃ©e en forme ; onglons, rognures et dÃ©chets :",,
+3,,,00,00,- - - - Autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - cornes et bois :Â£- - - - - cornes de bÃ©tail brutes :,,
+,,0508.00,,,"Corail et matiÃ¨res similaires, bruts ou simplement prÃ©parÃ©s, mais non autrement travaillÃ©s; coquilles et carapaces de mollusques, de crustacÃ©s ou d'Ã©chinodermes et os de seiches, bruts ou simp- lement prÃ©parÃ©s, mais non dÃ©coupÃ©s en forme, leurs",,
+,,,10,,- - - corail et similaires :,,
+3,,,,00,- - - - corail et similaires,KG,- - - - -
+3,,,90,00,- - - - autres,KG,- - - - -
+,,0509.00,00,,Eponges naturelles d'origine animale,,
+,,0510.00,,,"Ambre gris, castorÃ©um, civette et musc; cantharides; bile, mÃªme sÃ©chÃ©e; glandes et autres substances d'origine animale utilisÃ©es pour la prÃ©paration de produits pharmaceutiques, fraÃ®ches, rÃ©fri- gÃ©rÃ©es, congelÃ©es ou autrement conservÃ©es de faÃ",,
+3,,,10,00,"- - - ambre gris, castorÃ©um, civette et muscÂ£- - - autres :",KG,- - - - -
+3,,,91,00,- - - - bile mÃªme sÃ©chÃ©e,KG,- - - - -
+3,,,99,00,- - - - - - autres,KG,- - - - -
+,05.11,,,,"Produits d'origine animale, non dÃ©nommÃ©s ni compris ailleurs; animaux morts des Chapitres 1 ou 3, impropres Ã  l'alimentation humaine.",,
+,,0511.10,00,,- Sperme de taureaux,,
+3,,,,10,- - - congelÃ©,KG,- - - - -
+3,,,,90,- - - autresÂ£- Autres :,KG,- - - - -
+,,0511.91,,,"- - Produits de poissons ou de crustacÃ©s, mollusques ou autres invertÃ©brÃ©s aquatiques; animaux morts du Chapitre 3Â£- - - dÃ©chets de poissons :",,
+3,,,11,00,- - - - Ã©cailles d'ablettes et similaires sans solvant,KG,- - - - -
+3,,,19,00,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+3,,,20,00,"- - - - poissons d'une longueur de 6 cm ou moins et crevettes, sÃ©chÃ©sÂ£- - - - autres :Â£- - - - - oeufs et laitances de poissons, non comestibles :",KG,- - - - -
+3,,,30,00,"- - - - - - oeufs et laitances de poissons, non comestibles",KG,- - - - -
+,,,90,,- - - - - - - autres :,,
+3,,,,10,"- - - - - - glandes et organes d'animaux frais, congelÃ©s ou conservÃ©s, mais non dessÃ©chÃ©s",KG,- - - - -
+3,,,,90,- - - - - - - - autres,KG,- - - - -
+,,0511.99,,,- - autres,,
+,,,10,,- - - spermes d'autres animaux :,,
+3,,,,00,"- - - crins et dÃ©chets de crins, mÃªme en nappes avec ou sans support %â€“ â€“ â€“ Ã©ponges naturelles d'origine animale :%",KG,- - - - -
+,,,20,,"- - - tendons et nerfs, rognures et autres dÃ©chets similaires de peaux non tannÃ©es :",,
+3,,,21,00,- - - - brutes,KG,- - - - -
+3,,,29,00,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+3,,,,00,- - - autres,KG,- - - - -

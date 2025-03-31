@@ -1,0 +1,371 @@
+0,1,2,3,4,5,6,7
+,62.01,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour hommes ou garÃ§onnets, Ã  l'exclusion des articles du nÂ° 62.03.Â£- Manteaux, impermÃ©ables, cabans, capes et articles similaires :",,
+,62.01,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour hommes ou garÃ§onnets, Ã  l'exclusion des articles du nÂ° 62.03.Â£- Manteaux, impermÃ©ables, cabans, capes et articles similaires :",,
+,62.01,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour hommes ou garÃ§onnets, Ã  l'exclusion des articles du nÂ° 62.03.",,
+,62.01,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour hommes ou garÃ§onnets, Ã  l'exclusion des articles du nÂ° 62.03.",,
+,,6201.12,00,,- - De coton,,
+,,6201.13,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,6201.20,00,00,- De laine ou de poils fins,U,NOMBRE
+8,,6201.30,00,00,- - De coton,U,NOMBRE
+8,,6201.40,00,00,- - De fibres synthÃ©tiques ou artificielles,U,NOMBRE
+8,,6201.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+8,,6201.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+8,,6201.90,00,00,- Migration NGP inexistants,U,NOMBRE
+8,,6201.90,00,00,- Migration NGP inexistants,U,NOMBRE
+,62.02,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour femmes ou fillettes, Ã  l'exclusion des articles du nÂ° 62.04.Â£- Manteaux, impermÃ©ables, cabans, capes et articles similaires :",,
+,62.02,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour femmes ou fillettes, Ã  l'exclusion des articles du nÂ° 62.04.Â£- Manteaux, impermÃ©ables, cabans, capes et articles similaires :",,
+,62.02,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour femmes ou fillettes, Ã  l'exclusion des articles du nÂ° 62.04.",,
+,62.02,,,,"Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour femmes ou fillettes, Ã  l'exclusion des articles du nÂ° 62.04.",,
+,,6202.12,00,,- - De coton,,
+,,6202.13,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,6202.20,00,00,- De laine ou de poils fins,U,NOMBRE
+8,,6202.30,00,00,- De coton,U,NOMBRE
+8,,6202.40,00,00,- De fibres synthÃ©tiques ou artificielles,U,NOMBRE
+8,,6202.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+8,,6202.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+8,,6202.90,00,00,- Migration NGP inexistants,U,NOMBRE
+8,,6202.90,00,00,- Migration NGP inexistants,U,NOMBRE
+,62.03,,,,"- - Costumes ou complets, ensembles, vestons, pantalons, salopettes Ã  bretelles, culottes et shorts (autres que pour le bain), pour hommes ou garÃ§onnets.Â£- Costumes ou complets :",,
+8,,6203.11,00,00,- - De laine ou de poils fins,U,NOMBRE
+8,,6203.12,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6203.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,20,- - - - - de coton,U,NOMBRE
+8,,,,90,- - - - - autresÂ£- Ensembles :,U,NOMBRE
+8,,6203.22,00,00,- - De coton,U,NOMBRE
+8,,6203.23,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6203.29,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,80,- - - autres,U,- - - - -
+8,,6203.31,00,00,- - De laine ou de poils fins,U,- - - - -
+8,,6203.32,00,00,- - De coton,U,- - - - -
+8,,6203.33,00,00,- - De fibres synthÃ©tiques,U,- - - - -
+,,6203.39,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,- - - - -
+8,,,,90,"- - - - - autresÂ£- Pantalons, salopettes Ã  bretelles, culottes et shorts :",U,- - - - -
+,,6203.41,00,,- - - De laine ou de poils fins,,
+8,,,,10,- - - culottes et shorts,U,NOMBRE
+8,,,,20,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6203.42,00,,- - De coton,,
+8,,,,10,- - - culottes et shorts,U,NOMBRE
+8,,,,20,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6203.43,00,,- - De fibres synthÃ©tiques,,
+8,,,,10,- - - culottes et shorts,U,NOMBRE
+8,,,,20,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6203.49,00,,- - D'autres matiÃ¨res textilesÂ£- - - de fibres textiles artificielles :,,
+8,,,,11,- - - culottes et shorts,U,NOMBRE
+8,,,,13,- - - - pantalons,U,NOMBRE
+8,,,,19,- - - - - - autresÂ£- - - autres :,U,- - - - -
+8,,,,91,- - - - culottes et shorts,U,NOMBRE
+8,,,,93,- - - - pantalons,U,NOMBRE
+8,,,,99,- - - - - - autres,U,- - - - -
+,62.04,,,,"- - - - - Costumes tailleurs, ensembles, vestes, robes, jupes, jupesculottes, pantalons, salopettes Ã  bretelles, culottes et shorts (autres que pour le bain), pour femmes ou fillettes.Â£- Costumes tailleurs :",,
+8,,6204.11,00,00,- - De laine ou de poils fins,U,NOMBRE
+8,,6204.12,00,00,- - De coton,U,NOMBRE
+8,,6204.13,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6204.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,90,- - - - - autresÂ£- Ensembles :,U,NOMBRE
+8,,6204.21,00,00,- - De laine ou de poils fins,U,NOMBRE
+8,,6204.22,00,00,- - De coton,U,NOMBRE
+8,,6204.23,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6204.29,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,90,- - - - - autresÂ£- Vestes :,U,NOMBRE
+8,,6204.31,00,00,- - - De laine ou de poils fins,U,NOMBRE
+8,,6204.32,00,00,- - De coton,U,NOMBRE
+8,,6204.33,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6204.39,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,90,- - - - - autresÂ£- Robes :,U,NOMBRE
+8,,6204.41,00,00,- - De laine ou de poils fins,U,NOMBRE
+8,,6204.42,00,00,- - De coton,U,NOMBRE
+8,,6204.43,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+8,,6204.44,00,00,- - De fibres artificielles,U,NOMBRE
+,,6204.49,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,"- - - de soie, de schappe ou de bourrette",U,NOMBRE
+8,,,,90,- - - - - autresÂ£- Jupes et jupes-culottes :,U,NOMBRE
+8,,6204.51,00,00,- - De laine ou de poils fins,U,NOMBRE
+8,,6204.52,00,00,- - De coton,U,NOMBRE
+8,,6204.53,00,00,- - De fibres synthÃ©tiques,U,NOMBRE
+,,6204.59,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,90,"- - - - - autresÂ£- Pantalons, salopettes Ã  bretelles, culottes et shorts :",U,NOMBRE
+,,6204.61,00,,- - De laine ou de poils fins,,
+8,,,,10,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6204.62,00,,- - De coton,,
+8,,,,10,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6204.63,00,,- - De fibres synthÃ©tiques,,
+8,,,,10,- - - pantalons,U,NOMBRE
+8,,,,90,- - - - - autres,U,- - - - -
+,,6204.69,00,,- - D'autres matiÃ¨res textilesÂ£- - - de fibres textiles artificielles :,,
+8,,,,11,- - - - pantalons,U,NOMBRE
+8,,,,19,- - - - - - autresÂ£- - - autres :,U,- - - - -
+8,,,,91,- - - - pantalons,U,NOMBRE
+8,,,,99,- - - - - - autres,U,- - - - -
+,62.05,,,,"Chemises et chemisettes, pour hommes ou garÃ§onnets",,
+8,,6205.20,00,00,- De coton,U,NOMBRE
+,,6205.30,00,,- De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,U,NOMBRE
+8,,,,20,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,20,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,20,- - - Migration NGP inexistants,U,NOMBRE
+8,,,,20,- - - Migration NGP inexistants,U,NOMBRE
+8,,6205.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+,62.06,,,,"Chemisiers, blouses, blouses-chemisiers et chemisettes, pour femmes ou fillettes.",,
+8,,6206.10,00,00,- De soie ou de dÃ©chets de soie,U,NOMBRE
+8,,6206.20,00,00,- De laine ou de poils fins,U,NOMBRE
+8,,6206.30,00,00,- De coton,U,NOMBRE
+8,,6206.40,00,00,- De fibres synthÃ©tiques ou artificielles,U,NOMBRE
+8,,6206.90,00,00,- D'autres matiÃ¨res textiles,U,NOMBRE
+,62.07,,,,"- - Gilets de corps, slips, caleÃ§ons, chemises de nuit, pyjamas, peignoirs de bain, robes de chambre et articles similaires, pour hommes ou garÃ§onnets.Â£- Slips et caleÃ§ons :",,
+8,,6207.11,00,00,- - De coton,U,- - - - -
+,,6207.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,U,- - - - -
+8,,,,90,- - - - - autresÂ£- Chemises de nuit et pyjamas :,U,- - - - -
+8,,6207.21,00,00,- - De coton,U,- - - - -
+,,6207.22,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,U,- - - - -
+8,,,,90,- - - - - autres,U,- - - - -
+8,,6207.29,00,00,- - D'autres matiÃ¨res textilesÂ£- Autres :,U,- - - - -
+,,6207.91,00,,- - De coton,,
+8,,,,10,"- - - peignoirs de bain; robes de chambre, vestes d'intÃ©rieur et vÃªtements d'intÃ©- rieur analogues",KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,6207.92,00,,- - De fibres synthÃ©tiques ou artificielles,,
+,,6207.99,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,20,"- - - ""peignoirs de bain; robes de chambre, vestes d'intÃ©rieur et vÃªtements d'intÃ©rieur analogues """,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,62.08,,,,"- - Gilets de corps et chemises de jour, combinaisons ou fonds de robes, jupons, slips, chemises de nuit, pyjamas, dÃ©shabillÃ©s, peignoirs de bain, robes de chambre et articles similaires, pour femmes ou fillettes.Â£- Combinaisons ou fonds de robes et ju",,
+,,6208.11,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,U,- - - - -
+8,,,,20,- - - de fibres textiles artificielles,U,- - - - -
+,,6208.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,00,- - D'autres matiÃ¨res textiles,U,- - - - -
+8,,6208.21,00,00,- - De coton,U,- - - - -
+,,6208.22,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,U,- - - - -
+8,,,,20,- - - de fibres textiles artificielles,U,- - - - -
+8,,6208.29,00,00,- - D'autres matiÃ¨res textilesÂ£- Autres :,U,- - - - -
+,,6208.91,00,,- - De coton,,
+8,,,,10,"- - - peignoirs de bain; robes de chambre, vestes d'intÃ©rieur et vÃªtements d'intÃ©- rieur analogues",KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,6208.92,00,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,"- - - peignoirs de bain; robes de chambre, vestes d'intÃ©rieur et vÃªtements d'intÃ©- rieur analoguesÂ£- - - autres :",KG,- - - - -
+8,,,,92,- - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,98,- - - - autres,KG,- - - - -
+,,6208.99,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,"- - - peignoirs de bain; robes de chambre, vestes d'intÃ©rieur et vÃªtements d'intÃ©- rieur analogues",KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,62.09,,,,VÃªtements et accessoires du vÃªtement pour bÃ©bÃ©s,,
+,,6209.10,00,,- De laine ou de poils fins,,
+,,6209.20,00,,- De coton,,
+8,,,,10,- - - vÃªtements de dessus,KG,- - - - -
+8,,,,20,"- - - vÃªtements de dessousÂ£- - - autres :Â£- - - - cols, collerettes, guimpes, colifichets, plastrons, jabots, poignets, manchettes, empiÃ¨cements et autres garnitures similaires pour vÃªtements et sous- vÃªtements :Â£- - - - - en lingerie, faits :",KG,- - - - -
+8,,,,32,"- - - - - - Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,38,- - - - - - Ã  la machine,KG,- - - - -
+8,,,,45,- - - - - autres,KG,- - - - -
+8,,,,50,"- - - - ganterie, bas, chaussettes et socquettesÂ£- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, cein- tures, manchons, manches protectrices, etc...) :",KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,"- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, ceintures, Â£manchons, manches protectrices, etc...)",KG,- - - - -
+8,,,,90,"- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, ceintures, Â£manchons, manches protectrices, etc...)",KG,- - - - -
+,,6209.30,00,,- De fibres synthÃ©tiques,,
+8,,,,10,- - - vÃªtements de dessus,KG,- - - - -
+8,,,,20,"- - - vÃªtements de dessousÂ£- - - autres :Â£- - - - cols, collerettes, guimpes, colifichets, plastrons, jabots, poignets, man- chettes, empiÃ¨cements et autres garnitures similaires pour vÃªtements et sous-vÃªtements :Â£- - - - - en lingerie, faits :",KG,- - - - -
+8,,,,32,"- - - - - - Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,38,- - - - - - Ã  la machine,KG,- - - - -
+8,,,,45,- - - - - autres,KG,- - - - -
+8,,,,50,"- - - - ganterie, bas, chaussettes et socquettesÂ£- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, cein- tures, manchons, manches protectrices, etc...) :",KG,- - - - -
+8,,,,90,"- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, ceintures, Â£manchons, manches protectrices, etc...)",KG,- - - - -
+,,6209.90,00,,- D'autres matiÃ¨res textiles,,
+8,,,,15,- - - vÃªtements de dessus,KG,- - - - -
+8,,,,25,"- - - vÃªtements de dessous %â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ cols, collerettes, guimpes, colifichets, plastrons, jabots, poignets, manchettes,%empiÃ¨cements et autres garnitures similaires pour vÃªtements et sous-vÃªtements :%â€“ â€“ â€“ â€“ â€“ en l",KG,- - - - -
+8,,,,32,"- - - - - - Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,38,- - - - - - Ã  la machine,KG,- - - - -
+8,,,,45,- - - - - autres,KG,- - - - -
+8,,,,55,"- - - - ganterie, bas, chaussettes et socquettes",KG,- - - - -
+8,,,,90,"- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, ceintures, Â£manchons, manches protectrices, etc...)",KG,- - - - -
+8,,,,90,"- - - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, ceintures, Â£manchons, manches protectrices, etc...)",KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+,62.10,,,,"- VÃªtements confectionnÃ©s en produits des nÂ°s 5602, 5603, 5903, 59.06 ou 59.07.",,
+,,6210.10,00,,- En produits des nÂ°s 5602 ou 5603Â£- - - vÃªtements de dessus pour hommes ou garÃ§onnets :Â£- - - - vÃªtements de travail :,,
+8,,,,11,- - - - - - de cotonÂ£- - - - - autres :,KG,NOMBRE
+8,,,,15,"- - - - - - combinaison consistant en un vÃªtement en une seule piÃ¨ce conÃ§u pour recouvrir les parties supÃ©rieure et infÃ©rieure du corps qui outre les manches, peut comporter un col, des poches et/ou un capuchon, l'ensemble est rÃ©alisÃ© dans le mÃªme",KG,NOMBRE
+8,,,,17,- - - - - - - - autres,KG,NOMBRE
+8,,,,30,- - - - vÃªtements traditionnels Ã  l'usage de la population marocaineÂ£- - - - autres :,KG,NOMBRE
+8,,,,42,- - - - - de textiles synthÃ©tiques ou artificiels,KG,NOMBRE
+8,,,,43,- - - - - - - de coton,KG,NOMBRE
+8,,,,48,- - - - - autres,KG,NOMBRE
+8,,,,50,"- - - - - - vÃªtements traditionnels Ã  l'usage de la population marocaineÂ£- - - - tabliers, blouses et autres vÃªtements de travail :",KG,NOMBRE
+8,,,,60,"- - - - tabliers, blouses et autres vÃªtements de travail",KG,- - - - -
+8,,,,72,- - - - - de textiles synthÃ©tiques ou artificiels,KG,NOMBRE
+8,,,,78,- - - - - autres,KG,NOMBRE
+8,,,,80,- - - Migration NGP inexistants,KG,- - - - -
+8,,,,80,- - - Migration NGP inexistants,KG,- - - - -
+8,,,,80,- - - vÃªtements de dessous pour hommes ou garÃ§onnets,KG,- - - - -
+8,,,,80,- - - vÃªtements de dessous pour hommes ou garÃ§onnets,KG,- - - - -
+8,,,,90,- - - vÃªtements de dessous pour femmes ou fillettes,KG,- - - - -
+8,,,,90,- - - vÃªtements de dessous pour femmes ou fillettes,KG,- - - - -
+8,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+,,6210.20,,,"- Autres vÃªtements, des types visÃ©s dans le nÂ° 62.01",,
+,,,00,,"- - Autres vÃªtements, des types visÃ©s dans les nÂ°s 620111 Ã  620119",,
+8,,,10,00,- - - de fibres textiles synthÃ©tiques,U,NOMBRE
+8,,,90,00,- - - autres,U,NOMBRE
+,,6210.30,00,,"- Autres vÃªtements, des types visÃ©s dans les nÂ°s 620211 Ã  620219",,
+8,,,,00,"- Autres vÃªtements, des types visÃ©s dans le n 62.02",U,NOMBRE
+,,6210.40,00,,- Autres vÃªtements pour hommes ou garÃ§onnets,,
+8,,6210.40,10,00,- - - combinaisons de plongÃ©e,KG,NOMBRE
+,,6210.40,90,,- - - - - autres :Â£- - - - vÃªtements de dessus :Â£- - - - - vÃªtements de travail :,,
+8,,,,11,- - - - - - - - de coton,KG,NOMBRE
+8,,,,19,- - - - - - - - autres,KG,NOMBRE
+8,,,,30,- - - - - vÃªtements traditionnels Ã  l'usage de la population marocaineÂ£- - - - - autres :,KG,NOMBRE
+8,,,,45,- - - - - - de fibres textiles synthÃ©tiques,KG,NOMBRE
+8,,,,46,- - - - - - de fibres textiles artificielles,KG,NOMBRE
+8,,,,48,- - - - - - autres,KG,NOMBRE
+8,,,,90,- - - - vÃªtements de dessous,KG,- - - - -
+,,6210.50,,,Autres vÃªtements pour femmes ou fillettes,,
+8,,,10,00,- - - combinaisons de plongÃ©e,KG,NOMBRE
+,,,90,,- - - - - autres :Â£- - - - vÃªtements de dessus :,,
+8,,,,10,"- - - - - vÃªtements traditionnels Ã  l'usage de la population marocaineÂ£- - - - - tabliers, blouses et autres vÃªtements de travail :",KG,NOMBRE
+8,,,,20,"- - - - - tabliers, blouses et autres vÃªtements de travail",KG,- - - - -
+8,,,,31,- - - - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,31,- - - - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,31,- - - - - - de laine ou de poils fins,KG,- - - - -
+8,,,,31,- - - - - - de laine ou de poils fins,KG,- - - - -
+8,,,,32,- - - - - - de textiles synthÃ©tiques ou artificiels,KG,- - - - -
+8,,,,32,- - - - - - de textiles synthÃ©tiques ou artificiels,KG,- - - - -
+8,,,,32,- - - - - - de fibres textiles artificielles,KG,- - - - -
+8,,,,32,- - - - - - de fibres textiles artificielles,KG,- - - - -
+8,,,,39,- - - - - - autres - - - - vÃªtements de dessous :,KG,- - - - -
+8,,,,39,- - - - - - autres - - - - vÃªtements de dessous :,KG,- - - - -
+8,,,,39,- - - - - - autres,KG,- - - - -
+8,,,,39,- - - - - - autres,KG,- - - - -
+8,,,,93,- - - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,96,- - - - - de fibres textiles artificielles,KG,- - - - -
+8,,,,98,- - - - - autres,KG,- - - - -
+,62.11,,,,"- - - SurvÃªtements de sport (trainings), combinaisons et ensembles de ski, maillots, culottes et slips de bain; autres vÃªtements.Â£- Maillots, culottes et slips de bain :",,
+,,6211.11,00,,- - Pour hommes ou garÃ§onnets,,
+8,,,,11,- - - de fibres textiles synthÃ©tiques,U,NOMBRE
+8,,,,19,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,19,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,19,- - - Migration NGP inexistants,U,NOMBRE
+8,,,,19,- - - Migration NGP inexistants,U,NOMBRE
+8,,,,90,- - - - - autres,U,NOMBRE
+,,6211.12,00,,- - Pour femmes ou fillettes,,
+8,,,,11,- - - de fibres textiles synthÃ©tiques,U,NOMBRE
+8,,,,19,- - - de fibres textiles artificielles,U,NOMBRE
+8,,,,90,- - - - - autres,U,NOMBRE
+,,6211.20,00,,- Combinaisons et ensembles de skiÂ£- - - pour hommes ou garÃ§onnets :,,
+8,,6211.20,10,00,- - - pour hommes ou garÃ§onnets,U,- - - - -
+8,,6211.20,90,00,- - - pour femmes ou fillettes,U,- - - - -
+,,6211.31,00,,- - De laine ou de poils finsÂ£- - - survÃªtements de sport (trainings) :,,
+,,6211.32,00,,- - De cotonÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,11,- - - - ensembles complets,KG,NOMBRE
+8,,,,12,- - - - pantalons,KG,NOMBRE
+8,,,,19,- - - - - - autresÂ£- - - vÃªtements de travail :,KG,NOMBRE
+8,,,,21,"- - - - combinaisons de dessus, salopettes et cottes Ã  bretelles",KG,NOMBRE
+8,,,,29,- - - - - - autres,KG,- - - - -
+8,,,,30,- - - vÃªtements traditionnels Ã  l'usage de la population marocaine,KG,NOMBRE
+8,,,,90,- - - - - autres,KG,- - - - -
+,,6211.33,00,,- - De fibres synthÃ©tiques ou artificiellesÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,11,- - - - ensembles complets,KG,NOMBRE
+8,,,,12,- - - - pantalons,KG,NOMBRE
+8,,,,19,- - - - - - autresÂ£- - - vÃªtements de travail :,KG,NOMBRE
+8,,,,21,"- - - - combinaisons de dessus, salopettes et cottes Ã  bretelles",KG,NOMBRE
+8,,,,29,- - - - - - autres,KG,- - - - -
+8,,,,30,- - - vÃªtements traditionnels Ã  l'usage de la population marocaineÂ£- - - autres :,KG,NOMBRE
+8,,,,91,- - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,99,- - - - - - autres,KG,- - - - -
+,,6211.39,00,,- - D'autres matiÃ¨res textilesÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,13,- - - - ensembles complets,KG,- - - - -
+8,,,,15,- - - - pantalons,KG,- - - - -
+8,,,,17,- - - - autres %â€“ â€“ â€“ vÃªtements de travail :,KG,- - - - -
+8,,,,23,"- - - - combinaisons de dessus, salopettes et cottes Ã  bretelles",KG,- - - - -
+8,,,,27,- - - - autres,KG,- - - - -
+8,,,,40,- - - vÃªtements traditionnels Ã  l'usage de la population marocaine,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,6211.41,00,,- - De laine ou de poils finsÂ£- - - survÃªtements de sport (trainings) :,,
+,,6211.42,00,,- - De cotonÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,11,- - - - ensembles complets,KG,NOMBRE
+8,,,,12,- - - - pantalons,KG,NOMBRE
+8,,,,19,- - - - - - autres,KG,NOMBRE
+8,,,,20,- - - vÃªtements traditionnels Ã  l'usage de la population marocaine,KG,NOMBRE
+8,,,,30,"- - - tabliers, blouses et autres vÃªtements de travail",KG,- - - - -
+8,,,,40,- - - vÃªtements de dessous,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,6211.43,00,,- - De fibres synthÃ©tiques ou artificiellesÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,11,- - - - ensembles complets,KG,NOMBRE
+8,,,,12,- - - - pantalons,KG,NOMBRE
+8,,,,19,- - - - - - autres,KG,NOMBRE
+8,,,,20,- - - vÃªtements traditionnels Ã  l'usage de la population marocaine,KG,NOMBRE
+8,,,,30,"- - - tabliers, blouses et autres vÃªtements de travail",KG,- - - - -
+8,,,,40,- - - vÃªtements de dessousÂ£- - - autres :,KG,- - - - -
+8,,,,91,- - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,99,- - - - - - autres,KG,- - - - -
+,,6211.49,00,,- - D'autres matiÃ¨res textilesÂ£- - - survÃªtements de sport (trainings) :,,
+8,,,,13,- - - - ensembles complets,KG,- - - - -
+8,,,,15,- - - - pantalons,KG,- - - - -
+8,,,,17,- - - - autres %â€“ â€“ â€“ vÃªtements de travail :,KG,- - - - -
+8,,,,23,"- - - - combinaisons de dessus, salopettes et cottes Ã  bretelles",KG,- - - - -
+8,,,,27,- - - - autres,KG,- - - - -
+8,,,,50,- - - vÃªtements traditionnels Ã  l'usage de la population marocaine,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,62.12,,,,"- - - Soutiens-gorge, gaines, corsets, bretelles, jarretelles, jarretiÃ¨res et articles similaires et leurs parties, mÃªme en bonneterie.",,
+,,6212.10,00,,- Soutiens-gorge et bustiers,,
+8,,,,10,- - - - soutiens-gorge,KG,NOMBRE
+8,,,,90,- - - - - autres,KG,- - - - -
+,,6212.20,00,,- Gaines et gaines-culottes,,
+8,,,,10,- - - gaines,KG,NOMBRE
+8,,,,90,- - - - - autres,KG,- - - - -
+8,,6212.30,00,00,- CombinÃ©s,KG,- - - - -
+,,6212.90,00,,- Autres,,
+8,,,,10,- - - ceintures-corsets,KG,NOMBRE
+8,,,,90,- - - - - autres,KG,- - - - -
+,62.13,,,,Mouchoirs et pochettes,,
+,,6213.10,00,,"- De soie ou de dÃ©chets de soieÂ£- - - faits Ã  la main, mÃªme partiellement :",,
+,,6213.20,00,,- De coton,,
+8,,6213.20,10,00,"- - - faits Ã  la main, mÃªme partiellement",KG,NOMBRE
+8,,6213.20,90,00,- - - faits Ã  la machine,KG,NOMBRE
+,,6213.90,00,,"- D'autres matiÃ¨res textilesÂ£- - - faits Ã  la main, mÃªme partiellement :",,
+8,,6213.90,10,00,"- - - faits Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,6213.90,90,00,- - - faits Ã  la machine,KG,- - - - -
+,62.14,,,,"ChÃ¢les, Ã©charpes, foulards, cache-nez, cache-col, mantilles, voiles et voilettes, et articles similaires.",,
+8,,6214.10,00,00,- De soie ou de dÃ©chets de soie,U,- - - - -
+,,6214.20,00,,- De laine ou de poils fins,,
+8,,,,10,- - - de laine,U,- - - - -
+8,,,,90,- - - - - autres,U,- - - - -
+8,,6214.30,00,00,- De fibres synthÃ©tiques,U,- - - - -
+8,,6214.40,00,00,- De fibres artificielles,U,- - - - -
+,,6214.90,00,,- D'autres matiÃ¨res textiles,,
+8,,,,10,- - - - de coton,U,- - - - -
+8,,,,90,- - - - - autres,U,- - - - -
+,62.15,,,,"- - Cravates, noeuds papillons et foulards cravates",,
+8,,6215.10,00,00,- De soie ou de dÃ©chets de soie,KG,NOMBRE
+,,6215.20,00,,- De fibres synthÃ©tiques ou artificielles,,
+8,,,,10,- - - de fibres textiles synthÃ©tiques,KG,NOMBRE
+8,,,,90,- - - - - autres,KG,NOMBRE
+,,6215.90,00,,- D'autres matiÃ¨res textiles,,
+8,,,,00,- D'autres matiÃ¨res textiles,KG,NOMBRE
+,,6216.00,,,"Gants, mitaines et moufles",,
+8,,,10,00,- - - gants de plongÃ©e,KG,- - - - -
+8,,,90,00,- - - - - autres,KG,- - - - -
+,62.17,,,,"- - Autres accessoires confectionnÃ©s du vÃªtement; parties de vÃªtements ou d'accessoires du vÃªtement, autres que celles du nÂ° 62.12.",,
+,,6217.10,00,,"- AccessoiresÂ£- - - cols, collerettes, guimpes, colifichets, plastrons, jabots, poignets, man- chettes, empiÃ¨cements et autres garnitures similaires pour vÃªtements et sous-vÃªtements fÃ©minins :Â£- - - - en lingerie, faits :",,
+8,,,,11,"- - - - - - Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,19,- - - - - - - Ã  la machine,KG,- - - - -
+8,,,,30,- - - - - - autres,KG,- - - - -
+8,,,,40,"- - - bas, chaussettes et socquettes, autres qu'en bonneterieÂ£- - - autres accessoires confectionnÃ©s du vÃªtement (dessous de bras, bourrelets et Ã©paulettes de soutien pour tailleurs, ceintures et ceinturons, manchons, manches protectrices, etc...) :",KG,- - - - -
+8,,,,91,"- - - - Ã©tiquettes, chiffres, initiales, Ã©cussons, enseignes, blasons, brassards, fourragÃ¨res, brandebourgs, Ã©paulettes extÃ©rieures et articles similaires",KG,- - - - -
+8,,,,99,"- - - - ceintures, ceinturons, manchons, manches protectrices, et dessous de bras, bourrelets et Ã©paulettes de soutien pour tailleurs et autres accessoires",KG,- - - - -
+,,6217.90,00,,- Parties,,
+8,,,,21,- - - en fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,22,- - - en fibres textiles artificielles,KG,- - - - -
+8,,,,30,- - - - - en coton,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -

@@ -1,0 +1,188 @@
+0,1,2,3,4,5,6,7
+,37.01,,,,"- - Plaques et films plans, photographiques, sensibilisÃ©s, non impres- sionnÃ©s, en autres matiÃ¨res que le papier, le carton ou les textiles; films photographiques plans Ã  dÃ©veloppement et tirage instantanÃ©s, sensibilisÃ©s, non impressionnÃ©s, mÃªme",,
+,,3701.10,00,,- Pour rayons X,,
+5,,,,00,- - - Pour rayons X,M2 (METRE CARRE),M2 (METRE CARRE)
+,,3701.20,,,- Films Ã  dÃ©veloppement et tirage instantanÃ©s,,
+,,,10,,"- - - - en autres matiÃ¨res que le papier, le carton ou le tissu :Â£- - - - d'un format infÃ©rieur Ã  9 X 12 :",,
+5,,,,00,"- - - - - en autres matiÃ¨res que le papier, le carton ou le tissu",KG,- - - - -
+5,,,91,00,"- - - - - pour la reproduction de documents, de dessins techniques et similaires",KG,- - - - -
+,,,99,,- - - - - - autres :,,
+5,,,,00,- - - - - autres,KG,- - - - -
+,,3701.30,,,- Autres plaques et films dont la dimension d'au moins un cÃ´tÃ© excÃ¨de 255 mm,,
+5,,,10,00,- - - - plaques en aluminium sensibilisÃ©es,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3701.91,00,,- - Pour la photographie en couleurs (polychrome)Â£- - - d'un format infÃ©rieur Ã  9 X 12 :,,
+5,,,,00,- - - - Pour la photographie en couleurs (polychrome),KG,- - - - -
+,,3701.99,00,,- - - - AutresÂ£- - - d'un format infÃ©rieur Ã  9 X 12 :,,
+5,,,,00,- - - - Autres,M2 (METRE CARRE),- - - - -
+,37.02,,,,"- Pellicules photographiques sensibilisÃ©es, non impressionnÃ©es, en rouleaux, en autres matiÃ¨res que le papier, le carton ou les textiles; pellicules photographiques Ã  dÃ©veloppement et tirage instantanÃ©s, en rouleaux, sensibilisÃ©es, non impressionnÃ",,
+,,3702.10,00,,- Pour rayons XÂ£- - - pellicules non perforÃ©es :Â£- - - - sensibilisÃ©es sur une seule face :,,
+8,,,,10,- - - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,20,- - - - sensibilisÃ©es sur les 2 facesÂ£- - - pellicules perforÃ©es :,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - pellicules perforÃ©es,M2 (METRE CARRE),METRE
+,,3702.20,,,- Pellicules Ã  dÃ©veloppement et tirage instantanÃ©s,,
+,,,10,,"- - - en autres matiÃ¨res que le papier, le carton ou le tissu :Â£- - - - pellicules non perforÃ©es :",,
+,,,99,,- - - - - autres :,,
+,,3702.31,00,,- - Pour la photographie en couleurs (polychrome),,
+,,3702.31,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.31,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.32,00,,"- - Autres, comportant une Ã©mulsion aux halogÃ©nures d'argent",,
+,,3702.32,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.32,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.39,00,,- - Autres,,
+,,3702.39,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.39,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.41,00,,"- - - D'une largeur excÃ©dant 610 mm et d'une longueur excÃ©dant 200 m, pour la photographie en couleurs (polychrome)",,
+,,3702.41,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.41,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.42,00,,"- - - D'une largeur excÃ©dant 610 mm et d'une longueur excÃ©dant 200 m, autres que pour la photographie en couleurs",,
+,,3702.42,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.42,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.43,00,,- - D'une largeur excÃ©dant 610 mm et d'une longueur n'excÃ©dant pas 200 mÂ£- - - sensibilisÃ©es sur une seule face :,,
+,,3702.43,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.43,90,,- - - autres :,,
+8,,,,10,- - - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.44,00,,- - D'une largeur excÃ©dant 105 mm mais n'excÃ©dant pas 610 mmÂ£- - - sensibilisÃ©es sur une seule face :,,
+,,3702.44,10,,- - - pellicules Ã  dÃ©veloppement et tirage instantanÃ©s :,,
+5,,,,10,"- - - - en papier, carton ou tissu pour la reproduction de documents, de dessins techniques et similaires",M2 (METRE CARRE),- - - - -
+8,,,,90,- - - - autres,M2 (METRE CARRE),- - - - -
+,,3702.44,90,,- - - autres :,,
+8,,,,10,- - - - - sensibilisÃ©es sur une seule face,M2 (METRE CARRE),- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,M2 (METRE CARRE),- - - - -
+,,3702.51,00,,- - D'une largeur n'excÃ©dant pas 16 mm et d'une longueur n'excÃ©dant pas 14 mÂ£- - - pellicules non perforÃ©es :,,
+,,3702.52,,,- - D'une largeur n'excÃ©dant pas 16 mm et d'une longueur excÃ©dant 14 m,,
+5,,,10,00,- - - - pellicules perforÃ©es d'une largeur Ã©gale Ã  16 mm,METRE,METRE
+,,,80,,- - - autres :%â€“ â€“ â€“ â€“ pellicules non perforÃ©es:%,,
+8,,,,11,- - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - - sensibilisÃ©es sur les 2 faces%â€“ â€“ â€“ â€“ pellicules perforÃ©es:%,METRE,- - - - -
+5,,,,80,- - - - - pellicules perforÃ©es,METRE,METRE
+,,,90,,- - - - - autres :Â£- - - - pellicules non perforÃ©es :,,
+,,3702.53,00,,"- - - D'une largeur excÃ©dant 16 mm mais n'excÃ©dant pas 35 mm et d'une longueur n'excÃ©dant pas 30 m, pour diapositivesÂ£- - - pellicules non perforÃ©es :",,
+8,,,,11,- - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - - sensibilisÃ©es sur les 2 facesÂ£- - - pellicules perforÃ©es :,METRE,- - - - -
+5,,,,90,- - - - - pellicules perforÃ©es,METRE,METRE
+,,3702.54,00,,"- - D'une largeur excÃ©dant 16 mm mais n'excÃ©dant pas 35 mm et d'une longueur n'excÃ©dant pas 30 m, autres que pour diapositivesÂ£- - - pellicules non perforÃ©es :",,
+8,,,,11,- - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - sensibilisÃ©es sur les 2 facesÂ£- - - pellicules perforÃ©es :,METRE,- - - - -
+5,,,,80,- - - - - pellicules perforÃ©es,METRE,METRE
+,,3702.55,,,- - D'une largeur excÃ©dant 16 mm mais n'excÃ©dant pas 35 mm et d'une longueur excÃ©dant 30 m,,
+5,,,10,00,- - - - - pellicules perforÃ©es d'une largeur Ã©gale Ã  35 mm et d'une longueur supÃ©rieure ou Ã©gale Ã  120 m,METRE,METRE
+,,,90,,- - - - - autres :Â£- - - - pellicules non perforÃ©es :,,
+8,,,,11,- - - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - - - sensibilisÃ©es sur les 2 facesÂ£- - - - pellicules perforÃ©es :,METRE,- - - - -
+5,,,,80,- - - - - - pellicules perforÃ©es,METRE,METRE
+,,3702.56,,,- - D'une largeur excÃ©dant 35 mm,,
+,,,10,,- - - - pellicules perforÃ©es :,,
+5,,,,00,- - - - - pellicules perforÃ©es,METRE,METRE
+,,,90,,- - - - - autres :,,
+8,,,,10,- - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,90,- - - - - sensibilisÃ©es sur les 2 facesÂ£- Autres :,METRE,- - - - -
+,,3702.91,,,- - D'une largeur n'excÃ©dant pas 16 mm,,
+,,,90,,- - - autres :Â£- - - - pellicules non perforÃ©es :,,
+,,3702.93,00,,- - D'une largeur excÃ©dant 16 mm mais n'excÃ©dant pas 35 mm et d'une longueur n'excÃ©dant pas 30 mÂ£- - - pellicules non perforÃ©es :,,
+,,3702.94,,,- - - D'une largeur excÃ©dant 16 mm mais n'excÃ©dant pas 35 mm et d'une longueur excÃ©dant 30 m,,
+,,,90,,- - - - - autres :Â£- - - - pellicules non perforÃ©es :,,
+,,3702.95,,,- - D'une largeur excÃ©dant 35 mm,,
+,,,10,,- - - - pellicules perforÃ©es :,,
+,,,90,,- - - - - autres :,,
+,,3702.96,,,- - D'une largeur n'excÃ©dant pas 35 mm et d'une longueur n'excÃ©dant pas 30 m,,
+,,,10,,- - - pellicules perforÃ©es d'une largeur Ã©gale Ã  16 mm et d'une longueur excÃ©dant 14 m,,
+5,,,,00,- - - pellicules perforÃ©es d'une largeur Ã©gale Ã  16 mm et d'une longueur excÃ©dant 14 m,METRE,METRE
+,,,90,,- - - autres :,,
+8,,,,11,- - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - - sensibilisÃ©es sur les 2 faces%â€“ â€“ â€“ â€“ pellicules perforÃ©es:,METRE,- - - - -
+5,,,,80,- - - - - pellicules perforÃ©es,METRE,METRE
+,,3702.97,,,- - D'une largeur n'excÃ©dant pas 35 mm et d'une longueur excÃ©dant 30 m,,
+,,,10,,- - - pellicules perforÃ©es d'une largeur Ã©gale Ã  35 mm et d'une longueur supÃ©rieure ou Ã©gale Ã  120 m,,
+5,,,,00,- - - pellicules perforÃ©es d'une largeur Ã©gale Ã  35 mm et d'une longueur supÃ©rieure ou Ã©gale Ã  120 m,METRE,METRE
+,,,90,,- - - autres :%â€“ â€“ â€“ â€“ pellicules non perforÃ©es:,,
+8,,,,11,- - - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,19,- - - - - sensibilisÃ©es sur les 2 faces%â€“ â€“ â€“ â€“ pellicules perforÃ©es:,METRE,- - - - -
+5,,,,80,- - - - - pellicules perforÃ©es,METRE,METRE
+,,3702.98,,,- - D'une largeur excÃ©dant 35 mm,,
+,,,10,,- - - pellicules perforÃ©es :,,
+5,,,,00,- - - - pellicules perforÃ©es,METRE,METRE
+,,,90,,- - - autres :,,
+8,,,,10,- - - - sensibilisÃ©es sur une seule face,METRE,- - - - -
+5,,,,90,- - - - sensibilisÃ©es sur les 2 faces,METRE,- - - - -
+,37.03,,,,"Papiers, cartons et textiles, photographiques, sensibilisÃ©s, non impressionnÃ©s.",,
+,,3703.10,,,"- En rouleaux, d'une largeur excÃ©dant 610 mm",,
+5,,,00,00,"- - - En rouleaux, d une largeur excÃ©dant 610 mm",KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,3703.20,,,"- - - - Autres, pour la photographie en couleurs (polychrome)",,
+5,,,00,00,"- - - Autres, pour la photographie en couleurs (polychrome)",KG,- - - - -
+,,3703.90,,,- Autres,,
+5,,,00,00,- - - Autres,KG,- - - - -
+,,3704.00,,,"Plaques, pellicules, films, papiers, cartons et textiles, photographi- ques, impressionnÃ©s mais non dÃ©veloppÃ©s.Â£- - - papiers, cartes et tissus :",,
+5,,,11,00,"- - - - pour la reproduction de documents, de dessins techniques et similaires",KG,- - - - -
+,,,19,,- - - - - - autres :,,
+5,,,,00,- - - - - autres,KG,- - - - -
+,,,90,,"- - - - - plaques, pellicules et films :Â£- - - - films cinÃ©matographiques :",,
+8,,,,10,- - - - - - - - - films cinÃ©matographiques,KG,- - - - -
+8,,,,91,- - - - - pour la reproduction des images satellites,KG,- - - - -
+8,,,,99,- - - - - - - autres,KG,- - - - -
+,37.05,,,,"Plaques et pellicules, photographiques, impressionnÃ©es et dÃ©velop- pÃ©es, autres que les films cinÃ©matographiques.",,
+,,3705.00,,,"Plaques et pellicules, photographiques, impressionnÃ©es et dÃ©veloppÃ©es, autres que les films cinÃ©matographiques.",,
+,,,10,,- - - pour la reproduction offset:,,
+8,,,,10,- - - des images satellites,KG,METRE
+8,,,,90,- - - - - autres,KG,METRE
+,,,90,,- - - autres :,,
+8,,,,10,- - - - renfermant des images satellites,KG,METRE
+8,,,,90,- - - - autres,KG,METRE
+,,3705.10,00,,- Pour la reproduction offset,,
+,,3705.20,00,,- Microfilms,,
+,,3705.90,00,,- - Autres,,
+,,3705.90,10,,- - - microfilms :,,
+,,3705.90,90,,- - - autres :,,
+,37.06,,,,"Films cinÃ©matographiques, impressionnÃ©s et dÃ©veloppÃ©s, comportant ou non l'enregistrement du son ou ne comportant que l'enregistre- ment du son.",,
+,,3706.10,,,- D'une largeur de 35 mm ou plus,,
+,,,10,,- - - ne comportant pas l'enregistrement du son :,,
+8,,,,10,- - - - - - - - nÃ©gatifs ; positifs intermÃ©diaires de travailÂ£- - - - autres positifs :,METRE,METRE
+8,,,,91,- - - - - - - destinÃ©s Ã  la projection dans les salles de cinÃ©ma,METRE,METRE
+8,,,,99,- - - - - - - autresÂ£- - - autres :,METRE,METRE
+8,,,91,00,- - - - - - - - nÃ©gatifs ; positifs intermÃ©diaires de travailÂ£- - - - autres positifs :,METRE,METRE
+8,,,93,00,- - - - - - - - - films publicitaires,METRE,METRE
+,,,99,,- - - - - - - autres :,,
+8,,,,10,- - - - - - - - destinÃ©s Ã  la projection dans les salles de cinÃ©maÂ£- - - - - - autres :,METRE,METRE
+8,,,,20,"- - - - - - - - films d'actualitÃ©sÂ£- - - - - - - autres, d'une largeur :",METRE,METRE
+8,,,,91,- - - - - - - - - infÃ©rieure Ã  54 mm,METRE,METRE
+8,,,,99,- - - - - - - - - - autres,METRE,METRE
+,,3706.90,,,- - Autres,,
+,,,10,,- - - ne comportant pas l'enregistrement du son :,,
+8,,,,10,- - - - - nÃ©gatifs ; positifs intermÃ©diaires de travailÂ£- - - - autres positifs :,METRE,METRE
+8,,,,91,- - - - - destinÃ©s Ã  la projection dans les salles de cinÃ©ma,METRE,METRE
+8,,,,99,- - - - - - - autresÂ£- - - autres :,METRE,METRE
+8,,,91,00,- - - - - nÃ©gatifs ; positifs intermÃ©diaires de travailÂ£- - - - autres positifs :,METRE,METRE
+8,,,93,00,- - - - - films publicitaires,METRE,METRE
+,,,99,,- - - - - - - autres :,,
+8,,,,10,- - - - - - destinÃ©s Ã  la projection dans les salles de cinÃ©maÂ£- - - - - - autres :,METRE,METRE
+8,,,,20,"- - - - - - - - films d'actualitÃ©sÂ£- - - - - - - autres, d'une largeur :",METRE,METRE
+8,,,,91,- - - - - - - - de 10 mm Ã  34 mm,METRE,METRE
+8,,,,99,- - - - - - - - - - autres,METRE,METRE
+,37.07,,,,"- - - - PrÃ©parations chimiques pour usages photographiques, autres que les vernis, colles, adhÃ©sifs et prÃ©parations similaires; produits non mÃ©langÃ©s, soit dosÃ©s en vue d'usages photographiques, soit con- ditionnÃ©s pour la vente au dÃ©tail pour ces",,
+5,,3707.10,00,00,- Emulsions pour la sensibilisation des surfaces,KG,- - - - -
+5,,3707.90,00,00,- Autres,KG,- - - - -

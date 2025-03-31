@@ -1,0 +1,141 @@
+0,1,2,3,4,5,6,7
+,76.01,,,,Aluminium sous forme brute,,
+5,,7601.10,00,00,- Aluminium non alliÃ©,KG,- - - - -
+5,,7601.20,00,00,- Alliages d'aluminium,KG,- - - - -
+,,7602.00,00,,DÃ©chets et dÃ©bris d'aluminiumÂ£- - - dÃ©chets :,,
+4,,,,10,- - - dÃ©chets,KG,- - - - -
+4,,,,90,- - - dÃ©bris,KG,- - - - -
+,76.03,,,,Poudres et paillettes d'aluminium,,
+5,,7603.10,00,00,- Poudres Ã  structure non lamellaire,KG,- - - - -
+5,,7603.20,00,00,- Poudres Ã  structure lamellaire; paillettes,KG,- - - - -
+,76.04,,,,Barres et profilÃ©s en aluminium,,
+,,7604.10,,,- En aluminium non alliÃ©,,
+5,,,10,00,"- - - profilÃ©s creuxÂ£- - - autres, dont la plus grande dimension de la coupe transversale n'Ã©xcÃ¨de pas 6 mm :",KG,- - - - -
+5,,,20,00,"- - - - filÃ©s, Ã©tirÃ©s ou trÃ©filÃ©sÂ£- - - - laminÃ©s :",KG,- - - - -
+5,,,31,00,- - - - - nus,KG,- - - - -
+5,,,39,00,"- - - - - revÃªtusÂ£- - - autres :Â£- - - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non :",KG,- - - - -
+5,,,40,00,- - - - - barres dont la plus grande dimension de la coupe transversale n'Ã©xcÃ¨de pas 15 mmÂ£- - - - - autres :,KG,- - - - -
+5,,,51,00,- - - - - - - barres,KG,- - - - -
+5,,,59,00,- - - - - - profilÃ©sÂ£- - - - autres :,KG,- - - - -
+5,,,91,00,- - - - - - barres,KG,- - - - -
+5,,,99,00,- - - - - profilÃ©sÂ£- En alliages d'aluminium :,KG,- - - - -
+,,7604.21,00,,- - ProfilÃ©s creuxÂ£- - - pour l'irrigation :,,
+5,,,,00,- - ProfilÃ©s creux,KG,- - - - -
+,,7604.29,,,- - AutresÂ£- - - produits dont la plus grande dimension de la coupe transversale n'Ã©xcÃ¨de pas 6 mm :,,
+5,,,10,00,"- - - - filÃ©s, Ã©tirÃ©s ou trÃ©filÃ©sÂ£- - - - laminÃ©s :",KG,- - - - -
+5,,,21,00,- - - - - nus,KG,- - - - -
+5,,,29,00,"- - - - - revÃªtusÂ£- - - autres :Â£- - - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non :",KG,- - - - -
+5,,,30,00,- - - - - - barres dont la plus grande dimension de la coupe transversale n'Ã©xcÃ¨de pas 15 mmÂ£- - - - - autres :,KG,- - - - -
+5,,,41,00,- - - - - - - barres,KG,- - - - -
+5,,,49,00,- - - - - - profilÃ©sÂ£- - - - autres :,KG,- - - - -
+5,,,91,00,- - - - - - barres,KG,- - - - -
+5,,,99,00,- - - - - profilÃ©s,KG,- - - - -
+,76.05,,,,Fils en aluminiumÂ£- En aluminium non alliÃ© :,,
+,,7605.11,00,,"- - Dont la plus grande dimension de la section transversale excÃ¨de 7 mmÂ£- - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non :",,
+5,,7605.11,10,00,"- - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non dont la plus grande Â£dimension de la coupe tranversale n'excÃ¨de pas 15 mm.",KG,- - - - -
+5,,7605.11,90,00,- - - autres,KG,- - - - -
+,,7605.19,,,- - AutresÂ£- - - fils dont la plus grande dimension de la coupe transversale n'excÃ¨de pas 6 mm :,,
+5,,,10,00,"- - - - filÃ©s, Ã©tirÃ©s ou trÃ©filÃ©sÂ£- - - - laminÃ©s :",KG,- - - - -
+5,,,21,00,- - - - - nus,KG,- - - - -
+5,,,29,00,- - - - - revÃªtus,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,,7605.21,00,,"- - Dont la plus grande dimension de la section transversale excÃ¨de 7 mmÂ£- - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non :",,
+5,,7605.21,10,00,"- - - simplement filÃ©s, Ã©tirÃ©s, laminÃ©s, Ã©croutÃ©s ou non dont la plus grande Â£dimension de la coupe tranversale n'excÃ¨de pas 15 mm.",KG,- - - - -
+5,,7605.21,90,00,- - - autres,KG,- - - - -
+,,7605.29,,,- - AutresÂ£- - - fils dont la plus grande dimension de la coupe transversale n'excÃ¨de pas 6 mm :,,
+5,,,10,00,"- - - - filÃ©s, Ã©tirÃ©s ou trÃ©filÃ©sÂ£- - - - laminÃ©s :",KG,- - - - -
+5,,,21,00,- - - - - nus,KG,- - - - -
+5,,,29,00,- - - - - revÃªtus,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,76.06,,,,"- - TÃ´les et bandes en aluminium, d'une Ã©paisseur excÃ©dant 0,2 mmÂ£- De forme carrÃ©e ou rectangulaire :",,
+,,7606.11,,,- - En aluminium non alliÃ©,,
+5,,,00,00,- - En aluminium non alliÃ©,KG,- - - - -
+,,7606.12,,,- - En alliages d'aluminium,,
+5,,,00,00,- - En alliages d'aluminium,KG,- - - - -
+,,7606.91,,,- - En aluminium non alliÃ©,,
+,,,00,,- - En aluminium non alliÃ©,,
+5,,,,10,- - - disques et pastilles,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,,20,,- - - - - dÃ©coupÃ©es de forme circulaire (disques et pastilles) :,,
+,,7606.92,,,- - En alliages d'aluminium,,
+,,,00,,- - En alliages d'aluminium,,
+5,,,,10,- - - disques et pastilles,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,,20,,- - - - - dÃ©coupÃ©es de forme circulaire (disques et pastilles) :,,
+,76.07,,,,"- - Feuilles et bandes minces en aluminium (mÃªme imprimÃ©es ou fixÃ©es sur papier, carton, matiÃ¨res plastiques ou supports similaires) d'une Ã©paisseur n'Ã©xcÃ©dant pas 0,2 mm (support non compris).Â£- Sans support :",,
+,,7607.11,00,,- - Simplement laminÃ©es,,
+5,,,,00,- - Simplement laminÃ©es,KG,- - - - -
+,,7607.19,,,- - Autres,,
+5,,,00,00,- - Autres,KG,- - - - -
+5,,,00,00,- - Autres,KG,- - - - -
+5,,,00,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,00,00,- - Migration NGP inexistants,KG,- - - - -
+,,,10,,- - - simplement battues ou oxydÃ©es artificiellement :,,
+,,7607.20,00,,"- Sur supportÂ£- - - d'une Ã©paisseur (support non compris) :Â£- - - - de 0,15 mm ou moins :Â£- - - - - sur support en matiÃ¨res plastiques artificielles prÃ©sentÃ©es :",,
+5,,,,00,- - Sur support,KG,- - - - -
+,76.08,,,,Tubes et tuyaux en aluminium,,
+,,7608.10,00,,- En aluminium non alliÃ©,,
+5,,,,20,"- - - barres creuses, tubes et tuyaux pour irrigation",KG,- - - - -
+5,,,,91,"- - - - tubes prÃ©sentÃ©s en bobine, d'une Ã©paisseur de la paroi n'excÃ©dant pas 1,5 mm et dont les diamÃ¨tres internes et externes n'excÃ¨dent pas respectivement 7mm et 10 mm",KG,- - - - -
+5,,,,99,- - - - autres,KG,- - - - -
+,,7608.20,00,,- En alliages d'aluminium,,
+5,,,,20,"- - - barres creuses, tubes et tuyaux pour irrigation",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+5,,7609.00,00,00,"Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en aluminium",KG,- - - - -
+,76.10,,,,"Constructions et parties de constructions (ponts et Ã©lÃ©ments de ponts, tours, pylÃ´nes, piliers, colonnes, charpentes, toitures, portes et fenÃª- tres et leurs cadres, chambranles et seuils, balustrades, par exemple), en aluminium, Ã  l'exception des co",,
+,,7610.10,00,,"- Portes, fenÃªtres et leurs cadres, chambranles et seuils",,
+5,,,,10,"- - - portes, fenÃªtres et chambranles",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,7610.90,,,- Autres,,
+5,,,10,00,- - - grilles de diffusion d'air,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,10,"- - - - ponts et Ã©lÃ©ments de ponts, tours, pylÃ´nes et constructions similaires, mÃªme incomplets, et leurs parties",KG,- - - - -
+5,,,,20,"- - - - tÃ´les, barres, profilÃ©s, tubes etc, prÃ©parÃ©s en vue de leur utilisation dans la construction",KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+7,,7611.00,00,00,"- - RÃ©servoirs, foudres, cuves et rÃ©cipients similaires pour toutes matiÃ¨res (Ã  l'exception des gaz comprimÃ©s ou liquÃ©fiÃ©s), en aluminium, d'une contenance excÃ©dant 300 l, sans dispositifs mÃ©caniques ou thermi- ques, mÃªme avec revÃªtement intÃ©r",KG,- - - - -
+,76.12,,,,"- - RÃ©servoirs, fÃ»ts, tambours, bidons, boÃ®tes et rÃ©cipients similaires en aluminium (y compris les Ã©tuis tubulaires rigides ou souples), pour toutes matiÃ¨res (Ã  l'exception des gaz comprimÃ©s ou liquÃ©fiÃ©s), d'une contenance n'excÃ©dant pas 300 l",,
+8,,7612.10,00,00,- Etuis tubulaires souples,KG,- - - - -
+,,7612.90,,,- Autres,,
+7,,,10,00,"- - - boites destinÃ©es au conditionnement des boissons, importÃ©es par les indus- triels intÃ©ressÃ©s ou pour leur compte",KG,- - - - -
+7,,,20,00,- - - boÃ®tes pour aÃ©rosols,KG,- - - - -
+,,,80,,- - - - - autres :,,
+8,,,,10,- - - - Ã©tuis tubulaires rigidesÂ£- - - - autres :,KG,- - - - -
+7,,,,20,- - - - - bidons Ã  laitÂ£- - - - - autres rÃ©cipients :,KG,- - - - -
+7,,,,90,- - - - autres,KG,- - - - -
+7,,7613.00,00,00,RÃ©cipients en aluminium pour gaz comprimÃ©s ou liquÃ©fiÃ©s,KG,- - - - -
+,76.14,,,,"Torons, cÃ¢bles, tresses et similaires, en aluminium, non isolÃ©s pour l'Ã©lectricitÃ©.",,
+5,,7614.10,00,00,- Avec Ã¢me en acier,KG,- - - - -
+5,,7614.90,00,00,- Autres,KG,- - - - -
+,76.15,,,,"- - - - Articles de mÃ©nage ou d'Ã©conomie domestique, d'hygiÃ¨ne ou de toilette, et leurs parties, en aluminium; Ã©ponges, torchons, gants et articles similaires pour le rÃ©curage, le polissage ou usages analogues, en aluminium.Â£- Articles de mÃ©nage ou",,
+8,,7615.10,00,10,- - - rÃ©chauds et appareils pour la cuisson ou le chauffage,KG,- - - - -
+8,,7615.10,00,21,- - - - - cocottes-minutes et auto-cuiseurs d'une capacitÃ© infÃ©rieure Ã  15 litres,KG,- - - - -
+8,,7615.10,00,99,- - - autres,KG,- - - - -
+,,7615.19,00,,- - AutresÂ£- - - fondus :,,
+,,7615.20,00,,- Articles d'hygiÃ¨ne ou de toilette et leurs parties,,
+8,,,,10,- - - fondus,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,76.16,,,,Autres ouvrages en aluminium,,
+,,7616.10,,,"- - - Pointes, clous, crampons appointÃ©s, vis, boulons, Ã©crous, crochets Ã  pas de vis, rivets, goupilles, chevilles, clavettes, rondelles et articles similaires",,
+8,,,10,00,"- - - destinÃ©s Ã  la fixation du matÃ©riel orthopÃ©dique ou Ã  des usages mÃ©dicaux et/ou chirurgicaux, importÃ©s Ã  l'ordre des professionnels intÃ©ressÃ©s ou pour leur compte, la justification de l'emploi pouvant Ãªtre exigÃ©e a posteriori avec communi",KG,- - - - -
+8,,,20,00,"- - - vis, Ã©crous, rivets et rondelles, dÃ©colletÃ©s dans la masse, d'une Ã©paisseur de tige ou d'un diamÃ¨tre de trou n'excÃ¨dant pas 6 mm",KG,- - - - -
+8,,,90,00,- - - - autresÂ£- Autres :,KG,- - - - -
+,,7616.91,00,,"- - Toiles mÃ©talliques, grillages et treillis, en fils d'aluminium",,
+5,,,,00,"- - Toiles mÃ©talliques, grillages et treillis, en fils d'aluminium",KG,- - - - -
+,,7616.99,,,- Autres,,
+5,,,10,00,"- - - buscs pour corsets, pour vÃªtements ou accessoires du vÃªtement et similaires",KG,- - - - -
+5,,,20,00,"- - - treillis d'une seule piÃ¨ce, en aluminium, exÃ©cutÃ©s Ã  l'aide d'une tÃ´le ou d'une bande incisÃ©e et dÃ©ployÃ©e",KG,- - - - -
+7,,,30,00,"- - - canettes, busettes, bobines et supports similaires, pour la filature ou le tissage",KG,- - - - -
+7,,,40,00,"- - - accessoires pour lignes de transport de force et lignes de traction (piÃ¨ces de suspension, griffes d'amarrage, palonniers etc...)",KG,- - - - -
+,,,50,,"- - - pastilles, rondelles, flans, disques ou pions, d'un diamÃ¨tre supÃ©rieur Ã  6 mm, destinÃ©s Ã  la fabrication d'Ã©tuis tubulaires ou de tubes souples :",,
+7,,,,10,- - - - plats d'une Ã©paisseur supÃ©rieure au dixiÃ¨me de leur diamÃ¨tre,KG,- - - - -
+7,,,,90,"- - - - bombÃ©s, Ã  cuvette ou tronconiques, perforÃ©s ou non",KG,- - - - -
+8,,,60,00,- - - - articles de fantaisie,KG,- - - - -
+8,,,70,00,- - - pots de filature,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,10,"- - - - chaÃ®nes et chaÃ®nettes autres que de transmission, montÃ©es ou non ; maillons, anneaux brisÃ©s, anneaux Ã  ressort, tÃ©s, tourets et articles simi- laires",KG,- - - - -
+7,,,,20,"- - - - ferrures pour ligne Ã©lectriques, filetÃ©es ou non (consoles, supports colliers et articles similaires)",KG,- - - - -
+8,,,,30,- - - - aiguilles Ã  tricoter,KG,- - - - -
+8,,,,40,"- - - - cadres de panneaux photovoltaÃ¯ques, en aluminium, anodisÃ©",M2 (METRE CARRE),- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -

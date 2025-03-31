@@ -1,0 +1,145 @@
+0,1,2,3,4,5,6,7
+,09.01,,,,"CafÃ©, mÃªme torrÃ©fiÃ© ou dÃ©cafÃ©inÃ©; coques et pellicules de cafÃ©;Â£- CafÃ© non torrÃ©fiÃ© :",,
+1,,0901.11,00,00,- - Non dÃ©cafÃ©inÃ©,KG,- - - - -
+1,,0901.12,00,00,- - DÃ©cafÃ©inÃ©Â£- CafÃ© torrÃ©fiÃ© :,KG,- - - - -
+1,,0901.21,00,00,- - Non dÃ©cafÃ©inÃ©,KG,- - - - -
+1,,0901.22,00,00,- - DÃ©cafÃ©inÃ©,KG,- - - - -
+,,0901.90,,,- AutresÂ£- - - coques et pellicules de cafÃ© :,,
+1,,,10,00,- - - - - - coques et pellicules de cafÃ©,KG,- - - - -
+1,,,90,00,- - - - - - succÃ©danÃ©s du cafÃ© contenant du cafÃ©,KG,- - - - -
+,09.02,,,,"ThÃ©, mÃªme aromatisÃ©",,
+1,,0902.10,00,00,- ThÃ© vert (non fermentÃ©) prÃ©sentÃ© en emballages immÃ©diats d'un contenu n'excÃ©dant pas 3 kg,KG,- - - - -
+,,0902.20,00,00,- ThÃ© vert (non fermentÃ©) prÃ©sentÃ© autrement,KG,- - - - -
+1,,0902.30,00,00,"- ThÃ© noir (fermentÃ©) et thÃ© partiellement fermentÃ©, prÃ©sentÃ©s en emballages immÃ©diats d'un contenu n'excÃ©dant pas 3 kg",KG,- - - - -
+1,,0902.40,00,00,"- ThÃ© noir (fermentÃ©) et thÃ© partiellement fermentÃ©, prÃ©sentÃ©s autrement",KG,- - - - -
+1,,0903.00,00,00,- - - - - - - MatÃ©,KG,- - - - -
+,09.04,,,,"Poivre (du genre Piper ); piments du genre Capsicum ou du genre Pimenta, sÃ©chÃ©s ou broyÃ©s ou pulvÃ©risÃ©s.Â£- Poivre :",,
+,,0904.11,00,,- - Non broyÃ© ni pulvÃ©risÃ©,,
+1,,,,00,- - - Non broyÃ© ni pulvÃ©risÃ©,KG,- - - - -
+1,,0904.12,00,00,- - BroyÃ© ou pulvÃ©risÃ©,KG,- - - - -
+,,0904.20,,,- Piments sÃ©chÃ©s ou broyÃ©s ou pulvÃ©risÃ©s,,
+,,,90,,- - - - - autres :Â£- - - - non broyÃ©s ni moulus :,,
+,,0904.21,,,"- - SÃ©chÃ©s, non broyÃ©s ni pulvÃ©risÃ©s",,
+,,,00,,"- - SÃ©chÃ©s, non broyÃ©s ni pulvÃ©risÃ©s",,
+1,,,,10,- - - piments ou poivrons doux sÃ©chÃ©s (nioras),KG,- - - - -
+1,,,,20,"- - - du genre Â«CapsicumÂ», destinÃ©s Ã  la fabrication de la capsicine ou de teintures d'olÃ©orÃ©sines de Â«CapsicumÂ»",KG,- - - - -
+1,,,,30,- - - destinÃ©s Ã  la fabrication industrielle d'huiles essentielles ou de rÃ©sinoÃ¯des,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0904.22,,,- - BroyÃ©s ou pulvÃ©risÃ©s,,
+,,,00,,- - BroyÃ©s ou pulvÃ©risÃ©s,,
+1,,,,10,- - - piments ou poivrons doux sÃ©chÃ©s,KG,- - - - -
+1,,,,20,- - - piments du genre Â«CapsicumÂ»,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,09.05,,,,Vanille,,
+,,0905.00,00,,- - - - - - - - Vanille,,
+,,0905.10,,,- Non broyÃ©e ni pulvÃ©risÃ©e,,
+1,,,00,00,- - - Non broyÃ©e ni pulvÃ©risÃ©e,KG,- - - - -
+,,0905.20,,,- BroyÃ©e ou pulvÃ©risÃ©e,,
+,,,00,,- BroyÃ©e ou pulvÃ©risÃ©e,,
+1,,,,00,- BroyÃ©e ou pulvÃ©risÃ©e,KG,- - - - -
+,09.06,,,,Cannelle et fleurs de cannelier,,
+,,0906.11,,,- - Cannelle (Cinnamomum zeylanicum Blume),,
+,,,00,,- - Cannelle (Cinnamomum zeylanicum Blume),,
+1,,,,00,- - Cannelle (Cinnamomum zeylanicum Blume),KG,- - - - -
+,,0906.19,,,- - Autres,,
+,,,00,,- - Autres,,
+1,,,,00,- - Autres,KG,- - - - -
+1,,0906.20,00,00,- BroyÃ©es ou pulvÃ©risÃ©es,KG,- - - - -
+,,0907.00,00,,"Girofles (antofles, clous et griffes)",,
+,,0907.10,,,- Non broyÃ©s ni pulvÃ©risÃ©s,,
+,,,00,,- Non broyÃ©s ni pulvÃ©risÃ©s,,
+1,,,,00,- Non broyÃ©s ni pulvÃ©risÃ©s,KG,- - - - -
+,,0907.20,,,BroyÃ©s ou pulvÃ©risÃ©s,,
+,,,00,,BroyÃ©s ou pulvÃ©risÃ©s,,
+1,,,,00,- BroyÃ©s ou pulvÃ©risÃ©s,KG,- - - - -
+,09.08,,,,"Noix muscades, macis, amomes et cardamomes",,
+,,0908.10,00,,- Noix muscadesÂ£- - - non broyÃ©es ni moulues :,,
+,,0908.11,,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+,,,00,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+1,,,,00,- - - Non broyÃ©es ni pulvÃ©risÃ©es,KG,- - - - -
+,,0908.12,,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+,,,00,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+1,,,,00,- - BroyÃ©es ou pulvÃ©risÃ©es%â€“ Macis :,KG,- - - - -
+,,0908.20,00,,- MacisÂ£- - - non broyÃ©s ni moulus :,,
+,,0908.21,,,- - Non broyÃ© ni pulvÃ©risÃ©,,
+1,,,00,00,- - - Non broyÃ© ni pulvÃ©risÃ©,KG,- - - - -
+,,0908.22,,,- - BroyÃ© ou pulvÃ©risÃ©,,
+,,,00,,- - BroyÃ© ou pulvÃ©risÃ©,,
+1,,,,00,- - BroyÃ© ou pulvÃ©risÃ©%â€“ Amomes et cardamomes :,KG,- - - - -
+,,0908.30,00,,- Amomes et cardamomesÂ£- - - non broyÃ©s ni moulus :,,
+,,0908.31,,,- - Non broyÃ©s ni pulvÃ©risÃ©s,,
+,,,00,,- - Non broyÃ©s ni pulvÃ©risÃ©s,,
+1,,,,00,- - - Non broyÃ©es ni pulvÃ©risÃ©es,KG,- - - - -
+,,0908.32,,,- - BroyÃ©s ou pulvÃ©risÃ©s,,
+,,,00,,- - BroyÃ©s ou pulvÃ©risÃ©s,,
+1,,,,00,- - BroyÃ©s ou pulvÃ©risÃ©s,KG,- - - - -
+,09.09,,,,"Graines d'anis, de badiane, de fenouil, de coriandre, de cumin, de carvi; baies de geniÃ¨vre.",,
+,,0909.10,00,,- Graines d'anis ou de badianeÂ£- - - non broyÃ©es ni moulues :,,
+,,0909.20,00,,- Graines de coriandreÂ£- - - non broyÃ©es ni moulues :,,
+,,0909.21,,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+,,,00,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+1,,,,00,- - - Non broyÃ©es ni pulvÃ©risÃ©es,KG,- - - - -
+,,0909.22,,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+,,,00,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+1,,,,00,- - BroyÃ©es ou pulvÃ©risÃ©es%â€“ Graines de cumin :,KG,- - - - -
+,,0909.30,00,,- Graines de cuminÂ£- - - non broyÃ©es ni moulues :,,
+,,0909.31,,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+,,,00,,- - Non broyÃ©es ni pulvÃ©risÃ©es,,
+1,,,,00,- - - Non broyÃ©es ni pulvÃ©risÃ©es,KG,- - - - -
+,,0909.32,,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+,,,00,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+1,,,,00,"- - ""BroyÃ©es ou pulvÃ©risÃ©es %â€“ Graines d'anis, de badiane, de carvi, de fenouil; baies de geniÃ¨vre :""",KG,- - - - -
+,,0909.40,00,,- Graines de carviÂ£- - - non broyÃ©es ni moulues :,,
+,,0909.50,,,- Graines de fenouil; baies de geniÃ¨vre,,
+,,,90,,- - - - - - autres :Â£- - - - non broyÃ©es ni moulues :,,
+,,0909.61,,,- - Non broyÃ©es ni pulvÃ©risÃ©s,,
+,,,00,,- - Non broyÃ©es ni pulvÃ©risÃ©s,,
+1,,,,10,- - - d'anis,KG,- - - - -
+1,,,,20,- - - de badiane%de carvi%,KG,- - - - -
+1,,,,30,- - - - de carvi,KG,- - - - -
+1,,,,41,- - - - de semence,KG,- - - - -
+1,,,,48,- - - - autres,KG,- - - - -
+1,,,,90,- - - - de baie de geniÃ¨vre,KG,- - - - -
+,,0909.62,,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+,,,00,,- - BroyÃ©es ou pulvÃ©risÃ©es,,
+1,,,,10,- - - de badiane,KG,- - - - -
+1,,,,20,- - - d'anis,KG,- - - - -
+1,,,,30,- - - de carvi,KG,- - - - -
+1,,,,40,- - - de fenouil,KG,- - - - -
+1,,,,90,- - - de baies de geniÃ¨vre%,KG,- - - - -
+,09.10,,,,"Gingembre, safran, curcuma, thym, feuilles de laurier, curry et autres Ã©pices.",,
+,,0910.10,00,,"- GingembreÂ£- - - en racine entiÃ¨re, en morceaux ou en tranches :",,
+,,0910.11,,,- - Non broyÃ© ni pulvÃ©risÃ©,,
+,,,00,,"- - Non broyÃ© ni pulvÃ©risÃ©%â€“ â€“ â€“ en racine entiÃ¨re, en morceaux ou en tranches :",,
+1,,,,10,- - - - Non broyÃ© ni pulvÃ©risÃ©,KG,- - - - -
+1,,,,90,- - - prÃ©sentÃ© autrement,KG,- - - - -
+,,0910.12,,,- - BroyÃ© ou pulvÃ©risÃ©,,
+,,,00,,- - BroyÃ© ou pulvÃ©risÃ©,,
+1,,,,00,- - BroyÃ© ou pulvÃ©risÃ©,KG,- - - - -
+,,0910.20,00,,- Safran,,
+1,,,,10,- - - - non broyÃ© ni moulu,KG,- - - - -
+1,,,,90,- - - broyÃ© ou moulu,KG,- - - - -
+,,0910.30,00,,- Curcuma,,
+1,,,,10,- - - - non broyÃ© ni moulu,KG,- - - - -
+1,,,,90,- - - broyÃ© ou moulu,KG,- - - - -
+,,0910.40,00,,- Thym; feuilles de laurierÂ£- - - thym :,,
+,,0910.50,00,,- Curry,,
+,,0910.91,00,,- - MÃ©langes visÃ©s Ã  la Note 1 b) du prÃ©sent Chapitre,,
+1,,,,10,- - - - non broyÃ©s ni moulus,KG,- - - - -
+1,,,,90,- - - - broyÃ©s ou moulus,KG,- - - - -
+,,0910.99,,,- - AutresÂ£- - - fÃ©nugrec :,,
+1,,,11,00,- - - - - graines Ã  ensemencer,KG,- - - - -
+,,,19,,- - - - - - autres :,,
+1,,,,10,- - - - - - non broyÃ©s ni moulus,KG,- - - - -
+1,,,,90,- - - - - - broyÃ©s ou moulus,KG,- - - - -
+,,,20,,- - - thym :,,
+1,,,,10,- - - - non broyÃ© ni pulvÃ©risÃ©,KG,- - - - -
+1,,,,90,- - - - broyÃ© ou pulvÃ©risÃ©,KG,- - - - -
+,,,30,,- - - feuilles de laurier,,
+1,,,,00,- - - feuilles de laurier,KG,- - - - -
+,,,40,,- - - curry :,,
+1,,,,10,- - - - non broyÃ© ni pulvÃ©risÃ©,KG,- - - - -
+1,,,,90,- - - - broyÃ© ou pulvÃ©risÃ©,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - - non broyÃ©s ni moulus,KG,- - - - -
+1,,,,90,- - - - - broyÃ©s ou moulus,KG,- - - - -

@@ -1,0 +1,74 @@
+0,1,2,3,4,5,6,7
+,,3101.00,00,,"- - Engrais d'origine animale ou vÃ©gÃ©tale, mÃªme mÃ©langÃ©s entre eux ou traitÃ©s chimiquement; engrais rÃ©sultant du mÃ©lange ou du traitement chimique de produits d'origine animale ou vÃ©gÃ©tale.",,
+5,,,,10,- - - - guano,KG,- - - - -
+3,,,,20,"- - - autres engrais naturels d'origine animale ou vÃ©gÃ©tale, mÃªme mÃ©langÃ©s entre eux, mais non Ã©laborÃ©s chimiquementÂ£- - - autres :",KG,- - - - -
+5,,,,80,- - - - autres,KG,- - - - -
+,31.02,,,,Engrais minÃ©raux ou chimiques azotÃ©s,,
+,,3102.10,,,"- UrÃ©e, mÃªme en solution aqueuse",,
+5,,,10,00,- - - d'une teneur en azote supÃ©rieure Ã  45% et prÃ©sentÃ©e sous des formes autres qu'en granulÃ©s,KG,KG. N2 (AZOTE)
+5,,,90,00,- - - - - autresÂ£- Sulfate d'ammonium; sels doubles et mÃ©langes de sulfate d'am- monium et de nitrate d'ammonium :,KG,KG. N2 (AZOTE)
+5,,3102.21,00,00,- - Sulfate d'ammonium,KG,KG. N2 (AZOTE)
+,,3102.29,00,,- - Autres,,
+5,,,,00,- - - Autres,KG,KG. N2 (AZOTE)
+5,,3102.30,00,00,"- Nitrate d'ammonium, mÃªme en solution aqueuse",KG,KG. N2 (AZOTE)
+,,3102.40,00,,- MÃ©langes de nitrate d'ammonium et de carbonate de calcium ou d'autres matiÃ¨res inorganiques dÃ©pourvues de pouvoir fertilisant,,
+5,,,,00,- - - MÃ©langes de nitrate d ammonium et de carbonate de calcium ou d autres matiÃ¨res inorganiques dÃ©pourvues de pouvoir fertilisant,KG,KG. N2 (AZOTE)
+,,3102.50,,,- Nitrate de sodium,,
+5,,,00,00,- - - Nitrate de sodium,KG,KG. N2 (AZOTE)
+5,,3102.60,00,00,- - - Sels doubles et mÃ©langes de nitrate de calcium et de nitrate d'ammonium,KG,KG. N2 (AZOTE)
+,,3102.70,,,- Cyanamide calcique,,
+5,,3102.80,00,00,- MÃ©langes d'urÃ©e et de nitrate d'ammonium en solutions aqueuses ou ammoniacales,KG,KG. N2 (AZOTE)
+,,3102.90,,,"- Autres, y compris les mÃ©langes non visÃ©s dans les sous-positions prÃ©cÃ©dentes",,
+,,,00,,"- - - - Autres, y compris les mÃ©langes non visÃ©s dans les sous-positions prÃ©cÃ©dentes",,
+5,,,,00,"- - - - Autres, y compris les mÃ©langes non visÃ©s dans les sous-positions prÃ©cÃ©dentes",KG,KG. N2 (AZOTE)
+,,,10,,- - - cyanamide calcique:,,
+,,,90,,- - - autres :,,
+,31.03,,,,Engrais minÃ©raux ou chimiques phosphatÃ©s,,
+,31.03,,,,Engrais minÃ©raux ou chimiques phosphatÃ©s,,
+,31.03,,,,Engrais minÃ©raux ou chimiques phosphatÃ©s.â€“ Superphosphates:,,
+,31.03,,,,Engrais minÃ©raux ou chimiques phosphatÃ©s.â€“ Superphosphates:,,
+,,3103.10,00,,- SuperphosphatesÂ£- - - simples et doubles :,,
+,,3103.11,00,,"- - """"""Contenant en poids 35%ou plus de pentaoxyde de diphosphore(P2O5):â€“ â€“ â€“ doubles :""""""",,
+5,,,,11,- - - - d'os,KG,KG. P2O5 (PHOSPHATE)
+3,,,,19,- - - - - - autres,KG,KG. P2O5 (PHOSPHATE)
+5,,,,90,- - - triples,KG,KG. P2O5 (PHOSPHATE)
+,,3103.19,00,,- - Autres,,
+5,,,,10,- - - - d'os,KG,KG. P2O5 (PHOSPHATE)
+3,,,,90,- - - - - - autres,KG,KG. P2O5 (PHOSPHATE)
+,,3103.90,00,,- Autres,,
+5,,,,10,- - - - phosphates de calcium dÃ©sagrÃ©gÃ©s (termo-phosphates et phosphates fondus) et phosphates alumino-calciques naturels traitÃ©s thermiquement,KG,KG. P2O5 (PHOSPHATE)
+5,,,,20,"- - - - - - - phosphates bicalciques renfermant du fluor dans une proportion supÃ©rieure ou Ã©gale Ã  0,2 %",KG,KG. P2O5 (PHOSPHATE)
+5,,,,30,- - - scories de dÃ©phosphoration,KG,KG. P2O5 (PHOSPHATE)
+5,,,,90,- - - - - autres,KG,KG. P2O5 (PHOSPHATE)
+,31.04,,,,Engrais minÃ©raux ou chimiques potassiques,,
+,,3104.20,00,,- Chlorure de potassium,,
+5,,,,10,- - - Ã  usage d'engrais,KG,KG. K2O (OXYDE DE POTASSIUM)
+5,,,,90,- - - - - autres,KG,KG. K2O (OXYDE DE POTASSIUM)
+,,3104.30,,,- Sulfate de potassium,,
+5,,,10,00,- - - sulfate de potassium d'une teneur en K2o de 52 % ou moins,KG,KG. K2O (OXYDE DE POTASSIUM)
+5,,,90,00,- - - - - autres,KG,KG. K2O (OXYDE DE POTASSIUM)
+,,3104.90,,,- Autres,,
+5,,,10,00,- - - sulfate de magnÃ©sium et de potassium d'une teneur en K2o de 30% ou moins,KG,KG. K2O (OXYDE DE POTASSIUM)
+5,,,20,00,- - - autres sulfates doubles de magnÃ©sium et de potassium,KG,KG. K2O (OXYDE DE POTASSIUM)
+,,,30,,"- - - carnallite, sylvinite et autres sels de potassium naturels bruts",,
+5,,,,00,"- - - carnallite, sylvinite et autres sels de potassium naturels bruts",KG,KG. K2O (OXYDE DE POTASSIUM)
+5,,,90,00,- - - - - autres,KG,KG. K2O (OXYDE DE POTASSIUM)
+,31.05,,,,"- - - - Engrais minÃ©raux ou chimiques contenant deux ou trois des Ã©lÃ©ments fertilisants : azote, phosphore et potassium; autres engrais; produits du prÃ©sent Chapitre prÃ©sentÃ©s soit en tablettes ou formes similaires, soit en emballages d'un poids bru",,
+,,3105.10,,,"- - - Produits du prÃ©sent Chapitre prÃ©sentÃ©s soit en tablettes ou formes similaires, soit en emballages d'un poids brut n'excÃ©dant pas 10 kg",,
+,,,10,,- - - sulfate de potassium d'une teneur en K2o supÃ©rieure Ã  52%; sulfate double de magnÃ©sium et de potassium d'une teneur en K2o supÃ©rieure Ã  30%; cyanamide calcique d'une teneur en azote supÃ©rieure Ã  25% en poids Ã  l'Ã©tat sec :,,
+5,,,,10,- - - - sulfate de potassium d'une teneur en K2o supÃ©rieure Ã  52%,KG,- - - - -
+5,,,,20,- - - - sulfate double de magnÃ©sium et de potassium d'une teneur en K2o supÃ©rieure Ã  30%,KG,- - - - -
+5,,,,90,- - - - cyanamide calcique d'une teneur en azote supÃ©rieure Ã  25 % en poids Ã  l'Ã©tat sec,KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,3105.20,00,00,"- - Engrais minÃ©raux ou chimiques contenant les trois Ã©lÃ©ments fertilisants : azote, phosphore et potassium",KG,- - - - -
+5,,3105.30,00,00,- HydrogÃ©noorthophosphate de diammonium (phosphate diam- monique),KG,- - - - -
+5,,3105.40,00,00,"- DihydrogÃ©noorthophosphate d'ammonium (phosphate monoam- monique), mÃªme en mÃ©lange avec l'hydrogÃ©noorthophosphate de diammonium (phosphate diammonique)Â£- Autres engrais minÃ©raux ou chimiques contenant les deux Ã©lÃ©ments fertilisants : azote et pho",KG,- - - - -
+5,,3105.51,00,00,- - Contenant des nitrates et des phosphates,KG,- - - - -
+,,3105.59,00,,- - Autres,,
+5,,,,00,- - - Autres,KG,- - - - -
+5,,3105.60,00,00,- - - - - Engrais minÃ©raux ou chimiques contenant les deux Ã©lÃ©ments fertilisants : phosphore et potassium,KG,- - - - -
+,,3105.90,00,,- Autres,,
+5,,,,10,- - - Ã  base de nitrate de calcium,KG,KG. N2 (AZOTE)
+5,,,,20,- - - Ã  base de salins de betteravesÂ£- - - autres :Â£- - - - contenant les 2 Ã©lÃ©ments fertilisants: azote et potassium :,KG,KG. K2O (OXYDE DE POTASSIUM)
+5,,,,80,- - - - - autres,KG,- - - - -

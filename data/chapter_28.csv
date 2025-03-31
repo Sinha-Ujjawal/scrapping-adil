@@ -1,0 +1,474 @@
+0,1,2,3,4,5,6,7
+,28.01,,,,"Fluor, chlore, brome et iode",,
+5,,2801.10,00,00,- Chlore,KG,- - - - -
+,,2801.20,00,,- Iode,,
+5,,,,00,- Iode,KG,- - - - -
+,,2801.30,00,,- Fluor; brome,,
+5,,,,10,- - - - fluor,KG,- - - - -
+5,,,,20,- - - brome,KG,- - - - -
+,,2802.00,00,,Soufre sublimÃ© ou prÃ©cipitÃ©; soufre colloÃ¯dal,,
+5,,,,10,"- - - soufre sublimÃ© (ou fleur de soufre), lavÃ© ou non",KG,- - - - -
+5,,,,20,- - - soufre prÃ©cipitÃ©,KG,- - - - -
+5,,,,30,- - - soufre colloÃ¯dal,KG,- - - - -
+,,2803.00,00,,Carbone (noirs de carbone et autres formes de carbone non dÃ©nom- mÃ©es ni comprises ailleurs).,,
+5,,,,10,- - - noirs de gaz de pÃ©trole ou Â«carbon blackÂ»,KG,- - - - -
+5,,,,20,- - - - - noirs d'acÃ©tylÃ¨ne,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+,28.04,,,,"HydrogÃ¨ne, gaz rares et autres Ã©lÃ©ments non mÃ©talliques",,
+5,,2804.10,00,00,- HydrogÃ¨neÂ£- Gaz rares :,M3 (METTRE CUBE),- - - - -
+5,,2804.21,00,00,- - Argon,M3 (METTRE CUBE),- - - - -
+5,,2804.29,00,00,- - Autres,M3 (METTRE CUBE),- - - - -
+5,,2804.30,00,00,- Azote,M3 (METTRE CUBE),- - - - -
+5,,2804.40,00,00,- OxygÃ¨ne,M3 (METTRE CUBE),- - - - -
+,,2804.50,00,,- Bore; tellure,,
+5,,,,10,- - - bore,KG,- - - - -
+5,,,,20,- - - tellure,KG,- - - - -
+5,,2804.61,00,00,"- - Contenant en poids au moins 99,99% de silicium",KG,- - - - -
+5,,2804.69,00,00,- - Autre,KG,- - - - -
+5,,2804.70,00,00,- Phosphore,KG,- - - - -
+5,,2804.80,00,00,- Arsenic,KG,- - - - -
+5,,2804.90,00,00,- SÃ©lÃ©nium,KG,- - - - -
+,28.05,,,,"- - - MÃ©taux alcalins ou alcalino-terreux; mÃ©taux de terres rares, scandium et yttrium, mÃªme mÃ©langÃ©s ou alliÃ©s entre eux; mercure.Â£- MÃ©taux alcalins ou alcalino-terreux :",,
+5,,2805.11,00,00,- - Sodium,KG,- - - - -
+5,,2805.12,00,00,- - Calcium,KG,- - - - -
+,,2805.19,00,,- - Autres,,
+5,,,,00,- - Autres,KG,- - - - -
+5,,2805.30,00,00,"- MÃ©taux de terres rares, scandium et yttrium, mÃªme mÃ©langÃ©s ou alliÃ©s entre eux",KG,- - - - -
+,,2805.40,00,,- Mercure,,
+5,,,,00,- Mercure,KG,- - - - -
+,28.06,,,,Chlorure d'hydrogÃ¨ne (acide chlorhydrique); acide chlorosulfurique,,
+,,2806.10,00,,- Chlorure d'hydrogÃ¨ne (acide chlorhydrique),,
+5,,,,10,- - - - gazeux,KG,- - - - -
+5,,,,20,- - - commercial,KG,- - - - -
+5,,,,90,- - - - - - pur ou chimiquement pur,KG,- - - - -
+5,,2806.20,00,00,- Acide chlorosulfurique,KG,- - - - -
+,,2807.00,00,,Acide sulfurique; olÃ©um,,
+5,,,,10,- - - acide sulfurique commercial,KG,- - - - -
+5,,,,20,- - - - - acide sulfurique pur ou chimiquement pur,KG,- - - - -
+5,,,,90,- - - - - olÃ©um,KG,- - - - -
+,,2808.00,00,,Acide nitrique; acides sulfonitriques,,
+5,,,,10,- - - acide nitrique (azotique) commercial,KG,- - - - -
+5,,,,20,- - - - - acide nitrique (azotique) pur ou chimiquement pur,KG,- - - - -
+5,,,,90,- - - - - acides sulfonitriques,KG,- - - - -
+,28.09,,,,"Pentaoxyde de diphosphore; acide phosphorique; acides poly- phosphoriques, de constitution chimique dÃ©finie ou non.",,
+5,,2809.10,00,00,- Pentaoxyde de diphosphore,KG,KG. P2O5 (PHOSPHATE)
+,,2809.20,00,,- Acide phosphorique et acides polyphosphoriques,,
+5,,,,10,- - - acide phosphorique,KG,KG. P2O5 (PHOSPHATE)
+5,,,,20,- - - acides polyphosphoriques,KG,- - - - -
+,,2810.00,00,,Oxydes de bore; acides boriques,,
+5,,,,10,- - - - acide et anhydride boriques,KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,28.11,,,,Autres acides inorganiques et autres composÃ©s oxygÃ©nÃ©s inorga- niques des Ã©lÃ©ments non mÃ©talliques.Â£- Autres acides inorganiques :,,
+5,,2811.11,00,00,- - Fluorure d'hydrogÃ¨ne (acide fluorhydrique),KG,- - - - -
+5,,2811.12,00,00,- - - - - Cyanure d'hydrogÃ¨ne (acide cyanhydrique),KG,- - - - -
+,,2811.19,00,,- - Autres,,
+5,,,,10,- - - - - acide arsÃ©nique,KG,- - - - -
+5,,,,90,- - - - - autresÂ£- Autres composÃ©s oxygÃ©nÃ©s inorganiques des Ã©lÃ©ments non mÃ©talliques :,KG,- - - - -
+5,,2811.21,00,00,- - - Dioxyde de carbone,KG,- - - - -
+5,,2811.22,00,00,- - Dioxyde de silicium,KG,- - - - -
+,,2811.29,00,,- - Autres,,
+5,,,,10,- - - - - anhydride arsÃ©nieux,KG,- - - - -
+5,,,,20,- - - - anhydride arsÃ©nique,KG,- - - - -
+,,,,,- - - - oxydes d'azote,KG,
+5,,,,40,- - - dioxyde de soufre.,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,28.12,,,,HalogÃ©nures et oxyhalogÃ©nures des Ã©lÃ©ments non mÃ©talliques,,
+,28.12,,,,HalogÃ©nures et oxyhalogÃ©nures des Ã©lÃ©ments non mÃ©talliques,,
+,28.12,,,,HalogÃ©nures et oxyhalogÃ©nures des Ã©lÃ©ments non mÃ©talliques.â€“ Chlorures et oxychlorures:,,
+,28.12,,,,HalogÃ©nures et oxyhalogÃ©nures des Ã©lÃ©ments non mÃ©talliques.â€“ Chlorures et oxychlorures:,,
+,,2812.10,00,,- - - Chlorures et oxychlorures,,
+5,,2812.11,00,00,- - - - - Dichlorure de carbonyle (phosgÃ¨ne),KG,- - - - -
+5,,2812.12,00,00,- - - - - - Oxychlorure de phosphore,KG,- - - - -
+5,,2812.13,00,00,- - - - - - Trichlorure de phosphore,KG,- - - - -
+5,,2812.14,00,00,- - - - - - Pentachlorure de phosphore,KG,- - - - -
+5,,2812.15,00,00,- - - - - - Monochlorure de soufre,KG,- - - - -
+5,,2812.16,00,00,- - - - - - - Dichlorure de soufre,KG,- - - - -
+5,,2812.17,00,00,- - - - - Chlorure de thionyle,KG,- - - - -
+,,2812.19,00,,- - Autres,,
+5,,,,10,- - - - - chlorures d'iode,KG,- - - - -
+5,,,,20,- - - - - - autres chlorures de soufre,KG,- - - - -
+5,,,,30,- - - - - oxychlorure de sÃ©lÃ©nium,KG,- - - - -
+5,,,,40,- - - - - - autres chlorures de phosphore,KG,- - - - -
+5,,,,50,- - - - - trichlorure d'arsenic,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+5,,2812.90,00,00,- Autres,KG,- - - - -
+,28.13,,,,Sulfures des Ã©lÃ©ments non mÃ©talliques; trisulfure de phosphore du commerce.,,
+5,,2813.10,00,00,- Disulfure de carbone,KG,- - - - -
+,,2813.90,,,- - - Autres,,
+5,,,10,00,"- - - sulfures de phosphore, y compris le trisulfure de phosphore",KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,10,- - - - - sulfures d'arsenic,KG,- - - - -
+5,,,,90,"- - - - - - autres Â£IV.- BASES INORGANIQUES ET OXYDES, HYDROXYDES ET PEROXYDES DE METAUX",KG,- - - - -
+,28.14,,,,Ammoniac anhydre ou en solution aqueuse (ammoniaque),,
+5,,2814.10,00,00,- Ammoniac anhydre,KG,- - - - -
+5,,2814.20,00,00,- Ammoniac en solution aqueuse (ammoniaque),KG,- - - - -
+,28.15,,,,- - - Hydroxyde de sodium (soude caustique); hydroxyde de potassium (potasse caustique); peroxydes de sodium ou de potassium.Â£- Hydroxyde de sodium (soude caustique) :,,
+5,,2815.11,00,00,- - Solide,KG,- - - - -
+5,,2815.12,00,00,- - En solution aqueuse (lessive de soude caustique),KG,KG. NAOH (SOUDE)
+,,2815.20,00,,- Hydroxyde de potassium (potasse caustique),,
+5,,,,10,- - - - - potasse caustique solide,KG,- - - - -
+5,,,,90,- - - - - potasse caustique en solution (lessive de potasse caustique),KG,KG. KOH (POTASSE)
+5,,2815.30,00,00,- Peroxydes de sodium ou de potassium,KG,- - - - -
+,28.16,,,,"- - - - Hydroxyde et peroxyde de magnÃ©sium; oxydes, hydroxydes et peroxydes, de strontium ou de baryum.",,
+,,2816.10,00,,- - Hydroxyde et peroxyde de magnÃ©sium,,
+5,,,,10,- - - hydroxyde,KG,- - - - -
+5,,,,20,- - - peroxyde de magnÃ©sium,KG,- - - - -
+5,,2816.40,00,00,"- Oxydes, hydroxydes et peroxydes, de strontium ou de baryum",KG,- - - - -
+,,2817.00,,,Oxyde de zinc; peroxyde de zinc,,
+5,,,10,00,- - - oxyde de zinc (blanc de zinc),KG,- - - - -
+5,,,20,00,- - - peroxyde de zinc (ektogan),KG,- - - - -
+,28.18,,,,"- Corindon artificiel, chimiquement dÃ©fini ou non; oxyde d'aluminium; hydroxyde d'aluminium.",,
+5,,2818.10,00,00,"- Corindon artificiel, chimiquement dÃ©fini ou non",KG,- - - - -
+5,,2818.20,00,00,- Oxyde d'aluminium autre que le corindon artificiel,KG,- - - - -
+5,,2818.30,00,00,- Hydroxyde d'aluminium,KG,- - - - -
+,28.19,,,,Oxydes et hydroxydes de chrome,,
+5,,2819.10,00,00,- Trioxyde de chrome,KG,- - - - -
+,,2819.90,00,,- Autres,,
+5,,,,10,- - - sesquioxyde de chrome,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,28.20,,,,Oxydes de manganÃ¨se,,
+5,,2820.10,00,00,- Dioxyde de manganÃ¨se,KG,- - - - -
+5,,2820.90,00,00,- Autres,KG,- - - - -
+,28.21,,,,- - - - Oxydes et hydroxydes de fer; terres colorantes contenant en poids 70% ou plus de fer combinÃ© Ã©valuÃ© en Fe2O3.,,
+,,2821.10,00,,- Oxydes et hydroxydes de fer,,
+5,,,,10,- - - hydroxydes de fer,KG,- - - - -
+5,,,,20,- - - oxydes de fer,KG,- - - - -
+5,,2821.20,00,00,- Terres colorantes,KG,- - - - -
+,,2822.00,,,- - Oxydes et hydroxydes de cobalt; oxydes de cobalt du commerceÂ£- - - oxydes de cobalt du commerce :,,
+5,,,00,00,"""Oxydes et hydroxydes de cobalt; oxydes de cobalt du commerce.""",KG,- - - - -
+5,,2823.00,00,00,Oxydes de titane,KG,- - - - -
+,28.24,,,,Oxydes de plomb; minium et mine orange,,
+5,,2824.10,00,00,"- Monoxyde de plomb (litharge, massicot)",KG,- - - - -
+5,,2824.90,00,00,- Autres,KG,- - - - -
+5,,2824.90,00,00,- Autres,KG,- - - - -
+5,,2824.90,00,00,- Autres,KG,- - - - -
+5,,2824.90,00,00,- Autres,KG,- - - - -
+,28.25,,,,"- - - - Hydrazine et hydroxylamine et leurs sels inorganiques; autres bases inorganiques; autres oxydes, hydroxydes et peroxydes de mÃ©taux.",,
+5,,2825.10,00,00,- Hydrazine et hydroxylamine et leurs sels inorganiques,KG,- - - - -
+5,,2825.20,00,00,- Oxyde et hydroxyde de lithium,KG,- - - - -
+,,2825.30,00,,- Oxydes et hydroxydes de vanadium,,
+5,,,,00,- Oxydes et hydroxydes de vanadium,KG,- - - - -
+,,2825.40,00,,- Oxydes et hydroxydes de nickel,,
+5,,,,00,- Oxydes et hydroxydes de nickel,KG,- - - - -
+,,2825.50,00,,- Oxydes et hydroxydes de cuivre,,
+5,,,,00,- Oxydes et hydroxydes de cuivre,KG,- - - - -
+5,,2825.60,00,00,- Oxydes de germanium et dioxyde de zirconium,KG,- - - - -
+5,,2825.70,00,00,- Oxydes et hydroxydes de molybdÃ¨ne,KG,- - - - -
+5,,2825.80,00,00,- Oxydes d'antimoine,KG,- - - - -
+,,2825.90,00,,- Autres,,
+5,,,,10,- - - - oxydes et hydroxydes de calcium,KG,- - - - -
+5,,,,20,- - - - peroxydes de calcium,KG,- - - - -
+5,,,,70,- - - oxydes de mercure,KG,- - - - -
+5,,,,70,- - - oxydes de mercure,KG,- - - - -
+5,,,,70,- - - autres,KG,- - - - -
+5,,,,70,- - - autres,KG,- - - - -
+,28.26,,,,"Fluorures; fluorosilicates, fluoroaluminates et autres sels complexes de fluor.Â£- Fluorures :",,
+5,,2826.12,00,00,- - D'aluminium,KG,- - - - -
+,,2826.19,,,- - Autres,,
+5,,,00,10,- - - d'ammonium ou de sodium,KG,- - - - -
+5,,,00,90,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,2826.30,00,00,- Hexafluoroaluminate de sodium (cryolithe synthÃ©tique),KG,- - - - -
+,,2826.90,00,,- Autres,,
+5,,,,00,- Autres,KG,- - - - -
+,28.27,,,,"Chlorures, oxychlorures et hydroxychlorures; bromures et oxybro- mures; iodures et oxyiodures.",,
+5,,2827.10,00,00,- Chlorure d'ammonium,KG,- - - - -
+5,,2827.20,00,00,- Chlorure de calciumÂ£- Autres chlorures :,KG,- - - - -
+5,,2827.31,00,00,- - De magnÃ©sium,KG,- - - - -
+5,,2827.32,00,00,- - D'aluminium,KG,- - - - -
+5,,2827.35,00,00,- - De nickel,KG,- - - - -
+,,2827.39,00,,- - Autres,,
+5,,,,10,- - - d'Ã©tain,KG,- - - - -
+5,,,,20,- - - de baryum,KG,- - - - -
+5,,,,30,- - - de fer,KG,- - - - -
+5,,,,40,- - - de cobalt,KG,- - - - -
+5,,,,50,- - - de zinc,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+5,,2827.41,00,00,- - De cuivre,KG,- - - - -
+,,2827.49,00,,- - Autres,,
+5,,,,10,- - - de plomb,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+,,2827.51,00,,- - Bromures de sodium ou de potassium,,
+5,,,,10,- - - bromure de sodium,KG,- - - - -
+5,,,,90,- - - bromure de potassium,KG,- - - - -
+5,,2827.59,00,00,- - Autres,KG,- - - - -
+,,2827.60,00,,- Iodures et oxyiodures,,
+5,,,,10,- - - iodures de sodium,KG,- - - - -
+5,,,,20,- - - iodure de potassium,KG,- - - - -
+5,,,,70,- - - autres,KG,- - - - -
+,28.28,,,,- Hypochlorites; hypochlorite de calcium du commerce; chlorites; hypobromites.,,
+5,,2828.10,00,00,- Hypochlorite de calcium du commerce et autres hypochlorites de calcium,KG,- - - - -
+,,2828.90,00,,- Autres,,
+5,,,,10,- - - chlorites,KG,- - - - -
+5,,,,30,- - - - hypochlorites de sodium,KG,- - - - -
+5,,,,40,- - - - hypochlorites de potassium,KG,- - - - -
+5,,,,80,- - - autres hypochlorites,KG,- - - - -
+,28.29,,,,- - - Chlorates et perchlorates; bromates et perbromates; iodates et periodates.Â£- Chlorates :,,
+5,,2829.11,00,00,- - De sodium,KG,- - - - -
+,,2829.19,,,- - Autres,,
+5,,,10,00,- - - - d'ammonium,KG,- - - - -
+5,,,20,00,- - - - - de potassium,KG,- - - - -
+5,,,30,00,- - - - de baryum,KG,- - - - -
+5,,,90,00,- - - - - autres,KG,- - - - -
+,,2829.90,00,,- Autres,,
+5,,,,20,- - - perchlorates de sodium,KG,- - - - -
+5,,,,60,- - - iodates,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+,28.30,,,,"Sulfures; polysulfures, de constitution chimique dÃ©finie ou non",,
+,,2830.10,00,,- Sulfures de sodium,,
+5,,,,00,- Migration NGP inexistants,KG,- - - - -
+5,,,,00,- Migration NGP inexistants,KG,- - - - -
+5,,,,00,- Sulfures de sodium,KG,- - - - -
+5,,,,00,- Sulfures de sodium,KG,- - - - -
+,,2830.90,00,,- AutresÂ£- - - polysulfures :,,
+5,,2830.90,10,00,- - - sulfures,KG,- - - - -
+5,,2830.90,20,00,- - - polysulfures,KG,- - - - -
+,28.31,,,,Dithionites et sulfoxylates,,
+5,,2831.10,00,00,- De sodium,KG,- - - - -
+5,,2831.90,00,00,- Autres,KG,- - - - -
+,28.32,,,,Sulfites; thiosulfates,,
+,,2832.10,00,,- Sulfites de sodium,,
+5,,,,00,- Sulfites de sodium,KG,- - - - -
+,,2832.20,00,,- Autres sulfites,,
+5,,,,00,- Autres sulfites,KG,- - - - -
+5,,2832.30,00,00,- Thiosulfates,KG,- - - - -
+,28.33,,,,Sulfates; aluns; peroxosulfates (persulfates)Â£- Sulfates de sodium :,,
+5,,2833.11,00,00,- - Sulfate de disodium,KG,- - - - -
+5,,2833.19,00,00,- - AutresÂ£- Autres sulfates :,KG,- - - - -
+5,,2833.21,00,00,- - De magnÃ©sium,KG,- - - - -
+5,,2833.22,00,00,- - D'aluminium,KG,- - - - -
+5,,2833.24,00,00,- - De nickel,KG,- - - - -
+5,,2833.25,00,00,- - De cuivre,KG,- - - - -
+5,,2833.27,00,00,- - De baryum,KG,- - - - -
+,,2833.29,00,,- - Autres,,
+5,,,,10,- - - - de cadmium,KG,- - - - -
+5,,,,20,"- - - - - - de cobalt, de titane",KG,- - - - -
+5,,,,30,- - - de fer,KG,- - - - -
+5,,,,50,- - - de plomb,KG,- - - - -
+5,,,,60,- - - de chrome,KG,- - - - -
+5,,,,70,- - - de zinc,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,2833.30,00,,- Aluns,,
+5,,,,20,- - - - - de potasse,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+,,2833.40,00,,- Peroxosulfates (persulfates),,
+5,,,,20,- - - - d'ammonium,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+,28.34,,,,Nitrites; nitrates,,
+5,,2834.10,00,00,- NitritesÂ£- Nitrates :,KG,- - - - -
+,,2834.21,,,- - De potassium,,
+5,,,10,00,- - - - - Ã  usage d'engrais,KG,- - - - -
+5,,,90,00,- - - - autres,KG,- - - - -
+,,2834.29,,,- - Autres,,
+,,,10,,- - - nitrate de calcium d'une teneur en azote de 16% ou moins :,,
+5,,,,10,"- - - - prÃ©sentÃ© soit en tablettes, pastilles et autres formes similaires, soit en emballages d'un poids brut maximum de 10 kgs",KG,- - - - -
+5,,,,90,- - - - autres,KG,KG. N2 (AZOTE)
+,,,90,,- - - autres :,,
+5,,,,30,"- - - - de cuivre, de mercure",KG,- - - - -
+5,,,,30,"- - - - de cuivre, de mercure",KG,- - - - -
+5,,,,30,"- - - - de baryum, de beryllium, de cadmium, de cobalt, de nickel, de cuivre de plomb, de bismuth",KG,- - - - -
+5,,,,30,"- - - - de baryum, de beryllium, de cadmium, de cobalt, de nickel, de cuivre de plomb, de bismuth",KG,- - - - -
+5,,,,50,"- - - - de calcium, d'une teneur en azote de plus de 16%",KG,- - - - -
+,,,,80,- - - - autres,KG,- - - - -
+,28.35,,,,"- - - - Phosphinates (hypophosphites), phosphonates (phosphites) et phosphates; polyphosphates, de constitution chimique dÃ©finie ou non.",,
+5,,2835.10,00,00,- Phosphinates (hypophosphites) et phosphonates (phosphites)Â£- Phosphates :,KG,- - - - -
+5,,2835.22,00,00,- - De mono-ou de disodium,KG,- - - - -
+,,2835.24,,,- - De potassium,,
+5,,,10,00,- - - - - Ã  usage d'engrais,KG,- - - - -
+5,,,90,00,- - - - - autres,KG,- - - - -
+5,,2835.25,00,00,- - - - - HydrogÃ©noorthophosphate de calcium (â€œphosphate dicalciqueâ€),KG,- - - - -
+5,,2835.26,00,00,- - Autres phosphates de calcium,KG,- - - - -
+,,2835.29,,,- - Autres,,
+5,,,10,00,- - - phosphates de triammonium,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,10,- - - - phosphates d'ammonium,KG,- - - - -
+5,,,,20,- - - - phosphates de sodium,KG,- - - - -
+5,,,,30,- - - - phosphates de trisodium,KG,- - - - -
+5,,,,90,- - - - - - autres phosphatesÂ£- Polyphosphates :,KG,- - - - -
+5,,2835.31,00,00,- - Triphosphate de sodium (tripolyphosphate de sodium),KG,- - - - -
+,,2835.39,,,- - Autres,,
+5,,,10,00,"- - - - de potassium, Ã  usage d'engrais",KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,28.36,,,,- Carbonates; peroxocarbonates (percarbonates); carbonate d'ammonium du commerce contenant du carbamate d'ammonium.,,
+,,2836.20,,,- - Carbonate de disodium,,
+5,,,10,00,"- - - - - - dense, sous forme granulÃ©e",KG,- - - - -
+5,,,90,00,- - - - autres,KG,- - - - -
+5,,2836.30,00,00,- HydrogÃ©nocarbonate (bicarbonate) de sodium,KG,- - - - -
+5,,2836.40,00,00,- Carbonates de potassium,KG,- - - - -
+5,,2836.50,00,00,- Carbonate de calcium,KG,- - - - -
+5,,2836.60,00,00,- Carbonate de baryum,KG,- - - - -
+,,2836.70,00,,- Carbonates de plomb,,
+5,,2836.91,00,00,- - Carbonates de lithium,KG,- - - - -
+5,,2836.92,00,00,- - Carbonate de strontium,KG,- - - - -
+,,2836.99,00,,- - Autres,,
+5,,,,10,- - - carbonate de bismuthÂ£- - - autres :,KG,- - - - -
+5,,,,20,- - - carbonate d'ammonium du commerce et autres carbonates d'ammonium .% carbonates de plomb :%â€“ â€“ â€“ carbonates de plomb :,KG,- - - - -
+5,,,,31,- - - - hydrocarbonate (cÃ©ruse),KG,- - - - -
+5,,,,39,- - - - autres %,KG,- - - - -
+5,,,,91,- - - - - carbonates de magnÃ©sium,KG,- - - - -
+5,,,,92,- - - - - carbonates de cuivre,KG,- - - - -
+5,,,,93,"- - - - - carbonates de bÃ©ryllium, de cobalt",KG,- - - - -
+5,,,,94,- - - - autres carbonates,KG,- - - - -
+5,,,,99,- - - - percarbonates,KG,- - - - -
+,28.37,,,,"Cyanures, oxycyanures et cyanures complexesÂ£- Cyanures et oxycyanures :",,
+5,,2837.11,00,00,- - De sodium,KG,- - - - -
+,,2837.19,00,,- - Autres,,
+5,,,,00,- - Autres,KG,- - - - -
+,,2837.20,00,,- Cyanures complexes,,
+5,,,,00,- - Cyanures complexes,KG,- - - - -
+,,2838.00,,,"Fulminates, cyanates et thiocyanates",,
+,28.39,,,,Silicates; silicates des mÃ©taux alcalins du commerceÂ£- De sodium :,,
+5,,2839.11,00,00,- - MÃ©tasilicates,KG,- - - - -
+5,,2839.19,00,00,- - Autres,KG,- - - - -
+,,2839.90,,,- AutresÂ£- - - silicates d'autres mÃ©taux alcalins du commerce :,,
+,,,00,,- Autres,,
+5,,,,10,- - - silicates de potassium .%â€“ â€“ â€“ silicates d'autres mÃ©taux alcalins du commerce :,KG,- - - - -
+5,,,,21,- - - - prÃ©sentÃ©s sous forme d'articles ou dans des formes propres Ã  la vente au dÃ©tail ou bien en emballages d'une contenance nette de 1 Kg ou moins%,KG,- - - - -
+5,,,,29,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+5,,,,91,- - - - de zirconium.,KG,- - - - -
+5,,,,99,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,28.40,,,,Borates; peroxoborates (perborates)Â£- TÃ©traborate de disodium (borax raffinÃ©) :,,
+,,2840.11,00,,- - Anhydre,,
+5,,,,00,- - Anhydre,KG,- - - - -
+5,,2840.19,00,00,- - Autre,KG,- - - - -
+5,,2840.20,00,00,- Autres borates,KG,- - - - -
+,,2840.30,00,,- Peroxoborates (perborates),,
+5,,,,00,- Peroxoborates (perborates),KG,- - - - -
+,28.41,,,,Sels des acides oxomÃ©talliques ou peroxomÃ©talliques,,
+,,2841.20,00,,- Chromates de zinc ou de plomb,,
+5,,2841.30,00,00,- Dichromate de sodium,KG,- - - - -
+,,2841.50,,,- Autres chromates et dichromates; peroxochromates,,
+5,,,00,00,"- ""Autres chromates et dichromates; peroxochromates""",KG,- - - - -
+,,,10,,- - - bichromates et perchromates :,,
+5,,2841.61,00,00,- - permanganate de potassium,KG,- - - - -
+5,,2841.69,00,00,- - Autres,KG,- - - - -
+5,,2841.70,00,00,- Molybdates,KG,- - - - -
+5,,2841.80,00,00,- Tungstates (wolframates),KG,- - - - -
+,,2841.90,00,,- Autres,,
+5,,,,00,- Autres,KG,- - - - -
+,28.42,,,,"- - - - Autres sels des acides ou peroxoacides inorganiques (y compris les aluminosilicates de constitution chimique dÃ©finie ou non), autres que les azotures.",,
+,,2842.10,,,"- Silicates doubles ou complexes, y compris les aluminosilicates de constitution chimique dÃ©finie ou nonÂ£- - - aluminosilicates de constitution chimique non dÃ©finie :",,
+5,,,00,00,"- Silicates doubles ou complexes, y compris les aluminosilicates Â£de constitution chimique dÃ©finie ou non Â£",KG,- - - - -
+,,2842.90,00,,- AutresÂ£- - - arsÃ©nites :,,
+5,,,,12,- - - - - de sodium,KG,- - - - -
+5,,,,18,- - - - autres,KG,- - - - -
+5,,,,31,"- - - - - sels simples, doubles ou complexes des acides du sÃ©lÃ©nium ou du tellure",KG,- - - - -
+5,,,,35,- - - - chlorure doubles d'Ã©tain et d'ammonium (chlorostannate d'ammonium),KG,- - - - -
+5,,,,42,- - - - iodures doubles ou complexes,KG,- - - - -
+5,,,,45,- - - - sulfate double de nickel et d'ammonium,KG,- - - - -
+5,,,,52,- - - - sulfates doubles ou complexes,KG,- - - - -
+5,,,,56,- - - - phosphates doubles ou complexes,KG,- - - - -
+5,,,,62,- - - - carbonates doubles ou complexes,KG,- - - - -
+5,,,,66,"- - - - zincates et vanadates, doubles ou complexes",KG,- - - - -
+5,,,,72,- - - - chromates doubles ou complexes,KG,- - - - -
+5,,,,76,"- - - - bichromates et perchromates, doubles ou complexes",KG,- - - - -
+5,,,,79,- - - - - - - chlorure double de zinc et d'ammonium,KG,- - - - -
+5,,,,80,"- - - - fulminates, cyanates et thiocyanates",KG,- - - - -
+5,,,,95,- - - - autres,KG,- - - - -
+,28.43,,,,"- - MÃ©taux prÃ©cieux Ã  l'Ã©tat colloÃ¯dal; composÃ©s inorganiques ou orga- niques de mÃ©taux prÃ©cieux, de constitution chimique dÃ©finie ou non; amalgames de mÃ©taux prÃ©cieux.",,
+,,2843.10,00,,- MÃ©taux prÃ©cieux Ã  l'Ã©tat colloÃ¯dal,,
+5,,,,00,- MÃ©taux prÃ©cieux Ã  l'Ã©tat colloÃ¯dal,KG,- - - - -
+5,,2843.21,00,00,- - Nitrate d'argent,KG,- - - - -
+5,,2843.29,00,00,- - Autres,KG,- - - - -
+5,,2843.30,00,00,- ComposÃ©s d'or,KG,- - - - -
+,,2843.90,00,,- Autres composÃ©s; amalgames,,
+5,,,,10,- - - - amalgames,KG,GR. NET
+5,,,,80,- - - autres,KG,GR. NET
+,28.44,,,,ElÃ©ments chimiques radioactifs et isotopes radioactifs (y compris les Ã©lÃ©ments chimiques et isotopes fissiles ou fertiles) et leurs composÃ©s; mÃ©langes et rÃ©sidus contenant ces produits.,,
+,,2844.10,,,"- - Uranium naturel et ses composÃ©s; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant de l'uranium naturel ou des composÃ©s de l'uranium naturel",,
+5,,,10,00,- - - ferro-uranium,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - autres,KG,GR. NET
+5,,2844.20,00,00,"- - - - - - - - - - Uranium enrichi en U235 et ses composÃ©s; plutonium et ses composÃ©s; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant de l'uranium enrichi en U235, du plutonium ou des composÃ©s de ces produi",KG,GR. NET
+,,2844.30,,,"- - - - - - Uranium appauvri en U235 et ses composÃ©s; thorium et ses composÃ©s; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant de l'uranium appauvri en U235, du thorium ou des composÃ©s de ces produitsÂ£- - -",,
+5,,,40,00,"- - - ""uranium appauvri en U 235; thorium; alliages, (y compris les cermets)""",KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,"- - - ""autres Â£- ElÃ©ments et isotopes et composÃ©s radioactifs autres que ceux des n s 2844.10, 2844.20 ou 2844.30; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant ces Ã©lÃ©ments, isotopes ou composÃ©s; rÃ©sid",KG,- - - - -
+,,2844.40,00,,"- - - - - - - ElÃ©ments et isotopes et composÃ©s radioactifs autres que ceux des nÂ°s 2844.10, 2844.20 ou 2844.30; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant ces Ã©lÃ©ments, isotopes ou composÃ©s; rÃ©sidus",,
+5,,2844.41,00,00,"- - ""Tritium et ses composÃ©s; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant du tritium ou ses composÃ©s""",KG,- - - - -
+5,,2844.42,00,00,"- - ""Actinium-225, actinium-227, californium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium-208, polonium-209, polonium-210, radium-223, uranium-230 ou uranium-232, et leurs comp",KG,- - - - -
+,,2844.43,00,,"- Autres Ã©lÃ©ments et isotopes et composÃ©s radioactifs; alliages, dispersions (y compris les cermets), produits cÃ©ramiques et mÃ©langes renfermant ces Ã©lÃ©ments, isotopes ou composÃ©s",,
+5,,,,10,- - - produits inorganiques du genre de ceux utilisÃ©s comme luminophores Â£â€“ â€“ â€“ autres :,KG,- - - - -
+5,,,,91,- - - - isotopes radioactif artificiels et leurs composÃ©s,KG,GR. NET
+5,,,,92,"- - - - ""Ã©lÃ©ments chimiques et isotopes, fissiles; leurs composÃ©s, alliages,dispersions et cermets""",KG,GR. NET
+5,,,,99,"- - - - ""autres Ã©lÃ©ments chimiques radio-actifs et isotopes radio-actifs; leurs Â£composÃ©s inorganiques ou organiques de constitution chimique dÃ©finie ou Â£non; alliage, dispersions et cermets, renfermant ces Ã©lÃ©ments ou ces Â£isotopes ou leurs comp",KG,GR. NET
+,,2844.44,00,,- - RÃ©sidus radioactifs,,
+5,,,,10,"- - - du thorium, de l'uranium appauvri en U 235, mÃªme mÃ©langÃ©s entre eux",KG,- - - - -
+5,,,,90,- - - autres,KG,GR. NET
+5,,2844.50,00,00,- ElÃ©ments combustibles (cartouches) usÃ©s (irradiÃ©s) de rÃ©acteurs nuclÃ©aires,KG,GR. NET
+,28.45,,,,"- - Isotopes autres que ceux du nÂ° 2844; leurs composÃ©s inorganiques ou organiques, de constitution chimique dÃ©finie ou non.",,
+5,,2845.10,00,00,- Eau lourde (oxyde de deutÃ©rium),KG,- - - - -
+5,,2845.20,00,00,- Bore enrichi en bore-10 et ses composÃ©s,KG,- - - - -
+5,,2845.30,00,00,- Lithium enrichi en lithium-6 et ses composÃ©s,KG,- - - - -
+5,,2845.40,00,00,- HÃ©lium-3,KG,- - - - -
+,,2845.90,00,,- Autres,,
+5,,,,00,- Autres,KG,- - - - -
+,28.46,,,,"- ComposÃ©s, inorganiques ou organiques, des mÃ©taux des terres rares, de l'yttrium ou du scandium ou des mÃ©langes de ces mÃ©taux.",,
+5,,2846.10,00,00,- ComposÃ©s de cÃ©rium,KG,- - - - -
+5,,2846.90,00,00,- Autres,KG,- - - - -
+,,2847.00,00,,Peroxyde d'hydrogÃ¨ne (eau oxygÃ©nÃ©e) mÃªme solidifiÃ© avec de l'urÃ©e,,
+5,,,,00,Peroxyde d'hydrogÃ¨ne (eau oxygÃ©nÃ©e) mÃªme solidifiÃ© avec de l'urÃ©e,KG,- - - - -
+,,2848.00,,,"- - - Phosphures, de constitution chimique dÃ©finie ou non, Ã  l'exclusion des ferrophosphores.Â£- - - de cuivre (phosphures de cuivre), contenant plus de 15% en poids de phosphore :",,
+,,,30,,- - - - - de constitution chimique dÃ©finie :,,
+,28.49,,,,"Carbures, de constitution chimique dÃ©finie ou non",,
+,,2849.10,,,- De calcium,,
+5,,,00,00,- De calcium,KG,- - - - -
+5,,2849.20,00,00,- De silicium,KG,- - - - -
+5,,2849.90,00,00,- Autres,KG,- - - - -
+,,2850.00,00,,"""Hydrures, nitrures, azotures, siliciures et borures, de constitutionchimique dÃ©finie ou non, autres que les composÃ©s qui constituentÃ©galement des carbures du nÂ° 28.49""",,
+5,,,,10,- - - hydrures,KG,- - - - -
+5,,,,20,- - - nitrures,KG,- - - - -
+5,,,,30,- - - azotures,KG,- - - - -
+5,,,,40,- - - siliciures,KG,- - - - -
+5,,,,50,- - - borures,KG,- - - - -
+,28.52,,,,"ComposÃ©s, inorganiques ou organiques, du mercure, de constitution chimique dÃ©finie ou non, Ã  l'exclusion des amalgames.",,
+,,2852.10,,,- - De constitution chimique dÃ©finie,,
+,,,10,,- - - composÃ©s inorgniques ou organiques de mÃ©taux prÃ©cieux :,,
+5,,,,05,- - - contenant des mÃ©taux prÃ©cieux Â£â€“ â€“ â€“ autres:,KG,- - - - -
+,,,15,,- - - - composÃ©s inorgniques :,,
+5,,,,10,"- - - - - ""oxydes; hydroxydes et peroxydes""",KG,- - - - -
+5,,,,15,- - - - - chlorure,KG,- - - - -
+5,,,,20,"- - - - - ""oxychlorure et hydroxychlorure; iodures et oxyodures""",KG,- - - - -
+5,,,,25,"- - - - - ""sulfure; polysulfure""",KG,- - - - -
+5,,,,30,- - - - - sulfate,KG,- - - - -
+5,,,,35,- - - - - nitrates,KG,- - - - -
+5,,,,40,- - - - - polyphosphates,KG,- - - - -
+5,,,,45,"- - - - - cyanure, oxycyanure et cyanures complexes",KG,- - - - -
+5,,,,50,"- - - - - fulminates, cyanates et thiocyanates",KG,- - - - -
+5,,,,55,"- - - - - ""chromates et dichromates; peroxochromates""",KG,- - - - -
+5,,,,60,"- - - - - silicates doubles ou complexes, y compris les aluminosilicates",KG,- - - - -
+5,,,,65,- - - - - sels des acides ou peroxyacides inorganiques autres que les azotures,KG,- - - - -
+5,,,,70,- - - - - phosphures Ã  l'exclusion des ferrophosphores,KG,- - - - -
+5,,,,75,- - - - - carbures,KG,- - - - -
+5,,,,80,"- - - - - hydrures, nitrures, azotures, siliciures et borures",KG,- - - - -
+5,,,,90,- - - - - autres composÃ©s inorganiques,KG,- - - - -
+,,,20,,- - - composÃ©s organiques :,,
+5,,,,10,- - - - acide lactique et ses sels et esters,KG,- - - - -
+5,,,,20,- - - - composÃ©s organo-mercuriques,KG,- - - - -
+5,,,,30,- - - - composÃ©s heterocycliques Ã  hÃ©tÃ©ratome d'oxygÃ¨ne exclusivement autres que ceux dont la structure comporte un cycle furane (hydrogÃ©nÃ© ou non) non condensÃ© et les lactones,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+5,,,30,00,"- - - albumines, (y compris les concentrats de plusieurs protÃ©ines de%lactosÃ©rum, contenant, en poids calculÃ© sur matiÃ¨re sÃ¨che, plus de 80% de protÃ©ines de lactosÃ©rum), albuminates et autres dÃ©rivÃ©s des albumines autres que les ovalbumines, lact",KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,2852.90,00,,- autres,,
+5,,,,10,"- - - ""sulfure; polysulfure """,KG,- - - - -
+5,,,,15,- - - polyphosphates,KG,- - - - -
+5,,,,20,- - - phosphures,KG,- - - - -
+5,,,,25,- - - carbures,KG,- - - - -
+5,,,,30,"- - - hydrures, nitrures, azotures, siliciures et borures",KG,- - - - -
+5,,,,35,"- - - silicates doubles ou complexes, y compris les aluminosilicates",KG,- - - - -
+5,,,,40,"- - - tanins et leurs sels, ethers, esters et autres dÃ©rivÃ©s",KG,- - - - -
+5,,,,50,- - - casÃ©inates et autres dÃ©rivÃ©s des casÃ©ines,KG,- - - - -
+5,,,,55,"- - - albumines, (y compris les concentrats de plusieurs protÃ©ines de lactosÃ©rum, contenant, en poids calculÃ© sur matiÃ¨re sÃ¨che, plus de 80% de protÃ©ines de lactosÃ©rum), albuminates et autres dÃ©rivÃ©s des albumines autres que les ovalbumines, lact",KG,- - - - -
+5,,,,60,"- - - ""pÃ©ptones et leur dÃ©rivÃ©s; autres matiÃ¨res proteiniques et leur dÃ©rivÃ©s """,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,2853.00,00,,"""Autres composÃ©s inorganiques (y compris les eaux distillÃ©es, de%conductibilitÃ© ou de mÃªme degrÃ© de puretÃ©); air liquide (y compris l'air liquide dont les gaz rares ont Ã©tÃ© Ã©liminÃ©s); air comprimÃ©; amal games autres que de mÃ©taux prÃ©cieux.""",,
+5,,2853.10,00,00,- - - Chlorure de cyanogÃ¨ne (chlorcyan),KG,- - - - -
+,,2853.90,,,- Autres,,
+,,,10,,"- - - """"""phosphures, de constitution chimique dÃ©finie ou non, Ã  l'exclusiondes ferrophosphores:â€“ â€“ â€“ â€“ de cuivre (phosphures de cuivre), contenant plus de 15% en poids de phosphore :""""""",,
+5,,,,00,"- - - phosphures, de constitution chimique dÃ©finie ou non, Ã  l'exclusion des",KG,- - - - -
+,,,90,,- - - autres:,,
+5,,,,10,"- - - ""air liquide (y compris l'air liquide dont les gaz rares ont Ã©tÃ© Ã©liminÃ©s); air comprimÃ©""",KG,- - - - -
+5,,,,20,- - - eaux distillÃ©es de conductibilitÃ© ou de mÃªme degrÃ© de puretÃ©,KG,- - - - -
+5,,,,30,- - - amalgames autres que de mÃ©taux prÃ©cieux,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -

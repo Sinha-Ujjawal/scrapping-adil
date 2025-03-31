@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7
+,92.01,,,,"Pianos, mÃªme automatiques; clavecins et autres instruments Ã  cordes Ã  clavier.",,
+8,,9201.10,00,00,- Pianos droits,U,NOMBRE
+8,,9201.20,00,00,- Pianos Ã  queue,U,NOMBRE
+8,,9201.90,00,00,- Autres,U,- - - - -
+,92.02,,,,"Autres instruments de musique Ã  cordes (guitares, violons, harpes, par exemple).",,
+8,,9202.10,00,00,- A cordes frottÃ©es Ã  l'aide d'un archet,U,NOMBRE
+,,9202.90,00,,- Autres,,
+8,,,,10,- - - Ã  cordes pincÃ©es,U,NOMBRE
+8,,,,90,- - - autres,U,- - - - -
+,,9203.00,00,,Orgues Ã  tuyaux et Ã  clavier; harmoniums et instruments similaires Ã  clavier et Ã  anches libres mÃ©talliques.,,
+,92.04,,,,AccordÃ©ons et instruments similaires; harmonicas Ã  bouche,,
+,,9204.10,00,,- AccordÃ©ons et instruments similaires,,
+,92.05,,,,"Autres instruments de musique Ã  vent (clarinettes, trompettes, cornemuses, par exemple).",,
+8,,9205.10,00,00,- Instruments dits â€œcuivresâ€,U,- - - - -
+,,9205.90,00,,- Autres,,
+8,,9205.90,10,11,- - - - orgues Ã  tuyaux.,U,- - - - -
+8,,9205.90,10,19,- - - - autresâ€¦,U,- - - - -
+8,,9205.90,20,00,"- - - - - ""accordÃ©ons et instruments similaires ; harmonicas Ã  bouche""",U,- - - - -
+8,,9205.90,90,10,- - - - en mÃ©tal,U,- - - - -
+8,,9205.90,90,90,- - - - en autres matiÃ¨res,U,- - - - -
+8,,9206.00,00,00,"Instruments de musique Ã  percussion (tambours, caisses, xylophones, cymbales, castagnettes, maracas, par exemple)",U,- - - - -
+,92.07,,,,"Instruments de musique dont le son est produit ou doit Ãªtre amplifiÃ© par des moyens Ã©lectriques (orgues, guitares, accordÃ©ons, par exemple).",,
+8,,9207.10,00,00,"- Instruments Ã  clavier, autres que les accordÃ©ons",U,NOMBRE
+8,,9207.90,00,00,- Autres,U,NOMBRE
+,92.08,,,,"- - - - - BoÃ®tes Ã  musique, orchestrions, orgues de Barbarie, oiseaux chan- teurs, scies musicales et autres instruments de musique non repris dans une autre position du prÃ©sent Chapitre; appeaux de tous types; sifflets, cornes d'appel et autres instr",,
+8,,9208.10,00,00,- BoÃ®tes Ã  musique,U,- - - - -
+8,,9208.90,00,00,- Autres,U,- - - - -
+,92.09,,,,"Parties (mÃ©canismes de boÃ®tes Ã  musique, par exemple) et acces- soires (cartes, disques et rouleaux pour appareils Ã  jouer mÃ©cani- quement, par exemple) d'instruments de musique; mÃ©tronomes et diapasons de tous types.",,
+8,,9209.30,00,00,- Cordes harmoniquesÂ£- Autres :,KG,- - - - -
+8,,9209.91,00,00,- - Parties et accessoires de pianos,KG,- - - - -
+8,,9209.92,00,00,- - - - - Parties et accessoires des instruments de musique du nÂ° 9202,KG,- - - - -
+8,,9209.94,00,00,- - - - - Parties et accessoires des instruments de musique du nÂ° 9207,KG,- - - - -
+,,9209.99,00,,- - Autres,,
+8,,,,00,- - - Autres,KG,- - - - -

@@ -1,0 +1,183 @@
+0,1,2,3,4,5,6,7
+,51.01,,,,"Laines, non cardÃ©es ni peignÃ©esÂ£- En suint, y compris les laines lavÃ©es Ã  dos :",,
+,,5101.11,00,,- - Laines de tonte,,
+3,,,,00,- - Laines de tonte,KG,- - - - -
+,,5101.19,00,,- - Autres,,
+3,,,,00,- - Autres,KG,- - - - -
+3,,5101.21,00,00,- - Laines de tonte,KG,- - - - -
+3,,5101.29,00,00,- - Autres,KG,- - - - -
+3,,5101.30,00,00,- CarbonisÃ©es,KG,- - - - -
+,51.02,,,,"Poils fins ou grossiers, non cardÃ©s ni peignÃ©sÂ£- Poils fins :",,
+3,,5102.11,00,00,- - De chÃ¨vre de Cachemire,KG,- - - - -
+,,5102.19,00,,- - Autres,,
+3,,,,30,"- - - poils d'alpaga, de lama, de vigogne, de yack, de chameau et dromadaire, de chÃ¨vre mohair, de chÃ¨vre du Thibet et similaires",KG,- - - - -
+3,,,,70,- - - autres,KG,- - - - -
+3,,5102.20,00,00,- Poils grossiers,KG,- - - - -
+,51.03,,,,"- - - - DÃ©chets de laine ou de poils fins ou grossiers, y compris les dÃ©chets de fils mais Ã  l'exclusion des effilochÃ©s.",,
+3,,5103.10,00,00,- Blousses de laine ou de poils fins,KG,- - - - -
+,,5103.20,,,- Autres dÃ©chets de laine ou de poils fins,,
+,,,00,,- Autres dÃ©chets de laine ou de poils fins,,
+3,,,,00,- Autres dÃ©chets de laine ou de poils fins,KG,- - - - -
+,,5103.30,,,- DÃ©chets de poils grossiers,,
+,,,00,,- DÃ©chets de poils grossiers,,
+3,,,,00,- DÃ©chets de poils grossiers,KG,- - - - -
+3,,5104.00,00,00,EffilochÃ©s de laine ou de poils fins ou grossiers,KG,- - - - -
+,51.05,,,,"- - - Laine, poils fins ou grossiers, cardÃ©s ou peignÃ©s (y compris la Â«laine peignÃ©e en vracÂ»).",,
+,,5105.10,,,- Laine cardÃ©e,,
+3,,,00,00,- Laine cardÃ©e,KG,- - - - -
+,,5105.21,,,- - Â«Laine peignÃ©e en vracÂ»,,
+3,,,00,00,- - Â«Laine peignÃ©e en vracÂ»,KG,- - - - -
+,,5105.29,,,- - Autre,,
+,,,10,,"- - - Ã©crue, dÃ©cruÃ©e ou blanchie :Â£- - - - rubans enroulÃ©s en boules (tops) :",,
+3,,,,11,- - - - - contenant au moins 85% en poids de laine,KG,- - - - -
+3,,,,19,- - - - - contenant moins de 85% en poids de laine,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :Â£- - - - rubans enroulÃ©s en boules (tops) :,,
+3,,,,00,- - - autres,KG,- - - - -
+,,5105.31,,,- - De chÃ¨vre de Cachemire,,
+3,,,00,00,- - De chÃ¨vre de Cachemire,KG,- - - - -
+,,5105.39,,,- - Autres,,
+3,,,00,00,- - Autres,KG,- - - - -
+,,,20,,"- - - Ã©crus, dÃ©cruÃ©s ou blanchis",,
+,,,80,,- - - autres,,
+,,5105.40,,,"- Poils grossiers, cardÃ©s ou peignÃ©s",,
+3,,,00,00,"- Poils grossiers, cardÃ©s ou peignÃ©s",KG,- - - - -
+,,,20,,"- - - Ã©crus, dÃ©cruÃ©s ou blanchis",,
+,,,80,,- - - autres,,
+,51.06,,,,"Fils de laine cardÃ©e, non conditionnÃ©s pour la vente au dÃ©tail",,
+,,5106.10,,,"- ""Contenant au moins 85% en poids de laineâ€“ â€“ â€“ simples :""",,
+,,,00,,- Contenant au moins 85% en poids de laineÂ£- - - Ã©crus :,,
+5,,,11,00,- - - - Ã©crus,KG,- - - - -
+5,,,19,00,- - - - autres Â£â€“ â€“ â€“ retors ou cÃ¢blÃ©s :,KG,- - - - -
+5,,,91,00,- - - - Ã©crus,KG,- - - - -
+5,,,99,00,- - - - autres,KG,- - - - -
+,,5106.20,00,,- Contenant moins de 85% en poids de laineÂ£- - - Ã©crus :,,
+5,,5106.20,10,00,- - - Migration NGP inexistants,KG,- - - - -
+5,,5106.20,10,00,- - - Migration NGP inexistants,KG,- - - - -
+5,,5106.20,10,00,- - - Ã©crus,KG,- - - - -
+5,,5106.20,10,00,- - - Ã©crus,KG,- - - - -
+5,,5106.20,90,00,- - - autres,KG,- - - - -
+,51.07,,,,"Fils de laine peignÃ©e, non conditionnÃ©s pour la vente au dÃ©tail",,
+,,5107.10,00,,- Contenant au moins 85% en poids de laineÂ£- - - Ã©crus :,,
+5,,5107.10,10,00,- - - Ã©crus,KG,- - - - -
+5,,5107.10,90,00,- - - autres,KG,- - - - -
+,,5107.20,00,,- Contenant moins de 85% en poids de laineÂ£- - - Ã©crus :,,
+5,,5107.20,10,00,- - - Ã©crus,KG,- - - - -
+5,,5107.20,90,00,- - - autres,KG,- - - - -
+,51.08,,,,"- - Fils de poils fins, cardÃ©s ou peignÃ©s, non conditionnÃ©s pour la vente au dÃ©tail.",,
+,,5108.10,00,,- CardÃ©s,,
+5,,,,00,- CardÃ©s,KG,- - - - -
+,,5108.20,00,,- PeignÃ©s,,
+5,,,,00,- PeignÃ©s,KG,- - - - -
+,51.09,,,,"Fils de laine ou de poils fins, conditionnÃ©s pour la vente au dÃ©tail",,
+8,,5109.10,00,00,- Contenant au moins 85% en poids de laine ou de poils fins,KG,- - - - -
+8,,5109.90,00,00,- Autres,KG,- - - - -
+,,5110.00,00,,"- - Fils de poils grossiers ou de crin (y compris les fils de crin guipÃ©s), mÃªme conditionnÃ©s pour la vente au dÃ©tail.Â£- - - non conditionnÃ©s pour la vente au dÃ©tail :",,
+5,,,,20,- - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+8,,,,80,- - - conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,51.11,,,,Tissus de laine cardÃ©e ou de poils fins cardÃ©sÂ£- Contenant au moins 85% en poids de laine ou de poils fins :,,
+,,5111.11,,,- - D'un poids n'excÃ©dant pas 300 g/m2,,
+,,,20,,- - - tissus Ã©lastiques,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur) :",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5111.19,,,- - Autres,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur) :",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5111.20,,,- synthÃ©tiques ou artificiels,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur)",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,5111.30,,,"- - - Autres, mÃ©langÃ©s principalement ou uniquement avec des fibres synthÃ©tiques ou artificielles discontinues",,
+,,,20,,- - - tissus Ã©lastiques :,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur)",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5111.90,,,- Autres,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,51.12,,,,Tissus de laine peignÃ©e ou de poils fins peignÃ©sÂ£- Contenant au moins 85 % en poids de laine ou de poils fins :,,
+,,5112.11,,,- - D'un poids n'excÃ©dant pas 200 g/m2,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5112.19,,,- - Autres,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5112.20,,,"- Autres, mÃ©langÃ©s principalement ou uniquement avec des filaments synthÃ©tiques ou artificiels",,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,5112.30,,,"- - - Autres, mÃ©langÃ©s principalement ou uniquement avec des fibres synthÃ©tiques ou artificielles discontinues",,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5112.90,,,- Autres,,
+,,,20,,- - - tissus Ã©lastiques:,,
+5,,,,10,- - - - de poils de dromadaire,KG,- - - - -
+5,,,,90,- - - - autres%â€“ â€“ â€“ autres :,KG,- - - - -
+,,,92,,"- - - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles (chaussures d'intÃ©rieur):",,
+8,,,,10,- - - - - de poils de dromadaire,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,98,,- - - - autres :,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,5113.00,,,Tissus de poils grossiers ou de crin,,
+,,,20,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques%â€“ â€“ â€“ autres :,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,91,,- - - - tissus de poils grossiers :,,
+,,,92,,- - - - tissus de poils grossiers :,,

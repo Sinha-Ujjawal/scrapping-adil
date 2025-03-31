@@ -1,0 +1,115 @@
+0,1,2,3,4,5,6,7
+,91.01,,,,"Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mÃªmes types), avec boÃ®te en mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux.Â£- Montres-bracelets, fonctionnant Ã©lectriquement, mÃªme inco",,
+8,,9101.11,00,00,- - A affichage mÃ©canique seulement,U,NOMBRE
+8,,9101.19,00,10,- - - Ã  affichage optoÃ©lectronique seulement,U,- - - - -
+8,,9101.19,00,90,- - - autres,U,- - - - -
+,,9101.21,00,,- - A remontage automatique,,
+8,,,,00,- - - A remontage automatique,U,NOMBRE
+,,9101.29,00,,- - Autres,,
+8,,,,00,- - - Autres,U,NOMBRE
+8,,9101.91,00,00,- - Fonctionnant Ã©lectriquement,U,NOMBRE
+,,9101.99,00,,- - Autres,,
+8,,,,00,- - - Autres,U,NOMBRE
+,91.02,,,,"Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mÃªmes types), autres que celles du nÂ°91.01.Â£- Montres-bracelets, fonctionnant Ã©lectriquement, mÃªme incorporant un compteur de temps :",,
+8,,9102.11,00,00,- - A affichage mÃ©canique seulement,U,NOMBRE
+8,,9102.12,00,00,- - A affichage optoÃ©lectronique seulement,U,NOMBRE
+8,,9102.19,00,00,"- - AutresÂ£- Autres montres-bracelets, mÃªme incorporant un compteur de temps :",U,NOMBRE
+,,9102.21,00,,- - A remontage automatique,,
+8,,,,00,- - - A remontage automatique,U,NOMBRE
+,,9102.29,00,,- - Autres,,
+8,,,,00,- - - Autres,U,NOMBRE
+8,,9102.91,00,00,- - fonctionnant Ã©lectriquement,U,NOMBRE
+,,9102.99,00,,- - Autres,,
+8,,,,00,- - - Autres,U,NOMBRE
+,91.03,,,,"RÃ©veils et pendulettes, Ã  mouvement de montre",,
+,,9103.10,00,,- Fonctionnant Ã©lectriquement,,
+8,,,,00,- - - Fonctionnant Ã©lectriquement,U,NOMBRE
+,,9103.90,00,,- Autres,,
+8,,,,00,- - - Autres,U,NOMBRE
+8,,9104.00,00,00,"Montres de tableaux de bord et montres similaires, pour automobiles, vÃ©hicules aÃ©riens, bateaux ou autres vÃ©hicules",U,NOMBRE
+,91.05,,,,"RÃ©veils, pendules, horloges et appareils d'horlogerie similaires, Ã  mouvement autre que de montre.Â£- RÃ©veils :",,
+8,,9105.11,00,00,- - fonctionnant Ã©lectriquement,U,NOMBRE
+,,9105.19,,,- - Autres,,
+8,,,00,00,- - - Autres,U,NOMBRE
+8,,9105.21,00,00,- - fonctionnant Ã©lectriquement,U,NOMBRE
+,,9105.29,,,- - Autres,,
+8,,,00,00,- - - Autres,U,NOMBRE
+,,9105.91,00,,- - fonctionnant Ã©lectriquement,,
+8,,,,00,- - - Fonctionnant Ã©lectriquement,U,NOMBRE
+,,9105.99,00,,- - Autres,,
+8,,,,10,"- - - de tables, de cheminÃ©es et similaires",U,NOMBRE
+8,,,,90,- - - autres,U,NOMBRE
+,91.06,,,,"Appareils de contrÃ´le du temps et compteurs de temps, Ã  mouve- ment d'horlogerie ou Ã  moteur synchrone (horloges de pointage, horodateurs, horocompteurs, par exemple).",,
+,,9106.10,00,,- Horloges de pointage; horodateurs et horocompteurs,,
+7,,,,10,- - - enregistreurs de prÃ©sence (horloges de pointage),U,NOMBRE
+7,,,,90,- - - autres,U,- - - - -
+8,,9106.90,00,10,- - - parcmÃ¨tres,U,- - - - -
+8,,9106.90,00,90,- - - autres,U,- - - - -
+,,9107.00,,,"Interrupteurs horaires et autres appareils permettant de dÃ©clencher un mÃ©canisme Ã  temps donnÃ©, munis d'un mouvement d'horlogerie ou d'un moteur synchrone.",,
+7,,,00,00,"- - - Interrupteurs horaires et autres appareils permettant de dÃ©clencher un mÃ©canisme Ã  temps donnÃ©, munis d un mouvement d horlogerie ou d un moteur synchrone",U,- - - - -
+,91.08,,,,"Mouvements de montres, complets et assemblÃ©sÂ£- Fonctionnant Ã©lectriquement :",,
+8,,9108.11,00,00,- - A affichage mÃ©canique seulement ou avec un dispositif qui permette d'incorporer un affichage mÃ©canique,U,NOMBRE
+8,,9108.12,00,00,- - A affichage optoÃ©lectronique seulement,U,NOMBRE
+8,,9108.19,00,00,- - Autres,U,NOMBRE
+8,,9108.20,00,00,- A remontage automatique,U,NOMBRE
+,,9108.90,,,- Autres,,
+8,,,00,00,- - - Autres,U,NOMBRE
+,91.09,,,,"Mouvements d'horlogerie, complets et assemblÃ©s, autres que de montres.Â£- Fonctionnant Ã©lectriquement :",,
+8,,9109.10,00,00,- - - Fonctionnant Ã©lectriquement,U,- - - - -
+8,,9109.90,00,00,- Autres,U,- - - - -
+,91.10,,,,"- Mouvements d'horlogerie complets, non assemblÃ©s ou partiellement assemblÃ©s (chablons); mouvements d'horlogerie incomplets, assem- blÃ©s; Ã©bauches de mouvements d'horlogerie.Â£- De montres :",,
+5,,9110.11,00,00,"- - - Mouvements complets, non assemblÃ©s ou partiellement assemblÃ©s (chablons)",U,NOMBRE
+5,,9110.12,00,00,"- - Mouvements incomplets, assemblÃ©s",KG,- - - - -
+5,,9110.19,00,00,- - Ebauches,KG,- - - - -
+,,9110.90,,,- Autres,,
+5,,,00,00,- - - Autres,KG,- - - - -
+,91.11,,,,BoÃ®tes de montres des nÂ°s 9101 ou 9102 et leurs parties,,
+8,,9111.10,00,00,- BoÃ®tes en mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux,U,- - - - -
+8,,9111.20,00,00,"- BoÃ®tes en mÃ©taux communs, mÃªme dorÃ©s ou argentÃ©s",U,- - - - -
+8,,9111.80,00,00,- Autres boÃ®tes,U,- - - - -
+,,9111.90,,,"- PartiesÂ£- - - brutes, simplement Ã©bauchÃ©es :",,
+8,,,11,00,- - - - en mÃ©taux prÃ©cieux ou en plaquÃ©s de mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,19,00,- - - - autres,KG,- - - - -
+,,,90,,- - - finies :,,
+8,,,,10,- - - - en mÃ©taux prÃ©cieux ou en plaquÃ©s de mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,91.12,,,,Cages et cabinets d'appareils d'horlogerie et leurs parties,,
+,,9112.20,,,- Cages et cabinets,,
+8,,,10,00,- - - en mÃ©taux prÃ©cieux ou en plaquÃ©s de mÃ©taux prÃ©cieux,U,- - - - -
+8,,,90,00,- - - autres,U,- - - - -
+,,9112.80,,,(Position supprimeÃ©),,
+,,9112.90,,,"- PartiesÂ£- - - brutes, simplement Ã©bauchÃ©es :",,
+8,,,11,00,- - - - en mÃ©taux prÃ©cieux ou en plaquÃ©s de mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,19,00,- - - - autres,KG,- - - - -
+,,,90,,- - - finies :,,
+8,,,,10,- - - - en mÃ©taux prÃ©cieux ou en plaquÃ©s de mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,91.13,,,,Bracelets de montres et leurs parties,,
+,,9113.10,00,,- - En mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieuxÂ£- - - en mÃ©taux prÃ©cieux :,,
+8,,,,11,- - - - de bijouterie,KG,- - - - -
+8,,,,13,- - - - de joaillerie,KG,- - - - -
+8,,,,19,- - - - autresÂ£- - - en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux :,KG,- - - - -
+8,,,,91,- - - - de bijouterie,KG,- - - - -
+8,,,,93,- - - - de joaillerie,KG,- - - - -
+8,,,,99,- - - - autres,KG,- - - - -
+8,,9113.20,00,00,"- En mÃ©taux communs, mÃªme dorÃ©s ou argentÃ©s",KG,- - - - -
+,,9113.90,00,,- Autres,,
+8,,,,10,- - - en cuir,KG,- - - - -
+8,,,,20,- - - en matiÃ¨res plastiques,KG,- - - - -
+8,,,,30,- - - en tissu,KG,- - - - -
+8,,,,40,"- - - en pierres fines, en pierres gemmes ou en pierres synthÃ©tiques ou recons- tituÃ©es",KG,1000 G NET
+8,,,,90,- - - autres,KG,- - - - -
+,91.14,,,,Autres fournitures d'horlogerie,,
+,,9114.20,,,- Pierres,,
+,,,10,,"- - - pierres d'horlogerie (pierres gemmes, pierres synthÃ©tiques ou reconsti- tuÃ©es et imitations de pierres gemmes) non serties ni montÃ©es :",,
+5,,9114.30,00,00,- Cadrans,KG,- - - - -
+5,,9114.40,00,00,- Platines et ponts,KG,- - - - -
+,,9114.90,,,- Autres,,
+5,,,05,00,"- - - ressorts, y compris les spiraux",KG,- - - - -
+5,,,10,00,- - - porte-Ã©chappement et piÃ¨ces de sonnerie assemblÃ©es,KG,NOMBRE
+5,,,20,00,- - - - - pierres,KG,- - - - -
+,,,90,,- - - autres :,,
+5,,,,10,"- - - - piÃ¨ces de mouvement de montres (cage, organe moteur, rouage, minuterie",KG,- - - - -
+5,,,,20,"- - - - Ã©chappement, rÃ©gulateur, mÃ©canisme de remontoir et de mise Ã  l'heure non assemblÃ©es",KG,- - - - -
+5,,,,30,"- - - - piÃ¨ces de mouvement de rÃ©veils, pendulettes, pendules, horloges et autres appareils d'horlogerie non assemblÃ©es",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -

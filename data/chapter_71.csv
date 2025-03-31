@@ -1,0 +1,146 @@
+0,1,2,3,4,5,6,7
+,71.01,,,,"Perles fines ou de culture, mÃªme travaillÃ©es ou assorties mais non enfilÃ©es, ni montÃ©es ni serties; perles fines ou de culture, enfilÃ©es temporairement pour la facilitÃ© du transport.",,
+,,7101.10,,,- Perles fines,,
+8,,,00,00,- Perles fines,KG,GR. NET
+,,,90,,- - - - autres :,,
+,,7101.21,,,- - Brutes,,
+8,,,00,00,- - Brutes,KG,GR. NET
+,,7101.22,,,- - TravaillÃ©es,,
+8,,,00,00,- - TravaillÃ©es,KG,GR. NET
+,71.02,,,,"- - - Diamants, mÃªme travaillÃ©s, mais non montÃ©s ni sertis",,
+,,7102.10,00,,"- Non triÃ©sÂ£- - - bruts ou simplement sciÃ©s, clivÃ©s ou dÃ©brutÃ©s :",,
+5,,,,10,"- - - bruts ou simplement sciÃ©s, clivÃ©s ou dÃ©brutÃ©s",CARAT,GR. NET
+4,,,,91,- - - - pour usages industriels,CARAT,GR. NET
+8,,,,99,- - - - pour usages non industrielsÂ£- Industriels :,CARAT,GR. NET
+5,,7102.21,00,00,"- - Bruts ou simplement sciÃ©s, clivÃ©s ou dÃ©brutÃ©s",CARAT,GR. NET
+4,,7102.29,00,00,- - AutresÂ£- Non industriels :,CARAT,GR. NET
+5,,7102.31,00,00,"- - Bruts ou simplement sciÃ©s, clivÃ©s ou dÃ©brutÃ©s",CARAT,GR. NET
+5,,7102.39,00,00,- - Autres,CARAT,GR. NET
+,71.03,,,,"- - - - Pierres gemmes (prÃ©cieuses ou fines) autres que les diamants, mÃªme travaillÃ©es ou assorties mais non enfilÃ©es, ni montÃ©es, ni serties; pierres gemmes (prÃ©cieuses ou fines) autres que les diamants, non assorties, enfilÃ©es temporairement pour",,
+,,7103.10,00,,- Brutes ou simplement sciÃ©es ou dÃ©grossies,,
+5,,,,00,- Brutes ou simplement sciÃ©es ou dÃ©grossies,CARAT,GR. NET
+,,7103.91,00,,"- - Rubis, saphirs et Ã©meraudes",,
+5,,,,10,- - - pour usages industriels,CARAT,GR. NET
+8,,,,90,- - - pour usages non industriels,CARAT,GR. NET
+5,,7103.99,00,00,- - Autres,CARAT,GR. NET
+,71.04,,,,"- - - - Pierres synthÃ©tiques ou reconstituÃ©es, mÃªme travaillÃ©es ou assorties mais non enfilÃ©es ni montÃ©es ni serties; pierres synthÃ©tiques ou reconstituÃ©es non assorties, enfilÃ©es temporairement pour la facilitÃ© du transport.",,
+,,7104.10,00,,- - Quartz piÃ©zo-Ã©lectrique,,
+5,,,,10,"- - - bruts ou simplement sciÃ©s, clivÃ©s ou dÃ©brutÃ©sÂ£- - - autres :",KG,GR. NET
+5,,,,91,- - - - pour usages industriels,KG,GR. NET
+8,,,,99,- - - - pour autres usages,KG,GR. NET
+5,,7104.21,00,00,- - Diamants,KG,GR. NET
+5,,7104.29,00,00,- - Autres,KG,GR. NET
+,,7104.90,00,,- Autres,,
+5,,7104.91,00,00,- - Diamants,KG,GR. NET
+,,7104.99,00,,- - Autres,,
+5,,,,10,- - - pour usages industriels,KG,GR. NET
+8,,,,90,pour autres usages,KG,GR. NET
+,71.05,,,,EgrisÃ©s et poudres de pierres gemmes ou de pierres synthÃ©tiques,,
+4,,7105.10,00,00,- De diamants,CARAT,GR. NET
+4,,7105.90,00,00,- Autres,KG,GR. NET
+,71.06,,,,"- - - - Argent (y compris l'argent dorÃ© ou vermeil et l'argent platinÃ©), sous formes brutes ou mi-ouvrÃ©es, ou en poudre.",,
+5,,7106.10,00,00,- PoudresÂ£- Autres :,KG,1000 G NET
+5,,7106.91,00,00,- - Sous formes brutes,KG,1000 G NET
+,,7106.92,00,,- - Sous formes mi-ouvrÃ©es,,
+5,,,,00,- - Sous formes mi-ouvrÃ©es,KG,1000 G NET
+,,7107.00,00,,"- - PlaquÃ© ou doublÃ© d'argent sur mÃ©taux communs, sous formes brutes ou mi-ouvrÃ©es.",,
+5,,,,00,"PlaquÃ© ou doublÃ© d'argent sur mÃ©taux communs, sous formes brutes Â£ou mi-ouvrÃ©es",KG,- - - - -
+,71.08,,,,"Or (y compris l'or platinÃ©), sous formes brutes ou mi-ouvrÃ©es, ou en poudre.Â£- A usages non monÃ©taires :",,
+9,,7108.11,00,00,- - Poudres,KG,GR. NET
+,,7108.12,,,- - Sous autres formes brutes,,
+9,,,10,00,- - - - lingots,KG,GR. NET
+9,,,90,00,- - - - autres,KG,GR. NET
+,,7108.13,,,- - Sous autres formes mi-ouvrÃ©es,,
+,,,00,,- - Sous autres formes mi-ouvrÃ©es,,
+9,,,,10,"- - - ""barres, fils et profilÃ©s ; planches, feuilles et bandes""",KG,GR. NET
+9,,,,90,- - - autres,KG,GR. NET
+,,7108.20,00,,- A usage monÃ©taire,,
+9,,,,00,- A usage monÃ©taire,KG,GR. NET
+9,,7109.00,00,00,"- - PlaquÃ© ou doublÃ© d'or sur mÃ©taux communs ou sur argent, sous formes brutes ou mi-ouvrÃ©es",KG,GR. NET
+,71.10,,,,"Platine, sous formes brutes ou mi-ouvrÃ©es, ou en poudreÂ£- Platine :",,
+,,7110.11,00,,- - Sous formes brutes ou en poudre,,
+5,,,,00,- - Sous formes brutes ou en poudre,KG,GR. NET
+,,7110.19,00,,- - Autres,,
+5,,,,00,- - Autres,KG,GR. NET
+5,,7110.21,00,00,- - Sous formes brutes ou en poudre,KG,GR. NET
+5,,7110.29,00,00,- - AutresÂ£- Rhodium :,KG,GR. NET
+5,,7110.31,00,00,- - Sous formes brutes ou en poudre,KG,GR. NET
+5,,7110.39,00,00,"- - AutresÂ£- Iridium, osmium et ruthÃ©nium :",KG,GR. NET
+5,,7110.41,00,00,- - Sous formes brutes ou en poudre,KG,GR. NET
+5,,7110.49,00,00,- - Autres,KG,GR. NET
+5,,7111.00,00,00,"- - - PlaquÃ© ou doublÃ© de platine sur mÃ©taux communs, sur argent ou sur or, sous formes brutes ou mi-ouvrÃ©es",KG,- - - - -
+,71.12,,,,DÃ©chets et dÃ©bris de mÃ©taux prÃ©cieux ou de plaquÃ© ou doublÃ© de mÃ©taux prÃ©cieux ; autres dÃ©chets et dÃ©bris contenant des mÃ©taux prÃ©cieux ou des composÃ©s de mÃ©taux prÃ©cieux du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des m,,
+,71.12,,,,DÃ©chets et dÃ©bris de mÃ©taux prÃ©cieux ou de plaquÃ© ou doublÃ© de mÃ©taux prÃ©cieux ; autres dÃ©chets et dÃ©bris contenant des mÃ©taux prÃ©cieux ou des composÃ©s de mÃ©taux prÃ©cieux du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des m,,
+,71.12,,,,DÃ©chets et dÃ©bris de mÃ©taux prÃ©cieux ou de plaquÃ© ou doublÃ© de mÃ©taux prÃ©cieux; autres dÃ©chets et dÃ©bris contenant des mÃ©taux prÃ©cieux ou des composÃ©s de mÃ©taux prÃ©cieux du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ,,
+,71.12,,,,DÃ©chets et dÃ©bris de mÃ©taux prÃ©cieux ou de plaquÃ© ou doublÃ© de mÃ©taux prÃ©cieux; autres dÃ©chets et dÃ©bris contenant des mÃ©taux prÃ©cieux ou des composÃ©s de mÃ©taux prÃ©cieux du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ,,
+5,,7112.30,00,00,"- Cendres contenant des mÃ©taux prÃ©cieux ou des composÃ©s de mÃ©taux prÃ©cieux, Ã  l'exclusion des cendres d'orfÃ¨vreÂ£- Autres :",KG,- - - - -
+,,7112.91,,,"- - - - - D'or, mÃªme de plaquÃ© ou doublÃ© d'or, Ã  l'exclusion des cendres d'orfÃ¨vre contenant d'autres mÃ©taux prÃ©cieuxÂ£- - - dÃ©chets et dÃ©bris du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ©taux prÃ©cieux :",,
+4,,,12,00,- - - - rÃ©sidus mÃ©tallurgiques,KG,- - - - -
+5,,,18,00,- - - - autres,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,7112.92,,,"- - - - De platine, mÃªme de plaquÃ© ou doublÃ© de platine, Ã  l'exclusion des cendres d'orfÃ¨vre contenant d'autres mÃ©taux prÃ©cieuxÂ£- - - dÃ©chets et dÃ©bris du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ©taux prÃ©cieux :",,
+4,,,12,00,- - - - rÃ©sidus mÃ©tallurgiques,KG,- - - - -
+5,,,18,00,- - - - autres,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,7112.99,,,- - AutresÂ£- - - dÃ©chets et dÃ©bris du type de ceux utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ©taux prÃ©cieux :,,
+4,,,15,00,- - - - rÃ©sidus mÃ©tallurgiques,KG,- - - - -
+5,,,20,00,"- - - - dÃ©chets, rognures et dÃ©bris de matiÃ¨res plastiques",KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,71.13,,,,"Articles de bijouterie ou de joaillerie et leurs parties, en mÃ©taux prÃ©- cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux.Â£- En mÃ©taux prÃ©cieux, mÃªme revÃªtus, plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux :",,
+,,7113.11,00,,"- - En argent, mÃªme revÃªtu, plaquÃ© ou doublÃ© d'autres mÃ©taux prÃ©cieuxÂ£- - - en argent :Â£- - - - articles de bijouterie :",,
+8,,7113.11,10,00,- - - en argent,KG,- - - - -
+8,,7113.11,90,00,"- - - revÃªtu, plaquÃ©s ou doublÃ©s d'autres mÃ©taux prÃ©cieux",KG,- - - - -
+,,7113.19,00,,"- - - - En autres mÃ©taux prÃ©cieux, mÃªme revÃªtus, plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieuxÂ£- - - en autres mÃ©taux prÃ©cieux :Â£- - - - articles de bijouterie :",,
+8,,7113.19,10,00,- - - en autres mÃ©taux prÃ©cieux,KG,- - - - -
+8,,7113.19,90,00,"- - - revÃªtu, plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux",KG,- - - - -
+,,7113.20,00,,- - En plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux sur mÃ©taux communsÂ£- - - articles de bijouterie :Â£- - - - mÃ©dailles :,,
+8,,,,11,- - - - - en plaquÃ©s ou doublÃ©s d'argent,KG,- - - - -
+8,,,,19,- - - - - en plaquÃ©s ou doublÃ©s d'autres mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,,20,- - - - autres articlesÂ£- - - articles de joaillerie :Â£- - - - mÃ©dailles :,KG,- - - - -
+8,,,,31,- - - - - en plaquÃ©s ou doublÃ©s d'argent,KG,- - - - -
+8,,,,39,- - - - - en plaquÃ©s ou doublÃ©s d'autres mÃ©taux prÃ©cieux,KG,- - - - -
+8,,,,40,- - - - autres articlesÂ£- - - autres articles :,KG,- - - - -
+8,,,,90,- - - autres articles,KG,- - - - -
+,71.14,,,,"- - - Articles d'orfÃ¨vrerie et leurs parties, en mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux.Â£- En mÃ©taux prÃ©cieux, mÃªme revÃªtus, plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux :",,
+,,7114.11,00,,"- - En argent, mÃªme revÃªtu, plaquÃ© ou doublÃ© d'autres mÃ©taux prÃ©cieuxÂ£- - - en mÃ©taux prÃ©cieux :",,
+8,,,,00,"- - En argent, mÃªme revÃªtu, plaquÃ© ou doublÃ© d'autres mÃ©taux Â£prÃ©cieux",KG,- - - - -
+,,7114.19,00,,"- - En autres mÃ©taux prÃ©cieux, mÃªme revÃªtus, plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieuxÂ£- - - en mÃ©taux prÃ©cieux :",,
+8,,,,11,- - - - mÃ©dailles,KG,- - - - -
+8,,,,19,- - - - autres articlesÂ£- - - en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux :Â£- - - - mÃ©dailles :,KG,- - - - -
+8,,,,90,- - - en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux,KG,- - - - -
+,,7114.20,00,,- En plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux sur mÃ©taux communsÂ£- - - mÃ©dailles :,,
+8,,,,10,- - - en plaquÃ©s ou doublÃ©s d'argent,KG,- - - - -
+8,,,,90,- - - en plaquÃ©s ou doublÃ©s d'autres mÃ©taux prÃ©cieux,KG,- - - - -
+,71.15,,,,- - Autres ouvrages en mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux.,,
+8,,7115.10,00,00,- Catalyseurs sous forme de toiles ou de treillis en platine,KG,- - - - -
+,,7115.90,,,- Autres,,
+,,,10,,- - - articles pour usages techniques ou pour laboratoires :,,
+8,,,,00,- - - articles pour usages techniques ou pour laboratoires,KG,- - - - -
+,,,90,,- - - - autres :,,
+8,,,,00,- - - autres,KG,- - - - -
+,71.16,,,,"Ouvrages en perles fines ou de culture, en pierres gemmes ou en pierres synthÃ©tiques ou reconstituÃ©es.",,
+,,7116.10,00,,- En perles fines ou de culture,,
+8,,,,00,- En perles fines ou de culture,KG,1000 G NET
+,,7116.20,00,,- - - En pierres gemmes ou en pierres synthÃ©tiques ou reconstituÃ©es,,
+,,7116.20,10,,- - - exclusivement en pierres gemmes :,,
+8,,,,11,"- - - - colliers, bracelets, et autres ouvrages en pierres gemmes simplement Â£enfilÃ©es sans dispositif de fermeture ou autres accessoires",KG,1000 G NET
+8,,,,19,- - - - autres,KG,1000 G NET
+8,,7116.20,90,00,- - - autres,KG,1000 G NET
+,71.17,,,,"Bijouterie de fantaisieÂ£- En mÃ©taux communs, mÃªme argentÃ©s, dorÃ©s ou platinÃ©s :",,
+,,7117.11,,,- - Boutons de manchettes et boutons similaires,,
+5,,,00,00,- - Boutons de manchettes et boutons similaires,KG,- - - - -
+8,,7117.19,00,00,- - Autres,KG,- - - - -
+,,7117.90,,,"- AutresÂ£- - - boutons de manchettes et similaires (y compris leurs Ã©bauches, leurs formes et leurs parties) :",,
+8,,,11,00,- - - - boutons,KG,- - - - -
+5,,,19,00,- - - - - autresÂ£- - - autres :,KG,- - - - -
+5,,,91,00,- - - - en bois,KG,- - - - -
+5,,,93,00,- - - - en plÃ¢tre ou en composition Ã  base de plÃ¢tre,KG,- - - - -
+8,,,99,00,- - - - - autres,KG,- - - - -
+,71.18,,,,Monnaies,,
+8,,7118.10,00,00,"- Monnaies n'ayant pas cours lÃ©gal, autres que les piÃ¨ces d'or",KG,GR. NET
+,,7118.90,,,- AutresÂ£- - - en or :,,
+9,,,10,00,- - - - ayant encore cours lÃ©gal dans le pays d'origine ou d'Ã©missionÂ£- - - - autres :,KG,GR. NET
+9,,,21,00,- - - - - importÃ©es pour son propre compte par Bank Al-Maghrib,KG,GR. NET
+9,,,29,00,- - - - - - autres,KG,GR. NET
+8,,,30,00,- - - en argent,KG,GR. NET
+8,,,90,00,- - - - autres,KG,GR. NET

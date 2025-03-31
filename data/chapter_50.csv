@@ -1,0 +1,57 @@
+0,1,2,3,4,5,6,7
+3,,5001.00,00,00,Cocons de vers Ã  soie propres au dÃ©vidage,KG,- - - - -
+3,,5002.00,00,00,Soie grÃ¨ge (non moulinÃ©e),KG,- - - - -
+,50.03,,,,"DÃ©chets de soie (y compris les cocons non dÃ©vidables, les dÃ©chets de fils et les effilochÃ©s).",,
+,,5003.00,,,"DÃ©chets de soie (y compris les cocons non dÃ©vidables, les dÃ©chets de fils et les effilochÃ©s)",,
+,,,00,,"DÃ©chets de soie (y compris les cocons non dÃ©vidables, les dÃ©chets de fils et les effilochÃ©s)",,
+3,,,,00,"DÃ©chets de soie (y compris les cocons non dÃ©vidables, les dÃ©chets de fils et les effilochÃ©s)",KG,- - - - -
+,,5003.90,00,,- Autres,,
+,,5004.00,,,- - Fils de soie (autres que les fils de dÃ©chets de soie) non conditionnÃ©s pour la vente au dÃ©tail.,,
+5,,,00,10,"- - - Ã©crus, dÃ©crus ou blanchis",KG,- - - - -
+5,,,00,90,- - - autres,KG,- - - - -
+,,,91,,- - - - non dÃ©creusÃ©s (Ã©crus) :,,
+,,,92,,- - - - dÃ©creusÃ©s (dÃ©cruÃ©s) :,,
+,,,93,,- - - - blanchis :,,
+,,5005.00,00,,"Fils de dÃ©chets de soie, non conditionnÃ©s pour la vente au dÃ©tailÂ£- - - fils de bourre de soie (schappe) contenant au moins 85% en poids de soie :",,
+5,,,,10,"- - - Ã©crus, dÃ©crus ou blanchis Â£â€“ â€“ â€“ autres",KG,- - - - -
+5,,,,81,- - - - fils de boure de soie (schappe),KG,- - - - -
+8,,,,89,- - - - fils de dÃ©chets de bourre de soie,KG,- - - - -
+,,5006.00,,,"- Fils de soie ou de dÃ©chets de soie, conditionnÃ©s pour la vente au dÃ©tail; poil de Messine (crin de Florence).",,
+,,,00,,"Fils de soie ou de dÃ©chets de soie, conditionnÃ©s pour la vente au dÃ©tail; poil de Messine (crin de Florence).",,
+8,,,,10,- - - fils de soie,KG,- - - - -
+8,,,,20,- - - fils de dÃ©chets de soie,KG,- - - - -
+8,,,,30,- - - poils de messine (crin de Florence),KG,- - - - -
+,,,90,,- - - - - autres :,,
+,50.07,,,,Tissus de soie ou de dÃ©chets de soie,,
+,,5007.10,,,- Tissus de bourrette,,
+5,,,10,00,"- - - tissus (autres que de bonneterie) Ã©lastiques, contenant des fils de caoutchouc",KG,- - - - -
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,"- - - autres :Â£- - - - contenant au moins 85% en poids de dÃ©chets de bourre de soie (bourrette) :Â£- - - - - Ã  armure toile, sergÃ©, croisÃ© ou satin :",,
+,,,90,,"- - - autres :Â£- - - - contenant au moins 85% en poids de dÃ©chets de bourre de soie (bourrette) :Â£- - - - - Ã  armure toile, sergÃ©, croisÃ© ou satin :",,
+8,,,,10,"- - - - Ã©crus, dÃ©crus ou blanchis",KG,- - - - -
+8,,,,20,- - - - teints,KG,- - - - -
+8,,,,30,- - - - en fils de diverses couleurs,KG,- - - - -
+8,,,,40,- - - - imprimÃ©s,KG,- - - - -
+,,5007.20,,,"- Autres tissus, contenant au moins 85% en poids de soie ou de dÃ©chets de soie autres que la bourrette",,
+5,,,10,00,"- - - tissus (autres que de bonnetterie) Ã©lastiques, contenant des fils de caout- chouc",KG,- - - - -
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe) :,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe) :,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe):,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe):,,
+8,,,,10,- - - - - crÃªpes,KG,- - - - -
+8,,,,81,"- - - - - Ã©crus, dÃ©crus ou blanchis",KG,- - - - -
+8,,,,82,- - - - - teints,KG,- - - - -
+8,,,,83,- - - - - en fils de diverses couleurs,KG,- - - - -
+8,,,,84,- - - - - imprimÃ©s,KG,- - - - -
+,,5007.90,,,- Autres tissus,,
+5,,,10,00,"- - - tissus (autres que de bonnetterie) Ã©lastiques, contenant des fils de caout- chouc",KG,- - - - -
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe) :,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe) :,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe):,,
+,,,90,,- - - autres tissus de soie ou de bourre de soie (schappe):,,
+8,,,,10,- - - - crÃªpesÂ£- - - - autres :,KG,- - - - -
+8,,,,81,"- - - - - Ã©crus, dÃ©crus ou blanchis",KG,- - - - -
+8,,,,82,- - - - - teints,KG,- - - - -
+8,,,,83,- - - - - en fils de diverses couleurs,KG,- - - - -
+8,,,,84,- - - - - imprimÃ©s,KG,- - - - -

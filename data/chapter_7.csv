@@ -1,0 +1,270 @@
+0,1,2,3,4,5,6,7
+,07.01,,,,"Pommes de terre, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©",,
+1,,0701.10,00,00,- De semence,KG,- - - - -
+,,0701.90,00,,- AutresÂ£- - - de primeurs :,,
+1,,,,11,- - - - - du premier janvier au 15 mai,KG,- - - - -
+1,,,,19,- - - - - du 16 mai au 30 juinÂ£- - - autres :,KG,- - - - -
+1,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,0702.00,00,,"Tomates, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©",,
+1,,,,10,- - - du 1er novembre au 14 mai,KG,- - - - -
+1,,,,90,- - - du 15 mai au 31 octobre,KG,- - - - -
+,07.03,,,,"Oignons, Ã©chalotes, aulx, poireaux et autres lÃ©gumes alliacÃ©s, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©.",,
+,,0703.10,00,,- Oignons et Ã©chalotesÂ£- - - oignons :,,
+1,,,,11,- - - - frais,KG,- - - - -
+1,,,,19,- - - - - autres,KG,- - - - -
+1,,,,90,- - - Ã©chalotes,KG,- - - - -
+1,,0703.20,00,00,- Aulx,KG,- - - - -
+1,,0703.90,00,00,- Poireaux et autres lÃ©gumes alliacÃ©s,KG,- - - - -
+,07.04,,,,"- - Choux, choux-fleurs, choux frisÃ©s, choux-raves et produits comestibles similaires du genre Brassica, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©.",,
+,,0704.10,,,- Choux-fleurs et choux brocolis,,
+,,,00,,- Choux-fleurs et choux-fleurs brocolis,,
+1,,,,20,- - - du 15 avril au 30 novembre,KG,- - - - -
+1,,,,80,- - - du 1er dÃ©cembre au 14 avril,KG,- - - - -
+1,,0704.20,00,00,- Choux de Bruxelles,KG,- - - - -
+,,0704.90,00,,- Autres,,
+1,,,,00,- - - Autres,KG,- - - - -
+1,,,,00,- - - Autres,KG,- - - - -
+1,,,,00,- - - Autres,KG,- - - - -
+1,,,,00,- - - Autres,KG,- - - - -
+,07.05,,,,"Laitues (Lactuca sativa) et chicorÃ©es (Cichorium spp), Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©.Â£- Laitues :",,
+,07.05,,,,"Laitues (Lactuca sativa) et chicorÃ©es (Cichorium spp), Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©.Â£- Laitues :",,
+,07.05,,,,"""Laitues (Lactuca sativa) et chicorÃ©es (Cichorium spp.), Ã  l'Ã©tat frais ourÃ©frigÃ©rÃ©.""",,
+,07.05,,,,"""Laitues (Lactuca sativa) et chicorÃ©es (Cichorium spp.), Ã  l'Ã©tat frais ourÃ©frigÃ©rÃ©.""",,
+,,0705.11,00,,- - PommÃ©es,,
+1,,,,10,- - - du 1er avril au 30 novembre,KG,- - - - -
+1,,,,90,- - - du 1er dÃ©cembre au 31 mars,KG,- - - - -
+1,,0705.19,00,00,- - AutresÂ£- ChicorÃ©es :,KG,- - - - -
+1,,0705.21,00,00,- - Witloof (Cichorium intybus var foliosum),KG,- - - - -
+1,,0705.29,00,00,- - Autres,KG,- - - - -
+,07.06,,,,"- - - Carottes, navets, betteraves Ã  salade, salsifis, cÃ©leris-raves, radis et racines comestibles similaires, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©.",,
+,,0706.10,00,,- Carottes et navets,,
+1,,,,00,- - - - Carottes et navets,KG,- - - - -
+,,0706.90,00,,- AutresÂ£- - - celeris-raves :,,
+1,,,,11,- - - - du 1er mai au 30 septembre,KG,- - - - -
+1,,,,19,- - - - du 1er octobre au 30 avrilÂ£- - - autres :,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0707.00,00,,"Concombres et cornichons, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©",,
+1,,,,10,- - - concombres du 16 mai au 31 octobre,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,07.08,,,,"LÃ©gumes Ã  cosse, Ã©cossÃ©s ou non, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©",,
+,,0708.10,00,,- Pois (Pisum sativum )Â£- - - du 1er septembre au 31 mai :,,
+1,,,,10,- - - - du 1er septembre au 31 mai,KG,- - - - -
+1,,,,10,- - - - du 1er septembre au 31 mai,KG,- - - - -
+1,,,,10,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,10,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,90,- - - - du 1erjuin au 31 aoÃ»t,KG,- - - - -
+,,0708.20,,,"- Haricots (Vigna spp, Phaseolus spp)Â£- - - du 1er octobre au 30 juin :",,
+1,,,10,00,- - - - du 1er octobre au 30 juin,KG,- - - - -
+1,,,90,00,- - - - du 1er juillet au 30 septembre,KG,- - - - -
+,,0708.90,00,,- Autres lÃ©gumes Ã  cosse,,
+1,,,,10,- - - - fÃ¨ves,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,07.09,,,,"Autres lÃ©gumes, Ã  l'Ã©tat frais ou rÃ©frigÃ©rÃ©",,
+1,,0709.20,00,00,- Asperges,KG,- - - - -
+1,,0709.30,00,00,- Aubergines,KG,- - - - -
+1,,0709.40,00,00,- CÃ©leris autres que les cÃ©leris-ravesÂ£- Champignons et truffes :,KG,- - - - -
+1,,0709.51,00,00,- - Champignons du genre Agaricus,KG,- - - - -
+,,0709.52,00,,- - Truffes,,
+1,,,,00,- - Champignons du genre Boletus,KG,- - - - -
+1,,0709.53,00,00,- - Champignons du genre Cantharellus,KG,- - - - -
+1,,0709.54,00,00,- - Shiitake (Lentinus edodes),KG,- - - - -
+1,,0709.55,00,00,"- - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",KG,- - - - -
+1,,0709.56,00,00,- - Truffes (Tuber spp.),KG,- - - - -
+,,0709.59,00,,- - Autres,,
+1,,,,00,- - Autres,KG,- - - - -
+,,0709.60,00,,- Piments du genre Capsicum ou du genre Pimenta,,
+1,,,,10,- - - poivrons doux ou piments doux (Capsicum grossum)Â£- - - autres :,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+1,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+1,,0709.70,00,00,"- Epinards, tÃ©tragones (Ã©pinards de Nouvelle-ZÃ©lande) et arroches (Ã©pinards gÃ©ants)",KG,- - - - -
+,,0709.90,,,- Autres,,
+,,,30,,- - - olives :,,
+,,,90,,- - - - - autres :,,
+,,0709.91,,,- - Artichauts,,
+,,,00,,- - Artichauts,,
+1,,,,00,- - Artichauts,KG,- - - - -
+,,0709.92,,,- - Olives,,
+,,,00,,- - Olives,,
+1,,,,10,- - - destinÃ©es Ã  des usages autres que la production de l'huile,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0709.93,,,"- - Citrouilles, courges et calebasses ( curcubita spp.)",,
+,,,00,,"- - Citrouilles, courges et calebasses ( curcubita spp.)",,
+1,,,,00,"- - Citrouilles, courges et calebasses ( curcubita spp.)",KG,- - - - -
+,,0709.99,,,- - Autres,,
+,,,00,,- - Autres,,
+1,,,,10,- - - maÃ¯s doux,KG,- - - - -
+1,,,,20,- - - cardes et cardons,KG,- - - - -
+1,,,,30,- - - cÃ¢pres,KG,- - - - -
+1,,,,40,- - - fenouil%- - - autres :,KG,- - - - -
+1,,,,91,- - - - oseilles,KG,- - - - -
+1,,,,92,"- - - - plantes condimentaires (persil, cerfeuil, estragon, etc...)",KG,- - - - -
+1,,,,99,- - - - autres,KG,- - - - -
+,07.10,,,,"- LÃ©gumes, non cuits ou cuits Ã  l'eau ou Ã  la vapeur, congelÃ©s",,
+1,,0710.10,00,00,"- Pommes de terreÂ£- LÃ©gumes Ã  cosse, Ã©cossÃ©s ou non :",KG,- - - - -
+1,,0710.21,00,00,- - Pois (Pisum sativum),KG,- - - - -
+1,,0710.22,00,00,"- - Haricots (Vigna spp, Phaseolus spp)",KG,- - - - -
+,,0710.29,00,,- - Autres,,
+1,,,,10,- - - pois chiches,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+1,,0710.30,00,00,"- Epinards, tÃ©tragones (Ã©pinards de Nouvelle-ZÃ©lande) et arroches (Ã©pinards gÃ©ants)",KG,- - - - -
+1,,0710.40,00,00,- MaÃ¯s doux,KG,- - - - -
+,,0710.80,,,- Autres lÃ©gumes,,
+1,,,10,00,- - - - olives,KG,- - - - -
+1,,,20,00,- - - - champignons et truffes,KG,- - - - -
+1,,,30,00,- - - - cÃ¢pres,KG,- - - - -
+1,,,80,00,- - - - autres,KG,- - - - -
+,,0710.90,,,- MÃ©langes de lÃ©gumes,,
+1,,,00,00,- - - MÃ©langes de lÃ©gumes,KG,- - - - -
+,07.11,,,,"LÃ©gumes conservÃ©s provisoirement (au moyen de gaz sulfureux ou dans de l'eau salÃ©e, soufrÃ©e ou additionnÃ©e d'autres substances servant Ã  assurer provisoirement leur conservation, par exemple), mais impropres Ã  l'alimentation en l'Ã©tat.",,
+,07.11,,,,"LÃ©gumes conservÃ©s provisoirement (au moyen de gaz sulfureux ou dans de l'eau salÃ©e, soufrÃ©e ou additionnÃ©e d'autres substances servant Ã  assurer provisoirement leur conservation, par exemple), mais impropres Ã  l'alimentation en l'Ã©tat.",,
+,07.11,,,,"LÃ©gumes conservÃ©s provisoirement, mais impropres, en l'Ã©tat, Ã  l'alimentation.",,
+,07.11,,,,"LÃ©gumes conservÃ©s provisoirement, mais impropres, en l'Ã©tat, Ã  l'alimentation.",,
+,,0711.20,,,- Olives,,
+1,,,10,00,- - - - conservÃ©s au moyen de gaz sulfureux,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - destinÃ©s Ã  des usages autres que la production de l'huile,KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,0711.30,,,- CÃ¢pres,,
+,,0711.40,00,,- Concombres et cornichons,,
+1,,,,00,- - - - Concombres et cornichons,KG,- - - - -
+1,,,,00,- - - - Concombres et cornichons,KG,- - - - -
+1,,,,00,- - - - Migration NGP inexistants,KG,- - - - -
+1,,,,00,- - - - Migration NGP inexistants,KG,- - - - -
+,,0711.51,00,,- - Champignons du genre Agaricus,,
+1,,,,00,- - - Champignons du genre Agaricus,KG,- - - - -
+,,0711.59,00,,- - AutresÂ£- - - conservÃ©s au moyen de gaz sulfureux :,,
+1,,,,00,- - - - Autres,KG,- - - - -
+,,0711.90,,,- Autres lÃ©gumes; mÃ©langes de lÃ©gumesÂ£- - - conservÃ©s au moyen de gaz sulfureux :,,
+1,,,12,00,- - - - oignons,KG,- - - - -
+1,,,13,00,- - - - choucroutes,KG,- - - - -
+,,,14,,- - - - cÃ¢pres,,
+1,,,,00,- - - - cÃ¢pres,KG,- - - - -
+1,,,19,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+1,,,93,00,- - - - mÃ©langes de lÃ©gumes,KG,- - - - -
+1,,,94,00,- - - - maÃ¯s doux,KG,- - - - -
+1,,,95,00,- - - - piments (du genre Â«CapsicumÂ» et du genre Â«PimentaÂ»),KG,- - - - -
+1,,,96,00,- - - - oignons,KG,- - - - -
+,,,99,,- - - - autres :,,
+1,,,,10,- - - - - tomates,KG,- - - - -
+1,,,,20,- - - - - pommes de terre,KG,- - - - -
+1,,,,30,- - - - - asperges,KG,- - - - -
+1,,,,40,- - - - - endives (chicorÃ©e Witloof),KG,- - - - -
+1,,,,50,- - - - - choux dits de Bruxelles,KG,- - - - -
+1,,,,60,- - - - - cÃ¢pres,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,07.12,,,,"LÃ©gumes secs, mÃªme coupÃ©s en morceaux ou en tranches ou bien broyÃ©s ou pulvÃ©risÃ©s, mais non autrement prÃ©parÃ©s.",,
+1,,0712.20,00,00,"- OignonsÂ£- Champignons, oreilles-de-judas (Auricularia spp), trÃ©melles (Tremella spp.) et truffes :",KG,- - - - -
+1,,0712.31,00,00,- - Champignons du genre Agaricus,KG,- - - - -
+1,,0712.32,00,00,- - Oreilles-de-judas (Auricularia spp),KG,- - - - -
+1,,0712.33,00,00,- - TrÃ©melles (Tremella spp),KG,- - - - -
+1,,0712.34,00,00,- - Shiitake (Lentinus edodes),KG,- - - - -
+,,0712.39,00,,- - Autres,,
+1,,,,10,"- - - truffes, y compris les pelures, pellicules",KG,- - - - -
+1,,,,80,- - - autres,KG,- - - - -
+,,0712.90,,,- Autres lÃ©gumes; mÃ©langes de lÃ©gumes,,
+,,,10,,- - - - maÃ¯s doux :,,
+1,,,,10,- - - - - hybride destinÃ© Ã  l'ensemencement,KG,- - - - -
+1,,,,90,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+1,,,91,00,- - - - - poireaux,KG,- - - - -
+1,,,93,00,"- - - - pommes de terre, mÃªme coupÃ©es en morceaux ou en tranches mais non autrement prÃ©parÃ©es",KG,- - - - -
+1,,,99,00,"- - - - - - autres, y compris les mÃ©langes (juliennes)",KG,- - - - -
+,07.13,,,,"LÃ©gumes Ã  cosse secs, Ã©cossÃ©s, mÃªme dÃ©cortiquÃ©s ou cassÃ©s",,
+,,0713.10,,,- Pois (Pisum sativum)Â£- - - de semence :,,
+1,,,11,00,- - - - prÃ©base et base,KG,- - - - -
+1,,,19,00,- - - - - - autres Â£- - - autres :,KG,- - - - -
+1,,,91,00,- - - - fourragers,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+1,,,,10,- - - - - Ã  casser (de casseries),KG,- - - - -
+1,,,,20,- - - - - pour l'alimentation humaine,KG,- - - - -
+1,,,,30,"- - - - - pour l'alimentation du bÃ©tail (pois dÃ©classÃ©s, Ã©carts et dÃ©chets de triage)",KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,0713.20,,,- Pois chichesÂ£- - - de semence :,,
+1,,,11,00,- - - - prÃ©base et base,KG,- - - - -
+1,,,19,00,- - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+1,,,,10,- - - - - en grains,KG,- - - - -
+1,,,,90,"- - - - - - autresÂ£- Haricots (Vigna spp., Phaseolus spp.):",KG,- - - - -
+,,0713.31,,,- - Haricots des espÃ¨ces Vigna mungo (L) Hepper ou Vigna radiata (L) Wilczek,,
+1,,,10,00,- - - de semence,KG,- - - - -
+,,,90,,- - - - autres :,,
+1,,,,00,- - - - - autres,KG,- - - - -
+,,0713.32,,,- - Haricots petits rouges (haricots Adzuki) (Phaseolus ou Vigna angularis),,
+1,,,10,00,- - - de semence,KG,- - - - -
+,,,90,,- - - - autres :,,
+1,,,,00,- - - - - autres,KG,- - - - -
+,,0713.33,,,- - Haricots communs (Phaseolus vulgaris),,
+1,,,10,00,- - - de semence,KG,- - - - -
+,,,90,,- - - - autres :,,
+1,,,,00,- - - - - autres,KG,- - - - -
+,,0713.34,,,- - Pois Bambara (Pois de terre) (Vigna subterranea ou Voandzeia subterranea),,
+,,,10,,- - - de semence,,
+1,,,,00,- - - de semence,KG,- - - - -
+,,,90,,- - - autres :,,
+1,,,,00,- - - - autres,KG,- - - - -
+,,0713.35,,,"- - Dolique Ã  oeil noir (Pois u BrÃ©sil, NiÃ©bÃ©) (Vigna unguiculata)",,
+,,,10,,- - - de semence,,
+1,,,,00,- - - de semence,KG,- - - - -
+,,,90,,- - - autres :,,
+1,,,,00,- - - - autres,KG,- - - - -
+,,0713.39,,,- - Autres,,
+,,,20,,- - - de semence,,
+1,,,,00,- - - de semence,KG,- - - - -
+,,,80,,- - - autres :,,
+1,,,,00,- - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,,0713.40,,,- LentillesÂ£- - - de semence :,,
+,,,11,,- - - - prÃ©base et base :,,
+1,,,,10,- - - - - vertes,KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,,19,,- - - - - - autres :,,
+1,,,,10,- - - - - vertes,KG,- - - - -
+1,,,,90,- - - - - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - - en grains,KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,0713.50,,,"- - - - FÃ¨ves (Vicia faba var major) et fÃ©veroles (Vicia faba var equina, Vicia faba var. minor)Â£- - - de semence :",,
+1,,,11,00,- - - - prÃ©base et base,KG,- - - - -
+1,,,19,00,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - - - autres :,,
+1,,,,10,- - - - - en grains,KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,0713.60,,,- Pois d'Ambrevade ou pois d'Angole (Cajanus cajan)%,,
+1,,,10,00,- - - de semence,KG,- - - - -
+,,,90,,- - - autres :,,
+1,,,,10,- - - - en grains,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,0713.90,,,- Autres,,
+1,,,20,00,- - - de semence,KG,- - - - -
+,,,80,,- - - autres :,,
+1,,,,10,- - - - en grains,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,07.14,,,,"- - - - - Racines de manioc, d'arrow-root ou de salep, topinambours, patates douces et racines et tubercules similaires Ã  haute teneur en fÃ©cule ou en inuline frais, rÃ©frigÃ©rÃ©s, congelÃ©s ou sÃ©chÃ©s, mÃªme dÃ©bitÃ©s en morceaux ou agglomÃ©rÃ©s sous",,
+1,,0714.10,00,00,- Racines de manioc,KG,- - - - -
+1,,0714.20,00,00,- Patates douces,KG,- - - - -
+,,0714.30,,,- Ingnames (Dioscorea spp.),,
+,,,00,,- Ingnames (Dioscorea spp.),,
+1,,,,10,- - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0714.40,,,- Colocases (Colocasia spp.),,
+,,,00,,- Colocases (Colocasia spp.),,
+1,,,,10,- - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0714.50,,,- Yautias (Xanthosoma spp.),,
+,,,00,,- Yautias (Xanthosoma spp.),,
+1,,,,10,- - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0714.90,,,- Autres,,
+1,,,10,00,- - - - topinamboursÂ£- - - racines d'arrow-root et de salep et autres racines et tubercules similaires Ã  haute teneur en amidon :,KG,- - - - -
+1,,,21,00,- - - - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,KG,- - - - -
+1,,,29,00,- - - - - - autres,KG,- - - - -
+1,,,80,00,- - - autres racinesÂ£- - - autres :,KG,- - - - -
+,,,94,,- - - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,,
+1,,,,00,- - - - prÃ©sentÃ©s Ã  l'Ã©tat congelÃ©,KG,- - - - -
+,,,96,,- - - - autres,,
+1,,,,00,- - - - autres,KG,- - - - -

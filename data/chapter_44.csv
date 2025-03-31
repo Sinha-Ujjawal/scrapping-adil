@@ -1,0 +1,893 @@
+0,1,2,3,4,5,6,7
+,44.01,,,,"Bois de chauffage en rondins, bÃ»ches, ramilles, fagots ou sous formes similaires; bois en plaquettes ou en particules; sciures, dÃ©chets et dÃ©bris de bois, mÃªme agglomÃ©rÃ©s sous forme de bÃ»ches, briquettes, boulettes ou sous formes similaires.",,
+,44.01,,,,"Bois de chauffage en rondins, bÃ»ches, ramilles, fagots ou sous formes similaires; bois en plaquettes ou en particules; sciures, dÃ©chets et dÃ©bris de bois, mÃªme agglomÃ©rÃ©s sous forme de bÃ»ches, briquettes, boulettes ou sous formes similaires.",,
+,44.01,,,,"Bois de chauffage en rondins, bÃ»ches, ramilles, fagots ou sousformes similaires; bois en plaquettes ou en particules; sciures,dÃ©chets et dÃ©bris de bois, mÃªme agglomÃ©rÃ©s sous forme de bÃ»ches, briquettes, granulÃ©s ou sous formes similaires.",,
+,44.01,,,,"Bois de chauffage en rondins, bÃ»ches, ramilles, fagots ou sousformes similaires; bois en plaquettes ou en particules; sciures,dÃ©chets et dÃ©bris de bois, mÃªme agglomÃ©rÃ©s sous forme de bÃ»ches, briquettes, granulÃ©s ou sous formes similaires.",,
+,,4401.10,00,,"- Bois de chauffage en rondins, bÃ»ches, ramilles, fagots ou sous formes similaires",,
+3,,4401.11,00,00,- - - De conifÃ¨res,KG,- - - - -
+3,,4401.12,00,00,- - - - - Autres que de conifÃ¨res,KG,- - - - -
+5,,4401.21,00,00,- - De conifÃ¨res,KG,- - - - -
+5,,4401.22,00,00,- - Autres que de conifÃ¨res,KG,- - - - -
+,,4401.30,00,,"- Sciures, dÃ©chets et dÃ©bris de bois, mÃªme agglomÃ©rÃ©s sous forme de bÃ»ches, briquettes, boulettes ou sous formes similairesÂ£- - - sciures :",,
+3,,4401.31,00,00,- - Boulettes de bois,KG,- - - - -
+3,,4401.32,00,00,- - Briquettes de bois,KG,- - - - -
+,,4401.39,00,,- - Autres%â€“ â€“ â€“ sciures :,,
+3,,,,10,- - - - sciures agglomÃ©rÃ©es,KG,- - - - -
+3,,,,70,"- - - autres Â£â€“ Sciures, dÃ©chets et dÃ©bris de bois, non agglomÃ©rÃ©s :",KG,- - - - -
+,,4401.40,00,,"- """"""Sciures, dÃ©chets et dÃ©bris de bois, non agglomÃ©rÃ©sâ€“ â€“ â€“ sciures :""""""",,
+3,,4401.41,00,00,- - Sciures,KG,- - - - -
+3,,4401.49,00,00,- - Autres,KG,- - - - -
+3,,4402.10,00,00,- De bambou,KG,- - - - -
+3,,4402.20,00,00,- De coques ou de noix,KG,- - - - -
+3,,4402.90,00,00,- Autres,KG,- - - - -
+3,,4402.90,00,00,- Autres,KG,- - - - -
+3,,4402.90,00,00,- Autres,KG,- - - - -
+3,,4402.90,00,00,- Autres,KG,- - - - -
+,44.03,,,,"- - - Bois bruts, mÃªme Ã©corcÃ©s, dÃ©saubiÃ©rÃ©s ou Ã©quarris",,
+,,4403.10,,,"- TraitÃ©s avec une peinture, de la crÃ©osote ou d'autres agents de conservation",,
+,,,10,,- - - bois Ã©quarris :Â£- - - - bois communs :Â£- - - - - conifÃ¨res :,,
+,,,50,,- - - - - bois fins :,,
+,,4403.11,,,- - De conifÃ¨res,,
+3,,,00,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,00,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,10,,- - - bois Ã©quarris :,,
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.12,,,- - Autres que de conifÃ¨res,,
+3,,,00,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,00,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,10,,"- - - """"""bois Ã©quarris :â€“ â€“ â€“ â€“ bois communs:""""""",,
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+,,4403.20,,,"- Autres, de conifÃ¨res",,
+,,,10,,- - - bois Ã©quarris :,,
+,,4403.21,,,"- - """"""De pin (Pinus spp.), dont la plus grande dimension de la coupetranversale est Ã©gale ou supÃ©rieure Ã  15 cm""""""",,
+,,,00,,"- - De pin (Pinus spp.), dont la plus petite dimension de la coupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.22,,,"- - De pin (Pinus spp.), autres",,
+,,,00,,"- - De pin (Pinus spp.), autres",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.23,,,"- - """"""De sapin (Abies spp.) et dÃ©picÃ©a (Picea spp.), dont la plusgrande dimension de la coupe transversale est Ã©gale ousupÃ©rieure Ã  15 cm""""""",,
+,,,00,,"- - De sapin (Abies spp.) et d'Ã©picÃ©a (Picea spp.), dont la plus petite dimension de la coupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.24,,,"- - De sapin (Abies spp.) et dÃ©picÃ©a (Picea spp.), autres",,
+,,,00,,"- - De sapin (Abies spp.) et dÃ©picÃ©a (Picea spp.), autres",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.25,,,"- - """"""Autres, dont la plus grande dimension de la coupe transversaleest Ã©gale ou supÃ©rieure Ã  15 cm""""""",,
+,,,00,,"- - Autres, dont la plus petite dimension de la coupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.26,,,- - Autres,,
+,,,00,,- - Autres,,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.41,,,"- - Dark Red Meranti, Light Red Meranti et Meranti Bakau",,
+,,,00,,"- - Dark Red Meranti, Light Red Meranti et Meranti Bakau",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,10,,- - - bois Ã©quarris :,,
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.42,00,,- - Teak,,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4403.49,,,- - Autres,,
+,,,00,,- - Autres,,
+3,,,,10,"- - - bois Ã©quarris Â£â€“ â€“ â€“ bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,21,"- - - - okoumÃ©, autres que rondins",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,29,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,10,,- - - bois Ã©quarris :,,
+,,,15,,- - - bois Ã©quarris :,,
+,,,20,,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",,
+,,4403.91,,,- - De chÃªne (Quercus spp),,
+3,,,10,00,"- - - bois Ã©quarrisÂ£- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+3,,,,00,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,00,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,00,- - - bois de trituration en rondins d'une longueur de moins de 250 mÃ¨tres et ayant une circonfÃ©rence au gros bout de 20 cm exclus Ã  110 cm inclus ou en quartiers d'une longueur de moins de 2.50 mÃ¨tres - - - - rondins d'une circonfÃ©rence au gros bout,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,00,- - - bois de trituration en rondins d'une longueur de moins de 250 mÃ¨tres et ayant une circonfÃ©rence au gros bout de 20 cm exclus Ã  110 cm inclus ou en quartiers d'une longueur de moins de 2.50 mÃ¨tres - - - - rondins d'une circonfÃ©rence au gros bout,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4403.92,,,- - De hÃªtre (Fagus spp),,
+,,4403.93,,,"- - """"""De hÃªtre (Fagus spp.) dont la plus grande dimension de lacoupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm""""""",,
+,,,00,,"- - De hÃªtre (Fagus spp.), dont la plus petite dimension de la coupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+,,4403.94,,,"- - De hÃªtre (Fagus spp.), autres",,
+,,,00,,"- - De hÃªtre (Fagus spp.), autres",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+,,4403.95,,,"- - """"""De bouleau (Betula spp.), dont la plus grande dimension de lacoupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm""""""",,
+,,,00,,"- - De bouleau (Betula spp.), dont la plus petite dimension de la coupe transversale est Ã©gale ou supÃ©rieure Ã  15 cm",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+,,4403.96,,,"- - De bouleau (Betula spp.), autres",,
+,,,00,,"- - De bouleau (Betula spp.), autres",,
+3,,,,10,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+,,4403.97,,,- - De peuplier (Populus.),,
+3,,,10,00,- - - - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+3,,,,00,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4403.98,,,- - D'eucalyptus (Eucalyptus spp.),,
+3,,,10,00,- - - - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+3,,,,00,"- - - bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4403.99,,,- - Autres,,
+,,,10,,- - - bois Ã©quarris :Â£- - - - bois communs :,,
+3,,,,00,- - - bois Ã©quarris,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,20,,"- - - """"""bois bruts, mÃªme Ã©corcÃ©s ou dÃ©grossis :â€“ â€“ â€“ â€“ rondins :""""""",,
+3,,,,10,- - - - rondins,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,- - - - - bois de trituration en quartiersâ€“ â€“ â€“ â€“ â€“ bois fins :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,30,- - - - - bois fins,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,91,- - - - - - de mimosa,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,99,- - - - - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,40,,- - - - - bois fins :,,
+,44.04,,,,"- - - - Bois feuillards; Ã©chalas fendus; pieux et piquets en bois, appointÃ©s, non sciÃ©s longitudinalement; bois simplement dÃ©grossis ou arrondis, mais non tournÃ©s ni courbÃ©s ni autrement travaillÃ©s, pour cannes, parapluies, manches d'outils ou simi",,
+,,4404.10,00,,- De conifÃ¨res,,
+5,,,,00,- De conifÃ¨res,KG,- - - - -
+,,4404.20,00,,- Autres que de conifÃ¨res,,
+5,,,,00,- Autres que de conifÃ¨res,KG,- - - - -
+,,4405.00,00,,Laine (paille) de bois; farine de bois,,
+5,,,,00,"""Laine (paille) de bois; farine de bois""",KG,- - - - -
+,44.06,,,,Traverses en bois pour voies ferrÃ©es ou similaires,,
+,44.06,,,,Traverses en bois pour voies ferrÃ©es ou similaires,,
+,44.06,,,,Traverses en bois pour voies ferrÃ©es ou similaires.â€“ Non imprÃ©gnÃ©es :,,
+,44.06,,,,Traverses en bois pour voies ferrÃ©es ou similaires.â€“ Non imprÃ©gnÃ©es :,,
+,,4406.10,00,,- Non imprÃ©gnÃ©es,,
+3,,4406.11,00,00,- - - De conifÃ¨res,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,4406.12,00,00,- - - - - Autres que de conifÃ¨resâ€“ Autres :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4406.90,00,,- Autres,,
+3,,4406.91,00,00,- - - De conifÃ¨res,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,4406.92,00,00,- - - - - Autres que de conifÃ¨res,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,44.07,,,,"Bois sciÃ©s ou dÃ©dossÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s, mÃªme rabotÃ©s, poncÃ©s ou collÃ©s par assemblage en bout, d'une Ã©paisseur excÃ©dant 6 mm.",,
+,44.07,,,,"Bois sciÃ©s ou dÃ©dossÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s, mÃªme rabotÃ©s, poncÃ©s ou collÃ©s par assemblage en bout, d'une Ã©paisseur excÃ©dant 6 mm.",,
+,44.07,,,,"Bois sciÃ©s ou dÃ©dossÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s,mÃªme rabotÃ©s, poncÃ©s ou collÃ©s par assemblage en bout, d'uneÃ©paisseur excÃ©dant 6 mm.â€“ De conifÃ¨res :",,
+,44.07,,,,"Bois sciÃ©s ou dÃ©dossÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s,mÃªme rabotÃ©s, poncÃ©s ou collÃ©s par assemblage en bout, d'uneÃ©paisseur excÃ©dant 6 mm.â€“ De conifÃ¨res :",,
+,,4407.10,,,"- De conifÃ¨resÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+,,,19,,- - - - autres :,,
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,,4407.11,,,"- - """"""De pin (Pinus spp.)â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""""""",,
+3,,,12,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,20,"- - - - - bois d'une longueur de 125 cm ou moins et d'une Ã©paisseur de moins Â£de 12,5 mm",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+5,,,80,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+,,4407.12,,,"- - """"""De sapin (Abies spp.) et d'Ã©picÃ©a (Picea spp.)â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""""""",,
+3,,,12,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,20,"- - - - - bois d'une longueur de 125 cm ou moins et d'une Ã©paisseur de moins de 12,5 mm",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+5,,,80,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+,,4407.13,,,"- - ""De E-P-S (Ã©picÃ©a (Picea spp.), pin (Pinus spp.) et sapin (Abies spp.))â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - - - bois d'une longueur de 125 cm ou moins et d'une Ã©paisseur de moins de 12,5 mm",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,90,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.14,,,"- - ""De Hem-fir (hemlock de l'Ouest (Tsuga heterophylla) et sapin (Abies spp.))â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,20,"- - - - - bois d'une longueur de 125 cm ou moins et d'une Ã©paisseur de moins de 12,5 mm",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,90,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.19,,,"- - """"""Autresâ€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""""""",,
+3,,,12,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,20,"- - - - - bois d'une longueur de 125 cm ou moins et d'une Ã©paisseur de moins de 12,5 mm",M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,18,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+5,,,80,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+,,4407.21,,,"- - Mahogany (Swietenia spp.)%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+3,,,,10,- - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+3,,,,10,- - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+3,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+3,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+,,4407.22,,,"- - Virola, Imbuia et Balsa%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :%,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+3,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - Migration NGP inexistants,M3 (METTRE CUBE),- - - - -
+,,4407.23,,,"- - ""Teakâ€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,19,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,- - - autres :,,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires Â£â€“ â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.24,,,"- - Virola, Mahogany (Swietenia spp), Imbuia et BalsaÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+,,,19,,- - - - autres :,,
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,,4407.25,,,"- - - Dark Red Meranti, Light Red Meranti et Meranti BakauÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.26,,,"- - White Lauan, White Meranti, White Seraya, Yellow Meranti et AlanÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.27,,,"- - Sapelli%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.28,,,"- - Iroko%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+,,,90,,- - - autres:,,
+,,,90,,- - - autres:,,
+3,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) Â£rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,90,- - - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.29,,,"- - AutresÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,14,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,17,,- - - - autres :,,
+,,,18,,- - - - autres :,,
+3,,,,00,- - - - autres :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+,,,70,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+,,,80,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+,,,80,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+,,,80,,- - - autres :,,
+,,,80,,- - - autres :,,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,,4407.91,,,"- - De chÃªne (Quercus spp)Â£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,90,- - - - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.92,,,"- - De hÃªtre (Fagus spp)Â£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.93,,,"- - D'Ã©rable (Acer spp.)%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),
+,,4407.94,,,"- - De cerisier (Prunus spp.)%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.95,,,"- - De frÃªne (Fraxinus spp.)%â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) Â£rabotÃ©s ou similaires",M3 (METTRE CUBE),- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",M3 (METTRE CUBE),- - - - -
+5,,,,99,- - - - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.96,,,"- - """"""De bouleau (Betula spp.)â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""""""",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.97,,,"- - """"""De peuplier (Populus spp.)â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :""""""",,
+3,,,11,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+3,,,,00,- - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :""""""",,
+3,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,4407.99,,,"- - AutresÂ£- - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s :",,
+3,,,14,00,- - - - sciages de tonnellerie,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,17,,- - - - autres :,,
+3,,,,10,- - - bois communs,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,91,- - - - - - - noyer,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,92,- - - - - - - cÃ¨dre,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,93,- - - - - - - thuya,M3 (METTRE CUBE),M3 (METTRE CUBE)
+3,,,,99,- - - - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,18,,- - - - autres :,,
+,,,19,,- - - - autres :,,
+,,,80,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rabotÃ©s ou similaires :",,
+5,,,,00,- - - autres,M3 (METTRE CUBE),- - - - -
+,,,90,,"- - - - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,44.08,,,,"Feuilles pour placage (y compris celles obtenues par tranchage de bois stratifiÃ©), feuilles pour contre-plaquÃ©s ou pour autres bois stratifiÃ©s similaires et autres bois, sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s, mÃªme rabotÃ©s, poncÃ©s, assemb",,
+,,4408.10,,,- De conifÃ¨res,,
+5,,,10,00,"- - - feuilles pour placage obtenues par tranchage de bois stratifiÃ©Â£- - - autres :Â£- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm :",KG,- - - - -
+3,,,20,00,"- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm",KG,M3 (METTRE CUBE)
+,,,29,,- - - - - autres :,,
+,,,30,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+5,,,,10,"- - - - - lames et frises pour parquets, non assemblÃ©es",KG,- - - - -
+5,,,,90,"- - - - - autresÂ£- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur Ã©gale ou infÃ©rieure Ã  5 mm; feuilles de placage et bois pour contre-plaquÃ©s, de mÃªme Ã©paisseur :",KG,- - - - -
+,,,40,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+5,,,,00,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,KG,- - - - -
+5,,,51,00,- - - - - - renforcÃ©es sur une face de papier ou de tissus,KG,- - - - -
+5,,,59,00,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,- - - - -
+,,4408.31,,,"- - Dark Red Meranti, Light Red Meranti et Meranti Bakau",,
+5,,,10,00,"- - - feuilles pour placage obtenues par tranchage de bois stratifiÃ©Â£- - - autres :Â£- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm :",KG,- - - - -
+3,,,20,00,"- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm",KG,M3 (METTRE CUBE)
+,,,29,,- - - - - autres :,,
+,,,30,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+5,,,,00,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",KG,- - - - -
+,,,40,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+3,,,,20,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,KG,- - - - -
+5,,,,30,"- - - - - - autres, renforcÃ©es sur une face de papier ou de tissus",KG,- - - - -
+5,,,,80,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,10,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,,4408.39,,,- - Autres,,
+5,,,12,00,"- - - feuilles pour placage obtenues par tranchage de bois stratifiÃ©â€“ â€“ â€“ autres :â€“ â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm :",KG,- - - - -
+3,,,20,00,"- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm",KG,M3 (METTRE CUBE)
+,,,28,,- - - - - autres :,,
+,,,29,,- - - - - autres :,,
+,,,30,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,,,32,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+5,,,,10,"- - - - - lames et frises pour parquets, non assemblÃ©es",KG,- - - - -
+5,,,,90,"- - - - - ""autresâ€“ â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur Ã©gale ou infÃ©rieure Ã  5 mm; feuilles de placage et bois pour contre-plaquÃ©s, de mÃªme Ã©paisseur :""",KG,- - - - -
+,,,40,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+,,,42,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+,,,45,,"- - - - ""bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur Ã©gale ouinfÃ©rieure Ã  5 mm; feuilles de placage et bois pour contre-plaquÃ©s, de mÃªmeÃ©paisseur :""",,
+5,,,,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,KG,- - - - -
+5,,,,20,"- - - - - autres, renforcÃ©es sur une face de papier ou de tissus",KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,,,80,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,,4408.90,,,- Autres,,
+5,,,12,00,"- - - feuilles pour placage obtenues par tranchage de bois stratifiÃ©â€“ â€“ â€“ autres :â€“ â€“ â€“ â€“ bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm :",KG,- - - - -
+3,,,20,00,"- - - - bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur supÃ©rieure Ã  5 mm",KG,- - - - -
+,,,28,,- - - - - autres :,,
+,,,29,,- - - - - autres :,,
+,,,32,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+,,,33,,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires :",,
+5,,,,00,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rabotÃ©s ou similaires",KG,- - - - -
+,,,42,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+,,,43,,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons :,,
+,,,45,,"- - - - ""bois sciÃ©s longitudinalement, tranchÃ©s ou dÃ©roulÃ©s d'une Ã©paisseur Ã©gale ouinfÃ©rieure Ã  5 mm; feuilles de placage et bois pour contre-plaquÃ©s, de mÃªmeÃ©paisseur :""",,
+5,,,,10,- - - - - planchettes destinÃ©es Ã  la fabrication de crayons,KG,- - - - -
+5,,,,20,"- - - - - - autres, renforcÃ©es sur une face de papier ou de tissus",KG,- - - - -
+5,,,,90,- - - - - - autres,KG,- - - - -
+,,,80,,- - - - autres :,,
+5,,,,00,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,44.09,,,,"- - Bois (y compris les lames et frises Ã  parquet, non assemblÃ©es) profilÃ©s (languetÃ©s, rainÃ©s, bouvetÃ©s, feuillurÃ©s, chanfreinÃ©s, joints en V, moulurÃ©s, arrondis ou similaires) tout au long d'une ou de plusieurs rives, faces ou bouts, mÃªme rabo",,
+,,4409.10,,,- De conifÃ¨res,,
+5,,,10,00,- - - bois filÃ©s,KG,- - - - -
+,,,80,,- - - autres :,,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) Â£rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires",KG,- - - - -
+5,,,,20,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,,90,,"- - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :",,
+,,4409.20,,,- Autres que de conifÃ¨res,,
+,,,90,,"- - - autres :Â£- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :",,
+,,4409.21,,,- - En bambou,,
+5,,,10,00,- - - bois filÃ©s,KG,- - - - -
+,,,80,,- - - autres :,,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) Â£rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires",KG,- - - - -
+5,,,,20,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :",,
+,,4409.22,,,- - De bois tropicaux,,
+5,,,10,00,- - - bois filÃ©s,KG,- - - - -
+,,,90,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :""""""",,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) Â£rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires",KG,- - - - -
+5,,,,40,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",KG,- - - - -
+5,,,,99,- - - - - autres,KG,- - - - -
+,,4409.29,,,- - Autres,,
+5,,,20,00,- - - bois filÃ©s,KG,- - - - -
+,,,80,,"- - - """"""autres :â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :""""""",,
+5,,,,10,"- - - - bois (y compris les lames ou frises pour parquets, non assemblÃ©es) rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires",KG,- - - - -
+5,,,,40,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,91,"- - - - - lattis (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",KG,- - - - -
+5,,,,99,- - - - - autres,KG,- - - - -
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ bois (y compris les lames ou frises pour parquets, non assemblÃ©es)%rainÃ©s, bouvetÃ©s, languetÃ©s, feuillurÃ©s, chanfreinÃ©s ou similaires :",,
+,44.10,,,,"Panneaux de particules et panneaux similaires (panneaux dits Â«oriented strand boardÂ» et panneaux dits Â«WaferboardÂ», par exemple), en bois ou en autres matiÃ¨res ligneuses, mÃªme agglomÃ©rÃ©s avec des rÃ©sines ou d'autres liants organiques.Â£- Panneaux",,
+,,4410.11,,,- - Panneaux de particules,,
+,,,10,,"- - - bruts ou simplement poncÃ©s :%â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,M3 (METTRE CUBE)
+,,,20,,"- - - recouverts en surface de papier imprÃ©gnÃ© de mÃ©lamine :%â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,M3 (METTRE CUBE)
+,,,30,,"- - - recouverts en surface de plaques ou de feuilles dÃ©coratives stratifiÃ©es en matiÃ¨re plastique :%â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,M3 (METTRE CUBE)
+,,,90,,"- - - autres :%â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,30,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - autres,KG,M3 (METTRE CUBE)
+,,4410.12,,,- - Panneaux dits â€œoriented strand boardâ€ (OSB)%â€“ â€“ â€“ bruts ou simplement poncÃ©s :,,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,20,00,- - - - autres%â€“ â€“ â€“ autres :,KG,M3 (METTRE CUBE)
+,,,30,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,90,00,- - - - - autres,KG,M3 (METTRE CUBE)
+,,4410.19,,,- - Autres%â€“ â€“ â€“ panneaux dits â€œwaferboardâ€ :,,
+,,,11,,"- - - - bruts ou simplement poncÃ©s :%â€“ â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - autres %â€“ â€“ â€“ â€“ autres :,KG,M3 (METTRE CUBE)
+,,,19,,- - - - autres :,,
+,,,19,,- - - - autres :,,
+,,,19,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,19,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,30,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - - autres %â€“ â€“ â€“ autres:,KG,M3 (METTRE CUBE)
+,,,91,,"- - - - bruts ou simplement poncÃ©s :%â€“ â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - autres,KG,M3 (METTRE CUBE)
+,,,92,,"- - - - recouverts en surface de papier imprÃ©gnÃ© de mÃ©lamine :%â€“ â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - autres,KG,M3 (METTRE CUBE)
+,,,93,,"- - - - recouverts en surface de plaques ou de feuilles dÃ©coratives stratifiÃ©es en matiÃ¨re plastique :%â€“ â€“ â€“ â€“ â€“ baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,10,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - autres %â€“ â€“ â€“ â€“ autres :,KG,M3 (METTRE CUBE)
+,,,99,,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,30,"- - - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - - - - autres,KG,M3 (METTRE CUBE)
+,,4410.21,,,- - Bruts ou simplement poncÃ©s,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.29,,,- - Autres,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.31,,,- - Bruts ou simplement poncÃ©s,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.32,,,- - Recouverts en surface de papier imprÃ©gnÃ© de mÃ©lamine,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.33,,,- - Recouverts en surface de plaques ou de feuilles dÃ©coratives stratifiÃ©es en matiÃ¨re plastique,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.39,,,- - Autres,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,4410.90,,,- Autres,,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - autres,KG,M3 (METTRE CUBE)
+,44.11,,,,"Panneaux de fibres de bois ou d'autres matiÃ¨res ligneuses, mÃªme agglomÃ©rÃ©es avec des rÃ©sines ou d'autres liants organiques.Â£- Panneaux de fibres d'une masse volumique excÃ©dant 0,8 g/cm3 :",,
+,,4411.11,,,- - Non ouvrÃ©s mÃ©caniquement ni recouverts en surface,,
+,,4411.12,,,- - D'une Ã©paisseur n'excÃ¨dant pas 5 mm,,
+,,,00,,- - D'une Ã©paisseur n'excÃ¨dant pas 5 mm,,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.13,,,- - D'une Ã©paisseur excÃ¨dant 5 mm mais n'excÃ¨dant pas 9 mm,,
+,,,00,,- - D'une Ã©paisseur excÃ¨dant 5 mm mais n'excÃ¨dant pas 9 mm,,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.14,,,- - D'une Ã©paisseur excÃ¨dant 9 mm,,
+,,,00,,- - D'une Ã©paisseur excÃ¨dant 9 mm,,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.19,,,- - Autres,,
+,,4411.21,,,- - Non ouvrÃ©s mÃ©caniquement ni recouverts en surface,,
+,,4411.29,,,- - Autres,,
+,,4411.31,,,- - Non ouvrÃ©s mÃ©caniquement ni recouverts en surface,,
+,,4411.39,,,- - Autres,,
+,,4411.91,,,- - Non ouvrÃ©s mÃ©caniquement ni recouverts en surface,,
+,,4411.92,,,"- - D'une masse volumique excÃ©dant 0,8 g/cm3",,
+,,,00,,"- - D'une masse volumique excÃ©dant 0,8 g/cm3",,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.93,,,"- - D'une masse volumique excÃ©dant 0,5 g/cm3 mais n'excÃ©dant pas 0,8 g/cm3",,
+,,,00,,"- - D'une masse volumique excÃ©dant 0,5 g/cm3 mais n'excÃ©dant pas 0,8 g/cm3",,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.94,,,"- - D'une masse volumique n'excÃ©dant pas 0,5 g/cm3",,
+,,,00,,"- - D'une masse volumique n'excÃ©dant pas 0,5 g/cm3",,
+8,,,,10,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",KG,- - - - -
+5,,,,90,- - - autres,KG,M3 (METTRE CUBE)
+,,,10,,- - - non ouvrÃ©s mÃ©caniquement ni recouverts en surface :,,
+,,,90,,- - - autres :,,
+,,4411.99,,,- - Autres,,
+,44.12,,,,"Bois contre-plaquÃ©s, bois plaquÃ©s et bois stratifiÃ©s similairesÂ£- Bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de bois dont chacune a une Ã©paisseur n'excÃ©dant pas 6 mm :",,
+,,4412.10,,,- En bambou,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage%â€“ â€“ â€“ â€“ â€“ bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.13,,,- - Ayant au moins un pli extÃ©rieur en bois tropicaux visÃ©s Ã  la Note 1 de sous-positions du prÃ©sent Chapitre,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.14,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.19,,,- - Autres,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.22,,,- - ayant au moins un pli en bois tropicaux visÃ©s Ã  la Note 1 de sous- positions du prÃ©sent Chapitre,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.23,,,"- - Autres, contenant au moins un panneau de particules",,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.29,,,- - Autres,,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.31,,,- - Ayant au moins un pli extÃ©rieur en bois tropicaux visÃ©s Ã  la Note 2 de sous-positions du prÃ©sent Chapitre,,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,20,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",M3 (METTRE CUBE),- - - - -
+5,,,92,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,98,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placageâ€“ â€“ â€“ â€“ â€“ bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+,,4412.32,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - autres :,,
+,,4412.33,,,- - A fournir,,
+,,4412.33,,,- - A fournir,,
+,,4412.33,,,"- - ""Autres, ayant au moins un pli extÃ©rieur en bois autres que deconifÃ¨res, des espÃ¨ces aulne (Alnus spp.), frÃªne (Fraxinusspp.), hÃªtre (Fagus spp.), bouleau (Betula spp.), cerisier (Prunusspp.), chÃ¢taigner (castanea spp.), orme (Ulmus spp.), eucal",,
+,,4412.33,,,"- - ""Autres, ayant au moins un pli extÃ©rieur en bois autres que deconifÃ¨res, des espÃ¨ces aulne (Alnus spp.), frÃªne (Fraxinusspp.), hÃªtre (Fagus spp.), bouleau (Betula spp.), cerisier (Prunusspp.), chÃ¢taigner (castanea spp.), orme (Ulmus spp.), eucal",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placageâ€“ â€“ â€“ â€“ â€“ bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.34,,,"- - """"""Autres, ayant au moins un pli extÃ©rieur en bois autre que deconifÃ¨res non dÃ©nommÃ©s dans le nÂ° 4412.33""""""",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placageâ€“ â€“ â€“ â€“ â€“ bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.39,,,- - Autres,,
+,,4412.39,,,- - Autres,,
+,,4412.39,,,"- - Autres, ayant les deux plis extÃ©rieurs en bois de conifÃ¨res",,
+,,4412.39,,,"- - Autres, ayant les deux plis extÃ©rieurs en bois de conifÃ¨res",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - dont l'une des faces aumoins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - constituÃ©s exclusivement de feuilles de placage%â€“ â€“ â€“ â€“ â€“ Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres%â€“ Autres:,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.41,,,- - Ayant au moins un pli extÃ©rieur en bois tropicaux,,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan Â£rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en Â£sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.42,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan Â£rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en Â£sapin de Douglas (Pseudotsuga taxifolia) Â£",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.49,,,"- - Autres, ayant les deux plis extÃ©rieurs en bois de conifÃ¨res",,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan Â£rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en Â£sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,"- - - - - autres Â£â€“ A Ã¢me panneautÃ©e, latÃ©e ou lamellÃ©e :",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.51,,,- - Ayant au moins un pli extÃ©rieur en bois tropicaux,,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.52,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.59,,,"- - Autres, ayant les deux plis extÃ©rieurs en bois de conifÃ¨res conifÃ¨res",,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Â£Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres Â£â€“ Autres:,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.91,,,- - Ayant au moins un pli extÃ©rieur en bois tropicaux,,
+5,,,10,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.92,,,- - ayant au moins un pli en bois tropicaux visÃ©s Ã  la Note 1 de sous- positions du prÃ©sent Chapitre,,
+,,4412.92,,,- - ayant au moins un pli en bois tropicaux visÃ©s Ã  la Note 1 de sous- positions du prÃ©sent Chapitre,,
+,,4412.92,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+,,4412.92,,,"- - Autres, ayant au moins un pli extÃ©rieur en bois autres que de conifÃ¨res",,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,91,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,99,,- - - - autres :,,
+,,,99,,- - - - autres :,,
+,,,99,,- - - - autres :,,
+,,,99,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage - - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage - - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse :,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,4412.93,,,"- - Autres, contenant au moins un panneau de particules",,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - - autres :,,
+,,4412.94,,,"- - A Ã¢me panneautÃ©e, lattÃ©e ou lamellÃ©e",,
+,,,10,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,99,,- - - - autres :,,
+,,4412.99,,,- - Autres,,
+,,4412.99,,,- - Autres,,
+,,4412.99,,,"- - Autres, ayant les deux plis extÃ©rieurs de bois de conifÃ¨res",,
+,,4412.99,,,"- - Autres, ayant les deux plis extÃ©rieurs de bois de conifÃ¨res",,
+,,,10,,"- - - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+,,,20,,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,30,00,"- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires Â£â€“ â€“ â€“ autres :",M3 (METTRE CUBE),- - - - -
+5,,,93,00,"- - - - bois plaquÃ©s ou contre-plaquÃ©s dont l'une des faces au moins est en pin, Â£en lauan rouge (Shorea nÃ©grosensis), en almon (Shorea almon) en bouleau Â£ou en sapin de Douglas (Pseudotsuga taxifolia)",M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,97,,- - - - autres :,,
+5,,,,10,- - - - - bois contre-plaquÃ©s constituÃ©s exclusivement de feuilles de placage,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,20,- - - - - bois contre-plaquÃ©s Ã  Ã¢me Ã©paisse,M3 (METTRE CUBE),M3 (METTRE CUBE)
+5,,,,90,- - - - - autres,M3 (METTRE CUBE),M3 (METTRE CUBE)
+,,,98,,- - - - autres :,,
+,,,99,,- - - - - autres :,,
+,,4413.00,00,,"Bois dits Â«densifiÃ©sÂ», en blocs, planches, lames ou profilÃ©sÂ£- - - baguettes et moulures, pour meubles, cadres, dÃ©cors intÃ©rieurs, conduites Ã©lectriques et similaires :",,
+5,,,,00,"Bois dits Â«densifiÃ©sÂ», en blocs, planches, lames ou profilÃ©s",KG,- - - - -
+,44.14,,,,"Cadres en bois pour tableaux, photographies, miroirs ou objets similaires.",,
+,,4414.00,,,"Cadres en bois pour tableaux, photographies, miroirs ou objets similaires.",,
+8,,4414.10,00,00,- En bois tropicaux,KG,- - - - -
+8,,4414.90,00,00,- Autres,KG,- - - - -
+,44.15,,,,"- Caisses, caissettes, cageots, cylindres et emballages similaires, en bois ; tambours (tourets) pour cÃ¢bles, en bois ; palettes simples, palettes-caisses et autres plateaux de chargement, en bois ; rehausses de palettes en bois.",,
+,,4415.10,,,"- - Caisses, caissettes, cageots, cylindres et emballages similaires; tambours (tourets) pour cÃ¢bles",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 4411,U,- - - - -
+,,,80,,- - - autres :,,
+5,,,,10,- - - - caisses et caissettes,U,- - - - -
+5,,,,20,"- - - - cageots , cylindres et emballages similaires",U,- - - - -
+5,,,,90,- - - - tambours (tourets) pour cÃ¢bles,U,- - - - -
+,,,90,,- - - - - autres :,,
+,,4415.20,,,"- - - Palettes simples, palettes-caisses et autres plateaux de chargement; rehausses de palettes",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 4411Â£- - - autres :,U,- - - - -
+8,,,91,00,- - - - rehausses de palettes en bois,U,- - - - -
+,,,99,,- - - - - - autres :Â£- - - - - palettes-caisses :,,
+5,,,,00,- - - - autres,U,- - - - -
+5,,,,00,- - - - autres,U,- - - - -
+5,,,,00,- - - - Migration NGP inexistants,U,- - - - -
+5,,,,00,- - - - Migration NGP inexistants,U,- - - - -
+,,4416.00,,,"Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties, en bois, y compris les merrains.",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 4411Â£- - - autres :,KG,- - - - -
+,,,20,,"- - - - merrains mÃªme sciÃ©s sur les deux faces principales, mais non autrement travaillÃ©s :",,
+5,,,,00,"- - - - merrains mÃªme sciÃ©s sur les deux faces principales, mais non autrement travaillÃ©s",KG,- - - - -
+7,,,30,00,"- - - - futailles, cuves, baquets, seaux et autres ouvrages de tonnellerie, et leurs Â£parties",KG,- - - - -
+7,,,90,00,"- - - - - non montÃ©s, y compris les parties",KG,- - - - -
+,,4417.00,,,"- Outils, montures et manches d'outils, montures de brosses, manches de balais ou de brosses, en bois; formes, embauchoirs et tendeurs pour chaussures, en bois.",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 4411Â£- - - autres :,KG,- - - - -
+7,,,20,00,- - - - manches d'articles de coutellerie et de couverts de table ; montures de brossesÂ£- - - - autres :,KG,- - - - -
+,,,30,,"- - - - - outils, montures et manches d'outils :",,
+7,,,,00,"- - - - - outils, montures et manches d'outils",KG,- - - - -
+7,,,91,00,- - - - - - formes pour chaussures,KG,- - - - -
+8,,,92,00,- - - - - - embauchoirs et tendeurs pour chaussures,KG,- - - - -
+7,,,99,00,- - - - - - - - autres,KG,- - - - -
+,44.18,,,,"""Ouvrages de menuiserie et piÃ¨ces de charpente pour construction,y compris les panneaux cellulaires, les panneaux assemblÃ©s pourrevÃªtement de sol et les bardeaux (Â«shinglesÂ» et Â«shakesÂ»), en bois.â€“ FenÃªtres, portes-fenÃªtres et leurs cadres et c",,
+,44.18,,,,"""Ouvrages de menuiserie et piÃ¨ces de charpente pour construction,y compris les panneaux cellulaires, les panneaux assemblÃ©s pourrevÃªtement de sol et les bardeaux (Â«shinglesÂ» et Â«shakesÂ»), en bois.â€“ FenÃªtres, portes-fenÃªtres et leurs cadres et c",,
+,44.18,,,,"Ouvrages de menuiserie et piÃ¨ces de charpente pour construction, y compris les panneaux cellulaires, les panneaux pour parquets et les bardeaux (Â«shinglesÂ» et Â«shakesÂ»), en bois.",,
+,44.18,,,,"Ouvrages de menuiserie et piÃ¨ces de charpente pour construction, y compris les panneaux cellulaires, les panneaux pour parquets et les bardeaux (Â«shinglesÂ» et Â«shakesÂ»), en bois.",,
+,,4418.10,00,,"- FenÃªtres, portes-fenÃªtres et leurs cadres et chambranles",,
+,,4418.11,00,,- - En bois tropicaux,,
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,90,- - - autres,KG,NOMBRE
+,,4418.19,00,,- - Autres,,
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,90,"- - - autres Â£â€“ Portes et leurs cadres, chambranles et seuils :",KG,NOMBRE
+,,4418.20,00,,"- Portes et leurs cadres, chambranles et seuils",,
+,,4418.21,00,,- - En bois tropicaux,,
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,90,- - - autres,KG,NOMBRE
+,,4418.29,00,,- - Autres,,
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,90,- - - autres,KG,NOMBRE
+,,4418.30,00,,- Poteaux et poutres autres que les produits des nÂ°s 4418.81 Ã  4418.89,,
+,,4418.30,00,,- Poteaux et poutres autres que les produits des nÂ°s 4418.81 Ã  4418.89,,
+,,4418.30,00,,- Panneaux pour parquets,,
+,,4418.30,00,,- Panneaux pour parquets,,
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+8,,,,10,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+8,,,,10,- - - en panneaux de fibres du nÂ° 4411,KG,- - - - -
+8,,,,10,- - - en panneaux de fibres du nÂ° 4411,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,4418.40,00,,- Coffrages pour le bÃ©tonnage,,
+8,,,,10,- - - en panneaux de fibres du nÂ° 4411,KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,,4418.50,00,,- Bardeaux (Â«shinglesÂ» et Â«shakesÂ»),,
+8,,,,10,- - - en panneaux de fibres du nÂ° 4411,KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,,4418.60,,,- Poteaux et poutres,,
+,,4418.71,,,- - Pour sols mosaÃ¯ques,,
+,,4418.72,,,"- - Autres, multicouches",,
+,,4418.73,,,"- - """"""En bambou ou ayant au moins la couche supÃ©rieure enbambou""""""",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.74,,,"- - Autres, pour sols mosaÃ¯ques",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.75,,,"- - Autres, multicouches",,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.79,,,- - Autres,,
+,,4418.79,,,- - Autres,,
+,,4418.79,,,- - Autres,,
+,,4418.79,,,- - Autres,,
+8,,,20,00,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,80,00,- - - autresâ€“ Autres :,KG,- - - - -
+,,4418.81,,,- - Bois lamellÃ©-collÃ© (BLC),,
+8,,,10,00,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.82,,,- - Bois lamellÃ© croisÃ© (CLT ou X-lam),,
+8,,,10,00,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.83,,,- - Poutre en l,,
+8,,,10,00,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.89,,,- - Autres,,
+8,,,10,00,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4418.90,00,,- Autres,,
+,,4418.91,00,,- - En bambou,,
+8,,,,20,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,80,- - - autres,KG,- - - - -
+5,,4418.92,00,00,- - Panneaux cellulaires en bois,KG,- - - - -
+,,4418.99,00,,- - Autres,,
+8,,,,20,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+5,,,,80,- - - - autres,KG,- - - - -
+,44.19,,,,"""""""Articles en bois pour la table ou la cuisine.â€“ En bambou :""""""",,
+,,4419.00,00,,Articles en bois pour la table ou la cuisine,,
+,,4419.11,00,,"- - Planches Ã  pain, planches Ã  hacher et articles similaires",,
+8,,,,10,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,,90,- - - - - - - autres,KG,- - - - -
+,,4419.12,00,,- - Baguettes,,
+8,,,,10,- - - en panneaux de fibres du nÂ° 44.11,KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,,4419.19,00,,- - Autres,,
+8,,,,10,- - - en panneaux de fibres du nÂ° 44.11â€“ â€“ â€“ autres :â€“ â€“ â€“ â€“ ustensiles de mÃ©nage :,KG,- - - - -
+8,,,,21,- - - - - mesures de capacitÃ©,KG,- - - - -
+8,,,,29,- - - - - autres,KG,- - - - -
+8,,,,30,- - - - ouvrages de petite Ã©bÃ©nisterieâ€“ â€“ â€“ â€“ autres :,KG,- - - - -
+5,,,,91,- - - - - ouvrages de tournerie,KG,- - - - -
+5,,,,99,- - - - - - - autres,KG,- - - - -
+,,4419.20,00,,- En bois tropicaux,,
+8,,,,10,- - - en panneaux de fibres du n 44.11 Â£â€“ â€“ â€“ autres :,KG,- - - - -
+8,,,,20,- - - - ustensiles de mÃ©nage,KG,- - - - -
+8,,,,30,- - - - ouvrages de petite Ã©bÃ©nisterie,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,4419.90,00,,- Autres,,
+8,,,,15,- - - en panneaux de fibres du n 44.11,KG,- - - - -
+8,,,,20,- - - - ustensiles de mÃ©nage,KG,- - - - -
+8,,,,40,- - - - ouvrages de petite Ã©bÃ©nisterie,KG,- - - - -
+5,,,,80,- - - - - autres,KG,- - - - -
+,44.20,,,,"""Bois marquetÃ©s et bois incrustÃ©s; coffrets, Ã©crins et Ã©tuis pourbijouterie ou orfÃ¨vrerie, et ouvrages similaires, en bois; statuetteset autres objets d'ornement, en bois; articles d'ameublement en boisne relevant pas du Chapitre 94.â€“ Statuettes et",,
+,44.20,,,,"""Bois marquetÃ©s et bois incrustÃ©s; coffrets, Ã©crins et Ã©tuis pourbijouterie ou orfÃ¨vrerie, et ouvrages similaires, en bois; statuetteset autres objets d'ornement, en bois; articles d'ameublement en boisne relevant pas du Chapitre 94.â€“ Statuettes et",,
+,44.20,,,,"Bois marquetÃ©s et bois incrustÃ©s; coffrets, Ã©crins et Ã©tuis pour bijouterie ou orfÃ¨vrerie, et ouvrages similaires, en bois; statuettes et autres objets d'ornement, en bois; articles d'ameublement en bois ne relevant pas du Chapitre 94.",,
+,44.20,,,,"Bois marquetÃ©s et bois incrustÃ©s; coffrets, Ã©crins et Ã©tuis pour bijouterie ou orfÃ¨vrerie, et ouvrages similaires, en bois; statuettes et autres objets d'ornement, en bois; articles d'ameublement en bois ne relevant pas du Chapitre 94.",,
+,,4420.10,00,,"- Statuettes et autres objets d'ornement, en bois",,
+8,,4420.11,00,00,- - En bois tropicaux,KG,- - - - -
+8,,4420.19,00,00,- - Autres,KG,- - - - -
+,,4420.90,,,- Autres,,
+8,,,10,00,- - - en panneaux de fibres du nÂ° 4411Â£- - - autres :,KG,- - - - -
+5,,,91,00,- - - - bois marquetÃ©s et bois incrustÃ©s,KG,M3 (METTRE CUBE)
+8,,,99,00,- - - - - autres,KG,M3 (METTRE CUBE)
+,44.21,,,,Autres ouvrages en bois,,
+,,4421.10,00,,- Cintres pour vÃªtements,,
+8,,,,00,- Migration NGP inexistants,KG,- - - - -
+8,,,,00,- Migration NGP inexistants,KG,- - - - -
+8,,,,00,- Cintres pour vÃªtements,KG,- - - - -
+8,,,,00,- Cintres pour vÃªtements,KG,- - - - -
+8,,4421.20,00,00,- Cercueils,KG,- - - - -
+,,4421.90,,,- Autres,,
+,,,60,,"- - - - canettes, busettes pour filature et tissage et pour fils Ã  coudre et articles similaires, en bois tournÃ© :",,
+,,,90,,- - - - - - autres :,,
+,,4421.91,,,- - En bambou,,
+8,,,10,00,- - - Ã©ventails et Ã©crans Ã  main et leurs montures et parties de montures,KG,- - - - -
+5,,,20,00,"- - - buscs pour corsets, pour vÃªtements ou accessoires du vÃªtement et similaires",KG,- - - - -
+8,,,35,00,"- - - autres, en panneaux de fibres du n 44.11",KG,- - - - -
+5,,,40,00,"- - - - ""pavÃ©sâ€“ â€“ â€“ â€“ bois prÃ©parÃ©s pour allumettes ; chevilles en bois pour chaussures :""",KG,- - - - -
+5,,,50,00,"- - - - ""bois prÃ©parÃ©s pour allumettes ; chevilles en bois pour chaussures""",KG,- - - - -
+,,,60,,"- - - - canettes, busettes pour filature et tissage et pour fils Ã  coudre et articles similaires, en bois tournÃ© :",,
+5,,,,00,"- - - - canettes, busettes pour filature et tissage et pour fils Ã  coudre et articles similaires, en bois tournÃ©",KG,- - - - -
+,,,90,,- - - - autres:,,
+8,,,,10,- - - - - rouleaux pour stores avec ou sans ressorts,KG,- - - - -
+7,,,,20,- - - - - mesures de capacitÃ©,KG,- - - - -
+6,,,,30,"- - - - - matÃ©riel pour l'Ã©conomie rurale (clapiers, poulaillers, ruches)",KG,NOMBRE
+7,,,,40,"- - - - - organes de propulsion pour bÃ¢teaux (roues Ã  aubes, rames, pagaies, etc...)",KG,- - - - -
+5,,,,50,"- - - - - articles pour l'industrie, non dÃ©nommÃ©s ni compris ailleurs",KG,- - - - -
+5,,,,60,- - - - - ouvrages de tournerie,KG,- - - - -
+5,,,,70,"- - - - - lattis en bois ou roseau (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+,,4421.99,,,- - Autres,,
+8,,,10,00,- - - Ã©ventails et Ã©crans Ã  main et leurs montures et parties de montures,KG,- - - - -
+5,,,20,00,"- - - buscs pour corsets, pour vÃªtements ou accessoires du vÃªtement et similaires",KG,- - - - -
+8,,,35,00,"- - - autres, en panneaux de fibres du n 44.11",KG,- - - - -
+5,,,40,00,"- - - - ""pavÃ©sâ€“ â€“ â€“ â€“ bois prÃ©parÃ©s pour allumettes ; chevilles en bois pour chaussures :""",KG,- - - - -
+5,,,50,00,"- - - - ""bois prÃ©parÃ©s pour allumettes ; chevilles en bois pour chaussures""",KG,- - - - -
+,,,60,,"- - - - canettes, busettes pour filature et tissage et pour fils Ã  coudre et articles similaires, en bois tournÃ© :",,
+5,,,,00,"- - - - canettes, busettes pour filature et tissage et pour fils Ã  coudre et articles similaires, en bois tournÃ©",KG,- - - - -
+,,,90,,- - - - autres,,
+8,,,,10,- - - - - rouleaux pour stores avec ou sans ressorts,KG,- - - - -
+7,,,,20,- - - - - mesures de capacitÃ©,KG,- - - - -
+6,,,,30,"- - - - - matÃ©riel pour l'Ã©conomie rurale (clapiers, poulaillers, ruches)",KG,NOMBRE
+7,,,,40,"- - - - - organes de propulsion pour bÃ¢teaux (roues Ã  aubes, rames, pagaies, etc...)",KG,- - - - -
+5,,,,50,"- - - - - articles pour l'industrie, non dÃ©nommÃ©s ni compris ailleurs",KG,- - - - -
+5,,,,60,- - - - - ouvrages de tournerie,KG,- - - - -
+5,,,,70,"- - - - - lattis en bois ou roseau (dits Â«lattis armÃ©sÂ»), treillages de clÃ´ture",KG,- - - - -
+8,,,,80,- - - - - - - autres,KG,- - - - -

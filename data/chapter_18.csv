@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7
+1,,1801.00,00,00,"- Cacao en fÃ¨ves et brisures de fÃ¨ves, bruts ou torrÃ©fiÃ©s",KG,- - - - -
+1,,1802.00,00,00,"Coques, pellicules (pelures) et autres dÃ©chets de cacao",KG,- - - - -
+,18.03,,,,"PÃ¢te de cacao, mÃªme dÃ©graissÃ©e",,
+1,,1803.10,00,00,- Non dÃ©graissÃ©e,KG,- - - - -
+1,,1803.20,00,00,- - ComplÃ¨tement ou partiellement dÃ©graissÃ©e,KG,- - - - -
+1,,1804.00,00,00,"Beurre, graisse et huile de cacao",KG,- - - - -
+1,,1805.00,00,00,"- - Poudre de cacao, sans addition de sucre ou d'autres Ã©dulcorants",KG,- - - - -
+,18.06,,,,Chocolat et autres prÃ©parations alimentaires contenant du cacao,,
+,,1806.10,,,"- Poudre de cacao, avec addition de sucre ou d'autres Ã©dulcorants",,
+,,,10,,- - - contenant moins de 65% en poids sec de sucre :,,
+1,,,,00,- - - contenant moins de 65% en poids sec de sucre,KG,- - - - -
+,,,20,,"- - - contenant 65% ou plus, en poids sec, de sucre, dÃ©crite dans la note complÃ©-",,
+1,,,,00,"- - - contenant 65% ou plus, en poids sec, de sucre, dÃ©crite dans la note complÃ©mentaire Â£n 1 du Chapitre 17",KG,- - - - -
+,,,30,,"- - - contenant, en poids sec, plus de 65% et moins de 90% de sucre :",,
+1,,,,00,"- - - contenant, en poids sec, plus de 65% et moins de 90% de sucre",KG,- - - - -
+,,,40,,"- - - contenant, en poids sec, 90% ou plus de sucre :",,
+,,,40,,"- - - contenant, en poids sec, 90% ou plus de sucre :",,
+,,,40,,"- - - contenant, en poids sec, 90% ou plus de sucre :Â£- - - - dÃ©crite dans la note complÃ©mentaire nÂ° 1 du chapitre 17 :",,
+,,,40,,"- - - contenant, en poids sec, 90% ou plus de sucre :Â£- - - - dÃ©crite dans la note complÃ©mentaire nÂ° 1 du chapitre 17 :",,
+1,,,,10,- - - - dÃ©crite dans la note complÃ©mentaire n 1 du Chapitre 17,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,1806.20,,,"- - Autres prÃ©parations prÃ©sentÃ©es soit en blocs ou en barres d'un poids excÃ©dant 2 kg, soit Ã  l'Ã©tat liquide ou pÃ¢teux ou en poudres, granulÃ©s ou formes similaires, en rÃ©cipients ou en emballages immÃ©diats, d'un contenu excÃ©dant 2 kg",,
+1,,,10,00,"- - - chocolat et autres prÃ©parations Ã  base de cacao, d'un poids supÃ©rieur Ã  2 kg et infÃ©rieur Ã  4,5 kg, contenant plus de 65% en poids sec de sucre, dÃ©crits dans la note complÃ©mentaire nÂ°1 du chapitre 17",KG,- - - - -
+1,,,20,00,"- - - chocolat et autres prÃ©parations Ã  base de cacao, d'un poids supÃ©rieur Ã  2 kg et infÃ©rieur Ã  4,5 kg, contenant plus de 10% en poids sec de sucre, dÃ©crits dans la note complÃ©mentaire nÂ°2 du chapitre 17",KG,- - - - -
+1,,,30,00,"- - - mÃ©langes de sirops avec du chocolat ou du cacao, d'un poids supÃ©rieur Ã  2 kg et infÃ©rieur Ã  4,5 kg, ne contenant pas plus de 65% de sucre, dÃ©crits dans la note complÃ©mentaire nÂ°3 du chapitre 17",KG,- - - - -
+1,,,40,00,"- - - chocolats ou prÃ©paration de cacao, d'un poids supÃ©rieur Ã  2 kg et infÃ©rieur Ã  4,5 kg, contenant plus de 10% en poids sec de sucre, dÃ©crits dans la note complÃ©mentaire nÂ°2 du chapitre 17",KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - couverture :,,
+1,,,,11,- - - - - de chocolat au lait,KG,- - - - -
+1,,,,19,- - - - - de chocolat fondantÂ£- - - - autres :,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,1806.31,00,,- - - FourrÃ©sÂ£- - - tablettes et bÃ¢tons :,,
+1,,1806.31,10,00,- - - tablettes,KG,- - - - -
+1,,1806.31,20,00,- - - barres ou bÃ¢tons,KG,- - - - -
+,,1806.32,00,,- - - Non fourrÃ©sÂ£- - - couverture :,,
+1,,1806.32,10,00,- - - couverture Â£â€“ â€“ autres:,KG,- - - - -
+1,,1806.32,21,00,- - - - tablettes,KG,- - - - -
+1,,1806.32,22,00,- - - - barres ou bÃ¢tons,KG,- - - - -
+,,1806.90,00,,- Autres,,
+1,,,,10,"- - - mÃ©langes de sirops avec du chocolat ou du cacao, non dÃ©nommÃ©s ni compris ailleurs, dÃ©crits dans la note complÃ©mentaire nÂ°3 du chapitre 17",KG,- - - - -
+1,,,,20,"- - - contenant plus de 65% en poids sec de sucre, dÃ©crits dans la note complÃ©- mentaire nÂ°1 du chapitre 17",KG,- - - - -
+1,,,,30,"- - - contenant plus de 10% en poids sec de sucre, dÃ©crits dans la note complÃ©- mentaire nÂ°2 du chapitre 17Â£- - - autres :",KG,- - - - -
+1,,,,50,"- - - - produits Ã  base de farines, amidons, fÃ©cules ou extraits de malt contenant du cacao dans une proportion infÃ©rieure Ã  50%Â£- - - - autres :Â£- - - - - pralines et autres confiseries au chocolat, fourrÃ©es :",KG,- - - - -
+1,,,,62,- - - - - - contenant de l'alcool,KG,- - - - -
+1,,,,68,- - - - - - autres,KG,- - - - -
+1,,,,81,- - - - - - - contenant de l'alcool,KG,- - - - -
+1,,,,89,- - - - - - - autres,KG,- - - - -

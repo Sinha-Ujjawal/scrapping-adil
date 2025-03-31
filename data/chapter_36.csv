@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7
+,,3601.00,,,- - - - - - - Poudres propulsives,,
+8,,,10,00,- - - poudre noire,KG,- - - - -
+8,,,20,00,"- - - - - autres, visÃ©es Ã  la note complÃ©mentaire du prÃ©sent chapitre",KG,- - - - -
+8,,,90,00,- - - - - autres,KG,- - - - -
+,,3602.00,00,,"Explosifs prÃ©parÃ©s, autres que les poudres propulsives",,
+5,,,,10,"- - - Ã  base de nitrate d'ammonium, de chlorates, de perchlorates ou d'autres composÃ©s organiquesÂ£- - - Ã  base de dÃ©rivÃ©s organiques nitrÃ©s ou d'esters nitriques :",KG,- - - - -
+5,,,,20,"- - - - aromatiques : trinitrophÃ©nol (mÃ©linite), trinitroxylol (xylite), trinitrotoluÃ¨ne (tolite), etcÂ£- - - - autres :",KG,- - - - -
+5,,,,31,- - - - - contenant 20 % ou plus de nitroglycÃ©rine (dynamite),KG,- - - - -
+5,,,,39,- - - - - - - autres,KG,- - - - -
+5,,,,40,"- - - explosifs d'amorcage Ã  base de fulminate de mercure, d'azoture de plomb, etc",KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,36.03,,,,MÃ¨ches de sÃ»retÃ©; cordeaux dÃ©tonants; amorces et capsules fulminantes; allumeurs; dÃ©tonateurs Ã©lectriques.,,
+,,3603.00,,,- MÃ¨ches de sÃ»retÃ©; cordeaux dÃ©tonants; amorces et capsules fulmi- nantes; allumeurs; dÃ©tonateurs Ã©lectriques.,,
+,,,10,,- - - mÃ¨ches ; cordeaux dÃ©tonants :,,
+,,,21,,"- - - - pour munitions de guerre, de chasse, de tir :",,
+,,,90,,- - - allumeurs et dÃ©tonateurs :,,
+8,,3603.10,00,00,- MÃ¨ches de sÃ»retÃ©,KG,- - - - -
+8,,3603.20,00,00,- Cordeaux dÃ©tonants,KG,- - - - -
+,,3603.30,00,,"- ""Amorces fulminantesâ€“ â€“ â€“ pour munitions de guerre, de chasse, de tir :""",,
+5,,,,11,- - - - de guerre,KG,MILLE
+5,,,,19,- - - - de chasse et de tir,KG,MILLE
+5,,,,90,- - - autres,KG,MILLE
+,,3603.40,00,,"- ""Capsules fulminantesâ€“ â€“ â€“ pour munitions de guerre, de chasse, de tir :""",,
+5,,,,11,- - - - de guerre,KG,MILLE
+5,,,,19,- - - - de chasse et de tir,KG,MILLE
+5,,,,90,- - - autres,KG,MILLE
+8,,3603.50,00,00,- Allumeurs,KG,- - - - -
+,,3603.60,00,,- DÃ©tonateurs Ã©lectriques,,
+5,,,,10,- - - avec amorce Ã©lectrique Ã  retard,KG,MILLE
+5,,,,90,- - - autres,KG,MILLE
+,36.04,,,,"- Articles pour feux d'artifice, fusÃ©es de signalisation ou paragrÃªles et similaires, pÃ©tards et autres articles de pyrotechnie.",,
+8,,3604.10,00,00,- Articles pour feux d'artifice,KG,- - - - -
+,,3604.90,,,- Autres,,
+5,,,10,00,"- - - amorces en bandelettes ou rouleaux pour briquets, lampes de mineurs et similairesÂ£- - - autres :",KG,- - - - -
+8,,,91,00,- - - - articles pour divertissements,KG,- - - - -
+8,,,92,00,- - - - articles de signalisation lumineuse,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+5,,,,10,- - - - - pÃ©tards de chemins de fer,KG,- - - - -
+5,,,,90,- - - - - - - autres,KG,- - - - -
+,,3605.00,00,,"- - - - Allumettes, autres que les articles de pyrotechnie du nÂ° 3604",,
+8,,,,10,- - - - en bois,KG,GROSSE DE BOITE
+8,,,,90,- - - - - autres,KG,GROSSE DE BOITE
+,36.06,,,,FerrocÃ©rium et autres alliages pyrophoriques sous toutes formes; articles en matiÃ¨res inflammables citÃ©s Ã  la Note 2 du prÃ©sent Chapitre.,,
+8,,3606.10,00,00,- - - Combustibles liquides et gaz combustibles liquÃ©fiÃ©s en rÃ©cipients des types utilisÃ©s pour alimenter ou recharger les briquets ou les allumeurs et d'une capacitÃ© n'excÃ©dant pas 300 cm3,KG,- - - - -
+,,3606.90,00,,- AutresÂ£- - - ferrocÃ©rium et autres alliages pyrophoriques sous toutes leurs formes :,,
+8,,,,11,- - - - pierres Ã  briquet,KG,- - - - -
+8,,,,19,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+8,,,,91,- - - - combustibles solides ou pÃ¢teux Ã  base d'alcool (alcool solidifiÃ© et produits similaires),KG,- - - - -
+8,,,,92,"- - - - - - mÃ©taldÃ©hyde (Â«mÃ©taÂ») et autres combustibles similaires, en tablettes, comprimÃ©s, bÃ¢tons ou formes similaires",KG,- - - - -
+8,,,,99,"- - - - torches et flambeaux de rÃ©sine, allume-feu et produits similaires",KG,- - - - -

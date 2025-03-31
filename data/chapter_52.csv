@@ -1,0 +1,468 @@
+0,1,2,3,4,5,6,7
+,,5201.00,00,,"Coton, non cardÃ© ni peignÃ©",,
+3,,,,20,- - - Ã©cru,KG,- - - - -
+3,,,,80,- - - autres,KG,- - - - -
+,52.02,,,,DÃ©chets de coton (y compris les dÃ©chets de fils et les effilochÃ©s),,
+,,5202.10,00,,- DÃ©chets de fils,,
+3,,,,00,- DÃ©chets de fils,KG,- - - - -
+3,,,,00,- DÃ©chets de fils,KG,- - - - -
+3,,,,00,- Migration NGP inexistants,KG,- - - - -
+3,,,,00,- Migration NGP inexistants,KG,- - - - -
+3,,5202.91,00,00,- - EffilochÃ©s,KG,- - - - -
+3,,5202.99,00,00,- - Autres,KG,- - - - -
+,,5203.00,,,"Coton, cardÃ© ou peignÃ©",,
+3,,,00,10,- - - blanchi,KG,- - - - -
+3,,,00,90,- - - autres,KG,- - - - -
+,,,10,,"- - - Ã©cru, dÃ©cruÃ© ou blanchi :",,
+,52.04,,,,"Fils Ã  coudre de coton, mÃªme conditionnÃ©s pour la vente au dÃ©tailÂ£- Non conditionnÃ©s pour la vente au dÃ©tail :",,
+5,,5204.11,00,00,- - Contenant au moins 85 % en poids de coton,KG,- - - - -
+5,,5204.19,00,00,- - Autres,KG,- - - - -
+8,,5204.20,00,00,- ConditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,52.05,,,,"Fils de coton (autres que les fils Ã  coudre), contenant au moins 85% en poids de coton, non conditionnÃ©s pour la vente au dÃ©tail.Â£- Fils simples, en fibres non peignÃ©es :",,
+,,5205.11,00,,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",,
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,,00,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©rosmÃ©triques)",KG,- - - - -
+5,,,,00,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©rosmÃ©triques)",KG,- - - - -
+,,5205.12,00,,"- - - - - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrantmoins de 714,29 dÃ©citexmais pasmoins de 232,56 dÃ©citex Â£(excÃ©dant 14 numÃ©rosmÃ©triquesmais n'excÃ©dant pas 43 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+5,,,,00,"- - Titrantmoins de 714,29 dÃ©citexmais pasmoins de 232,56 dÃ©citex Â£(excÃ©dant 14 numÃ©rosmÃ©triquesmais n'excÃ©dant pas 43 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+,,5205.13,00,,"- - - - - - - - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex Â£(excÃ©dant 43 numÃ©rosmÃ©triques mais n'excÃ©dant pas 52 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5205.14,00,,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex Â£(excÃ©dant 52 numÃ©ros mÃ©triquesmais n'excÃ©dant pas 80 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5205.15,00,,- - - - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),,
+5,,,,00,- - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),KG,- - - - -
+,,5205.21,00,,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",KG,- - - - -
+,,5205.22,00,,"- - - - - - - - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex Â£(excÃ©dant 14 numÃ©rosmÃ©triquesmais n'excÃ©dant pas 43 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5205.23,00,,"- - - - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrantmoins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex Â£(excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros",KG,- - - - -
+,,5205.24,00,,"- - - - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex Â£(excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros",KG,- - - - -
+,,5205.26,00,,"- - - - - - Titrant moins de 125 dÃ©citex mais pas moins de 106,38 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques mais n'exÃ©dant pas 94 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 125 dÃ©citex mais pas moins de 106,38 dÃ©citex Â£(excÃ©dant 80 numÃ©ros mÃ©triques mais n'exÃ©dant pas 94 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5205.27,00,,"- - - Titrant moins de 106,38 dÃ©citex mais pas moins de 83,33 dÃ©citex (excÃ©dant 94 numÃ©ros mÃ©triques mais n'exÃ©dant pas 120 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 106,38 dÃ©citex mais pas moins de 83,33 dÃ©citex Â£(excÃ©dant 94 numÃ©rosmÃ©triquesmais n'exÃ©dant pas 120 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5205.28,00,,"- - Titrant moins de 83,33 dÃ©citex (excÃ©dant 120 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 83,33 dÃ©citex (excÃ©dant 120 numÃ©rosmÃ©triques)",KG,- - - - -
+,,5205.31,00,,"- - - - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris",,
+5,,,,00,"- - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 Â£numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.32,00,,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins Â£de 232,56 dÃ©citex (excÃ©dant 14 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 43 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.33,00,,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dantÂ£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids",,
+5,,,,00,"- - Titrant en fils simplesmoins de 232,56 dÃ©citexmais pasmoins de Â£192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 52 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.34,00,,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports simila",,
+5,,,,00,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins Â£de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triquesmais n'excÃ©dant Â£pas 80 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.35,00,,"- - - Titrant en fils simples moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 900 g",,
+5,,,,00,- - Titrant en fils simplesmoins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros Â£mÃ©triques en fils simples),KG,- - - - -
+,,5205.41,00,,"- - - - - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compr",,
+5,,,,00,"- - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 Â£numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.42,00,,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de Â£232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 43 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.43,00,,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins Â£de 192,31 dÃ©citex (excÃ©dant 43 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 52 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.44,00,,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports simila",,
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,,00,- - Migration NGP inexistants,KG,- - - - -
+5,,,,00,"- - Titrant en fils simplesmoins de 192,31 dÃ©citexmais pasmoins de Â£125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas Â£80 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+5,,,,00,"- - Titrant en fils simplesmoins de 192,31 dÃ©citexmais pasmoins de Â£125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas Â£80 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.46,00,,"- - - Titrant en fils simples moins de 125 dÃ©citex mais pas moins de 106,38 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques mais n'excÃ©dant pas 94 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 125 dÃ©citex mais pas moins de Â£106,38 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 94 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.47,00,,"- - Titrant en fils simples moins de 106,38 dÃ©citex mais pas moins de 83,33 dÃ©citex (excÃ©dant 94 numÃ©ros mÃ©triques mais n'excÃ©dant pas 120 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 106,38 dÃ©citex mais pas moins Â£de 83,33 dÃ©citex (excÃ©dant 94 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 120 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5205.48,00,,"- - Titrant en fils simples moins de 83,33 dÃ©citex (excÃ©dant 120 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 900",,
+5,,,,00,"- - Titrant en fils simplesmoins de 83,33 dÃ©citex (excÃ©dant 120 numÃ©ros Â£mÃ©triques en fils simples)",KG,- - - - -
+,52.06,,,,"Fils de coton (autres que les fils Ã  coudre), contenant moins de 85% en poids de coton, non conditionnÃ©s pour la vente au dÃ©tail.Â£- Fils simples, en fibres non peignÃ©es :",,
+,,5206.11,00,,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",KG,- - - - -
+,,5206.12,00,,"- - - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex Â£(excÃ©dant 14 numÃ©ros mÃ©triquesmais n'excÃ©dant pas 43 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.13,00,,"- - - - - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex Â£(excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.14,00,,"- - - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex Â£(excÃ©dant 52 numÃ©rosmÃ©triquesmais n'excÃ©dant pas 80 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.15,00,,- - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),,
+5,,,,00,- - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),KG,- - - - -
+,,5206.21,00,,"- - Titrant 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant 714,29 dÃ©citex ouplus (n'excÃ©dant pas 14 numÃ©rosmÃ©triques)",KG,- - - - -
+,,5206.22,00,,"- - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex Â£(excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.23,00,,"- - - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex Â£(excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.24,00,,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques)",,
+5,,,,00,"- - Titrant moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex Â£(excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros Â£mÃ©triques)",KG,- - - - -
+,,5206.25,00,,- - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),,
+5,,,,00,- - Titrant moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques),KG,- - - - -
+,,5206.31,00,,"- - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de",,
+5,,,,00,"- - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.32,00,,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de Â£232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 43 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.33,00,,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins Â£de 192,31 dÃ©citex (excÃ©dant 43 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 52 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.34,00,,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports simila",,
+5,,,,00,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins Â£de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 80 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.35,00,,"- - Titrant en fils simples moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes,bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 900 g :",,
+5,,,,00,- - Titrant en fils simples moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros Â£mÃ©triques en fils simples),KG,- - - - -
+,,5206.41,00,,"- - - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris)",,
+5,,,,00,"- - Titrant en fils simples 714,29 dÃ©citex ou plus (n'excÃ©dant pas 14 Â£numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.42,00,,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins de 232,56 dÃ©citex (excÃ©dant 14 numÃ©ros mÃ©triques mais n'excÃ©dant pas 43 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 714,29 dÃ©citex mais pas moins Â£de 232,56 dÃ©citex (excÃ©dant 14 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 43 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.43,00,,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins de 192,31 dÃ©citex (excÃ©dant 43 numÃ©ros mÃ©triques mais n'excÃ©dant pas 52 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports sim",,
+5,,,,00,"- - Titrant en fils simples moins de 232,56 dÃ©citex mais pas moins Â£de 192,31 dÃ©citex (excÃ©dant 43 numÃ©rosmÃ©triquesmais n'excÃ©dant Â£pas 52 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.44,00,,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant pas 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports simila",,
+5,,,,00,"- - Titrant en fils simples moins de 192,31 dÃ©citex mais pas moins Â£de 125 dÃ©citex (excÃ©dant 52 numÃ©ros mÃ©triques mais n'excÃ©dant Â£pas 80 numÃ©ros mÃ©triques en fils simples)",KG,- - - - -
+,,5206.45,00,,"- - Titrant en fils simples moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros mÃ©triques en fils simples)Â£- - - apprÃªtÃ©s, prÃ©sentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 900 g :",,
+5,,,,00,- - Titrant en fils simples moins de 125 dÃ©citex (excÃ©dant 80 numÃ©ros Â£mÃ©triques en fils simples),KG,- - - - -
+,52.07,,,,Fils de coton (autres que les fils Ã  coudre) conditionnÃ©s pour la vente au dÃ©tail.,,
+,,5207.10,00,,- Contenant au moins 85% en poids de coton,,
+5,,,,10,"- - - en boules, en pelotes, en Ã©cheveaux ou en Ã©chevettes d'un poids excÃ©dant 125 g mais n'excÃ©dant pas 500 gÂ£- - - autres :Â£- - - - prÃ©sentÃ©s en bobines ou busettes :",KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,5207.90,00,,- Autres,,
+5,,,,10,"- - - en boules, en pelotes, en Ã©cheveaux ou en Ã©chevettes d'un poids excÃ©dant 125 g mais n'excÃ©dant pas 500 gÂ£- - - autres :Â£- - - - prÃ©sentÃ©s en bobines ou busettes :",KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,52.08,,,,"- - Tissus de coton, contenant au moins 85% en poids de coton, d'un poids n'excÃ©dant pas 200 g/m2.Â£- Ecrus :",,
+,,5208.11,,,"- - A armure toile, d'un poids n'excÃ©dant pas 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,80,,- - - autres:,,
+8,,,,10,"- - - - des types utilisÃ©s pour la fabrication de bandage, pansements,et gazes Ã  pansement",KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :Â£- - - - - comportant en fils simples, en chaÃ®ne et en trame, dans un carrÃ© de 1 cm de cÃ´tÃ©, 150 fils ou plus :",,
+,,5208.12,,,"- - A armure toile, d'un poids excÃ©dant 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :Â£- - - - - d'un poids au m2 infÃ©rieur ou Ã©gal Ã  165 g et comportant en fils simples, en chaÃ®ne et en trame, dans un carrÃ© de 1 cm de cÃ´tÃ©, 150 fils ou plus :",,
+,,5208.13,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :Â£- - - - - d'un poids au m2 infÃ©rieur ou Ã©gal Ã  165 g et comportant en fils simples, en chaÃ®ne et en trame, dans un carrÃ© de 1 cm de cÃ´tÃ©, 150 fils ou plus :",,
+,,5208.19,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :Â£- - - - - d'un poids au m2 infÃ©rieur ou Ã©gal Ã  165 g et comportant en fils simples, en chaÃ®ne et en trame, dans un carrÃ© de 1 cm de cÃ´tÃ©, 150 fils ou plus :",,
+,,5208.21,,,"- - A armure toile, d'un poids n'excÃ©dant pas 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,80,,- - - autres:,,
+5,,,,10,"- - - - des types utilisÃ©s pour la fabrication de bandage, pansements,et gazes Ã  pansement",KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.22,,,"- - A armure toile, d'un poids excÃ©dant 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.23,,,"- - - - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.29,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.31,,,"- - A armure toile, d'un poids n'excÃ©dant pas 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.32,,,"- - A armure toile, d'un poids excÃ©dant 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.33,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.39,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.41,,,"- - A armure toile, d'un poids n'excÃ©dant pas 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.42,,,"- - A armure toile, d'un poids excÃ©dant 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.43,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.49,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.51,,,"- - A armure toile, d'un poids n'excÃ©dant pas 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.52,,,"- - A armure toile, d'un poids excÃ©dant 100 g/m2",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.53,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5208.59,,,- - Autres tissus,,
+,,,40,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,50,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,60,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+,,,80,,- - - autres :%â€“ â€“ â€“ â€“ d'une largeur infÃ©rieure Ã  85 cm :,,
+8,,,,10,"- - - - Ã  armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,52.09,,,,"- Tissus de coton, contenant au moins 85 % en poids de coton, d'un poids excÃ©dant 200 g/m2 .Â£- Ecrus :",,
+,,5209.11,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5209.12,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5209.19,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5209.21,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.22,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.29,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,20,00,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+8,,,30,00,- - - tissus utilisÃ©s comme armature pour pneumatiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.31,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.32,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.39,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.41,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - - - autres :,,
+8,,,,20,"- - - - - tissus jacquard, d'une largeur supÃ©rieure Ã  115 cm jusqu'Ã  140 cm exclus, d'un poids de 250 g/m2",KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+,,5209.42,,,- - Tissus dits Â«DenimÂ»,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.43,,,"- - Autres tissus Ã  armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+8,,,,20,"- - - - - tissus jacquard, d'une largeur supÃ©rieure Ã  115 cm jusqu'Ã  140 cm Â£exclus, d'un poids de 250 g/m2",KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+,,5209.49,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+8,,,,20,"- - - - - tissus jacquard, d'une largeur supÃ©rieure Ã  115 cm jusqu'Ã  140 cm Â£exclus, d'un poids de 250 g/m2",KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+,,5209.51,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.52,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5209.59,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,52.10,,,,"- Tissus de coton, contenant moins de 85 % en poids de coton, mÃ©langÃ©s principalement ou uniquement avec des fibres synthÃ©- tiques ou artificielles, d'un poids n'excÃ©dant pas 200 g/m2.Â£- Ecrus :",,
+,,5210.11,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5210.12,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5210.19,,,- - Autres tissus,,
+,,,40,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,50,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,60,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+8,,,70,00,- - - autres,KG,- - - - -
+,,,80,,- - - autres :%â€“ â€“ â€“ â€“ d'une largeur infÃ©rieure Ã  85 cm :,,
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5210.21,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.22,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :,,
+,,5210.29,,,- - Autres tissus,,
+,,,40,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,50,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,60,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+8,,,70,00,- - - autres,KG,- - - - -
+,,,80,,- - - autres :,,
+,,,90,,- - - - - autres :,,
+,,5210.31,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.32,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.39,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.41,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,20,00,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+8,,,30,00,- - - tissus utilisÃ©s comme armature pour pneumatiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.42,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :,,
+,,5210.49,,,- - Autres tissus,,
+,,,40,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,50,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,60,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+8,,,70,00,- - - autres,KG,- - - - -
+,,,80,,- - - autres :,,
+,,,90,,- - - - - autres :,,
+,,5210.51,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5210.52,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :,,
+,,5210.59,,,- - Autres tissus,,
+,,,40,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,50,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,60,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+8,,,70,00,- - - autres,KG,- - - - -
+,,,80,,- - - autres :,,
+,,,90,,- - - - - autres :,,
+,52.11,,,,"- - Tissus de coton, contenant moins de 85 % en poids de coton, mÃ©langÃ©s principalement ou uniquement avec des fibres synthÃ©tiques ou artifi- cielles, d'un poids excÃ©dant 200 g/m2 .Â£- Ecrus :",,
+,,5211.11,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5211.12,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5211.19,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure Ã  85 cm :,,
+,,5211.20,,,- Blanchis :,,
+,,,10,,- - - tissus Ã©lastiques,,
+5,,,,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,20,,"- - - guttÃ©s sur feutre Ã  l'aiguille ou sur d'autres tissus, tissÃ©s ou non, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,30,,- - - tissus utilisÃ©s comme armature pour pneumatiques,,
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+,,5211.21,,,- - A armure toile,,
+,,,90,,- - - - - autres :,,
+,,5211.22,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+,,,90,,- - - - - autres :,,
+,,5211.29,,,- - Autres tissus,,
+,,,90,,- - - - - autres :,,
+,,5211.31,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.32,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.39,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.41,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.42,,,- - Tissus dits Â«DenimÂ»,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.43,,,"- - Autres tissus Ã  armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.49,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.51,,,- - A armure toile,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.52,,,"- - A armure sergÃ©, y compris le croisÃ©, dont le rapport d'armure n'excÃ¨de pas 4",,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5211.59,,,- - Autres tissus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,52.12,,,,Autres tissus de cotonÂ£- D'un poids n'excÃ©dant pas 200 g/m2 :,,
+,,5212.11,,,- - Ecrus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.12,,,- - Blanchis,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.13,,,- - Teints,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.14,,,- - En fils de diverses couleurs,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.15,,,- - ImprimÃ©s,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.21,,,- - Ecrus,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.22,,,- - - Blanchis,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.23,,,- - Teints,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.24,,,- - En fils de diverses couleurs,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5212.25,,,- - ImprimÃ©s,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,

@@ -1,0 +1,249 @@
+0,1,2,3,4,5,6,7
+,60.01,,,,"Velours, peluches (y compris les Ã©toffes dites Â«Ã  longs poilsÂ») et Ã©toffes bouclÃ©es, en bonneterie.",,
+,,6001.10,,,- Etoffes dites Â«Ã  longs poilsÂ»,,
+,,,10,,- - - - bonneterie Ã©lastique :,,
+8,,,,11,- - - - - - supÃ©rieure ou Ã©gale Ã  170 cm,KG,- - - - -
+8,,,,12,- - - - - - infÃ©rieure Ã  170 cm mais supÃ©rieure Ã  150 cm et dont la longueur des poils n'excÃ¨de pas 20mm,KG,- - - - -
+8,,,,13,- - - - - - infÃ©rieure ou Ã©gale Ã  150 cm et dont la longueur des poils est infÃ©rieure ou Ã©gale Ã  5mm,KG,- - - - -
+8,,,,14,- - - - - - autres,KG,- - - - -
+8,,,,19,- - - - - autres,KG,- - - - -
+8,,,,21,"- - - - - d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ², Ã  l'exclusion de celles Ã©crues ou blanchies",KG,- - - - -
+8,,,,29,- - - - - autres,KG,- - - - -
+8,,,,80,- - - - d'autres matiÃ¨res textiles,KG,- - - - -
+,,,90,,"- - - ""autresâ€“ â€“ â€“ â€“ de laine ou de poils fins:""",,
+8,,,,11,"- - - - - d'un grammage supÃ©rieur ou Ã©gal 260g/m2, Ã  l'exclusion de celle Ã©crues Â£ou blanchies",KG,- - - - -
+8,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ de fibres textiles synthÃ©tiques ou artificielles : Â£â€“ â€“ â€“ â€“ â€“ de fibres textiles synthÃ©tiques:,KG,- - - - -
+8,,,,21,"- - - - - - contenant des fils d'Ã©lastomÃ¨res Â£â€“ â€“ â€“ â€“ â€“ â€“ autres, d'un grammage supÃ©rieur ou Ã©gal 260g/m2, Ã  l'exclusion de Â£celles Ã©crues ou blanchies, d'une largeur:",KG,- - - - -
+8,,,,22,- - - - - - - supÃ©rieure ou Ã©gale 170 cm,KG,- - - - -
+8,,,,23,- - - - - - - infÃ©rieure Ã  170 cm mais supÃ©rieure Ã  150 cm et dont la longueur Â£des poils n'excÃ¨de pas 20mm,KG,- - - - -
+8,,,,24,- - - - - - - infÃ©rieur ou Ã©gal Ã  150 cm et dont la longueur des poils est infÃ©rieure Â£ou Ã©gale 5mm,KG,- - - - -
+8,,,,25,- - - - - - - autres,KG,- - - - -
+8,,,,28,- - - - - - autres,KG,- - - - -
+8,,,,30,- - - - - de fibres textiles artificielles,KG,- - - - -
+8,,,,90,- - - - d'autres matiÃ¨res textiles,KG,- - - - -
+8,,,,90,- - - - d'autres matiÃ¨res textiles,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,6001.21,,,- - De coton,,
+8,,,10,00,- - - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6001.22,,,- - - De fibres synthÃ©tiques ou artificielles,,
+,,,10,,- - - - bonneterie Ã©lastique :,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,- - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,90,- - - - de fibres textiles artificielles,KG,- - - - -
+,,,99,,- - - - - - autres :Â£- - - - - de fibres textiles synthÃ©tiques :,,
+,,6001.29,,,- - D'autres matiÃ¨res textiles,,
+8,,,10,00,- - - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,,6001.91,,,- - De coton,,
+8,,,10,00,- - - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6001.92,,,- - - De fibres synthÃ©tiques ou artificielles,,
+,,,10,,- - - - bonneterie Ã©lastique :,,
+8,,,,11,"- - - - - d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ², Ã  l'exclusion de celles Ã©crues ou blanchies",KG,- - - - -
+8,,,,19,- - - - - autres,KG,- - - - -
+8,,,,91,"- - - - - d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ², Ã  l'exclusion de celles Ã©crues ou blanchies",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+8,,,,99,- - - - - Migration NGP inexistants,KG,- - - - -
+8,,,,99,- - - - - Migration NGP inexistants,KG,- - - - -
+,,,90,,- - - autres,,
+8,,,,10,- - - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,90,- - - - de fibres textiles artificielles,KG,- - - - -
+,,,99,,- - - - - - autres :Â£- - - - - de fibres textiles synthÃ©tiques :,,
+,,6001.99,,,- - D'autre matiÃ¨res textiles,,
+8,,,10,11,"- - - - d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ², Ã  l'exclusion de celles Ã©crues ou blanchies",KG,- - - - -
+8,,,10,19,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,"- - - - de matiÃ¨res textiles autres que de laine ou de poils fins,d'un grammage Â£supÃ©rieur ou Ã©gal 260g/m2, Ã  l'exclusion de celles Ã©crues ou blanchies",KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,60.02,,,,"Etoffes de bonneterie d'une largeur n'excÃ©dant pas 30 cm, contenant en poids 5% ou plus de fils d'Ã©lastomÃ¨res ou de fils de caoutchouc, autres que celles du nÂ° 60.01.",,
+,,6002.40,,,- Contenant en poids 5% ou plus de fils d'Ã©lastomÃ¨res mais ne contenant pas de fils de caoutchouc,,
+,,,10,,- - - bonneterie Ã©lastique :,,
+,,,20,,- - - bonneterie Ã©lastique :,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,6002.90,,,- Autres,,
+,,,10,,- - - bonneterie Ã©lastique :,,
+,,,20,,- - - bonneterie Ã©lastique :,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,60.03,,,,"Etoffes de bonneterie d'une largeur n'excÃ©dant pas 30 cm, autres que celles des nÂ°s 60.01 et 60.02.",,
+,,6003.10,,,- De laine ou de poils fins,,
+,,,20,,- - - bonneterie Ã©lastique,,
+8,,,,00,- - - bonneterie Ã©lastique %â€“ â€“ â€“ autres :,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,6003.20,,,- De coton,,
+,,,20,,- - - bonneterie Ã©lastique,,
+8,,,,00,- - - bonneterie Ã©lastique %â€“ â€“ â€“ autres :,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,6003.30,,,- De fibres synthÃ©tiques,,
+,,,20,,- - - bonneterie Ã©lastique,,
+8,,,,00,- - - bonneterie Ã©lastique %â€“ â€“ â€“ autres :,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,99,,- - - - autres :,,
+8,,,,10,- - - - - contenant des fils d'Ã©lastomÃ¨res,KG,- - - - -
+8,,,,31,- - - - - - pour rideaux et vitrages,KG,- - - - -
+8,,,,39,- - - - - - pour dentelles RachelÂ£- - - - - - autres :Â£- - - - - - - en bonneterie chaÃ®ne :,KG,- - - - -
+8,,,,41,- - - - - - - - teintes,KG,- - - - -
+8,,,,42,- - - - - - - - imprimÃ©es,KG,- - - - -
+8,,,,47,- - - - - - - - autres,KG,- - - - -
+8,,,,51,- - - - - - - - imprimÃ©es,KG,- - - - -
+8,,,,52,- - - - - - - - fabriquÃ©es avec des fils de diverses couleurs,KG,- - - - -
+8,,,,57,- - - - - - - - autres,KG,- - - - -
+,,6003.40,,,- De fibres artificielles,,
+,,,20,,- - - bonneterie Ã©lastique,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,,6003.90,,,- Autres,,
+,,,20,,- - - bonneterie Ã©lastique,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,91,00,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",KG,- - - - -
+,,,97,,- - - - autres,,
+8,,,,00,- - - - autres,KG,- - - - -
+,60.04,,,,"Etoffes de bonneterie d'une largeur excÃ©dant 30 cm, contenant en poids 5% ou plus de fils d'Ã©lastomÃ¨res ou de fils de caoutchouc, autres que celles du nÂ° 60.01.",,
+,,6004.10,,,- Contenant en poids 5% ou plus de fils d'Ã©lastomÃ¨res mais ne contenant pas de fils de caoutchouc,,
+,,,10,,- - - bonneterie Ã©lastique :,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6004.90,,,- Autres,,
+,,,10,,- - - bonneterie Ã©lastique :,,
+8,,,,00,- - - bonneterie Ã©lastique,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,60.05,,,,"Etoffes de bonneterie-chaÃ®nes (y compris celles obtenues sur mÃ©tiers Ã  galonner), autres que celles des nÂ°s 60.01 Ã  60.04.",,
+,,6005.10,,,- De laine ou de poils fins,,
+,,6005.21,,,- - Ecrues ou blanchies,,
+8,,,00,00,- - Ecrues ou blanchies,KG,- - - - -
+,,6005.22,,,- - Teintes,,
+8,,,00,00,- - Teintes,KG,- - - - -
+,,6005.23,,,- - En fils de diverses couleurs,,
+8,,,00,00,- - En fils de diverses couleurs,KG,- - - - -
+,,6005.24,,,- - ImprimÃ©es,,
+8,,,00,00,- - ImprimÃ©es,KG,- - - - -
+,,6005.31,,,- - Ecrues ou blanchies,,
+,,6005.32,,,- - Teintes,,
+,,6005.33,,,- - En fils de diverses couleurs,,
+,,6005.34,,,- - ImprimÃ©es,,
+8,,6005.35,00,00,- - - - Etoffes mentionnÃ©es dans la Note 1 de sous-positions duprÃ©sent Chapitre,KG,- - - - -
+,,6005.36,,,"- - Autres, Ã©crues ou blanchies",,
+,,6005.36,,,"- - Autres, Ã©crues ou blanchies",,
+,,6005.36,,,- - Migration NGP inexistants,,
+,,6005.36,,,- - Migration NGP inexistants,,
+8,,,00,00,"- - Autres, Ã©crues ou blanchies",KG,- - - - -
+,,6005.37,,,"- - Autres, teintes",,
+,,,00,,"- - Autres, teintes",,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.38,,,- - Migration NGP inexistants,,
+,,6005.38,,,- - Migration NGP inexistants,,
+,,6005.38,,,"- - Autres, en fils de diverses couleurs",,
+,,6005.38,,,"- - Autres, en fils de diverses couleurs",,
+,,,00,,"- - Autres, en fils de diverses couleurs",,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.39,,,"- - Autres, imprimÃ©es",,
+,,,00,,"- - Autres, imprimÃ©es",,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.41,,,- - Ecrues ou blanchies,,
+8,,,00,00,- - Ecrues ou blanchies,KG,- - - - -
+,,6005.42,,,- - Teintes,,
+,,,00,,- - Teintes,,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.43,,,- - En fils de diverses couleurs,,
+,,,00,,- - En fils de diverses couleurs,,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.44,,,- - ImprimÃ©es,,
+,,,00,,- - ImprimÃ©es,,
+8,,,,10,"- - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,6005.90,,,- Autres,,
+,,,00,,- Autres,,
+8,,,,10,- - - d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,,20,,- - - bonneterie Ã©lastique,,
+,,,93,,"- - - - guttÃ©es sur feutre Ã  l'aiguille ou sur d'autres Ã©toffes de bonneterie, du genre utilisÃ© dans l'industrie des pantoufles",,
+,,,97,,- - - - autres,,
+,60.06,,,,Autres Ã©toffes de bonneterie,,
+,,6006.10,,,- De laine ou de poils fins,,
+8,,,00,00,- De laine ou de poils fins,KG,- - - - -
+,,6006.21,,,- - Ecrues ou blanchies,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.22,,,- - Teintes,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.23,,,- - En fils de diverses couleurs,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.24,,,- - ImprimÃ©es,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.31,,,- - Ecrues ou blanchies,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,- - - - pour rideaux et vitrages,KG,- - - - -
+8,,,,20,- - - - dentelles Rachel,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,6006.32,,,- - Teintes,,
+8,,,10,11,"- - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ² et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,10,19,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,- - - - pour rideaux et vitrages,KG,- - - - -
+8,,,,20,- - - - dentelles Rachel,KG,- - - - -
+8,,,,91,"- - - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2 Â£et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,6006.33,,,- - En fils de diverses couleurs,,
+8,,,10,11,"- - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ² et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,10,19,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,- - - - pour rideaux et vitrages,KG,- - - - -
+8,,,,20,- - - - dentelles Rachel,KG,- - - - -
+8,,,,91,"- - - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2 Â£et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,6006.34,,,- - ImprimÃ©es,,
+8,,,10,11,"- - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/mÂ² et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,10,19,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,- - - - pour rideaux et vitrages,KG,- - - - -
+8,,,,20,- - - - dentelles Rachel,KG,- - - - -
+8,,,,91,"- - - - - de fibres textiles synthÃ©tiques, d'un grammage supÃ©rieur ou Ã©gal Ã  260g/m2 Â£et d'une largeur supÃ©rieure ou Ã©gale Ã  180 cm",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,6006.41,,,- - Ecrues ou blanchies,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.42,,,- - Teintes,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+8,,,90,00,- - - Migration NGP inexistants,KG,- - - - -
+8,,,90,00,- - - Migration NGP inexistants,KG,- - - - -
+,,6006.43,,,- - En fils de diverses couleurs,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.44,,,- - ImprimÃ©es,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -
+,,6006.90,,,- Autres,,
+8,,,10,00,- - - bonneterie Ã©lastiqueÂ£- - - autres :,KG,- - - - -
+8,,,90,00,- - - autres,KG,- - - - -

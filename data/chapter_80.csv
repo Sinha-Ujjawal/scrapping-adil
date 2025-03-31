@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+,80.01,,,,Etain sous forme brute,,
+5,,8001.10,00,00,- - Etain non alliÃ©,KG,- - - - -
+5,,8001.20,00,00,- - - Alliages d'Ã©tain,KG,- - - - -
+4,,8002.00,00,00,- DÃ©chets et dÃ©bris d'Ã©tain,KG,- - - - -
+,,8003.00,,,"Barres, profilÃ©s et fils, en Ã©tain",,
+5,,,10,00,- - - - profilÃ©s creux,KG,- - - - -
+5,,,90,10,- - - - fils d'une teneur minimum en cuivre de 2%,KG,- - - - -
+5,,,90,90,- - - - autres,KG,- - - - -
+,,8004.00,,,"- - TÃ´les, feuilles et bandes en Ã©tain, d'une Ã©paisseur excÃ©dant 0,2 mm",,
+,,,90,,- - - - - autres :,,
+,,8005.00,,,"Feuilles et bandes minces en Ã©tain (mÃªme imprimÃ©es ou fixÃ©es sur papier, carton, matiÃ¨res plastiques ou supports similaires), d'une Ã©paisseur n'excÃ©dant pas 0,2 mm (support non compris) ; poudres et paillettes d'Ã©tain.Â£- - - feuilles et bandes mi",,
+,,,19,,- - - - - - autres :,,
+,,8006.00,00,,"Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en Ã©tain.",,
+,,8007.00,,,Autres ouvrages en Ã©tain,,
+8,,,00,20,"- - - feuilles et bandes minces (mÃªme imprimÃ©es ou fixÃ©es sur papier, carton,matiÃ¨res plastiques ou supports similaires), d'une Ã©paisseur n'excÃ©dant pas 0,2mm, support non compris",KG,- - - - -
+8,,,00,30,"- - - tÃ´les, feuilles et bandes d'une Ã©paisseur excÃ©dant 0,2mm%â€“ â€“ â€“ tubes, tuyaux et accessoires de tuyauterie %( raccords, coudes, manchons, par exemple ) :",KG,- - - - -
+8,,,00,41,- - - - tubes souples d'emballage,KG,- - - - -
+8,,,00,49,- - - - autres,KG,- - - - -
+8,,,00,80,- - - autres,KG,- - - - -

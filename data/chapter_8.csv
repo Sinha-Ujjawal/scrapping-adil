@@ -1,0 +1,210 @@
+0,1,2,3,4,5,6,7
+,08.01,,,,"Noix de coco, noix du BrÃ©sil et noix de cajou, fraÃ®ches ou sÃ¨ches,Â£- Noix de coco :",,
+,,0801.11,00,,- - DÃ©ssÃ©chÃ©es,,
+1,,,,10,- - - - pulpe dÃ©shydratÃ©e,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0801.12,,,- - En coques internes (endocarpe),,
+,,,00,,- - En coques internes (endocarpe),,
+1,,,,00,- - En coques internes (endocarpe),KG,- - - - -
+,,0801.19,00,,- - Autres,,
+1,,,,10,- - - - pulpe dÃ©shydratÃ©e,KG,- - - - -
+1,,,,80,- - - autres,KG,- - - - -
+1,,0801.21,00,00,- - En coques,KG,- - - - -
+1,,0801.22,00,00,- - Sans coquesÂ£- Noix de cajou :,KG,- - - - -
+1,,0801.31,00,00,- - En coques,KG,- - - - -
+1,,0801.32,00,00,- - Sans coques,KG,- - - - -
+,08.02,,,,"Autres fruits Ã  coques, frais ou secs, mÃªme sans leurs coques ou dÃ©cortiquÃ©s.Â£- Amandes :",,
+,,0802.11,00,,- - En coquesÂ£- - - amÃ¨res :,,
+1,,,,11,- - - - - fraÃ®ches,KG,- - - - -
+1,,,,19,- - - - sÃ¨chesÂ£- - - douces :,KG,- - - - -
+1,,,,91,- - - - - fraÃ®ches,KG,- - - - -
+1,,,,99,- - - - sÃ¨ches,KG,- - - - -
+,,0802.12,00,,- - Sans coquesÂ£- - - amÃ¨res :,,
+1,,,,11,- - - - - fraÃ®ches,KG,- - - - -
+1,,,,19,- - - - sÃ¨chesÂ£- - - douces :,KG,- - - - -
+1,,,,91,- - - - - fraÃ®ches,KG,- - - - -
+1,,,,99,- - - - sÃ¨chesÂ£- Noisettes (Corylus spp.) :,KG,- - - - -
+,,0802.21,00,,- - En coques,,
+1,,,,00,- - - - En coques,KG,- - - - -
+,,0802.22,00,,- - Sans coques,,
+1,,,,10,- - - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨chesÂ£- Noix communes :,KG,- - - - -
+,,0802.31,00,,- - En coques,,
+1,,,,00,- - - - En coques,KG,- - - - -
+,,0802.32,00,,- - Sans coques,,
+1,,,,10,- - - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨ches,KG,- - - - -
+,,0802.41,,,- - En coques,,
+,,,00,,- - En coques,,
+1,,,,00,- - - En coques,KG,- - - - -
+,,0802.42,,,- - Sans coques,,
+,,,00,,- - Sans coques,,
+1,,,,10,- - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨ches%- Pistaches :,KG,- - - - -
+,,0802.51,,,- - En coques,,
+,,,00,,- - En coques,,
+1,,,,00,- - - En coques,KG,- - - - -
+,,0802.52,,,- - Sans coques,,
+,,,00,,- - Sans coques,,
+1,,,,00,- - - Sans coque,KG,- - - - -
+,,0802.61,00,,- - En coques,,
+1,,,,00,- - - En coques,KG,- - - - -
+,,0802.62,,,- - Sans coques,,
+,,,00,,- - Sans coques,,
+1,,,,10,- - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨ches,KG,- - - - -
+,,0802.70,,,- Noix de cola (Cola spp.),,
+,,,00,,- Noix de cola (Cola spp.),,
+1,,,,00,- Noix de cola (Cola spp.),KG,- - - - -
+,,0802.80,,,- Noix d'arec,,
+,,,00,,- Noix d'arec,,
+1,,,,00,- Noix d'arec,KG,- - - - -
+,,0802.90,00,,- Autres,,
+1,,0802.91,00,00,"- - Pignons, en coques",KG,- - - - -
+1,,0802.92,00,00,"- - Pignons, sans coques",KG,- - - - -
+,,0802.99,00,,- - Autres,,
+1,,,,10,- - - noix de PÃ©can,KG,- - - - -
+1,,,,90,- - - autres,KG,- - - - -
+,,0803.00,00,,"Bananes, y compris les plantains, fraÃ®ches ou sÃ¨ches",,
+,,0803.10,,,- Plantains,,
+,,,00,,- Plantains,,
+1,,,,10,- - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨ches,KG,- - - - -
+,,0803.90,,,- Autres,,
+,,,00,,- Autres,,
+1,,,,10,- - - fraÃ®ches,KG,- - - - -
+1,,,,90,- - - sÃ¨ches,KG,- - - - -
+,08.04,,,,"Dattes, figues, ananas, avocats, goyaves, mangues et mangoustans, frais ou secs.",,
+1,,0804.10,00,00,- Dattes,KG,- - - - -
+,,0804.20,,,- Figues,,
+1,,,10,00,- - - - fraÃ®chesÂ£- - - sÃ¨ches :,KG,- - - - -
+1,,,91,00,- - - - pour la consommation humaine,KG,- - - - -
+1,,,99,00,"- - - - dÃ©naturÃ©es, destinÃ©es Ã  des usages industriels",KG,- - - - -
+1,,0804.30,00,00,- Ananas,KG,- - - - -
+1,,0804.40,00,00,- Avocats,KG,- - - - -
+1,,0804.50,00,00,"- Goyaves, mangues et mangoustans",KG,- - - - -
+,08.05,,,,"Agrumes, frais ou secs",,
+,,0805.10,00,,"- OrangesÂ£- - - oranges douces, fraÃ®ches :",,
+1,,,,11,- - - - du 1er avril au 15 octobre,KG,- - - - -
+1,,,,19,- - - - - du 16 octobre au 31 marsÂ£- - - autres :,KG,- - - - -
+1,,,,91,- - - - du 1er avril au 15 octobre,KG,- - - - -
+1,,,,99,- - - - - du 16 octobre au 31 mars,KG,- - - - -
+,,0805.20,00,,"- Mandarines (y compris les tangÃ©rines et satsumas); clÃ©mentines, wilkings et hybrides similaires d'agrumes",,
+1,,0805.21,00,00,- - - - - Mandarines (y compris les tangerines et satsumas),KG,- - - - -
+1,,0805.22,00,00,- - - - ClÃ©mentines,KG,- - - - -
+,,0805.29,00,,- - Autres,,
+1,,,,00,- - - - Autres,KG,- - - - -
+1,,0805.40,00,00,- Pamplemousses et pomelos,KG,- - - - -
+1,,0805.50,00,00,"- Citrons (Citrus limon, Citrus limonum) et limes (Citrus aurantifolia, Citrus latifolia)",KG,- - - - -
+1,,0805.90,00,00,- Autres,KG,- - - - -
+,08.06,,,,"Raisins, frais ou secs",,
+,,0806.10,00,,- FraisÂ£- - - de table :,,
+1,,,,11,- - - - - - du 1er novembre au 14 juillet,KG,- - - - -
+1,,,,19,- - - - - - du 15 juillet au 31 octobreÂ£- - - autres :,KG,- - - - -
+1,,,,91,- - - - - du 1er novembre au 14 juillet,KG,- - - - -
+1,,,,99,- - - - - du 15 juillet au 31 octobre,KG,- - - - -
+,,0806.20,00,,- Secs,,
+1,,,,00,- - - - - - - Secs,KG,- - - - -
+1,,,,00,- - - - - - - Secs,KG,- - - - -
+1,,,,00,- - - - - - - Migration NGP inexistants,KG,- - - - -
+1,,,,00,- - - - - - - Migration NGP inexistants,KG,- - - - -
+,08.07,,,,"Melons (y compris les pastÃ¨ques) et papayes, fraisÂ£- Melons (y compris les pastÃ¨ques) :",,
+1,,0807.11,00,00,- - PastÃ¨ques,KG,- - - - -
+1,,0807.19,00,00,- - Autres,KG,- - - - -
+1,,0807.20,00,00,- Papayes,KG,- - - - -
+,08.08,,,,"Pommes, poires et coings, frais",,
+,,0808.10,,,- Pommes,,
+1,,,10,00,"- - - - - - - - pommes Ã  cidre, prÃ©sentÃ©es en vrac, du 16 septembre au 15 dÃ©cembre",KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - - du 1er aoÃ»t au 31 dÃ©cembre,KG,- - - - -
+1,,,,20,- - - - - du 1er janvier au 31 mars,KG,- - - - -
+1,,,,90,- - - - du 1er avril au 31 juillet,KG,- - - - -
+,,0808.20,,,- Poires et coingsÂ£- - - poires :,,
+,,,19,,- - - - - - autres :,,
+,,0808.30,,,- Poires,,
+,,,11,,"- - - poires Ã  poirÃ©, prÃ©sentÃ©es en vrac, du 1er aoÃ»t au 31 dÃ©cembre",,
+1,,,,00,"- - - poires Ã  poirÃ©, prÃ©sentÃ©es en vrac, du 1er aoÃ»t au 31 dÃ©cembre",KG,- - - - -
+,,,19,,- - - autres :,,
+1,,,,10,- - - - du 1er janvier au 31 juillet,KG,- - - - -
+1,,,,90,- - - - du 1er aoÃ»t au 31 dÃ©cembre,KG,- - - - -
+,,0808.40,,,- Coings,,
+,,,00,,- Coings,,
+1,,,,10,- - - du 1er janvier au 31 juillet,KG,- - - - -
+1,,,,90,- - - du 1er aoÃ»t au 31 dÃ©cembre,KG,- - - - -
+,08.09,,,,"- - Abricots, cerises, pÃªches (y compris les brugnons et nectarines), prunes et prunelles, frais.",,
+1,,0809.10,00,00,- Abricots,KG,- - - - -
+,,0809.20,00,,- Cerises,,
+,,0809.21,,,- - Cerises acides (Prunus cerasus),,
+,,,00,,- - Cerises acides (Prunus cerasus),,
+1,,,,10,- - - du 1er mai au 15 juillet,KG,- - - - -
+1,,,,90,- - - du 16 juillet au 30 avril,KG,- - - - -
+,,0809.29,,,- - Autres,,
+,,,00,,- - Autres,,
+1,,,,10,- - - du 1er mai au 15 juillet,KG,- - - - -
+1,,,,90,- - - du 16 juillet au 30 avril,KG,- - - - -
+1,,0809.30,00,00,"- - - PÃªches, y compris les brugnons et nectarines",KG,- - - - -
+,,0809.40,00,,- Prunes et prunelles,,
+1,,,,10,- - - - du 1er juillet au 30 septembre,KG,- - - - -
+1,,,,90,- - - - du 1er octobre au 30 juin,KG,- - - - -
+,08.10,,,,"Autres fruits, frais",,
+,,0810.10,00,,- Fraises,,
+1,,,,10,- - - - du 1er mai au 31 juillet,KG,- - - - -
+1,,,,90,- - - - du 1er aoÃ»t au 30 avril,KG,- - - - -
+,,0810.20,00,,"- Framboises, mÃ»res de ronce ou de mÃ»rier et mÃ»res-framboises",,
+1,,,,10,- - - framboises,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0810.30,00,,"- Groseilles Ã  grappes, y compris les cassis, et groseilles Ã  maquereauÂ£- - - grosseilles Ã  grappes noires (cassis) et rouges :",,
+1,,,,11,- - - - cassis,KG,- - - - -
+1,,,,19,- - - - - groseilles Ã  grappes rouges,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,0810.40,00,,"- Airelles, myrtilles et autres fruits du genre Vaccinium",,
+1,,,,10,- - - - airelles et myrtilles,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+1,,0810.50,00,00,- Kiwis,KG,- - - - -
+1,,0810.60,00,00,- Durians,KG,- - - - -
+,,0810.70,,,- Kakis (Plaquemines),,
+,,,00,,- Kakis (Plaquemines),,
+1,,,,00,- Kakis (Plaquemines),KG,- - - - -
+,,0810.90,00,,- Autres,,
+1,,,,30,"- - - grenades, figues de Barbarie, jujubes",KG,- - - - -
+1,,,,70,- - - Autres,KG,- - - - -
+,08.11,,,,"Fruits, non cuits ou cuits Ã  l'eau ou Ã  la vapeur, congelÃ©s, mÃªme additionnÃ©s de sucre ou d'autres Ã©dulcorants.",,
+,,0811.10,00,,- FraisesÂ£- - - additionnÃ©es de sucre :,,
+1,,,,00,- - - - Fraises,KG,- - - - -
+,,0811.20,00,,"- Framboises, mÃ»res de ronce ou de mÃ»rier, mÃ»res-framboises et groseilles Ã  grappes ou Ã  maquereauÂ£- - - additionnÃ©es de sucre :",,
+1,,,,00,"- - - - Framboises, mÃ»res de ronce ou de mÃ»rier, mÃ»res framboises et groseilles Ã  grappes ou Ã  maquereau",KG,- - - - -
+,,0811.90,00,,- AutresÂ£- - - additionnÃ©s de sucre :,,
+1,,,,10,- - - - additionnÃ©s de sucre,KG,- - - - -
+1,,,,91,- - - - - oreillons d'abricots,KG,- - - - -
+1,,,,99,- - - - - - autres,KG,- - - - -
+,08.12,,,,"Fruits conservÃ©s provisoirement, mais impropres, en l'Ã©tat, Ã  l'alimentation.",,
+,08.12,,,,"Fruits conservÃ©s provisoirement, mais impropres, en l'Ã©tat, Ã  l'alimentation.",,
+,08.12,,,,"Fruits conservÃ©s provisoirement (au moyen de gaz sulfureux ou dans l'eau salÃ©e, soufrÃ©e ou additionnÃ©e d'autres substances servant Ã  assurer provisoirement leur conservation, par exemple), mais impropres Ã  l'alimentation en l'Ã©tat.",,
+,08.12,,,,"Fruits conservÃ©s provisoirement (au moyen de gaz sulfureux ou dans l'eau salÃ©e, soufrÃ©e ou additionnÃ©e d'autres substances servant Ã  assurer provisoirement leur conservation, par exemple), mais impropres Ã  l'alimentation en l'Ã©tat.",,
+1,,0812.10,00,00,- Cerises,KG,- - - - -
+,,0812.90,00,,- AutresÂ£- - - papayes :,,
+1,,,,11,- - - - en saumure,KG,- - - - -
+1,,,,19,- - - - autresÂ£- - - autres :,KG,- - - - -
+1,,,,91,- - - - abricots,KG,- - - - -
+1,,,,92,- - - - oranges,KG,- - - - -
+1,,,,93,- - - - fraises,KG,- - - - -
+1,,,,99,- - - - autres,KG,- - - - -
+,08.13,,,,- - - Fruits sÃ©chÃ©s autres que ceux des nÂ°s 0801 Ã  0806; mÃ©langes de fruits sÃ©chÃ©s ou de fruits Ã  coques du prÃ©sent Chapitre.,,
+1,,0813.10,00,00,- Abricots,KG,- - - - -
+1,,0813.20,00,00,- Pruneaux,KG,- - - - -
+1,,0813.30,00,00,- Pommes,KG,- - - - -
+,,0813.40,00,,- Autres fruits,,
+1,,,,10,- - - - - - pÃªches (y compris les brugnons et nectarines),KG,- - - - -
+1,,,,20,- - - - poires,KG,- - - - -
+1,,,,30,- - - - - papayes,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0813.50,,,- MÃ©langes de fruits sÃ©chÃ©s ou de fruits Ã  coques du prÃ©sent Chapitre,,
+1,,,10,00,- - - - - - composÃ©s principalement d'agrumes,KG,- - - - -
+1,,,20,00,- - - - - - composÃ©s principalement de dattes,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,"- - - - - - - - - - composÃ©s principalement de fruits Ã  coques, mÃªme sans leurs coques ou dÃ©cortiquÃ©s",KG,- - - - -
+1,,,,20,- - - - - - - composÃ©s principalement de raisins,KG,- - - - -
+1,,,,30,"- - - - - - - - - - - - - composÃ©s principalement de bananes, ananas, avocats, goyaves, mangues ou mangoustans",KG,- - - - -
+1,,,,40,"- - - - - - - autres, sans pruneaux",KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+1,,0814.00,00,00,"- Ecorces d'agrumes ou de melons (y compris de pastÃ¨ques), fraÃ®ches, congelÃ©es, prÃ©sentÃ©es dans l'eau salÃ©e, soufrÃ©e ou additionnÃ©e d'autres substances servant Ã  assurer provisoirement leur conservation ou bien sÃ©chÃ©es",KG,- - - - -

@@ -1,0 +1,247 @@
+0,1,2,3,4,5,6,7
+,63.01,,,,- - - - Couvertures,,
+8,,6301.10,00,00,- Couvertures chauffantes Ã©lectriques,U,NOMBRE
+,,6301.20,00,,- Couvertures (autres que les couvertures chauffantes Ã©lectriques) de laine ou de poils fins,,
+8,,,,10,- - - en bonneterie,KG,- - - - -
+8,,,,90,- - - - - autres,KG,NOMBRE
+,,6301.30,00,,- Couvertures (autres que les couvertures chauffantes Ã©lectriques) de coton,,
+8,,,,10,- - - en bonneterie,KG,- - - - -
+8,,,,90,- - - - - autres,KG,NOMBRE
+,,6301.40,,,- Couvertures (autres que les couvertures chauffantes Ã©lectriques) de fibres synthÃ©tiques,,
+8,,,00,10,- - - en bonneterie,KG,- - - - -
+8,,,00,20,- - - en nontissÃ©s,KG,- - - - -
+8,,,00,90,- - - autres,KG,NOMBRE
+,,,90,,- - - - - autres :,,
+,,6301.90,,,- Autres couvertures,,
+8,,,00,10,- - - en bonneterie,KG,- - - - -
+8,,,00,20,- - - en nontissÃ©s,KG,- - - - -
+8,,,00,90,- - - autres,KG,NOMBRE
+,,,90,,- - - - - autres :,,
+,63.02,,,,"Linge de lit, de table, de toilette ou de cuisine",,
+,,6302.10,00,,- Linge de lit en bonneterie,,
+8,,,,30,- - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,40,- - - de fibres textiles artificielles,KG,- - - - -
+8,,,,50,- - - de coton,KG,- - - - -
+8,,,,80,- - - autre,KG,- - - - -
+,,6302.21,00,,- - De coton,,
+8,,,,10,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - - - autre,KG,- - - - -
+,,6302.22,,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,10,00,- - - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - - autre :,,
+8,,,,10,"- - - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - - - - autre,KG,- - - - -
+,,6302.29,00,,"- - D'autres matiÃ¨res textilesÂ£- - - fait Ã  la main, mÃªme partiellement :",,
+8,,,,10,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - autre,KG,- - - - -
+,,6302.31,00,,- - De coton,,
+8,,,,10,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - - - autre,KG,- - - - -
+,,6302.32,,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,10,00,- - - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - - autre :,,
+8,,,,10,"- - - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - - - - autre,KG,- - - - -
+,,6302.39,00,,"- - D'autres matiÃ¨res textilesÂ£- - - fait Ã  la main, mÃªme partiellement :",,
+8,,,,10,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - autre,KG,- - - - -
+,,6302.40,00,,- Linge de table en bonneterie,,
+8,,,,30,- - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,40,- - - de fibres textiles artificielles,KG,- - - - -
+8,,,,50,- - - de coton,KG,- - - - -
+8,,,,80,- - - autre,KG,- - - - -
+,,6302.51,00,,"- - De cotonÂ£- - - fait Ã  la main, mÃªme partiellement :",,
+8,,,,10,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - autre,KG,- - - - -
+,,6302.52,00,,- - De lin,,
+,,6302.53,,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,10,00,- - - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - autre :,,
+8,,,,10,"- - - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,90,- - - - autre,KG,- - - - -
+,,6302.59,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,20,"- - - fait Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,80,- - - autre,KG,- - - - -
+8,,6302.60,00,00,"- Linge de toilette ou de cuisine, bouclÃ© du genre Ã©ponge, de cotonÂ£- Autre :",KG,- - - - -
+,,6302.91,00,,- - De coton,,
+8,,,,10,"- - - linge de toilette, d'office ou de cuisine, en bonneterie",KG,- - - - -
+8,,,,90,- - - - autre,KG,- - - - -
+,,6302.92,00,,- - De lin,,
+,,6302.93,,,- - De fibres synthÃ©tiques ou artificielles,,
+8,,,10,00,- - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - autre :,,
+8,,,,10,"- - - linge de toilette, d'office ou de cuisine, en bonneterie",KG,- - - - -
+8,,,,90,- - - - - autre,KG,- - - - -
+,,6302.99,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,20,"- - - linge de toilette, d'office ou de cuisine, en bonneterie",KG,- - - - -
+8,,,,80,- - - autre,KG,- - - - -
+,63.03,,,,"Vitrages, rideaux et stores d'intÃ©rieur; cantonniÃ¨res et tours de litsÂ£- En bonneterie :",,
+8,,6303.12,00,00,- - De fibres synthÃ©tiques,KG,- - - - -
+,,6303.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - de fibres textiles artificielles,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,6303.91,00,,- - De coton,,
+8,,,,10,- - - - - vitrages,KG,- - - - -
+8,,,,20,- - - - - rideauxÂ£- - - autres :,KG,- - - - -
+8,,,,91,"- - - - faits Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,,6303.92,00,,- - De fibres synthÃ©tiques,,
+8,,,,10,- - - - - vitrages,KG,- - - - -
+8,,,,20,- - - - - rideauxÂ£- - - autres :,KG,- - - - -
+8,,,,91,"- - - - faits Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,,6303.99,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,10,- - - - - vitrages,KG,- - - - -
+8,,,,20,- - - - - rideauxÂ£- - - autres :,KG,- - - - -
+8,,,,91,"- - - - faits Ã  la main, mÃªme partiellement",KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+,63.04,,,,"Autres articles d'ameublement, Ã  l'exclusion de ceux du nÂ° 9404Â£- Couvre-lits :",,
+,,6304.11,00,,- - En bonneterie,,
+8,,,,10,- - - de laine ou de poils fins,KG,- - - - -
+8,,,,15,- - - de coton,KG,- - - - -
+8,,,,30,- - - de lin,KG,- - - - -
+8,,,,40,- - - de fibres textiles synthÃ©tiques,KG,- - - - -
+8,,,,50,- - - de fibres textiles artificielles,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,6304.19,,,- - Autres,,
+8,,,10,00,- - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - autres :,,
+8,,,,00,- - - autres,KG,- - - - -
+8,,6304.20,00,00,- Moustiquaires pour lits mentionnÃ©es dans la Note 1 de souspositions du prÃ©sent Chapitre,KG,- - - - -
+,,6304.91,00,,- - En bonneterie,,
+8,,,,00,- - En bonneterie,KG,- - - - -
+,,6304.92,00,,"- - Autres qu'en bonneterie, de coton",,
+8,,,,00,"- - Autres qu'en bonneterie, de coton",KG,- - - - -
+,,6304.93,00,,"- - Autres qu'en bonneterie, de fibres synthÃ©tiques",,
+8,,,,00,"- - Autres qu'en bonneterie, de fibres synthÃ©tiques",KG,- - - - -
+,,6304.99,00,,"- - Autres qu'en bonneterie, d'autres matiÃ¨res textilesÂ£- - - ayant le caractÃ¨re de linge, faits :",,
+8,,6304.99,10,00,- - - de coton,KG,- - - - -
+8,,6304.99,20,00,- - - de lin,KG,- - - - -
+8,,6304.99,90,00,- - - autres,KG,- - - - -
+,63.05,,,,Sacs et sachets d'emballage,,
+,,6305.10,,,- De jute ou d'autres fibres textiles libÃ©riennes du nÂ° 5303,,
+8,,,10,00,- - - en bonneterieÂ£- - - autres :Â£- - - - en tissus de jute :Â£- - - - - usagÃ©s :,KG,- - - - -
+7,,,21,00,- - - - - - - importÃ©s vides,KG,- - - - -
+,,,29,,- - - - - - importÃ©s pleins :,,
+7,,,,00,- - - - - - importÃ©s pleins,KG,- - - - -
+,,,31,,- - - - - - - importÃ©s vides :,,
+7,,,,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,,00,- - - - - - Migration NGP inexistants,KG,- - - - -
+7,,,,00,- - - - - - Migration NGP inexistants,KG,- - - - -
+,,,39,,- - - - - - importÃ©s pleins :Â£- - - - - - - en tissus d'un poids au m2 infÃ©rieur Ã  310 g :,,
+7,,,,00,- - - - - - importÃ©s pleins,KG,- - - - -
+7,,,41,00,- - - - - - - importÃ©s vides,KG,- - - - -
+7,,,49,00,- - - - - - importÃ©s pleinsÂ£- - - - - autres :,KG,- - - - -
+7,,,91,00,- - - - - - - importÃ©s vides,KG,- - - - -
+7,,,99,00,- - - - - - importÃ©s pleins,KG,- - - - -
+,,6305.20,,,- De coton,,
+8,,,10,00,- - - en bonneterieÂ£- - - autres :Â£- - - - usagÃ©s :,KG,- - - - -
+7,,,21,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,29,00,- - - - - importÃ©s pleinsÂ£- - - - autres :,KG,- - - - -
+7,,,91,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,99,00,- - - - - importÃ©s pleinsÂ£- De matiÃ¨res textiles synthÃ©tiques ou artificielles :,KG,- - - - -
+,,6305.32,,,- - Contenants souples pour matiÃ¨res en vrac,,
+8,,,10,00,- - - en bonneterieÂ£- - - autres :Â£- - - - usagÃ©s :,KG,- - - - -
+7,,,21,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,29,00,- - - - - importÃ©s pleinsÂ£- - - - autres :,KG,- - - - -
+7,,,91,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,99,00,- - - - - importÃ©s pleins,KG,- - - - -
+,,6305.33,,,"- - - - Autres, obtenues Ã  partir de lames ou formes similaires de polyÃ©thylÃ¨ne ou de polypropylÃ¨ne",,
+8,,,10,00,- - - en bonneterieÂ£- - - autres :Â£- - - - usagÃ©s :,KG,- - - - -
+7,,,21,10,- - - - - - sacs tissÃ©s,KG,- - - - -
+7,,,21,90,- - - - - - autres,KG,- - - - -
+7,,,29,10,- - - - - - sacs tissÃ©s,KG,- - - - -
+7,,,29,90,- - - - - - autres,KG,- - - - -
+7,,,91,10,- - - - - - sacs tissÃ©s,KG,- - - - -
+7,,,91,90,- - - - - - autres,KG,- - - - -
+7,,,99,10,- - - - - - sacs tissÃ©s,KG,- - - - -
+7,,,99,90,- - - - - - autres,KG,- - - - -
+,,6305.39,,,- - Autres,,
+,,,12,,- - - - en nontissÃ©s,,
+8,,,,10,- - - - sacs de couverture Ã©quipÃ©s de fermetures Ã  glissiÃ¨res ou velcro,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,22,00,- - - en bonneterieÂ£- - - autres :Â£- - - - usagÃ©s :,KG,- - - - -
+7,,,33,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,37,00,- - - - - importÃ©s pleinsÂ£- - - - autres :,KG,- - - - -
+7,,,93,00,- - - - - - importÃ©s vides,KG,- - - - -
+7,,,97,00,- - - - - importÃ©s pleins,KG,- - - - -
+,,6305.90,,,- D'autres matiÃ¨res textiles,,
+,,,10,,- - - en bonneterie :,,
+8,,,,00,- - - en bonneterie,KG,- - - - -
+7,,,20,00,- - - - - importÃ©s vides,KG,- - - - -
+,,,30,,- - - - - importÃ©s pleins :,,
+7,,,,00,- - - - - importÃ©s pleins,KG,- - - - -
+7,,,91,00,- - - - - importÃ©s vides,KG,- - - - -
+7,,,99,00,- - - - - importÃ©s pleins,KG,- - - - -
+,63.06,,,,"BÃ¢ches et stores d'extÃ©rieur; tentes (y compris les tonnelles temporaires et articles similaires); voiles pour embarcations, planches Ã  voile ou chars Ã  voile; articles de campement.",,
+,63.06,,,,"BÃ¢ches et stores d'extÃ©rieur; tentes (y compris les tonnelles temporaires et articles similaires); voiles pour embarcations, planches Ã  voile ou chars Ã  voile; articles de campement.",,
+,63.06,,,,"BÃ¢ches et stores d'extÃ©rieur ; tentes ; voiles pour embarcations, planches Ã  voile ou chars Ã  voile ; articles de campement.Â£- BÃ¢ches et stores d'extÃ©rieur :",,
+,63.06,,,,"BÃ¢ches et stores d'extÃ©rieur ; tentes ; voiles pour embarcations, planches Ã  voile ou chars Ã  voile ; articles de campement.Â£- BÃ¢ches et stores d'extÃ©rieur :",,
+8,,6306.12,00,00,- - De fibres synthÃ©tiques,KG,- - - - -
+,,6306.19,00,,- - D'autres matiÃ¨res textiles,,
+8,,,,20,- - - de coton,KG,- - - - -
+8,,,,90,- - - autres Â£â€“ Tentes (y compris les tonnelles temporaires et articles similaires) :,KG,- - - - -
+8,,,,90,- - - autres Â£â€“ Tentes (y compris les tonnelles temporaires et articles similaires) :,KG,- - - - -
+8,,,,90,- - - autres - Tentes :,KG,- - - - -
+8,,,,90,- - - autres - Tentes :,KG,- - - - -
+8,,6306.22,00,00,- - De fibres synthÃ©tiques,KG,- - - - -
+8,,6306.29,00,00,- - D'autres matiÃ¨res textilesÂ£- Voiles :,KG,- - - - -
+,,6306.30,,,- Voiles,,
+,,,00,,- Voiles,,
+8,,,,00,- Voiles,KG,- - - - -
+,,6306.39,00,,- - D'autres matiÃ¨res textiles,,
+,,6306.40,,,- Matelas pneumatiques,,
+,,,00,,- Matelas pneumatiques,,
+8,,,,10,- - - de coton%â€“ â€“ â€“ d'autres matiÃ¨res textiles:,KG,- - - - -
+8,,,,20,- - - - en nontissÃ©s,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,6306.49,,,- - D'autres matiÃ¨res textiles,,
+,,6306.90,,,- Autres,,
+,,,00,,- Autres,,
+8,,,,10,- - - de coton%â€“ â€“ â€“ d'autres matiÃ¨res textiles,KG,- - - - -
+8,,,,20,- - - - en nontissÃ©s,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,6306.99,,,- - D'autres matiÃ¨res textiles,,
+,63.07,,,,"Autres articles confectionnÃ©s, y compris les patrons de vÃªtements",,
+,,6307.10,,,"- SerpilliÃ¨res ou wassingues, lavettes, chamoisettes et articles d'entretien similaires",,
+5,,,10,00,- - - - - en feutres,KG,- - - - -
+8,,,20,00,- - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - - autres :,,
+8,,,,10,"- - - - torchons, lavettes et chamoisettes",KG,- - - - -
+8,,,,90,- - - - - - autres,KG,- - - - -
+8,,6307.20,00,00,- Ceintures et gilets de sauvetage,KG,- - - - -
+,,6307.90,,,- Autres,,
+8,,,10,00,- - - Ã©ventails et Ã©crans Ã  mainÂ£- - - autres :,KG,- - - - -
+,,,40,,- - - - en feutres,,
+5,,,,00,- - - - en feutres,KG,- - - - -
+,,,50,,- - - - en nontissÃ©s,,
+8,,,,00,- - - - en nontissÃ©s,KG,- - - - -
+,,,90,,- - - - - - autres :,,
+8,,,,10,"- - - - - bandes pour le renforcement intÃ©rieur des ceintures, d'une largeur de 12 mm inclus Ã  102 mm inclus, constituÃ©es par deux bandes contre- collÃ©es de tissus de coton ou de matiÃ¨res textiles artificielles, les bords de la bande la plus Ã©troite",KG,- - - - -
+8,,,,91,- - - - - - patrons de vÃªtements,KG,- - - - -
+8,,,,92,- - - - - - - - lacets,KG,- - - - -
+8,,,,98,- - - - - - autres,KG,- - - - -
+8,,6308.00,00,00,"Assortiments composÃ©s de piÃ¨ces de tissus et de fils, mÃªme avec accessoires, pour la confection de tapis, de tapisseries, de nappes de table ou de serviettes brodÃ©es, ou d'articles textiles similaires, en emballages pour la vente au dÃ©tailÂ£III. - FR",KG,- - - - -
+,,6309.00,00,,Articles de friperie,,
+5,,,,10,- - - - - vÃªtements usagÃ©s,KG,- - - - -
+5,,,,90,- - - - - autres,KG,- - - - -
+,63.10,,,,"Chiffons, ficelles, cordes et cordages, en matiÃ¨res textiles, sous forme de dÃ©chets ou d'articles hors d'usage.",,
+,,6310.10,,,- TriÃ©sÂ£- - - destinÃ©s Ã  la fabrication d'articles industriels ou Ã  l'essuyage industriel :,,
+3,,,10,00,- - - de laine,KG,- - - - -
+,,,11,,- - - - destinÃ©s Ã  la fabrication d'articles industriels :,,
+,,,19,,- - - - - - autres :,,
+3,,,20,00,- - - de coton,KG,- - - - -
+3,,,30,00,- - - de lin,KG,- - - - -
+3,,,50,00,- - - de fires textiles synthÃ©tiques,KG,- - - - -
+3,,,60,00,- - - de fibres textiles artificielles,KG,- - - - -
+3,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,6310.90,,,- AutresÂ£- - - destinÃ©s Ã  la fabrication d'articles industriels ou Ã  l'essuyage industriel :Â£- - - - destinÃ©s Ã  la fabrication d'articles industriels :,,
+3,,,10,00,- - - de laine,KG,- - - - -
+,,,20,,- - - - - - autres :,,
+3,,,,00,- - - de coton,KG,- - - - -
+3,,,30,00,- - - de lin,KG,- - - - -
+3,,,50,00,- - - de fires textiles synthÃ©tiques,KG,- - - - -
+3,,,60,00,- - - de fibres textiles artificielles,KG,- - - - -
+3,,,80,00,- - - autres,KG,- - - - -

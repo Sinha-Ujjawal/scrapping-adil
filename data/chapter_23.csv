@@ -1,0 +1,85 @@
+0,1,2,3,4,5,6,7
+,23.01,,,,"- - - - - - Farines, poudres et agglomÃ©rÃ©s sous forme de pellets, de viandes, d'abats, de poissons ou de crustacÃ©s, de mollusques ou d'autres invertÃ©brÃ©s aquatiques, impropres Ã  l'alimentation humaine; cretons.",,
+1,,2301.10,00,00,"- Farines, poudres et agglomÃ©rÃ©s sous forme de pellets, de viandes ou d'abats; cretons",KG,- - - - -
+1,,2301.20,00,00,"- Farines, poudres et agglomÃ©rÃ©s sous forme de pellets, de poissons ou de crustacÃ©s, de mollusques ou d'autres invertÃ©brÃ©s aquatiques",KG,- - - - -
+,23.02,,,,"- - Sons, remoulages et autres rÃ©sidus, mÃªme agglomÃ©rÃ©s sous forme de pellets, du criblage, de la mouture ou d'autres traitements des cÃ©rÃ©ales ou des lÃ©gumineuses.",,
+,,2302.10,00,,- De maÃ¯s,,
+1,,,,00,- - - De maÃ¯s,KG,- - - - -
+,,2302.20,00,,- De riz,,
+,,2302.30,00,,- De froment,,
+1,,,,00,- - - De froment,KG,- - - - -
+,,2302.40,,,- D'autres cÃ©rÃ©ales,,
+,,,00,,- D'autres cÃ©rÃ©ales,,
+,,,10,,- - - de riz :,,
+1,,,,00,- - - - de riz,KG,- - - - -
+,,,90,,- - - autres:,,
+1,,,,10,"- - - - dont la teneur en amidon est infÃ©rieure ou Ã©gale Ã  28% et dont la proportion%de produit passant Ã  travers un tamis d'une largeur de mailles de 0,2 mm%n'excÃ¨de pas 10% ou, dans le cas contraire, dont le produit passÃ© Ã  travers%le tamis a une",KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,2302.50,00,,- De lÃ©gumineuses,,
+1,,,,00,- - - De lÃ©gumineuses,KG,- - - - -
+,23.03,,,,"RÃ©sidus d'amidonnerie et rÃ©sidus similaires, pulpes de betteraves, bagasses de cannes Ã  sucre et autres dÃ©chets de sucrerie, drÃªches et dÃ©chets de brasserie ou de distillerie, mÃªme agglomÃ©rÃ©s sous forme de pellets.",,
+1,,2303.10,00,00,- - RÃ©sidus d'amidonnerie et rÃ©sidus similaires,KG,- - - - -
+,,2303.20,00,,"- Pulpes de betteraves, bagasses de cannes Ã  sucre et autres dÃ©chets de sucrerie",,
+1,,,,10,- - - pulpes sÃ¨ches de betteraves,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+1,,2303.30,00,00,- DrÃªches et dÃ©chets de brasserie ou de distillerie,KG,- - - - -
+,,2304.00,00,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de l'huile de soja",,
+1,,,,10,- - - - farines,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,2305.00,00,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de l'huile d'arachide",,
+1,,,,00,"- - - - Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l extraction de l huile d arachide",KG,- - - - -
+,23.06,,,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de graisses ou huiles vÃ©gÃ©tales, autres que ceux des nÂ°s 23.04 ou 23.05.",,
+,23.06,,,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de graisses ou huiles vÃ©gÃ©tales, autres que ceux des nÂ°s 23.04 ou 23.05.",,
+,23.06,,,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de graisses ou huiles vÃ©gÃ©tales ou d'origine microbienne, autres que ceux des nÂ°s 23.04 ou 23.05.",,
+,23.06,,,,"Tourteaux et autres rÃ©sidus solides, mÃªme broyÃ©s ou agglomÃ©rÃ©s sous forme de pellets, de l'extraction de graisses ou huiles vÃ©gÃ©tales ou d'origine microbienne, autres que ceux des nÂ°s 23.04 ou 23.05.",,
+,,2306.10,00,,- De coton,,
+1,,,,10,- - - - farines,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+1,,2306.20,00,00,- De lin,KG,- - - - -
+,,2306.30,00,,- De tournesol,,
+1,,,,10,- - - - farines,KG,- - - - -
+1,,,,90,- - - - autresÂ£- De graines de navette ou de colza :,KG,- - - - -
+,,2306.41,00,,- - De graines de navette ou de colza Ã  faible teneur en acide Ã©ruciqueÂ£- - - de graines de navette :,,
+1,,,,11,- - - - tourteaux,KG,- - - - -
+1,,,,19,- - - - autresÂ£- - - de graines de colza :,KG,- - - - -
+1,,,,91,- - - - tourteaux,KG,- - - - -
+1,,,,92,- - - - farines,KG,- - - - -
+1,,,,99,- - - - autres,KG,- - - - -
+,,2306.49,00,,- - AutresÂ£- - - de graines de navette :,,
+1,,,,11,- - - - tourteaux,KG,- - - - -
+1,,,,19,- - - - autresÂ£- - - de graines de colza :,KG,- - - - -
+1,,,,91,- - - - tourteaux,KG,- - - - -
+1,,,,92,- - - - farines,KG,- - - - -
+1,,,,99,- - - - autres,KG,- - - - -
+1,,2306.50,00,00,- De noix de coco ou de coprah,KG,- - - - -
+1,,2306.60,00,00,- De noix ou d'amandes de palmiste,KG,- - - - -
+,,2306.90,,,- Autres,,
+1,,,10,00,- - - - grignons d'olives et autres rÃ©sidus de l'extraction de l'huile d'oliveÂ£- - - autres :,KG,- - - - -
+1,,,20,00,- - - - de sÃ©sameÂ£- - - - de carthame :,KG,- - - - -
+1,,,31,00,- - - - - tourteaux,KG,- - - - -
+1,,,38,00,- - - - - - - autres,KG,- - - - -
+,,,40,,- - - - - de germe de maÃ¯s,,
+1,,,,00,- - - - - de germe de maÃ¯s,KG,- - - - -
+1,,,80,00,- - - - - - autres,KG,- - - - -
+,,2307.00,00,,Lies de vin; tartre brut,,
+1,,,,10,- - - lies de vin,KG,- - - - -
+1,,,,90,- - - tartre brut,KG,- - - - -
+,,2308.00,,,"- - - - - - - - MatiÃ¨res vÃ©gÃ©tales et dÃ©chets vÃ©gÃ©taux, rÃ©sidus et sous-produits vÃ©gÃ©taux, mÃªme agglomÃ©rÃ©s sous forme de pellets, des types utilisÃ©s pour l'alimentation des animaux, non dÃ©nommÃ©s ni compris ailleurs.",,
+1,,,10,00,- - - glands de chÃªne et marrons d'Inde,KG,- - - - -
+1,,,20,00,- - - marcs de fruits,KG,- - - - -
+1,,,90,00,- - - autres,KG,- - - - -
+,23.09,,,,PrÃ©parations des types utilisÃ©s pour l'alimentation des animaux,,
+1,,2309.10,00,00,"- Aliments pour chiens ou chats, conditionnÃ©s pour la vente au dÃ©tail",KG,- - - - -
+,,2309.90,,,- Autres,,
+1,,,10,00,- - - prÃ©parations contenant des produits laitiers,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - paille mÃ©lassÃ©e pellÃ©tisÃ©e,KG,- - - - -
+1,,,,20,- - - - prÃ©parations utilisÃ©es dans l'alimentation des veaux,KG,- - - - -
+1,,,,30,- - - - produits d'origine vÃ©gÃ©tale de la nature de ceux utilisÃ©s pour la nourriture des animaux,KG,- - - - -
+1,,,,40,- - - - anticoccidiens sur support d'origine vÃ©gÃ©tale ou minÃ©rale,KG,- - - - -
+1,,,,50,- - - - antibiotiques sur support d'origine vÃ©gÃ©tale ou minÃ©rale,KG,- - - - -
+1,,,,60,- - - - antioxydants sur support d'origine vÃ©gÃ©tale ou minÃ©rale,KG,- - - - -
+1,,,,70,- - - - chlorure de choline sur support d'origine vÃ©gÃ©tale ou minÃ©raleÂ£- - - - autres :,KG,- - - - -
+1,,,,81,- - - - - prÃ©mÃ©langes (prÃ©mix),KG,- - - - -
+1,,,,82,- - - - - Aliments pour poissons,KG,- - - - -
+1,,,,88,- - - - - Autres,KG,- - - - -

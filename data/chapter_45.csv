@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+,45.01,,,,"LiÃ¨ge naturel brut ou simplement prÃ©parÃ©; dÃ©chets de liÃ¨ge; liÃ¨ge concassÃ©, granulÃ© ou pulvÃ©risÃ©.",,
+,,4501.10,00,,LiÃ¨ge naturel brut ou simplement prÃ©parÃ©Â£- - - liÃ¨ge naturel brut en planches ou parties de planches d'une Ã©paisseur de plus de 30 mm :,,
+3,,,,00,LiÃ¨ge naturel brut ou simplement prÃ©parÃ©,KG,- - - - -
+,,4501.90,,,Autres,,
+3,,,10,00,"liÃ¨ge concassÃ©, granulÃ© ou pulvÃ©risÃ©",KG,- - - - -
+,,,90,,autres :,,
+3,,,,00,autres,KG,- - - - -
+,,4502.00,00,,"LiÃ¨ge naturel, Ã©croÃ»tÃ© ou simplement Ã©quarri, ou en cubes, plaques, feuilles ou bandes de forme carrÃ©e ou rectangulaire (y compris les Ã©bauches Ã  arÃªtes vives pour bouchons).",,
+3,,,,10,plaques,KG,- - - - -
+3,,,,20,"feuilles, doublÃ©es ou non de papier ou de tissu",KG,- - - - -
+3,,,,30,cubes ou carrÃ©s,KG,- - - - -
+3,,,,90,autres,KG,- - - - -
+,45.03,,,,Ouvrages en liÃ¨ge naturel,,
+,,4503.10,00,,"BouchonsÂ£- - - sans parties en autres matiÃ¨res, d'une longueur (ou Ã©paisseur) de :",,
+5,,,,00,Bouchons,KG,- - - - -
+,,4503.90,00,,Autres,,
+5,,,,10,rondelles pour fonds de capsules ou usages analogues,KG,- - - - -
+5,,,,20,flotteurs,KG,- - - - -
+5,,,,90,autres,KG,- - - - -
+,45.04,,,,LiÃ¨ge agglomÃ©rÃ© (avec ou sans liant) et ouvrages en liÃ¨ge agglomÃ©rÃ©,,
+,,4504.10,00,,"Cubes, briques, plaques, feuilles et bandes; carreaux de toute forme; cylindres pleins, y compris les disquesÂ£- - - liÃ¨ge agglomÃ©rÃ© mi-ouvrÃ© :",,
+5,,,,00,"""Cubes, briques, plaques,feuilles et bandes; carreaux de toute forme; cylindres pleins, y compris les disques""",KG,- - - - -
+,,4504.90,,,Autres,,
+5,,,10,00,rondelles destinÃ©es Ã  la fabrication de bouchons-couronnesÂ£- - - autres :,KG,- - - - -
+5,,,20,00,liÃ¨ge agglomÃ©rÃ© mi-ouvrÃ©Â£- - - - liÃ¨ge agglomÃ©rÃ© ouvrÃ© :,KG,- - - - -
+5,,,31,00,"bouchons, y compris les bouchons plats avec ou sans parties acces- soires en autres matiÃ¨res",KG,- - - - -
+5,,,32,00,rondelles pour fonds de capsules ou usages analogues,KG,- - - - -
+5,,,39,00,flotteursÂ£- - - - - joints :,KG,- - - - -
+5,,,40,00,joints,KG,- - - - -
+5,,,81,00,textiles,KG,- - - - -
+5,,,89,00,autres,KG,- - - - -
+5,,,90,00,textiles,KG,- - - - -

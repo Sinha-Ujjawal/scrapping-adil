@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7
+,,4701.00,,,PÃ¢tes mÃ©caniques de bois,,
+3,,,00,10,- - - pÃ¢tes thermomÃ©caniques de bois,KG,KG. SEC 90%
+3,,,00,90,- - - autres,KG,KG. SEC 90%
+,,4702.00,,,"PÃ¢tes chimiques de bois, Ã  dissoudre",,
+,,,00,,"PÃ¢tes chimiques de bois, Ã  dissoudre.",,
+3,,,,10,- - - de conifÃ¨res,KG,KG. SEC 90%
+3,,,,90,- - - autres,KG,KG. SEC 90%
+,,,10,,- - - pour la fabrication de fibres textiles artificielles :,,
+,47.03,,,,"PÃ¢tes chimiques de bois, Ã  la soude ou au sulfate, autres que les pÃ¢tes Ã  dissoudre.Â£- Ecrues :",,
+,,4703.11,,,- - De conifÃ¨res,,
+3,,,00,00,- - De conifÃ¨res,KG,KG. SEC 90%
+,,4703.19,,,- - Autres que de conifÃ¨res,,
+3,,,00,00,- - Autres que de conifÃ¨res,KG,KG. SEC 90%
+,,4703.21,,,- - De conifÃ¨res,,
+3,,,00,00,- - De conifÃ¨res,KG,KG. SEC 90%
+,,4703.29,,,- - Autres que de conifÃ¨res,,
+3,,,00,00,- - Autres que de conifÃ¨res,KG,KG. SEC 90%
+,47.04,,,,"PÃ¢tes chimiques de bois, au bisulfite, autres que les pÃ¢tes Ã  dissoudreÂ£- Ecrues :",,
+,,4704.11,,,- - De conifÃ¨res,,
+3,,,00,00,- - De conifÃ¨res,KG,KG. SEC 90%
+,,4704.19,,,- - Autres que de conifÃ¨res,,
+3,,,00,00,- - Autres que de conifÃ¨res,KG,KG. SEC 90%
+,,4704.21,,,- - De conifÃ¨res,,
+3,,,00,00,- - De conifÃ¨res,KG,KG. SEC 90%
+,,4704.29,,,- - Autres que de conifÃ¨res,,
+3,,,00,00,- - Autres que de conifÃ¨res,KG,KG. SEC 90%
+,,4705.00,,,PÃ¢tes de bois obtenues par la combinaison d'un traitement mÃ©canique et d'un traitement chimique.,,
+3,,,00,00,PÃ¢tes de bois obtenues par la combinaison d'un traitement mÃ©canique et d'un traitement chimique.,KG,KG. SEC 90%
+,47.06,,,,PÃ¢tes de fibres obtenues Ã  partir de papier ou de carton recyclÃ©s (dÃ©chets et rebuts) ou d'autres matiÃ¨res fibreuses cellulosiques.,,
+3,,4706.10,00,00,- PÃ¢tes de linters de coton,KG,- - - - -
+3,,4706.20,00,00,- PÃ¢tes de fibres obtenues Ã  partir de papier ou de carton recyclÃ©s (dÃ©chets et rebuts)Â£- Autres :,KG,KG. SEC 90%
+,,4706.30,,,"- Autres, de bambou",,
+,,,00,,"- Autres, de bambou",,
+3,,,,00,"- Autres, de bambou",KG,KG. SEC 90%
+,,4706.91,00,,- - MÃ©caniques,,
+3,,,,00,- - MÃ©caniques,KG,KG. SEC 90%
+,,4706.92,00,,- - Chimiques,,
+3,,,,00,- - Chimiques,KG,KG. SEC 90%
+,,4706.93,00,,- - Mi-chimiques,,
+3,,,,00,- - Obtenues par la combinaison d'un traitement mÃ©canique et d'un traitement chimique,KG,KG. SEC 90%
+,47.07,,,,Papiers ou cartons Ã  recycler (dÃ©chets et rebuts),,
+,,4707.10,00,,- Papiers ou cartons Kraft Ã©crus ou papiers ou cartons ondulÃ©s,,
+3,,,,00,- Papiers ou cartons Kraft Ã©crus ou papiers ou cartons ondulÃ©s,KG,- - - - -
+,,4707.20,00,,"- - - Autres papiers ou cartons obtenus principalement Ã  partir de pÃ¢te chimique blanchie, non colorÃ©s dans la masse",,
+3,,,,00,"- Autres papiers ou cartons obtenus principalement Ã  partir de pÃ¢te chimique blanchie, non colorÃ©s dans la masse",KG,- - - - -
+,,4707.30,00,,"- - Papiers ou cartons obtenus principalement Ã  partir de pÃ¢te mÃ©ca- nique (journaux, pÃ©riodiques et imprimÃ©s similaires, par exemple)",,
+3,,,,00,"- Papiers ou cartons obtenus principalement Ã  partir de pÃ¢te mÃ©canique (journaux, pÃ©riodiques et imprimÃ©s similaires, par exemple)",KG,- - - - -
+,,4707.90,00,,"- Autres, y compris les dÃ©chets et rebuts non triÃ©s",,
+3,,,,20,- - - non triÃ©s,KG,- - - - -
+3,,,,80,- - - triÃ©s,KG,- - - - -

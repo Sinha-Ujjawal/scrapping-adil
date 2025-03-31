@@ -1,0 +1,102 @@
+0,1,2,3,4,5,6,7
+,53.01,,,,- - Lin brut ou travaillÃ© mais non filÃ©; Ã©toupes et dÃ©chets de lin (y compris les dÃ©chets de fils et les effilochÃ©s).,,
+3,,5301.10,00,00,"- Lin brut ou rouiÂ£- Lin brisÃ©, teillÃ©, peignÃ© ou autrement travaillÃ©, mais non filÃ© :",KG,- - - - -
+3,,5301.21,00,00,- - BrisÃ© ou teillÃ©,KG,- - - - -
+,,5301.29,00,,- - Autre,,
+3,,,,00,- - Autre,KG,- - - - -
+,,5301.30,00,,- Etoupes et dÃ©chets de lin,,
+3,,,,00,- Etoupes et dÃ©chets de lin,KG,- - - - -
+,53.02,,,,- - Chanvre (Cannabis sativa L) brut ou travaillÃ© mais non filÃ©; Ã©toupes et dÃ©chets de chanvre (y compris les dÃ©chets de fils et les effilochÃ©s).,,
+3,,5302.10,00,00,- Chanvre brut ou roui,KG,- - - - -
+,,5302.90,,,- Autres,,
+3,,,00,00,- Autres,KG,- - - - -
+,53.03,,,,"- - - - Jute et autres fibres textiles libÃ©riennes (Ã  l'exclusion du lin, du chanvre et de la ramie), bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils et les effilochÃ©s).",,
+3,,5303.10,00,00,"- Jute et autres fibres textiles libÃ©riennes, bruts ou rouis",KG,- - - - -
+,,5303.90,00,,- - - Autres,,
+3,,,,00,- Autres,KG,- - - - -
+,53.04,,,,"- - - - Sisal et autres fibres textiles du genre Agave, bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils et les effilochÃ©s).",,
+,53.05,,,,"- - - - Coco, abaca (chanvre de Manille ou Musa textilis Nee), ramie et autres fibres textiles vÃ©gÃ©tales non dÃ©nommÃ©es ni comprises ailleurs, bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils et l",,
+,,5305.00,,,"""Coco, abaca (chanvre de Manille ou Musa textilis Nee), ramie et autres fibres textiles vÃ©gÃ©tales non dÃ©nommÃ©es ni comprises ailleurs, bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils et les effi",,
+,,,00,,"""Coco, abaca (chanvre de Manille ou Musa textilis Nee), ramie et autres fibres textiles vÃ©gÃ©tales non dÃ©nommÃ©es ni comprises ailleurs, bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils et les effi",,
+3,,,,00,"- - - - - ""Coco, abaca (chanvre de Manille ou Musa textilis Nee), ramie et autres fibres textiles vÃ©gÃ©tales non dÃ©nommÃ©es ni comprises ailleurs, bruts ou travaillÃ©s mais non filÃ©s; Ã©toupes et dÃ©chets de ces fibres (y compris les dÃ©chets de fils e",KG,- - - - -
+,,5305.90,,,- Autres,,
+,,,10,,- - - bruts :,,
+,,,90,,- - - autres :Â£- - - - ramie :,,
+,53.06,,,,Fils de lin,,
+,,5306.10,00,,- Simples,,
+5,,,,00,- Simples,KG,- - - - -
+,,5306.20,,,- Retors ou cÃ¢blÃ©s,,
+,,,10,,"- - - presentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 200 grs :",,
+8,,,,00,"- - - presentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en Â£pelotes, d'un poids maximum (support compris) de 200 grs",KG,- - - - -
+,,,20,,"- - - presentÃ©s en Ã©cheveaux, en Ã©chevettes ou Ã©cheveaux subdivisÃ©s d'un poids maximum de 125 grs :",,
+8,,,,00,"- - - presentÃ©s en Ã©cheveaux, en Ã©chevettes ou Ã©cheveaux subdivisÃ©s d'un poids Â£maximum de 125 grs",KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - Ã©crus, decruÃ©s ou blanchis :",,
+5,,,,00,- - - autres,KG,- - - - -
+,53.07,,,,Fils de jute ou d'autres fibres textiles libÃ©riennes du nÂ° 5303,,
+,,5307.10,,,- Simples,,
+5,,,00,00,- Simples,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,5307.20,,,- Retors ou cÃ¢blÃ©s,,
+5,,,00,00,- Retors ou cÃ¢blÃ©s,KG,- - - - -
+,53.08,,,,Fils d'autres fibres textiles vÃ©gÃ©tales; fils de papier,,
+5,,5308.10,00,00,- Fils de coco,KG,- - - - -
+,,5308.20,00,,- Fils de chanvre,,
+5,,,,00,- Fils de chanvre,KG,- - - - -
+,,5308.90,,,- Autres,,
+,,,10,,"- - - - - fils simples de ramie :Â£- - - - mesurant au kg :Â£- - - - - 45.000 m ou moins :Â£- - - - - - Ã©crus, dÃ©cruÃ©s, blanchis :Â£- - - - - - - Ã©crus :",,
+5,,,,00,- - - fils simples de ramie,KG,- - - - -
+8,,,21,00,"- - - - presentÃ©s sur cartes, bobines, tubes et supports similaires, en boules ou en pelotes, d'un poids maximum (support compris) de 200 grs",KG,- - - - -
+8,,,22,00,"- - - - prÃ©sentÃ©s en Ã©cheveaux, en Ã©chevettes ou Ã©cheveaux subdivisÃ©s d'un poids maximum de 125 grs",KG,- - - - -
+,,,29,,"- - - - - - autres :Â£- - - - - Ã©crus, dÃ©cruÃ©s ou blanchis :",,
+5,,,,00,- - - - autres :,KG,- - - - -
+5,,,30,00,- - - fils de papier,KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+,53.09,,,,Tissus de linÂ£- Contenant au moins 85 % en poids de lin :,,
+,,5309.11,,,- - Ecrus ou blanchis,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - Ã©crus :Â£- - - - - pesant 400 g au m2 ou moins :,,
+8,,,,30,- - - - Ã©crus,KG,- - - - -
+8,,,,40,- - - - blanchis,KG,- - - - -
+,,5309.19,,,- - Autres,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - - - autres :,,
+8,,,,20,- - - - teints,KG,- - - - -
+8,,,,30,- - - - en fils divers couleurs,KG,- - - - -
+8,,,,40,- - - - imprimÃ©s,KG,- - - - -
+,,5309.21,,,- - Ecrus ou blanchis,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - Ã©crus :,,
+5,,,,10,- - - - Ã©crus,KG,- - - - -
+8,,,,20,- - - - blanchis,KG,- - - - -
+,,5309.29,,,- - Autres,,
+5,,,10,00,- - - tissus Ã©lastiques,KG,- - - - -
+,,,80,,- - - autres :,,
+8,,,,10,- - - - teints,KG,- - - - -
+8,,,,20,- - - - en fils divers couleurs,KG,- - - - -
+8,,,,30,- - - - imprimÃ©s,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,53.10,,,,Tissus de jute ou d'autres fibres textiles libÃ©riennes du nÂ° 5303,,
+,,5310.10,,,- Ecrus,,
+,,,00,,- Ecrus,,
+5,,,,10,- - - d'une largeur n'excÃ©dant pas 150 cm,KG,- - - - -
+5,,,,90,- - - d'une largeur excÃ©dant 150 cm,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure ou Ã©gale Ã  150 cm et d'un poids au m2 :,,
+,,5310.90,,,- Autres,,
+,,,00,,"- ""Autresâ€“ â€“ â€“ d'une largeur n'excÃ©dant pas 150 cm""",,
+5,,,,11,- - - - teints,KG,- - - - -
+5,,,,12,- - - - en fils divers couleurs,KG,- - - - -
+5,,,,13,- - - - imprimÃ©s Â£â€“ â€“ â€“ d'une largeur excÃ©dant 150 cm:,KG,- - - - -
+5,,,,91,- - - - teints,KG,- - - - -
+5,,,,92,- - - - en fils divers couleurs,KG,- - - - -
+5,,,,93,- - - - imprimÃ©s,KG,- - - - -
+,,,90,,- - - - - autres :Â£- - - - d'une largeur infÃ©rieure ou Ã©gale Ã  150 cm et d'un poids au m2 :,,
+,,5311.00,,,- Tissus d'autres fibres textiles vÃ©gÃ©tales; tissus de fils de papier,,
+5,,,10,00,- - - tissus Ã©lastiquesÂ£- - - autres :,KG,- - - - -
+,,,91,,- - - - - tissus de ramie :Â£- - - - - contenant moins de 85% en poids de ramie :Â£- - - - - - Ã©crus :Â£- - - - - - - pesant 400 g au m2 ou moins :,,
+8,,,,10,- - - - - Ã©crus,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :Â£- - - - - tissus de chanvre :,,
+8,,,,10,- - - - - tissus de chanvre,KG,- - - - -
+5,,,,30,- - - - - - tissus de fils de papierÂ£- - - - - tissus d'autres fibres textiles vÃ©gÃ©tales :,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -

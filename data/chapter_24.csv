@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7
+,24.01,,,,Tabacs bruts ou non fabriquÃ©s; dÃ©chets de tabac,,
+1,,2401.10,00,00,- Tabacs non Ã©cÃ´tÃ©s,KG,- - - - -
+1,,2401.20,00,00,- Tabacs partiellement ou totalement Ã©cÃ´tÃ©s,KG,- - - - -
+1,,2401.30,00,00,- DÃ©chets de tabac,KG,- - - - -
+,24.02,,,,"Cigares (y compris ceux Ã  bouts coupÃ©s), cigarillos et cigarettes, en tabac ou en succÃ©danÃ©s de tabac.",,
+1,,2402.10,00,00,"- Cigares (y compris ceux Ã  bouts coupÃ©s) et cigarillos, contenant du tabac",KG,- - - - -
+1,,2402.20,00,00,- Cigarettes contenant du tabac,KG,- - - - -
+,,2402.90,00,,- Autres,,
+1,,,,10,- - - cigarettes,KG,- - - - -
+1,,,,90,- - - cigares et cigarillos,KG,- - - - -
+,24.03,,,,"- - - - - - - Autres tabacs et succÃ©danÃ©s de tabac, fabriquÃ©s; tabacs Â«homogÃ©- nÃ©isÃ©sÂ» ou Â«reconstituÃ©sÂ»; extraits et sauces de tabac.",,
+,,2403.11,,,- - Tabac pour pipe Ã  eau visÃ© Ã  la Note 1 de sous-positions du prÃ©sent Chapitre,,
+,,,00,,- - Tabac pour pipe Ã  eau visÃ© Ã  la Note 1 de sous-positions du prÃ©sent Chapitre,,
+1,,,,00,- - Tabac pour pipe Ã  eau visÃ© Ã  la Note 1 de sous-positions du prÃ©sent Chapitre,KG,- - - - -
+,,2403.19,,,- - Autres,,
+,,,00,,- - Autres,,
+1,,,,00,- - Autres,KG,- - - - -
+1,,2403.91,00,00,- - Tabacs Â«homogÃ©nÃ©isÃ©sÂ» ou Â«reconstituÃ©sÂ»,KG,- - - - -
+1,,2403.91,00,00,- - Tabacs Â«homogÃ©nÃ©isÃ©sÂ» ou Â«reconstituÃ©sÂ»,KG,- - - - -
+1,,2403.91,00,00,- - Tabacs Â«homogÃ©nÃ©isÃ©sÂ» ou Â«reconstituÃ©sÂ»,KG,- - - - -
+1,,2403.91,00,00,- - Tabacs Â«homogÃ©nÃ©isÃ©sÂ» ou Â«reconstituÃ©sÂ»,KG,- - - - -
+,,2403.99,,,- - Autres,,
+1,,,00,10,- - - - tabac Ã  mÃ¢cher,KG,- - - - -
+1,,,00,20,- - - - tabac Ã  priser,KG,- - - - -
+1,,,00,30,- - - - poudres de tabac,KG,- - - - -
+1,,,00,90,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,24.04,,,,"Produits contenant du tabac, du tabac reconstituÃ©, de la nicotine ou des succÃ©danÃ©s de tabac ou de nicotine, destinÃ©s Ã  une inhalation sans combustion; autres produits contenant de la nicotine, destinÃ©s Ã  l'absorption de la nicotine dans le corps h",,
+1,,2404.11,00,00,- - Contenant du tabac ou du tabac reconstituÃ©,KG,- - - - -
+5,,2404.12,00,00,"- - Autres, contenant de la nicotine",KG,- - - - -
+,,2404.19,,,- - Autres,,
+5,,,00,10,- - - sous forme de prÃ©parations chimiques,KG,- - - - -
+1,,,00,90,- - - autres Â£- Autres :,KG,- - - - -
+1,,2404.91,00,00,- - Pour une application orale,KG,- - - - -
+5,,2404.92,00,00,- - Pour une application percutanÃ©e,KG,- - - - -
+5,,2404.99,00,00,- - Autres,KG,- - - - -

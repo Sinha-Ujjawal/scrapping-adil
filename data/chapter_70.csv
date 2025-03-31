@@ -1,0 +1,323 @@
+0,1,2,3,4,5,6,7
+,,7001.00,,,Calcin et autres dÃ©chets et dÃ©bris de verre; verre en masse,,
+,,,00,,"Calcin et autres dÃ©chets et dÃ©bris de verre, Ã  l'exclusion du verre de tubes cathodiques et autres verres activÃ©s du nÂ° 85.49; verre en masse.",,
+5,,,,10,- - - tessons de verrerie et autres dÃ©chets et dÃ©bris de verre,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,,99,,- - - - - autres :,,
+,70.02,,,,"- - - - Verre en billes (autres que les microsphÃ¨res du nÂ° 7018), barres, baguettes ou tubes, non travaillÃ©.",,
+5,,7002.10,00,00,- Billes,KG,- - - - -
+,,7002.20,00,,- Barres ou baguettes,,
+5,,,,00,- Barres ou baguettes,KG,- - - - -
+,,7002.31,00,,- - En quartz ou en autre silice fondus,,
+5,,,,00,- - En quartz ou en autre silice fondus,KG,- - - - -
+,,7002.32,00,,- - - - - - - En autre verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant pas 5 x 10-6 par Kelvin entre 0 Â°C et 300 Â°C,,
+5,,,,00,- - En autre verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant Â£pas 5 x 10-6 par Kelvin entre 0 C et 300 C,KG,- - - - -
+,,7002.39,00,,- - Autres,,
+5,,,,20,- - - en cristal,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,70.03,,,,"- - - - - Verre dit Â«coulÃ©Â», en plaques, feuilles ou profilÃ©s, mÃªme Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante, mais non autrement travaillÃ©.Â£- Plaques et feuilles, non armÃ©es :",,
+,,7003.12,,,"- - ColorÃ©es dans la masse, opacifiÃ©es, plaquÃ©es (doublÃ©es) ou Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante",,
+5,,,10,00,- - - en verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,"- - - - - autres, de forme carrÃ©e ou rectangulaire :",,
+5,,,80,10,- - - - colorÃ©es dans la masse,M2 (METRE CARRE),- - - - -
+5,,,80,20,"- - - - absorbante, opacifiÃ©es ou plaquÃ©es (doublÃ©es)",M2 (METRE CARRE),- - - - -
+5,,,80,30,"- - - - Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante",M2 (METRE CARRE),- - - - -
+,,7003.19,,,- - Autres,,
+5,,,10,00,- - - en verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,"- - - - - autres, de forme carrÃ©e ou rectangulaire :",,
+5,,,80,00,- - - autres,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - autres :,,
+,,7003.20,,,"- Plaques et feuilles, armÃ©es",,
+5,,,00,00,"- Plaques et feuilles, armÃ©es",M2 (METRE CARRE),- - - - -
+,,,10,,- - - de forme carrÃ©e ou rectangulaire :,,
+,,,90,,- - - - - autres :,,
+,,7003.30,,,- ProfilÃ©s,,
+5,,,00,00,- ProfilÃ©s,M2 (METRE CARRE),- - - - -
+,,,10,,- - - de forme carrÃ©e ou rectangulaire :Â£- - - - armÃ©s :,,
+,,,90,,- - - - - autres :,,
+,70.04,,,,"- - - Verre Ã©tirÃ© ou soufflÃ©, en feuilles, mÃªme Ã  couche absorbante, rÃ©flÃ©- chissante ou non rÃ©flÃ©chissante, mais non autrement travaillÃ©.",,
+,,7004.20,,,"- Verre colorÃ© dans la masse, opacifiÃ©, plaquÃ© (doublÃ©) ou Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante",,
+5,,,10,00,- - - verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,"- - - verre Ã©tirÃ© ou soufflÃ© dit Â«verre Ã  vitresÂ» non travaillÃ©, en feuilles de forme carrÃ©e ou rectangulaire :",,
+5,,,80,91,"- - - - d'une Ã©paisseur de plus de 3,5mm",M2 (METRE CARRE),- - - - -
+5,,,80,99,"- - - - d'une Ã©paisseur de 3,5mm ou moins",M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - autres :,,
+,,7004.90,,,- Autre verre,,
+,,,10,,- - - verre d'optique :,,
+5,,,,00,- - - verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,"- - - autre, Ã©tirÃ© ou soufflÃ© dit Â«verre Ã  vitresÂ» non travaillÃ©, en feuilles de forme carrÃ©e ou rectangulaire :Â£- - - - d'une Ã©paisseur de plus de 3,5 mm :",,
+,,,80,,- - - autres :,,
+5,,,,91,"- - - - d'une Ã©paisseur de plus de 3,5mm",M2 (METRE CARRE),- - - - -
+5,,,,99,"- - - - d'une Ã©paisseur de 3,5mm ou moins",M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - autres :,,
+,70.05,,,,"- Glace (verre flottÃ© et verre douci ou poli sur une ou deux faces) en plaques ou en feuilles, mÃªme Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante, mais non autrement travaillÃ©e.",,
+,,7005.10,,,"- Glace non armÃ©e, Ã  couche absorbante, rÃ©flÃ©chissante ou non rÃ©flÃ©chissante",,
+5,,,10,00,- - - en verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+,,,20,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+,,,20,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :Â£- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus d'une surface :",,
+,,,20,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :Â£- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus d'une surface :",,
+5,,,,10,- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus,M2 (METRE CARRE),- - - - -
+5,,,,80,- - - - autres,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - autres,M2 (METRE CARRE),- - - - -
+,,7005.21,,,"- - ColorÃ©e dans la masse, opacifiÃ©e, plaquÃ©e (doublÃ©e) ou simplement doucie",,
+5,,,10,00,- - - en verre d'optique,M2 (METRE CARRE),- - - - -
+,,,30,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :Â£- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus d'une surface :",,
+,,,30,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :Â£- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus d'une surface :",,
+,,,30,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+,,,30,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+5,,,,10,- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus,M2 (METRE CARRE),- - - - -
+5,,,,80,- - - - autres,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - autres,M2 (METRE CARRE),- - - - -
+,,7005.29,,,- - Autre,,
+5,,,10,00,- - - en verre d'optique,M2 (METRE CARRE),- - - - -
+,,,20,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+,,,20,,- - - en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :,,
+,,,20,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :",,
+,,,20,,"- - - autres, coulÃ©es, ou laminÃ©es, et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :",,
+5,,,,20,- - - - d'une Ã©paisseur comprise entre 5 mm inclus et 8 mm inclus,M2 (METRE CARRE),- - - - -
+5,,,,80,- - - - autres,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - autres,M2 (METRE CARRE),- - - - -
+,,7005.30,,,- Glace armÃ©e,,
+,,,10,,"- - - coulÃ©e ou laminÃ©e et Â«verre Ã  vitresÂ», en plaques ou en feuilles de forme carrÃ©e ou rectangulaire :",,
+,,,20,,"- - - ""coulÃ©e ou laminÃ©e et Â«verre Ã  vitresÂ», en plaques ou en feuilles de formecarrÃ©e ou rectangulaire :""",,
+5,,,,20,- - - - d'une Ã©paisseur comprise entre 5mminclus et 8mminclus,M2 (METRE CARRE),- - - - -
+5,,,,80,- - - - autres,M2 (METRE CARRE),- - - - -
+,,,80,,- - - autres :,,
+5,,,,91,"- - - - gravÃ©s, peints ou autrement dÃ©corÃ©s",M2 (METRE CARRE),- - - - -
+5,,,,99,- - - - autres,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - - - autres :,,
+,,7006.00,,,"Verre des nÂ°s 7003, 7004 ou 7005, courbÃ©, biseautÃ©, gravÃ©, percÃ©, Ã©maillÃ© ou autrement travaillÃ©, mais non encadrÃ© ni associÃ© Ã  d'autres matiÃ¨res.",,
+5,,,12,00,- - - verre d'optique,KG,- - - - -
+,,,92,,- - - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,70.07,,,,"Verre de sÃ©curitÃ©, consistant en verres trempÃ©s ou formÃ©s de feuilles contre-collÃ©es.Â£- Verres trempÃ©s :",,
+,,7007.11,,,"- - - - De dimensions et formats permettant leur emploi dans les auto- mobiles, vÃ©hicules aÃ©riens, bateaux ou autres vÃ©hicules",,
+,,,10,,- - - des types utilisÃ©s pour les automobiles:,,
+5,,,,11,- - - - pare-brise,KG,- - - - -
+5,,,,12,- - - - lunettes arriÃ¨res,KG,- - - - -
+5,,,,19,- - - - autres,KG,- - - - -
+5,,,20,00,- - - des types utilisÃ©s pour vÃ©hicules aÃ©riens,KG,- - - - -
+5,,,30,00,- - - des types utilisÃ©s dans les bÃ¢teaux,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,,7007.19,,,- - Autres,,
+5,,,20,00,"- - - du type utilisÃ© dans la fabrication des panneaux pour la protection des cellules photovoltaÃ¯ques d'une teneur en fer n'excÃ©dant pas 120 ppm, Ã  surface non lisse, mÃªme texturÃ©s ou traitÃ©s par un revÃªtement antireflet, d'une Ã©paisseur n'excÃ©",M2 (METRE CARRE),- - - - -
+5,,,30,00,- - - plats de forme carrÃ©e ou rectangulaire d'une longueur infÃ©rieure ou Ã©gale Ã  180 cm et d'une largeur infÃ©rieure ou Ã©gale Ã  110 cm,M2 (METRE CARRE),- - - - -
+,,,90,,- - - - autres :,,
+5,,,,10,- - - - - Ã©maillÃ©s,M2 (METRE CARRE),- - - - -
+5,,,,80,- - - - autresÂ,M2 (METRE CARRE),- - - - -
+5,,7007.21,00,00,"- - - - De dimensions et formats permettant leur emploi dans les auto- mobiles, vÃ©hicules aÃ©riens, bateaux ou autres vÃ©hicules",KG,- - - - -
+5,,7007.29,00,00,- - Autres,M2 (METRE CARRE),- - - - -
+5,,7008.00,00,00,Vitrages isolants Ã  parois multiples,KG,- - - - -
+,70.09,,,,"- - Miroirs en verre, mÃªme encadrÃ©s, y compris les miroirs rÃ©troviseurs",,
+8,,7009.10,00,00,- Miroirs rÃ©troviseurs pour vÃ©hiculesÂ£- Autres :,KG,- - - - -
+8,,7009.91,00,00,- - Non encadrÃ©s,KG,- - - - -
+8,,7009.92,00,00,- - EncadrÃ©s,KG,- - - - -
+,70.10,,,,"Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, ampoules et autres rÃ©cipients de transport ou d'emballage, en verre; bocaux Ã  conserves en verre; bouchons, couvercles et autres dispositifs de fermeture, en verre.",,
+,,7010.10,00,,- Ampoules,,
+7,,,,00,- Ampoules,KG,- - - - -
+,,7010.20,00,,"- Bouchons, couvercles et autres dispositifs de fermetureÂ£- - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+5,,,,00,"- Bouchons, couvercles et autres dispositifs de fermeture",KG,- - - - -
+5,,,,00,"- Bouchons, couvercles et autres dispositifs de fermeture",KG,- - - - -
+5,,,,00,- Migration NGP inexistants,KG,- - - - -
+5,,,,00,- Migration NGP inexistants,KG,- - - - -
+,,7010.90,,,"- - AutresÂ£- - - d'une contenance excÃ©dant 1 l :Â£- - - - bonbonnes, bouteilles, flacons, bocaux, pots, tubes Ã  comprimÃ©s et autres rÃ©cipients similaires de transport ou d'emballage :Â£- - - - - en verre neutre, non taillÃ©s, ni dÃ©polis, ni dÃ©corÃ©",,
+5,,,11,00,"- - - - - - destinÃ©s au conditionnement, en vue de leur vente au dÃ©tail des produits pharmaceutiques Ã©laborÃ©s au Maroc par les industriels agrÃ©Ã©s pour exercer cette activitÃ© particuliÃ¨re, importÃ©s Ã  l'ordre des industriels intÃ©ressÃ©s et condui",KG,- - - - -
+5,,,12,00,- - - - - - destinÃ©s Ã  la conservation du sang et du plasma humain et importÃ©s par le Centre National de Transfusion Sanguine ou pour son compte,KG,- - - - -
+5,,,13,00,- - - - - en verre Ã  faible coefficient de dilatationÂ£- - - - - autres :,KG,- - - - -
+,,,14,,"- - - - - - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+5,,,,11,- - - - - - - en verre incolore,KG,- - - - -
+5,,,,19,"- - - - - - - en verre colorÃ©Â£- - - - - - taillÃ©s, dÃ©polis, gravÃ©s ou dÃ©corÃ©s autrement que par simple moulage :",KG,- - - - -
+5,,,,91,- - - - - - - - en cristal,KG,- - - - -
+5,,,,99,- - - - - - - en autre verre,KG,- - - - -
+,,,19,,- - - - - - autres :,,
+8,,,,10,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+8,,,,20,- - - - - - - en cristal,KG,- - - - -
+8,,,,30,"- - - - - en autre verre non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©sÂ£- - - - - autres :",KG,- - - - -
+8,,,,40,- - - - - pour le service de la table ou de la cuisine,KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+5,,,21,00,"- - - - - - destinÃ©s au conditionnement, en vue de leur vente au dÃ©tail des produits pharmaceutiques Ã©laborÃ©s au Maroc par les industriels agrÃ©Ã©s pour exercer cette activitÃ© particuliÃ¨re, importÃ©s Ã  l'ordre des industriels intÃ©ressÃ©s et condui",KG,- - - - -
+5,,,22,00,- - - - - - destinÃ©s Ã  la conservation du sang et du plasma humain et importÃ©s par le Centre National de Transfusion Sanguine ou pour son compte,KG,- - - - -
+5,,,23,00,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+,,,24,,"- - - - - - - autres :Â£- - - - - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+5,,,,11,- - - - - - - en verre incolore,KG,- - - - -
+5,,,,19,"- - - - - - - en verre colorÃ©Â£- - - - - - taillÃ©s, dÃ©polis, gravÃ©s ou dÃ©corÃ©s autrement que par simple moulage :",KG,- - - - -
+5,,,,91,- - - - - - - - - en cristal,KG,- - - - -
+5,,,,99,- - - - - - - en autre verre,KG,- - - - -
+,,,29,,- - - - - - autres :,,
+8,,,,10,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+8,,,,20,- - - - - - - en cristal,KG,- - - - -
+8,,,,30,"- - - - - en autre verre non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©sÂ£- - - - - autres :",KG,- - - - -
+8,,,,40,- - - - - pour le service de la table ou de la cuisine,KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+5,,,31,00,"- - - - - - destinÃ©s au conditionnement, en vue de leur vente au dÃ©tail des produits pharmaceutiques Ã©laborÃ©s au Maroc par les industriels agrÃ©Ã©s pour exercer cette activitÃ© particuliÃ¨re, importÃ©s Ã  l'ordre des industriels intÃ©ressÃ©s et condui",KG,- - - - -
+5,,,32,00,- - - - - - destinÃ©s Ã  la conservation du sang et du plasma humain et importÃ©s par le Centre National de Transfusion Sanguine ou pour son compte,KG,- - - - -
+5,,,33,00,"- - - - - en verre ordinaire, non taillÃ©s, ni dÃ©polis, ni dÃ©corÃ©s, sinon par simple moulage, exclusivement destinÃ©s au conditionnement des produits pharmaceutiques, importÃ©s Ã  l'ordre des professsionnels intÃ©ressÃ©s, ou, pour leur compte Ã  la sui",KG,- - - - -
+5,,,34,00,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+,,,35,,"- - - - - - - autres :Â£- - - - - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+5,,,,11,- - - - - - - en verre incolore,KG,- - - - -
+5,,,,19,"- - - - - - - en verre colorÃ©Â£- - - - - - taillÃ©s, dÃ©polis, gravÃ©s ou dÃ©corÃ©s autrement que par simple moulage :",KG,- - - - -
+5,,,,91,- - - - - - - - - en cristal,KG,- - - - -
+5,,,,99,- - - - - - - en autre verre,KG,- - - - -
+,,,39,,- - - - - - autres :,,
+8,,,,10,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+8,,,,20,- - - - - - - en cristal,KG,- - - - -
+8,,,,30,"- - - - - en autre verre, non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©sÂ£- - - - - autres :",KG,- - - - -
+8,,,,40,- - - - - pour le service de la table ou de la cuisine,KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+8,,,80,00,"- - - - d'une contenance n'excÃ©dent pas 0,125 l et dont le diamÃ¨tre intÃ©rieur d'ouverture n'excÃ¨de pas 22 mm Â£â€“ â€“ â€“ â€“ autres, bonbonnes, bouteilles, flacons, bocaux, pots, tubes Ã  comprimÃ©s et autres rÃ©cipients similaires de transport ou d",KG,- - - - -
+5,,,91,00,"- - - - - - destinÃ©s au conditionnement, en vue de leur vente au dÃ©tail des produits pharmaceutiques Ã©laborÃ©s au Maroc par les industriels agrÃ©Ã©s pour exercer cette activitÃ© particuliÃ¨re, importÃ©s Ã  l'ordre des industriels intÃ©ressÃ©s et condui",KG,- - - - -
+5,,,92,00,- - - - - - destinÃ©s Ã  la conservation du sang et du plasma humain et importÃ©s par le Centre National de Transfusion Sanguine ou pour son compte,KG,- - - - -
+5,,,93,00,"- - - - - en verre ordinaire, non taillÃ©s, ni dÃ©polis, ni dÃ©corÃ©s, sinon par simple moulage, exclusivement destinÃ©s au conditionnement des produits pharmaceutiques, importÃ©s Ã  l'ordre des professsionnels intÃ©ressÃ©s, ou, pour leur compte Ã  la sui",KG,- - - - -
+5,,,94,00,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+,,,95,,"- - - - - - - autres :Â£- - - - - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+5,,,,11,- - - - - - - en verre incolore,KG,- - - - -
+5,,,,19,"- - - - - - - en verre colorÃ©Â£- - - - - - taillÃ©s, dÃ©polis, gravÃ©s ou dÃ©corÃ©s autrement que par simple moulage :",KG,- - - - -
+5,,,,91,- - - - - - - - - en cristal,KG,- - - - -
+5,,,,99,- - - - - - - en autre verre,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+8,,,,10,- - - - - en verre Ã  faible coefficient de dilatation,KG,- - - - -
+8,,,,20,- - - - - - - en cristal,KG,- - - - -
+8,,,,30,"- - - - - en autre verre, non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©sÂ£- - - - - autres :",KG,- - - - -
+8,,,,40,- - - - - pour le service de la table ou de la cuisine,KG,- - - - -
+8,,,,80,- - - - - autres,KG,- - - - -
+,70.11,,,,"""Ampoules et enveloppes tubulaires, ouvertes, et leurs parties, enverre, sans garnitures, pour lampes et sources lumineusesÃ©lectriques, tubes cathodiques ou similaires.""",,
+,70.11,,,,"""Ampoules et enveloppes tubulaires, ouvertes, et leurs parties, enverre, sans garnitures, pour lampes et sources lumineusesÃ©lectriques, tubes cathodiques ou similaires.""",,
+,70.11,,,,"Ampoules et enveloppes tubulaires, ouvertes, et leurs parties, en verre, sans garnitures, pour lampes Ã©lectriques, tubes cathodiques ou similaires.",,
+,70.11,,,,"Ampoules et enveloppes tubulaires, ouvertes, et leurs parties, en verre, sans garnitures, pour lampes Ã©lectriques, tubes cathodiques ou similaires.",,
+5,,7011.10,00,00,- Pour l'Ã©clairage Ã©lectrique,KG,- - - - -
+5,,7011.20,00,00,- Pour tubes cathodiques,KG,- - - - -
+5,,7011.90,00,00,- Autres,KG,- - - - -
+,,7012.00,00,,"Ampoules en verre pour bouteilles isolantes ou pour autres rÃ©cipients isothermiques, dont l'isolation est assurÃ©e par le vide.Â£- - - non finies :",,
+,70.13,,,,"- - - Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou usages similaires, autres que ceux des nÂ°s 70.10 ou 70.18.",,
+,,7013.10,00,,"- Objets en vitrocÃ©rameÂ£- - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s :",,
+8,,,,10,"- - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s",KG,- - - - -
+8,,,,91,- - - - pour le service de la table ou de la cuisine,KG,- - - - -
+8,,,,99,"- - - - - - autresÂ£- Verres Ã  boire, autres qu'en vitrocÃ©rame :",KG,- - - - -
+,,7013.22,,,- - En cristal au plomb .,,
+,,,00,,- - En cristal au plomb .,,
+8,,,,00,- - En cristal au plomb .,KG,- - - - -
+,,7013.28,,,- - Autres,,
+,,,00,,- - Autres,,
+8,,,,10,- - - en verre Ã  faible coefficient de dilatation%â€“ â€“ â€“ en autre verre :,KG,- - - - -
+8,,,,80,- - - - autres,KG,- - - - -
+,,7013.29,00,,- - Autres,,
+,,7013.33,,,- - En cristal au plomb,,
+,,,00,,- - En cristal au plomb,,
+8,,,,00,- - En cristal au plomb,KG,- - - - -
+,,7013.37,,,- - Autres,,
+,,,00,,- - Autres,,
+8,,,,10,- - - en verre Ã  faible coÃ©fficient de dilatation%â€“ â€“ â€“ en autre verre:,KG,- - - - -
+8,,,,80,- - - - autres,KG,- - - - -
+,,7013.39,00,,- - Autres,,
+,,7013.41,,,- - En cristal au plomb .,,
+,,,00,,- - En cristal au plomb .,,
+8,,,,00,- - En cristal au plomb .,KG,- - - - -
+,,7013.42,,,- - En verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant pas 5 x 10-6 par Kelvin entre 0 Â°C et 300 Â°C,,
+,,,00,,- - En verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant pas 5 x 10-6 par Kelvin entre 0 Â°C et 300 Â°C,,
+8,,,,00,- - En verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant pas 5 x 10-6 par Kelvin entre 0 Â°C et 300 Â°C,KG,- - - - -
+,,7013.49,,,- - Autres,,
+,,,00,,- - Autres,,
+8,,,,10,"- - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s.",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+8,,7013.91,00,00,- - En cristal au plomb,KG,- - - - -
+,,7013.99,00,,- - Autres,,
+8,,,,10,"- - - non taillÃ©s, ni dÃ©polis, ni gravÃ©s, ni dÃ©corÃ©s",KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,7014.00,,,"Verrerie de signalisation et Ã©lÃ©ments d'optique en verre (autres que ceux du nÂ° 70.15), non travaillÃ©s optiquement.",,
+,,,10,,- - - verre d'optique et Ã©lÃ©ments en verre d'optique :,,
+8,,,,00,- - - verre d'optique et Ã©lÃ©ments en verre d'optique,KG,- - - - -
+,,,90,,- - - - - autres :,,
+8,,,,00,- - - autres,KG,- - - - -
+,70.15,,,,"- Verres d'horlogerie et verres analogues, verres de lunetterie commune ou mÃ©dicale, bombÃ©s, cintrÃ©s, creusÃ©s ou similaires, non travaillÃ©s optiquement ; sphÃ¨res (boules) creuses et leurs segments, en verre, pour la fabrication de ces verres.",,
+,,7015.10,00,,- Verres de lunetterie mÃ©dicale,,
+5,,,,00,- Verres de lunetterie mÃ©dicale,KG,- - - - -
+,,7015.90,00,,- Autres,,
+5,,,,00,- Autres,KG,- - - - -
+,70.16,,,,"- - - - - PavÃ©s, dalles, briques, carreaux, tuiles et autres articles, en verre pressÃ© ou moulÃ©, mÃªme armÃ©, pour le bÃ¢timent ou la construction; cubes, dÃ©s et autre verrerie, mÃªme sur support, pour mosaÃ¯ques ou dÃ©corations similaires; verres ass",,
+,,7016.10,,,"- - Cubes, dÃ©s et autre verrerie, mÃªme sur support, pour mosaÃ¯ques ou dÃ©corations similaires",,
+8,,,10,00,- - - - - en cristal,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,,7016.90,,,- Autres,,
+5,,,10,00,- - - - verres assemblÃ©s en vitraux,KG,- - - - -
+,,,90,,- - - - - autres :,,
+5,,,,00,- - - en autre verre,KG,- - - - -
+,70.17,,,,"Verrerie de laboratoire, d'hygiÃ¨ne ou de pharmacie, mÃªme graduÃ©e ou jaugÃ©e.",,
+7,,7017.10,00,00,- En quartz ou en autre silice fondus,KG,- - - - -
+7,,7017.20,00,00,- - - - - - - En autre verre d'un coefficient de dilatation linÃ©aire n'excÃ©dant pas 5 x 10-6 par Kelvin entre 0 Â°C et 300 Â°C,KG,- - - - -
+7,,7017.90,00,00,- Autre,KG,- - - - -
+,70.18,,,,"- - Perles de verre, imitations de perles fines ou de culture, imitations de pierres gemmes et articles similaires de verroterie, et leurs ouvrages autres que la bijouterie de fantaisie; yeux en verre autres que de pro- thÃ¨se; statuettes et autres objets",,
+,,7018.10,00,,"- Perles de verre, imitations de perles fines ou de culture, imitations de pierres gemmes et articles similaires de verroterieÂ£- - - perles de verre :",,
+8,,,,10,- - - perles de verre,KG,- - - - -
+8,,,,20,- - - - imitations de perles finesÂ£- - - imitations de pierres gemmes :,KG,- - - - -
+8,,,,30,- - - imitations de pierres gemmes,KG,- - - - -
+8,,,,90,- - - articles similaires de verroterie,KG,- - - - -
+9,,7018.20,00,00,- MicrosphÃ¨res de verre d'un diamÃ¨tre n'excÃ©dant pas 1 mm,KG,- - - - -
+,,7018.90,,,- Autres,,
+8,,,10,00,- - - yeux artificiels,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - objets de verroterie :,,
+,,,90,,- - - autres :Â£- - - - objets de verroterie :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+8,,,,10,- - - - en cristal,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,70.19,,,,"""Fibres de verre (y compris la laine de verre) et ouvrages en ces matiÃ¨res (fils, stratifils (rovings), tissus, par exemple).â€“ MÃ¨ches, stratifils (rovings), fils coupÃ©s ou non et mats en ces matiÃ¨res :""",,
+,70.19,,,,"""Fibres de verre (y compris la laine de verre) et ouvrages en ces matiÃ¨res (fils, stratifils (rovings), tissus, par exemple).â€“ MÃ¨ches, stratifils (rovings), fils coupÃ©s ou non et mats en ces matiÃ¨res :""",,
+,70.19,,,,"Fibres de verre (y compris la laine de verre) et ouvrages en ces matiÃ¨res (fils, tissus, par exemple).Â£- MÃ¨ches, stratifils (rovings) et fils, coupÃ©s ou non :",,
+,70.19,,,,"Fibres de verre (y compris la laine de verre) et ouvrages en ces matiÃ¨res (fils, tissus, par exemple).Â£- MÃ¨ches, stratifils (rovings) et fils, coupÃ©s ou non :",,
+,,7019.11,,,"- - Fils coupÃ©s (chopped strands), d'une longueur n'excÃ©dant pas 50 mm",,
+,,,00,,"- - Fils coupÃ©s (chopped strands), d'une longueur n'excÃ©dant pas 50 mm",,
+5,,,,10,- - - en fibres non textilesÂ£- - - en fibres textiles :Â£- - - - en fibres textiles continues :,KG,- - - - -
+5,,,,80,- - - en fibres textiles,KG,- - - - -
+5,,7019.12,00,00,- - stratifils (rovings),KG,- - - - -
+5,,7019.13,00,00,"- - Autres fils, mÃ¨ches",KG,- - - - -
+5,,7019.14,00,00,- - Mats liÃ©s mÃ©caniquement,KG,- - - - -
+5,,7019.15,00,00,- - Mats liÃ©s chimiquement,KG,- - - - -
+,,7019.19,00,,- - Autres,,
+5,,,,00,- - Autres Â£â€“ Etoffes liÃ©es mÃ©caniquement :,KG,- - - - -
+,,7019.39,,,- - AutresÂ£- - - en fibres non textiles :,,
+,,,90,,- - - en fibres textiles :,,
+,,7019.51,00,,- - D'une largeur n'excÃ©dant pas 30 cm,,
+,,7019.52,00,,"- - - D'une largeur excÃ©dant 30 cm, Ã  armure toile, d'un poids infÃ©rieur Ã  250 g/m2, de filaments titrant par fils simples 136 tex ou moins",,
+,,7019.59,00,,- - Autres,,
+5,,7019.61,00,00,- - Tissus de stratifils (rovings) Ã  maille fermÃ©e,KG,- - - - -
+5,,7019.62,00,00,- - Autres Ã©toffes de stratifils (rovings) Ã  maille fermÃ©e,KG,- - - - -
+5,,7019.63,00,00,"- - Tissus de fils Ã  maille fermÃ©e, Ã  armure toile non enduits ni stratifiÃ©s",KG,- - - - -
+5,,7019.64,00,00,"- - Tissus de fils Ã  maille fermÃ©e, Ã  armure toile, enduits ou stratifiÃ©s",KG,- - - - -
+5,,7019.65,00,00,- - Tissus Ã  maille ouverte d'une largeur n'excÃ©dant pas 30 cm,KG,- - - - -
+5,,7019.66,00,00,- - Tissus Ã  maille ouverte d'une largeur excÃ©dant 30 cm,KG,- - - - -
+5,,7019.69,00,00,- - Autres Â£â€“ Etoffes liÃ©es chimiquement :,KG,- - - - -
+5,,7019.71,00,00,- - Voiles (fines couches),KG,- - - - -
+5,,7019.72,00,00,- - Autres Ã©toffes Ã  maille fermÃ©e,KG,- - - - -
+5,,7019.73,00,00,- - Autres Ã©toffes Ã  maille ouverte,KG,- - - - -
+5,,7019.80,00,00,- Laine de verre et ouvrages en ces matiÃ¨res,KG,- - - - -
+,,7019.90,,,- AutresÂ£- - - fibres non textiles et ouvrages en fibres non textiles :,,
+,,7019.90,,,- AutresÂ£- - - fibres non textiles et ouvrages en fibres non textiles :,,
+,,7019.90,,,- Autres,,
+,,7019.90,,,- Autres,,
+5,,,18,00,- - - fibres non textiles et ouvrages en fibres non textiles,KG,- - - - -
+,,,90,,- - - fibres textiles et ouvrages en fibres textiles :,,
+,,,90,,- - - fibres textiles et ouvrages en fibres textiles :,,
+,,,90,,"- - - ""fibres textiles et ouvrages en fibres textiles :â€“ â€“ â€“ â€“ en fibres textiles continues:""",,
+,,,90,,"- - - ""fibres textiles et ouvrages en fibres textiles :â€“ â€“ â€“ â€“ en fibres textiles continues:""",,
+5,,,,11,- - - - - fibres,KG,- - - - -
+5,,,,19,- - - - - ouvrages Â£â€“ â€“ â€“ â€“ en fibres textiles discontinues:,KG,- - - - -
+5,,,,91,- - - - - fibres,KG,- - - - -
+5,,,,99,- - - - - ouvrages,KG,- - - - -
+,,7020.00,,,Autres ouvrages en verreÂ£- - - articles Ã  usage technique :,,
+7,,,11,00,- - - - de machines textiles,KG,- - - - -
+7,,,19,00,- - - - - - autres,KG,- - - - -
+,,,90,,"- - - - - autres :Â£- - - - articles pour l'industrie (regards et tubes de niveau, manchons, etc...) et pour l'Ã©conomie rurale (bacs, cloches pour jardins, etc...) :",,
+,,,91,,"- - - - ampoules en verre pour bouteilles isolantes ou pour autres rÃ©cipients isothermiques, dont l'isolation est assurÃ©e par le vide :%â€“ â€“ â€“ â€“ â€“ non finies:",,
+5,,,,00,"- - - - ampoules en verre pour bouteilles isolantes ou pour autres rÃ©cipients Â£isothermiques, dont l'isolation est assurÃ©e par le vide",U,- - - - -
+,,,96,,"- - - - articles pour l'industrie (regards et tubes de niveau, manchons, etc...) et pour l'Ã©conomie rurale (bacs, cloches pour jardins, etc...) :",,
+7,,,,11,- - - - - en silice ou en quartz fondu..,KG,- - - - -
+7,,,,19,- - - - - en verre Ã  faible coefficient de dilatation%â€“ â€“ â€“ â€“ â€“ en autre verre :,KG,- - - - -
+7,,,,90,- - - - - en autre verre,KG,- - - - -
+,,,99,,- - - - autres articles :,,
+7,,,,00,- - - - autres articles,KG,- - - - -

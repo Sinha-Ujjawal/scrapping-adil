@@ -1,0 +1,204 @@
+0,1,2,3,4,5,6,7
+,04.01,,,,"Lait et crÃ¨me de lait, non concentrÃ©s ni additionnÃ©s de sucre ou",,
+,,0401.10,00,,- D'une teneur en poids de matiÃ¨res grasses n'excÃ©dant pas 1%Â£- - - frais :,,
+1,,,,11,- - - - lait Ã©crÃ©mÃ©,KG,- - - - -
+1,,,,19,- - - - - - autresÂ£- - - conservÃ©s :,KG,- - - - -
+1,,,,20,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moinsÂ£- - - - autres :,KG,- - - - -
+1,,,,91,- - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,,0401.20,00,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 1% mais n'excÃ©dant pas 6%Â£- - - frais :,,
+1,,,,11,- - - - lait complet,KG,- - - - -
+1,,,,19,- - - - autresÂ£- - - conservÃ©s :,KG,- - - - -
+1,,,,20,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moinsÂ£- - - - autres :,KG,- - - - -
+1,,,,91,- - - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,,0401.30,00,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 6%Â£- - - frais :Â£- - - - d'une teneur en poids de matiÃ¨res grasses supÃ©rieure Ã  6% et infÃ©rieure ou Ã©gale Ã  20% :,,
+,,0401.40,,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 6% mais n'excÃ©dant pas 10%%,,
+,,,00,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 6% mais n'excÃ©dant pas 10%%--- frais%,,
+1,,,,11,- - - - crÃ©me de lait,KG,- - - - -
+1,,,,19,- - - - autres %--- conservÃ©,KG,- - - - -
+1,,,,20,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moins%----autres,KG,- - - - -
+1,,,,91,- - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,,0401.50,,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 10%% â€“ â€“ â€“ frais :% â€“ â€“ â€“ â€“ d'une teneur en poids de matiÃ¨res grasses supÃ©rieure Ã  10% et infÃ©rieure ou Ã©gale Ã  20% :%%%,,
+,,,00,,- D'une teneur en poids de matiÃ¨res grasses excÃ©dant 10%,,
+1,,,,11,- - - - - crÃ©me de lait,KG,- - - - -
+1,,,,19,- - - - - autres,KG,- - - - -
+1,,,,20,- - - - d'une teneur en poids de matiÃ¨res grasses supÃ©rieure Ã  20% et infÃ©rieure ou Ã©gale Ã  45%,KG,- - - - -
+1,,,,30,- - - - d'une teneur en poids de matiÃ¨res grasses supÃ©rieure Ã  45%% â€“ â€“ â€“ conservÃ©s :% %,KG,- - - - -
+1,,,,40,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moins % â€“ â€“ â€“ â€“ autres :%,KG,- - - - -
+1,,,,91,- - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,04.02,,,,"Lait et crÃ¨me de lait, concentrÃ©s ou additionnÃ©s de sucre ou d'autres Ã©dulcorants.",,
+,,0402.10,,,"- - En poudre, en granulÃ©s ou sous d'autres formes solides, d'une teneur en poids de matiÃ¨res grasses n'excÃ©dant pas 1,5%Â£- - - sans addition de sucre :Â£- - - - en poudre ou granulÃ©s :",,
+,,,11,,- - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kgs :,,
+1,,,,10,- - - - - - Ã©crÃ©mÃ© en poudre,KG,- - - - -
+1,,,,90,- - - - - - - - autresÂ£- - - - - autres :,KG,- - - - -
+1,,,12,00,- - - - - - Ã©crÃ©mÃ© en poudre,KG,- - - - -
+1,,,18,00,- - - - - - - - autres,KG,- - - - -
+,,,20,,- - - - - autre qu'en poudre ou granulÃ©s :,,
+1,,,,10,- - - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454 g et moinsÂ£- - - - - autres :,KG,- - - - -
+1,,,,91,- - - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - - non conditionnÃ©s pour la vente au dÃ©tailÂ£- - - avec addition du sucre :Â£- - - - en poudre ou granulÃ©s :,KG,- - - - -
+,,,30,,- - - - - spÃ©ciaux dits Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©ti- quement fermÃ©es d'un contenu net de 500g et moins :,,
+1,,,,00,- - - - - - spÃ©ciaux dits Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d un contenu net de 500g et moins,KG,- - - - -
+,,,41,,"- - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kg :Â£- - - - - - - Ã©crÃ©mÃ© en poudre, avec une propotion de sucre de :",,
+1,,,,10,- - - - - - - - moins de 42%,KG,- - - - -
+1,,,,20,- - - - - - - - 42% inclus Ã  50% exclus,KG,- - - - -
+1,,,,30,"- - - - - - - - 50% et plusÂ£- - - - - - - autres, avec une proportion de sucre de :",KG,- - - - -
+1,,,,91,- - - - - - - - moins de 42%,KG,- - - - -
+1,,,,92,- - - - - - - - 42% inclus Ã  50% exclus,KG,- - - - -
+1,,,,99,- - - - - - - - 50% et plus,KG,- - - - -
+,,,49,,- - - - - - - autres :,,
+1,,,,10,- - - - - - - avec une proportion de sucre de moins de 42%,KG,- - - - -
+1,,,,20,- - - - - - - avec une proportion de sucre de 42% inclus Ã  50% exclus,KG,- - - - -
+1,,,,90,- - - - - - - avec une proportion de sucre de 50% et plusÂ£- - - - autres qu'en poudre ou granulÃ©s :,KG,- - - - -
+1,,,90,00,- - - - - - autres qu en poudre ou granulÃ©s,KG,- - - - -
+,,,91,,- - - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moins :,,
+,,,99,,- - - - - - autres :Â£- - - - - - autrement conditionnÃ©s pour la vente du dÃ©tail :,,
+,,0402.21,,,- - Sans addition de sucre ou d'autres Ã©dulcorantsÂ£- - - en poudre ou granulÃ©s :,,
+1,,,11,00,- - - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kg,KG,- - - - -
+1,,,19,00,- - - - - - autres,KG,- - - - -
+,,,90,,- - - autres qu'en poudre ou granulÃ©s :,,
+1,,,,10,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moinsÂ£- - - - autres :,KG,- - - - -
+1,,,,91,- - - - - autrement conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+1,,,,99,- - - - - - non conditionnÃ©s pour la vente au dÃ©tail,KG,- - - - -
+,,0402.29,,,- - AutresÂ£- - - en poudre ou granulÃ©s :,,
+,,,10,,- - - - spÃ©ciaux dits Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 500g et moins :,,
+1,,,20,11,- - - - - avec une proportion de sucre de moins de 42%,KG,- - - - -
+1,,,20,12,- - - - - avec une proportion de sucre de 42% inclus Ã  50% exclus,KG,- - - - -
+1,,,20,19,- - - - - avec une proportion de sucre de 50% et plus,KG,- - - - -
+1,,,20,90,- - - - - - - autres,KG,- - - - -
+,,,21,,"- - - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kg :Â£- - - - - - Ã©crÃ©mÃ© en poudre, avec une propotion de sucre de :",,
+,,,29,,- - - - - - - autres :,,
+1,,,80,00,- - - - - autres qu en poudre ou granulÃ©s,KG,- - - - -
+,,,91,,- - - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moins :,,
+,,,99,,- - - - - autres :Â£- - - - - autrement conditionnÃ©s pour la vente du dÃ©tail :,,
+,,0402.91,00,,- - Sans addition de sucre ou d'autres Ã©dulcorants,,
+1,,,,00,- - - Sans addition de sucre ou d autres Ã©duclcorants,KG,- - - - -
+,,0402.99,00,,- - AutresÂ£- - - en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 454g et moins :,,
+1,,,,00,- - - - Autres,KG,- - - - -
+,04.03,,,,"Yoghourt; babeurre, lait et crÃ¨me caillÃ©s, kÃ©phir et autres laits et crÃ¨mes fermentÃ©s ou acidifiÃ©s, mÃªme concentrÃ©s ou additionnÃ©s de sucre ou d'autres Ã©dulcorants ou aromatisÃ©s ou additionnÃ©s de fruits ou de cacao.",,
+,04.03,,,,"Yoghourt; babeurre, lait et crÃ¨me caillÃ©s, kÃ©phir et autres laits et crÃ¨mes fermentÃ©s ou acidifiÃ©s, mÃªme concentrÃ©s ou additionnÃ©s de sucre ou d'autres Ã©dulcorants ou aromatisÃ©s ou additionnÃ©s de fruits ou de cacao.",,
+,04.03,,,,"Babeurre, lait et crÃ¨me caillÃ©s, yoghourt, kÃ©phir et autres laits et crÃ¨mes fermentÃ©s ou acidifiÃ©s, mÃªme concentrÃ©s ou additionnÃ©s de sucre ou d'autres Ã©dulcorants ou aromatisÃ©s ou additionnÃ©s de fruits ou de cacao.",,
+,04.03,,,,"Babeurre, lait et crÃ¨me caillÃ©s, yoghourt, kÃ©phir et autres laits et crÃ¨mes fermentÃ©s ou acidifiÃ©s, mÃªme concentrÃ©s ou additionnÃ©s de sucre ou d'autres Ã©dulcorants ou aromatisÃ©s ou additionnÃ©s de fruits ou de cacao.",,
+,,0403.10,,,- Yoghourt,,
+,,,31,,- - - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kg :,,
+,,0403.20,,,- Yoghourt,,
+1,,,10,00,"- - - ""prÃ©sentÃ© comme boisson ; additionnÃ© de substances aromatisantes, de fruits ou de cacao Â£â€“ â€“ â€“ autres :""",KG,- - - - -
+1,,,20,00,"- - - - frais, non concentrÃ© ni sucrÃ© Â£â€“ â€“ â€“ â€“ conservÃ©, concentrÃ© ou sucrÃ© : Â£â€“ â€“ â€“ â€“ â€“ sans addition de sucre : Â£â€“ â€“ â€“ â€“ â€“ â€“ en poudre ou granulÃ©s :",KG,- - - - -
+,,,31,,- - - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  5 kg :,,
+1,,,,10,"- - - - - - - - hypocalorique, hypoglucidique et hyperprotÃ©inique, prÃ©sentÃ© en Â£poudres (1)",KG,- - - - -
+1,,,,90,- - - - - - - - autres,KG,- - - - -
+1,,,39,00,- - - - - - - autres,KG,- - - - -
+1,,,40,00,- - - - - - autres qu'en poudre ou granulÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec addition de sucre : Â£â€“ â€“ â€“ â€“ â€“ â€“ en poudre ou granulÃ©s :,KG,- - - - -
+1,,,50,00,- - - - - - - spÃ©cial dit Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement Â£fermÃ©es d'un contenu net de 500 g et moins Â£,KG,- - - - -
+1,,,60,00,- - - - - - - autres,KG,- - - - -
+1,,,70,00,"- - - - - - - additionnÃ©s d'Ã©pices de cafÃ© ou d'extrait de cafÃ©, de plantes, de Â£parties de plantes, de cÃ©rÃ©ales ou de produits de la boulangerie",KG,- - - - -
+1,,,90,00,- - - - - - autres qu'en poudre ou granulÃ©s,KG,- - - - -
+,,0403.90,,,"- AutresÂ£- - - prÃ©sentÃ©s comme boissons ; aromatisÃ©s, additionnÃ©s de fruits ou de cacao ou autrement prÃ©parÃ©s :",,
+,,,01,,"- - - - prÃ©sentÃ©s comme boissons ; aromatisÃ©s, additionnÃ©s de fruits ou de cacao :",,
+1,,,,00,"- - - - - "" prÃ©sentÃ©s comme boissons ; aromatisÃ©s, additionnÃ©s de fruits ou de cacao""",KG,- - - - -
+1,,,11,00,- - - - - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  2 kg,KG,- - - - -
+1,,,19,00,- - - - - - - - autres,KG,- - - - -
+1,,,21,00,- - - - - - pour usages diÃ©tÃ©tiques,KG,- - - - -
+1,,,29,00,- - - - - - pour usages culinaires,KG,- - - - -
+1,,,30,00,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+1,,,40,00,"- - - - frais, non concentrÃ©s ni sucrÃ©sÂ£- - - - conservÃ©s, concentrÃ©s ou sucrÃ©s :Â£- - - - - sans addition de sucre :Â£- - - - - - en poudre ou granulÃ©s :",KG,- - - - -
+1,,,55,00,- - - - - - - sans addition de sucre,KG,- - - - -
+1,,,70,00,- - - - - - - spÃ©ciaux dits Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 500 g et moinsÂ£- - - - - - - autres :,KG,- - - - -
+1,,,80,00,- - - - - - - - - - - autres,KG,- - - - -
+1,,,90,00,- - - - - - - autres qu en poudre ou granulÃ©s,KG,- - - - -
+,04.04,,,,"LactosÃ©rum, mÃªme concentrÃ© ou additionnÃ© de sucre ou d'autres Ã©dulcorants; produits consistant en composants naturels du lait, mÃªme additionnÃ©s de sucre ou d'autres Ã©dulcorants, non dÃ©nommÃ©s ni compris ailleurs.",,
+,,0404.10,,,"- LactosÃ©rum, modifiÃ© ou non, mÃªme concentrÃ© ou additionnÃ© de sucre ou d'autres Ã©dulcorants",,
+1,,,10,00,"- - - frais, non concentrÃ© ni sucrÃ©Â£- - - conservÃ©, concentrÃ© ou sucrÃ© :Â£- - - - sans addition de sucre :",KG,- - - - -
+1,,,20,00,- - - - - sans addition de sucre,KG,- - - - -
+,,,29,,- - - - - - - autres :,,
+1,,,30,00,- - - - - - spÃ©cial dit Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 500 g et moinsÂ£- - - - - - autres :,KG,- - - - -
+1,,,40,00,- - - - - - - autres,KG,- - - - -
+1,,,90,00,- - - - - - autres qu en poudre ou granulÃ©s,KG,- - - - -
+,,0404.90,,,- Autres,,
+1,,,10,00,"- - - - frais, non concentrÃ©s ni sucrÃ©sÂ£- - - conservÃ©s, concentrÃ©s ou sucrÃ©s :Â£- - - - sans addition de sucre :Â£- - - - - Ã  base de lactosÃ©rum :",KG,- - - - -
+1,,,20,00,- - - - - - sans addition de sucre,KG,- - - - -
+1,,,50,00,- - - - - - spÃ©ciaux dits Â«pour nourrissonsÂ» en boÃ®tes mÃ©talliques hermÃ©tiquement fermÃ©es d'un contenu net de 500 g et moinsÂ£- - - - - - autres :,KG,- - - - -
+1,,,60,00,- - - - - - - autres,KG,- - - - -
+1,,,90,00,- - - - - - autres qu en poudre ou granulÃ©s,KG,- - - - -
+,04.05,,,,Beurre et autres matiÃ¨res grasses provenant du lait ; pÃ¢tes Ã  tartiner laitiÃ¨res.,,
+,,0405.10,00,,- Beurre,,
+1,,,,10,- - - d'une teneur en poids de matiÃ¨res grasses infÃ©rieure ou Ã©gale Ã  84%,KG,- - - - -
+1,,,,90,- - - - - autre,KG,- - - - -
+1,,0405.20,00,00,- pÃ¢tes Ã  tartiner laitiÃ¨res,KG,- - - - -
+1,,0405.90,00,00,- Autres,KG,- - - - -
+,04.06,,,,Fromages et caillebotte,,
+,,0406.10,,,"- Fromages frais (non affinÃ©s), y compris le fromage de lactosÃ©rum, et caillebotte",,
+,,,10,,"- - - fromage dit â€œmozzarellaâ€ fabriquÃ© Ã  base de lait, additionnÃ© de sel, de chlorure de calcium, d'une teneur en matiÃ¨re grasse en poids de la matiÃ¨re sÃ¨che de 35% Ã  47% et en matiÃ¨re grasse dans la masse de 20% Ã  25% :",,
+1,,,,10,- - - - fromages utilisÃ©s dans la fabrication des pizzas congelÃ©s,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - fromages utilisÃ©s dans la fabrication des pizzas congelÃ©s,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,,0406.20,00,,"- Fromages rÃ¢pÃ©s ou en poudre, de tous typesÂ£- - - fromages Ã  pÃ¢te pressÃ©e et cuite :",,
+1,,,,10,- - - - destinÃ©s Ã  la fabrication des fromages et importÃ©s directement par les industriels intÃ©ressÃ©sÂ£- - - - autres :,KG,- - - - -
+1,,,,70,- - - - - - - autres,KG,- - - - -
+1,,,,80,- - - autres,KG,- - - - -
+1,,0406.30,00,00,"- - Fromages fondus, autres que rÃ¢pÃ©s ou en poudre",KG,- - - - -
+1,,0406.40,00,00,- Fromages Ã  pÃ¢te persillÃ©e,KG,- - - - -
+,,0406.90,,,- Autres fromagesÂ£- - - fromages Ã  pÃ¢te pressÃ©e et cuite :,,
+1,,,12,00,- - - - importÃ©s directement par les industriels intÃ©ressÃ©s et destinÃ©s Ã  la fabrication des fromages du nÂ° 0406.30.00.00,KG,- - - - -
+,,,19,,- - - - - - autres :,,
+1,,,,10,"- - - - - d'une teneur minimum en matiÃ¨res grasses de 45% en poids de la matiÃ¨re sÃ¨che, d'une maturation d'au moins 3 mois",KG,- - - - -
+1,,,,10,"- - - - - d'une teneur minimum en matiÃ¨res grasses de 45% en poids de la matiÃ¨re sÃ¨che, d'une maturation d'au moins 3 mois",KG,- - - - -
+1,,,,10,"- - - - - d'une teneur minimum en matiÃ¨res grasses de 45% en poids de la matiÃ¨re sÃ¨che, d'une maturation d'au moins 3 mois",KG,- - - - -
+1,,,,10,"- - - - - d'une teneur minimum en matiÃ¨res grasses de 45% en poids de la matiÃ¨re sÃ¨che, d'une maturation d'au moins 3 mois",KG,- - - - -
+1,,,,92,"- - - - - - autres, d'un poids unitaire net supÃ©rieur Ã  10 kgs",KG,- - - - -
+1,,,,98,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - fromages fabriquÃ©s Ã  base de lait Ã©crÃ©mÃ© et additionnÃ©s d'herbes finement mouluesÂ£- - - - autres :,KG,- - - - -
+1,,,,92,- - - - - fromage Edam prÃ©sentÃ© en boules n'ayant pas encore Ã©tÃ© enrobÃ©es de cire ni emballÃ©es,KG,- - - - -
+1,,,,93,- - - - - Ã  pÃ¢te molle non cuite,KG,- - - - -
+1,,,,98,- - - - - autres,KG,- - - - -
+,04.07,,,,"Oeufs d'oiseaux, en coquilles, frais, conservÃ©s ou cuits.% â€“ Oeufs fertilisÃ©s destinÃ©s Ã  l'incubation:",,
+,,0407.00,,,"Oeufs d'oiseaux, en coquilles, frais, conservÃ©s ou cuitsÂ£- - - oeufs de volailles de basse-cour :",,
+,,0407.11,,,- - De volailles de l'espÃ¨ce Gallus domesticus,,
+,,,00,,- - De volailles de l'espÃ¨ce Gallus domesticus,,
+1,,,10,00,- - - Å“ufs SFP (Specified Pathogene Free) ou EMPS (Exempts de microorganismes pathogÃ¨nes spÃ©cifiques),KG,MILLE
+1,,,90,10,- - - Å“ufs de volailles de bassecour (b),KG,MILLE
+1,,,90,90,- - - autres,KG,MILLE
+,,0407.19,,,- - Autres,,
+,,,00,,- - Autres% â€“ â€“ â€“ oeufs de volailles de basse-cour,,
+1,,,10,00,- - - - Å“ufs SFP (Specified Pathogene Free) ou EMPS (Exempts de microorganismes pathogÃ¨nes spÃ©cifiques) ....................,KG,MILLE
+1,,,90,11,"- - - - de poule, autres que l'espÃ¨ce Gallus domesticusâ€¦â€¦.",KG,MILLE
+1,,,90,19,- - - - autres,KG,MILLE
+1,,,90,91,- - - - Å“ufs Ã  couver d'autruches (b) ....................................,KG,MILLE
+1,,,90,99,- - - - autres Å“ufs Ã  couver (b)â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.,KG,MILLE
+,,0407.21,,,- - De volailles de l'espÃ¨ce Gallus domesticus,,
+,,,00,,- - De volailles de l'espÃ¨ce Gallus domesticus,,
+1,,,,10,- - - oeufs de volailles de basse-cour,KG,MILLE
+1,,,,90,- - - autres,KG,MILLE
+,,0407.29,,,- - Autres,,
+,,,00,,- - Autres,,
+1,,,,10,- - - oeufs de volailles de basse-cour,KG,MILLE
+1,,,,90,- - - autres,KG,MILLE
+,,0407.90,,,- Autres,,
+,,,00,,- Autres,,
+1,,,,10,- - - oeufs de volailles de basse-cour,KG,MILLE
+1,,,,90,- - - autres,KG,MILLE
+,04.08,,,,"Oeufs d'oiseaux, dÃ©pourvus de leurs coquilles, et jaunes d'oeufs, frais, sÃ©chÃ©s, cuits Ã  l'eau ou Ã  la vapeur, moulÃ©s, congelÃ©s ou autrement conservÃ©s, mÃªme additionnÃ©s de sucre ou d'autres Ã©dulcorants.Â£- Jaunes d'oeufs :",,
+,,0408.11,00,,- - SÃ©chÃ©s,,
+1,,,,10,- - - propres Ã  des usages alimentaires,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0408.19,00,,- - AutresÂ£- - - propres Ã  des usages alimentaires :,,
+1,,,,10,- - - - - propores Ã  des usages alimentaires,KG,- - - - -
+1,,,,90,- - - - - autresÂ£- Autres :,KG,- - - - -
+,,0408.91,00,,- - SÃ©chÃ©s,,
+1,,,,10,- - - propres Ã  des usages alimentaires,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0408.99,00,,- - Autres,,
+1,,,,10,- - - propres Ã  des usages alimentaires,KG,- - - - -
+1,,,,90,- - - - - autres,KG,- - - - -
+,,0409.00,00,,Miel naturel,,
+1,,,,10,- - - miel de table,KG,- - - - -
+1,,,,90,- - - - autres,KG,- - - - -
+,04.10,,,,"Insectes et autres produits comestibles d'origine animale, non dÃ©nommÃ©s ni compris ailleurs.",,
+3,,0410.10,00,00,- Insectes,KG,- - - - -
+3,,0410.90,00,00,- Autres,KG,- - - - -

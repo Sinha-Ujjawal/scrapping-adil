@@ -1,0 +1,1021 @@
+0,1,2,3,4,5,6,7
+,87.01,,,,Tracteurs (Ã  l'exclusion des chariots-tracteurs du nÂ° 8709),,
+,,8701.10,,,- Tracteurs Ã  essieu simple,,
+,,8701.10,,,- Tracteurs Ã  essieu simple,,
+,,8701.10,,,- Tracteurs Ã  essieu simple,,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitr",,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitr",,
+,,8701.10,,,"- Motoculteurs - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitr",,
+,,,11,,- - - - Ã  moteur Ã  explosion ou Ã  combustion interne :Â£- - - - - d'une cylindrÃ©e de 1000 cm3 ou moins :,,
+6,,,,00,- - - - Ã  moteur Ã  explosion ou Ã  combustion interne .,U,NOMBRE
+7,,,19,00,- - - - Ã  moteur autreÂ£- - - autres :,U,NOMBRE
+,,,91,,"- - - - Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ â€“ d'une cylindrÃ©e de 1000 cmÂ³ ou moins :â€“ â€“ â€“ â€“ â€“ â€“ d'une puissance de 3,67 kW ou moins :",,
+,,,91,,"- - - - Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ â€“ d'une cylindrÃ©e de 1000 cmÂ³ ou moins :â€“ â€“ â€“ â€“ â€“ â€“ d'une puissance de 3,67 kW ou moins :",,
+,,,91,,- - - - Ã  moteur Ã  explosion ou Ã  combustion interne : - - - - - d'une cylindrÃ©e de 1000 cm3 ou moins : - - - - - - d'une puissance de 5 CV ou moins :,,
+,,,91,,- - - - Ã  moteur Ã  explosion ou Ã  combustion interne : - - - - - d'une cylindrÃ©e de 1000 cm3 ou moins : - - - - - - d'une puissance de 5 CV ou moins :,,
+6,,,,20,- - - - - neufs,U,NOMBRE
+6,,,,80,- - - - - usagÃ©s,U,NOMBRE
+,,,99,,- - - - Ã  moteur autre :,,
+7,,,,10,- - - - - neufsÂ£- - - - - usagÃ©s :,U,NOMBRE
+7,,,,90,- - - - - usagÃ©s,U,NOMBRE
+,,8701.20,,,- Tracteurs routiers pour semi-remorquesÂ£- - - Ã  moteur Ã  explosion ou Ã  combustion interne :,,
+,,,90,,"- - - """"""autres:â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne""""""",,
+,,,99,,- - - - autres :,,
+,,8701.21,,,- - Uniquement Ã  moteur Ã  piston Ã  allumage par compression (diesel ou semi- diesel),,
+6,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre Â£â€“ â€“ â€“ autres:",U,NOMBRE
+7,,,91,00,- - - - neufs,U,NOMBRE
+7,,,99,00,- - - - usagÃ©s,U,NOMBRE
+,,8701.22,,,"EquipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par compression (diesel ou semi-diesel) et d'un moteur Ã©lectrique",,
+6,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre Â£â€“ â€“ â€“ autres:",U,NOMBRE
+7,,,91,00,- - - - neufs,U,NOMBRE
+7,,,99,00,- - - - usagÃ©s,U,NOMBRE
+,,8701.23,,,"- - EquipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique",,
+6,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre Â£â€“ â€“ â€“ autres:",U,NOMBRE
+7,,,91,00,- - - - neufs,U,NOMBRE
+7,,,99,00,- - - - usagÃ©s,U,NOMBRE
+,,8701.24,,,- - Uniquement Ã  moteur Ã©lectrique pour la propulsion,,
+6,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre Â£â€“ â€“ â€“ autres:",U,NOMBRE
+7,,,91,00,- - - - neufs,U,NOMBRE
+7,,,99,00,- - - - usagÃ©s,U,NOMBRE
+,,8701.29,,,- - Autres,,
+6,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre Â£â€“ â€“ â€“ autres: Â£â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :",U,NOMBRE
+7,,,21,00,- - - - - neufs,U,NOMBRE
+7,,,29,00,- - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,91,00,- - - - - neufs,U,NOMBRE
+7,,,99,00,- - - - - usagÃ©s,U,NOMBRE
+,,8701.30,,,- Tracteurs Ã  chenillesÂ£- - - Ã  moteur Ã  explosion ou Ã  combustion interne :,,
+,,,11,,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,11,,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,11,,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,11,,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+6,,,,10,- - - - - pour l'agriculture,U,NOMBRE
+7,,,,90,- - - - - autres,U,NOMBRE
+,,,19,,- - - - autres :Â£- - - - - pour l'agriculture :,,
+6,,,,11,- - - - - - neufsÂ£- - - - - - usagÃ©s :,U,NOMBRE
+6,,,,19,- - - - - - usagÃ©s,U,NOMBRE
+7,,,,91,- - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - usagÃ©sÂ£- - - Ã  moteur autre :,U,NOMBRE
+6,,,91,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre",U,NOMBRE
+6,,,91,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre",U,NOMBRE
+6,,,91,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre",U,NOMBRE
+6,,,91,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre",U,NOMBRE
+,,,99,,- - - - autres :,,
+7,,,,10,- - - - - neufsÂ£- - - - - usagÃ©s :,U,NOMBRE
+7,,,,90,"- - - - - usagÃ©sâ€“ Autres, d'une puissance de moteur:",U,NOMBRE
+,,8701.90,,,"- Autres - - - Ã  moteur Ã  explosion ou Ã  combustion interne : - - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s p",,
+,,8701.90,,,"- Autres - - - Ã  moteur Ã  explosion ou Ã  combustion interne : - - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s p",,
+,,8701.90,,,"- Autres Â£- - - Ã  moteur Ã  explosion ou Ã  combustion interne : Â£- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,8701.90,,,"- Autres Â£- - - Ã  moteur Ã  explosion ou Ã  combustion interne : Â£- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:Â£- - - - - - Ã  moteur Ã  explosion :,,
+,,,30,,- - - - - tracteurs agricoles Ã  roues :Â£- - - - - - Ã  moteur Ã  explosion :Â£- - - - - - - d'une puissance de 34 CV ou moins :,,
+,,,41,,- - - - - - tracteurs-treuils :,,
+,,,42,,"- - - - - - routiers, y compris les tracteurs-porteurs :",,
+,,,49,,- - - - - - autres :,,
+,,,99,,- - - - autres :Â£- - - - - tracteurs agricoles Ã  roues :,,
+,,8701.91,,,"- - """"""N'excÃ©dant pas 18 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:,,
+6,,,,10,- - - - - - - Ã  moteur Ã  explosion,U,NOMBRE
+6,,,,20,- - - - - - - Ã  moteur Ã  combustion interne,U,NOMBRE
+,,,20,,- - - - - autres tracteurs :,,
+6,,,,10,- - - - - - tracteurs-treuils,U,NOMBRE
+7,,,,90,- - - - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+,,,30,,"- - - - - """"""tracteurs agricoles Ã  roues :â€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :""""""",,
+6,,,,11,- - - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  combustion interne:,U,NOMBRE
+6,,,,91,- - - - - - - - neufs,U,NOMBRE
+6,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,40,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ â€“ tracteurs-treuils :""""""",,
+6,,,,11,- - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©sâ€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,50,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitreâ€“ â€“ â€“ â€“ autres :",U,NOMBRE
+,,,60,,- - - - - tracteurs agricoles Ã  roues :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,8701.92,,,- - Migration NGP inexistants,,
+,,8701.92,,,- - Migration NGP inexistants,,
+,,8701.92,,,"- - """"""ExcÃ©dant 18 kW mais n'excÃ©cant pas 37 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentai",,
+,,8701.92,,,"- - """"""ExcÃ©dant 18 kW mais n'excÃ©cant pas 37 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentai",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:,,
+6,,,,10,- - - - - - - Ã  moteur Ã  explosion,U,NOMBRE
+6,,,,20,- - - - - - - Ã  moteur Ã  combustion interne,U,NOMBRE
+,,,20,,- - - - - autres tracteurs :,,
+6,,,,10,- - - - - - tracteurs-treuils,U,NOMBRE
+7,,,,90,- - - - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+,,,30,,"- - - - - """"""tracteurs agricoles Ã  roues :â€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :""""""",,
+6,,,,11,- - - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  combustion interne:,U,NOMBRE
+6,,,,91,- - - - - - - neufs,U,NOMBRE
+6,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,40,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ â€“ tracteurs-treuils :""""""",,
+6,,,,11,- - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©sâ€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,50,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitreâ€“ â€“ â€“ â€“ autres :",U,NOMBRE
+,,,60,,- - - - - tracteurs agricoles Ã  roues :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,8701.93,,,"- - """"""ExcÃ©dant 37 kW mais n'excÃ©cant pas 75 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentai",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:,,
+6,,,,10,- - - - - - - Ã  moteur Ã  explosion,U,NOMBRE
+6,,,,20,- - - - - - - Ã  moteur Ã  combustion interne,U,NOMBRE
+,,,20,,- - - - - autres tracteurs :,,
+6,,,,10,- - - - - - tracteurs-treuils,U,NOMBRE
+7,,,,90,- - - - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+,,,30,,"- - - - - """"""tracteurs agricoles Ã  roues :â€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :""""""",,
+6,,,,11,- - - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  combustion interne:,U,NOMBRE
+6,,,,91,- - - - - - - - neufs,U,NOMBRE
+6,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,40,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ â€“ tracteurs-treuils :""""""",,
+6,,,,11,- - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©sâ€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,50,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitreâ€“ â€“ â€“ â€“ autres :",U,NOMBRE
+,,,60,,- - - - - tracteurs agricoles Ã  roues :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,8701.94,,,"- - """"""ExcÃ©dant 75 kW mais n'excÃ©dant pas 130 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©menta",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:,,
+6,,,,10,- - - - - - - Ã  moteur Ã  explosion,U,NOMBRE
+6,,,,20,- - - - - - - Ã  moteur Ã  combustion interne,U,NOMBRE
+,,,20,,- - - - - autres tracteurs :,,
+7,,,,10,- - - - - - - tracteurs-treuils,U,NOMBRE
+7,,,,90,- - - - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+,,,30,,"- - - - - """"""tracteurs agricoles Ã  roues :â€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :""""""",,
+6,,,,11,- - - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  combustion interne:,U,NOMBRE
+6,,,,91,- - - - - - - - neufs,U,NOMBRE
+6,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,40,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ â€“ routiers, y compris les tracteurs porteurs:""""""",,
+7,,,,11,- - - - - - - neufs,U,NOMBRE
+7,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©sâ€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,50,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitreâ€“ â€“ â€“ â€“ autres :",U,NOMBRE
+,,,60,,- - - - - tracteurs agricoles Ã  roues :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,8701.95,,,"- - """"""ExcÃ©dant 130 kWâ€“ â€“ â€“ Ã  moteur Ã  explosion ou Ã  combustion interne :â€“ â€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapi",,
+,,,10,,- - - - - tracteurs agricoles Ã  roues:,,
+6,,,,10,- - - - - - - Ã  moteur Ã  explosion,U,NOMBRE
+6,,,,20,- - - - - - - Ã  moteur Ã  combustion interne,U,NOMBRE
+,,,20,,- - - - - autres tracteurs :,,
+7,,,,10,- - - - - - - tracteurs-treuils,U,NOMBRE
+7,,,,90,- - - - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+,,,30,,"- - - - - """"""tracteurs agricoles Ã  roues :â€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  explosion :""""""",,
+6,,,,11,- - - - - - - - neufs,U,NOMBRE
+6,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ Ã  moteur Ã  combustion interne:,U,NOMBRE
+6,,,,91,- - - - - - - - neufs,U,NOMBRE
+6,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,40,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ â€“ routiers, y compris les tracteurs porteurs:""""""",,
+7,,,,11,- - - - - - - neufs,U,NOMBRE
+7,,,,19,- - - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©sâ€“ â€“ â€“ Ã  moteur autre :,U,NOMBRE
+7,,,50,00,"- - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitreâ€“ â€“ â€“ â€“ autres :",U,NOMBRE
+,,,60,,- - - - - tracteurs agricoles Ã  roues :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,87.02,,,,"VÃ©hicules automobiles pour le transport de dix personnes ou plus, chauffeur inclus.",,
+,,8702.10,,,- Uniquement Ã  moteur Ã  piston Ã  allumage par compression(diesel ou semi- diesel),,
+,,8702.10,,,- Uniquement Ã  moteur Ã  piston Ã  allumage par compression(diesel ou semi- diesel),,
+,,8702.10,,,- A moteur Ã  piston Ã  allumage par compression (diesel ou semi- diesel),,
+,,8702.10,,,- A moteur Ã  piston Ã  allumage par compression (diesel ou semi- diesel),,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,20,,"- - - """"""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - autocars et autobus,U,NOMBRE
+7,,,,19,- - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - autocars et autobus,U,NOMBRE
+7,,,,99,- - - - - autresâ€“ â€“ â€“ autres :,U,NOMBRE
+,,,91,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,,92,,- - - - autocars de tourisme :,,
+,,,93,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, Ã©quipÃ©s de Â£leur moteur",U,NOMBRE
+,,,95,,- - - - autocars de tourisme :,,
+7,,,,10,- - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - usagÃ©s,U,NOMBRE
+,,,97,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - - neufs,U,NOMBRE
+7,,,,19,- - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - usagÃ©s,U,NOMBRE
+,,,99,,- - - - autres :Â£- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :,,
+,,8702.20,,,"- - """"""EquipÃ©s Ã  la fois, pour la propulstion, d'un moteur Ã  piston Ã allumage par compression (diesel ou semi- diesel) et d'unmoteur Ã©lectrique""""""",,
+,,,10,,"- - - """"""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - autocars et autobus,U,NOMBRE
+7,,,,19,- - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - autocars et autobus,U,NOMBRE
+7,,,,99,- - - - - autresâ€“ â€“ â€“ autres :,U,NOMBRE
+,,,91,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, Ã©quipÃ©s de Â£leur moteur",U,NOMBRE
+,,,92,,- - - - autocars de tourisme :,,
+7,,,,10,- - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - usagÃ©s,U,NOMBRE
+,,,99,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - - neufs,U,NOMBRE
+7,,,,19,- - - - - - usagÃ©sâ€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - usagÃ©s,U,NOMBRE
+,,8702.30,,,"- ""EquipÃ©s Ã  la fois, pour la propulstion, d'un moteur Ã  pistonÃ  allumage par Ã©tincelles et d'un moteur Ã©lectrique""",,
+,,8702.30,,,"- ""EquipÃ©s Ã  la fois, pour la propulstion, d'un moteur Ã  pistonÃ  allumage par Ã©tincelles et d'un moteur Ã©lectrique""",,
+,,8702.30,,,"- """"""EquipÃ©s Ã  la fois, pour la propulstion, d'un moteur Ã  piston Ã allumage par compression (diesel ou semi- diesel) et d'unmoteur Ã©lectrique""""""",,
+,,8702.30,,,"- """"""EquipÃ©s Ã  la fois, pour la propulstion, d'un moteur Ã  piston Ã allumage par compression (diesel ou semi- diesel) et d'unmoteur Ã©lectrique""""""",,
+,,,10,,"- - - """"""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - autocars et autobus,U,NOMBRE
+7,,,,19,- - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - autocars et autobus,U,NOMBRE
+7,,,,99,- - - - - autresâ€“ â€“ â€“ autres :,U,NOMBRE
+,,,91,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, Ã©quipÃ©s de Â£leur moteur",U,NOMBRE
+,,,92,,- - - - autocars de tourisme :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+6,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,99,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,20,- - - - - neufs,U,NOMBRE
+7,,,,80,- - - - - usagÃ©s,U,NOMBRE
+7,,8702.40,00,00,- - - - Uniquement Ã  moteur Ã©lectrique pour la propulsion,U,NOMBRE
+,,8702.90,,,- Autres,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,15,,"- - - """"""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,11,- - - - - autocars et autobus,U,NOMBRE
+7,,,,19,- - - - - autresâ€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - autocars et autobus,U,NOMBRE
+7,,,,99,- - - - - autresâ€“ â€“ â€“ autres :,U,NOMBRE
+,,,21,,- - - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,,22,,- - - - - autocars de tourisme :,,
+,,,23,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, Ã©quipÃ©s de Â£leur moteur",U,NOMBRE
+,,,24,,- - - - autocars de tourisme :,,
+7,,,,10,- - - - - - neufs,U,NOMBRE
+6,,,,90,- - - - - - usagÃ©s,U,NOMBRE
+,,,28,,"- - - - - """"""autres :â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cmÂ³ :""""""",,
+7,,,,20,- - - - - - - neufs,U,NOMBRE
+7,,,,80,- - - - - - - usagÃ©s,U,NOMBRE
+,,,29,,- - - - - autres :Â£- - - - - - d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :,,
+7,,,80,00,- - - - - - autres,U,NOMBRE
+,87.03,,,,"Voitures de tourisme et autres vÃ©hicules automobiles principalement conÃ§us pour le transport de personnes (autres que ceux du nÂ°87.02), y compris les voitures du type â€œbreakâ€ et les voitures de course.",,
+,,8703.10,,,- VÃ©hicules spÃ©cialement conÃ§us pour se dÃ©placer sur la neige; vÃ©hicules spÃ©ciaux pour le transport de personnes sur les terrains de golf et vÃ©hicules similaires,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur Ã  explosion ou Ã  combustion interne :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur Ã  explosion ou Ã  combustion interne :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD,destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec mo",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD,destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec mo",,
+7,,,,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre",U,NOMBRE
+,,,20,,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, avec moteur Ã  explosion ou Ã  combustion interne :",,
+7,,,,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine, avec moteur Ã  Â£explosion ou Ã  combustion interne",U,NOMBRE
+7,,,71,00,- - - - - - vÃ©hicules neufs,U,NOMBRE
+7,,,79,00,- - - - - - vÃ©hicules usagÃ©s,U,NOMBRE
+7,,,90,00,"- - - - vÃ©hicules Ã  moteur Ã©lectrique ou autreÂ£- Autres vÃ©hicules, Ã  moteur Ã  piston alternatif Ã  allumage par Ã©tincelles :",U,NOMBRE
+,,8703.21,,,- - D'une cylindrÃ©e n'excÃ©dant pas 1000 cm3,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+7,,,,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,51,00,- - - - - - neufs,U,NOMBRE
+7,,,59,00,- - - - - usagÃ©sÂ£- - - - vÃ©hicules de carting visÃ©s Ã  la note complÃ©mentaire nÂ° 5 du prÃ©sent chapitre :,U,NOMBRE
+7,,,71,00,- - - - - neufs,U,NOMBRE
+7,,,79,00,- - - - - usagÃ©s,U,NOMBRE
+7,,,82,00,- - - - - vÃ©hicules neufs,U,NOMBRE
+7,,,88,00,- - - - - vÃ©hicules usagÃ©s,U,NOMBRE
+,,8703.22,,,- - - - - - D'une cylindrÃ©e excÃ©dant 1000 cm3 mais n'excÃ©dant pas 1500 cm3,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+7,,,,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains,Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,82,00,- - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,84,00,- - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,86,00,- - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+,,8703.23,,,- - - - D'une cylindrÃ©e excÃ©dant 1500 cm3 mais n'excÃ©dant pas 3000 cm3,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - voitures particuliÃ¨res (de tourisme, de place et de sport) :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - voitures particuliÃ¨res (de tourisme, de place et de sport) :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - voitur",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - voitur",,
+7,,,,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,42,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,44,00,- - - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,46,00,- - - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+7,,,52,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,54,00,- - - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,56,00,- - - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+7,,,82,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,84,00,- - - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,86,00,- - - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+,,8703.24,,,- - D'une cylindrÃ©e excÃ©dant 3000 cm3,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+7,,,,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion Â£des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire n 1 du prÃ©sent Chapitre",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,82,00,- - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,84,00,- - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,86,00,- - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+,,8703.31,,,- - D'une cylindrÃ©e n'excÃ©dant pas 1500 cm3,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - voitures particuliÃ¨res (de tourisme, de place et de sport) :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - voitures particuliÃ¨res (de tourisme, de place et de sport) :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - voitur",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - voitur",,
+7,,,,11,- - - - - - - - avec moteur d'une cylindrÃ©e infÃ©rieure ou Ã©gale Ã  1000 cm3,U,NOMBRE
+7,,,,19,- - - - - autres,U,NOMBRE
+7,,,,90,"- - - - - voitures tous terrains, Ã  quatre roues motrices (avec boÃ®te de transfert)Â£- - - autres :",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,91,00,- - - - - vÃ©hicules neufs,U,NOMBRE
+7,,,99,00,- - - - - vÃ©hicules usagÃ©s,U,NOMBRE
+,,8703.32,,,- - - - - D'une cylindrÃ©e excÃ©dant 1500 cm3 mais n'excÃ©dant pas 2500 cm3,,
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre - - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre - - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autres :",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,42,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+7,,,45,00,- - - - - - autres vÃ©hicules neufs,U,NOMBRE
+7,,,47,00,- - - - - - autres vÃ©hicules usagÃ©s,U,NOMBRE
+7,,,52,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+,,,53,,- - - - - - autres vÃ©hicules neufs :,,
+7,,,,10,- - - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - - autres,U,NOMBRE
+,,,58,,- - - - - - autres vÃ©hicules usagÃ©s :,,
+7,,,,10,- - - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - - autres,U,NOMBRE
+7,,,82,00,- - - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+,,,83,,- - - - - - autres vÃ©hicules neufs :,,
+7,,,,10,- - - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - - autres,U,NOMBRE
+,,,88,,- - - - - - autres vÃ©hicules usagÃ©s :,,
+7,,,,10,- - - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - - autres,U,NOMBRE
+,,8703.33,,,- - D'une cylindrÃ©e excÃ©dant 2500 cm3,,
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre - - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre - - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autres :",U,NOMBRE
+7,,,10,00,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autres :",U,NOMBRE
+7,,,20,00,"- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabineÂ£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",U,NOMBRE
+7,,,82,00,- - - - - ambulances Ã©quipÃ©es,U,NOMBRE
+,,,83,,- - - - - autres vÃ©hicules neufs :,,
+7,,,,10,- - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - autres,U,NOMBRE
+,,,88,,- - - - - autres vÃ©hicules usagÃ©s :,,
+7,,,,10,- - - - - - caravanes automotrices,U,NOMBRE
+7,,,,80,- - - - - - autres,U,NOMBRE
+,,8703.40,,,"- â€“ Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique, autres que ceux pouvant Ãªtre chargÃ©s en se branchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,8703.40,,,"- â€“ Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique, autres que ceux pouvant Ãªtre chargÃ©s en se branchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,8703.40,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur Ã  piston alternatif Ã  allumage par Ã©tincelles et d'unmoteur Ã©lectrique, autres que ceux pouvant Ãªtre chargÃ©s en sebranchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,8703.40,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur Ã  piston alternatif Ã  allumage par Ã©tincelles et d'unmoteur Ã©lectrique, autres que ceux pouvant Ãªtre chargÃ©s en sebranchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,,10,,- - - vÃ©hicules mentionnÃ©s Ã  la Note complÃ©mentaire nÂ° 6 du prÃ©sent chapitre :,,
+7,,,,10,- - - d'une cylindrÃ©e n'excÃ©dant pas 1.000 cmÂ³,U,NOMBRE
+7,,,,20,- - - d'une cylindrÃ©e excÃ©dant 1.000 cmÂ³ mais n'excÃ©dant pas 1.500cmÂ³,U,NOMBRE
+7,,,,30,- - - d'une cylindrÃ©e excÃ©dant 1.500 cmÂ³ mais n'excÃ©dant pas 3.000cmÂ³,U,NOMBRE
+7,,,,90,- - - d'une cylindrÃ©e excÃ©dant 3.000cmÂ³,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8703.50,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur piston Ã  allumage par compression (diesel ou semidiesel)et d'un moteur Ã©lectrique, autres que ceux pouvant ÃªtrechargÃ©s en se branchant Ã  une source externe d'alimentationÃ©l",,
+,,,10,,- - - vÃ©hicules mentionnÃ©s Ã  la Note complÃ©mentaire nÂ° 6 du prÃ©sent chapitre :,,
+7,,,,10,- - - d'une cylindrÃ©e n'excÃ©dant pas 1.500 cmÂ³,U,NOMBRE
+7,,,,20,- - - d'une cylindrÃ©e excÃ©dant 1.500 cmÂ³ mais n'excÃ©dant pas 2.500cmÂ³,U,NOMBRE
+7,,,,90,- - - d'une cylindrÃ©e excÃ©dant 2.500 cmÂ³,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8703.60,,,"- Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique, pouvant Ãªtre chargÃ©s en se branchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,8703.60,,,"- Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique, pouvant Ãªtre chargÃ©s en se branchant Ã  une source externe d'alimentation Ã©lectrique",,
+,,8703.60,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur Ã  piston alternatif Ã  allumage par Ã©tincelles et d'unmoteur Ã©lectrique, pouvant Ãªtre chargÃ©s en se branchant Ã  unesource externe d'alimentation Ã©lectrique""""""",,
+,,8703.60,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur Ã  piston alternatif Ã  allumage par Ã©tincelles et d'unmoteur Ã©lectrique, pouvant Ãªtre chargÃ©s en se branchant Ã  unesource externe d'alimentation Ã©lectrique""""""",,
+,,,10,,- - - vÃ©hicules mentionnÃ©s Ã  la Note complÃ©mentaire nÂ° 6 du prÃ©sent chapitre :,,
+7,,,,10,- - - d'une cylindrÃ©e n'excÃ©dant pas 1.000 cmÂ³,U,NOMBRE
+7,,,,20,- - - d'une cylindrÃ©e excÃ©dant 1.000 cmÂ³ mais n'excÃ©dant pas 1.500cmÂ³,U,NOMBRE
+7,,,,30,- - - d'une cylindrÃ©e excÃ©dant 1.500 cmÂ³ mais n'excÃ©dant pas 3.000cmÂ³,U,NOMBRE
+7,,,,90,- - - d'une cylindrÃ©e excÃ©dant 3.000cmÂ³,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8703.70,,,"- """"""Autres vÃ©hicules, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'unmoteur Ã  piston Ã  allumage par compression (diesel ou semidiesel)et d'un moteur Ã©lectrique, pouvant Ãªtre chargÃ©s en sebranchant Ã  une source externe d'alimentation Ã©lectrique""""""",,
+,,,10,,- - - vÃ©hicules mentionnÃ©s Ã  la Note complÃ©mentaire nÂ° 6 du prÃ©sent chapitre :,,
+7,,,,10,- - - d'une cylindrÃ©e n'excÃ©dant pas 1.500 cmÂ³,U,NOMBRE
+7,,,,20,- - - d'une cylindrÃ©e excÃ©dant 1.500 cmÂ³ mais n'excÃ©dant pas 2.500cmÂ³,U,NOMBRE
+7,,,,90,- - - d'une cylindrÃ©e excÃ©dant 2.500 cmÂ³,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+7,,8703.80,00,00,"- - - Autres vÃ©hicules, Ã©quipÃ©s uniquement d'un moteur Ã©lectriquepour la propulsion",U,NOMBRE
+,,8703.90,,,- Autres,,
+7,,,20,00,- - - autres vÃ©hicules mentionnÃ©s Ã  la Note complÃ©mentaire nÂ° 6 du prÃ©sent chapitre,U,NOMBRE
+,,,30,,"- - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es :",,
+,,,80,,- - - autres:,,
+7,,,,10,- - - - neuves,U,NOMBRE
+7,,,,90,- - - - usagÃ©es,U,NOMBRE
+,,,90,,"- - - autres :Â£- - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨re- ment carrossÃ©es :",,
+,87.04,,,,VÃ©hicules automobiles pour le transport de marchandises,,
+,,8704.10,,,- Tombereaux automoteurs conÃ§us pour Ãªtre utilisÃ©s en dehors du rÃ©seau routier,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, avec moteur Ã  explosion ou Ã  combustion interne Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, avec moteur Ã  explosion ou Ã  combustion interne Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement, avec moteur Ã  explosion ou Ã  combustion interne Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement, avec moteur Ã  explosion ou Ã  combustion interne Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©m",,
+7,,,,10,- - - - d'une cylindrÃ©e infÃ©rieure Ã  3000 cm3,U,NOMBRE
+7,,,,90,- - - - autresÂ£- - - autres :,U,NOMBRE
+,,,20,,"- - - - d'une charge utile infÃ©rieure ou Ã©gale Ã  cinq (5) tonnes, avec moteur Ã  explosion ou Ã  combustion interne :",,
+7,,,,10,- - - - - d'une cylindrÃ©e infÃ©rieure Ã  3000 cm3,U,NOMBRE
+7,,,,90,"- - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3000 cm3Â£- - - - d'une charge utile supÃ©rieure Ã  cinq (5) tonnes, avec moteur Ã  explosion ou Ã  combustion interne :",U,NOMBRE
+7,,,30,00,"- - - - - d'une cylindrÃ©e infÃ©rieure Ã  3000 cm3Â£- - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 :Â£- - - - - - d'une charge utile supÃ©rieure Ã  quinze (15) tonnes, destinÃ©s aux mines et aux grandes carriÃ¨res :",U,NOMBRE
+7,,,41,00,- - - - - - - neufs,U,NOMBRE
+7,,,49,00,- - - - - - - usagÃ©s,U,NOMBRE
+,,,50,,- - - - - - autres :,,
+7,,,,10,- - - - - - - neufs,U,NOMBRE
+7,,,,90,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,80,00,"- - - - vÃ©hicules Ã  moteur Ã©lÃ©ctrique ou autreÂ£- Autres, Ã  moteur Ã  piston Ã  allumage par compression (diesel ou semi-diesel) :",U,NOMBRE
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la not",,
+,,8704.21,,,"- - ""D'un poids en charge maximal n'excÃ©dant pas 5 tonnesâ€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes Â£- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une",,
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes Â£- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une",,
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes Â£- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une",,
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la not",,
+,,8704.21,,,"- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes - - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la not",,
+,,8704.21,,,"- - ""D'un poids en charge maximal n'excÃ©dant pas 5 tonnesâ€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+,,8704.21,,,"- - ""D'un poids en charge maximal n'excÃ©dant pas 5 tonnesâ€“ â€“ â€“ importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+,,,11,,- - - - - d'un poids en charge maximal n'excÃ©dant pas 3 tonnes :,,
+,,,19,,- - - - - d'un poids en charge maximal excÃ©dant 3 tonnes mais n'excÃ©dant pas 5 tonnes :,,
+7,,,21,00,- - - - camions-citernes,U,NOMBRE
+7,,,29,00,- - - - autres,U,NOMBRE
+,,,30,,- - - - autres :,,
+7,,,92,00,- - - - vÃ©hicules blindÃ©s de transport de fonds,U,NOMBRE
+,,,98,,"- - - - ""autres :â€“ â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,"- - - - - - autres Â£â€“ â€“ â€“ â€“ â€“ voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es : Â£â€“ â€“ â€“ â€“ â€“ â€“ d'un poi",U,NOMBRE
+7,,,,22,- - - - - - - neuves,U,- - - - -
+7,,,,24,- - - - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+7,,,,26,- - - - - - - neuves,U,- - - - -
+7,,,,28,- - - - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,- - - - -
+7,,,,31,- - - - - - - - neufs,U,NOMBRE
+7,,,,39,- - - - - - - - usagÃ©s,U,NOMBRE
+7,,,,40,"- - - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur",U,NOMBRE
+7,,,,52,"- - - - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,54,- - - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,56,- - - - - - - - - neufs,U,NOMBRE
+7,,,,58,- - - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ avec moteur d'un cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,71,- - - - - - - - neufs,U,NOMBRE
+7,,,,79,- - - - - - - - usagÃ©s,U,NOMBRE
+7,,,,80,"- - - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal",U,NOMBRE
+7,,,,92,"- - - - - - - - neufs, mÃªme tout terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,94,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,96,- - - - - - - - neufs,U,NOMBRE
+7,,,,98,- - - - - - - - usagÃ©s,U,NOMBRE
+,,,99,,- - - - autres :Â£- - - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,8704.22,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes mais n'excÃ©dant pas 20 tonnes,,
+,,8704.22,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes mais n'excÃ©dant pas 20 tonnes,,
+,,8704.22,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes mais n'excÃ©dant pas 20 tonnes,,
+,,8704.22,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes mais n'excÃ©dant pas 20 tonnes,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,30,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,10,- - - - camions-citernes,U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+7,,,40,00,- - - camions porte-voitures Â£â€“ â€“ â€“ autres :,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,92,00,- - - - vÃ©hicules blindÃ©s de transport de fonds,U,NOMBRE
+,,,98,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,,99,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,8704.23,,,- - D'un poids en charge maximal excÃ©dant 20 tonnes,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre :",,
+,,,30,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,10,- - - - camions-citernes,U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+7,,,40,00,- - - Ã©quipÃ©s d'une citerne en aluminium d'une capacitÃ© supÃ©rieure ou Ã©gale Â£Ã  15m3,U,NOMBRE
+,,,80,,- - - autres :,,
+,,,90,,- - - autres :,,
+7,,,,10,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions spÃ©cialement conÃ§us pour le transport des produits Ã  forte Â£radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,"- - - - - - - usagÃ©s Â£â€“ Autres, uniquement Ã  moteur Ã  piston Ã  allumage par Ã©tincelles :",U,NOMBRE
+,,8704.31,,,- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,20,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,10,- - - - camions-citernes,U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+,,,80,,"- - - ""autres :â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,"- - - - - autres Â£â€“ â€“ â€“ â€“ voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert) d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es :",U,NOMBRE
+7,,,,21,- - - - - neuves,U,NOMBRE
+7,,,,29,- - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,31,- - - - - - - neufs,U,NOMBRE
+7,,,,39,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,40,"- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal Ã",U,NOMBRE
+7,,,,52,"- - - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,54,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,56,- - - - - - - - neufs,U,NOMBRE
+7,,,,58,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'un cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,71,- - - - - - - neufs,U,NOMBRE
+7,,,,79,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,80,"- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal Ã",U,NOMBRE
+7,,,,92,"- - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,94,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,96,- - - - - - - - neufs,U,NOMBRE
+7,,,,98,- - - - - - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,8704.32,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes,,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, destinÃ©s aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : - - - - avec m",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,10,,"- - - importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments CKD, Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre : Â£- - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 :",,
+,,,20,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,10,- - - - camions-citernes,U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+,,,80,,"- - - ""autres:â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions spÃ©cialement conÃ§us pour le transport des produits Ã  forte Â£radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,"- - - - - - - usagÃ©s Â£â€“ Autres, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par compression (diesel ou semi-diesel) et d'un moteur Ã©lectrique:",U,NOMBRE
+,,,90,,- - - autres :Â£- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+,,8704.41,,,- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes,,
+,,,10,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D, Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,11,- - - - camions-citernes,U,NOMBRE
+7,,,,19,- - - - autres,U,NOMBRE
+7,,,91,00,- - - - vÃ©hicules blindÃ©s de transport de fonds,U,NOMBRE
+,,,99,,"- - - - ""autres :â€“ â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,"- - - - - - autres Â£â€“ â€“ â€“ â€“ â€“ voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es : Â£â€“ â€“ â€“ â€“ â€“ â€“ d'un poi",U,NOMBRE
+7,,,,21,- - - - - - - neuves,U,- - - - -
+7,,,,23,- - - - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+7,,,,27,- - - - - - - neuves,U,- - - - -
+7,,,,29,- - - - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,- - - - -
+7,,,,31,- - - - - - - - neufs,U,NOMBRE
+7,,,,39,- - - - - - - - usagÃ©s,U,NOMBRE
+7,,,,40,"- - - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur",U,NOMBRE
+7,,,,51,"- - - - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,53,- - - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,57,- - - - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ avec moteur d'un cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,71,- - - - - - - - neufs,U,NOMBRE
+7,,,,79,- - - - - - - - usagÃ©s,U,NOMBRE
+7,,,,80,"- - - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal",U,NOMBRE
+7,,,,91,"- - - - - - - - neufs, mÃªme tout terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,93,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,97,- - - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - - usagÃ©s,U,NOMBRE
+,,8704.42,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes mais n'excÃ©dant pas 20 tonnes,,
+,,,10,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,11,- - - - camions-citernes,U,NOMBRE
+7,,,,19,- - - - autres,U,NOMBRE
+7,,,20,00,- - - camions porte-voitures Â£â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,91,00,- - - - vÃ©hicules blindÃ©s de transport de fonds,U,NOMBRE
+,,,99,,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :,,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+,,8704.43,,,- - D'un poids en charge maximal excÃ©dant 20 tonnes,,
+,,,10,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,10,- - - - camions-citernes,U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+7,,,20,00,- - - Ã©quipÃ©s d'une citerne en aluminium d'une capacitÃ© supÃ©rieure ou Ã©gale Â£Ã  15m3,U,NOMBRE
+,,,90,,- - - autres :,,
+7,,,,10,- - - - chÃ¢ssis de vÃ©hicules automobiles comportant une cabine Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions spÃ©cialement conÃ§us pour le transport des produits Ã  forte Â£radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,"- - - - - - - usagÃ©s Â£â€“ Autres, Ã©quipÃ©s Ã  la fois, pour la propulsion, d'un moteur Ã  piston Ã  allumage par Ã©tincelles et d'un moteur Ã©lectrique :",U,NOMBRE
+,,8704.51,,,- - D'un poids en charge maximal n'excÃ©dant pas 5 tonnes,,
+,,,10,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,11,- - - - camions-citernes,U,NOMBRE
+7,,,,19,- - - - autres,U,NOMBRE
+,,,90,,"- - - ""autres :â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,"- - - - - autres Â£â€“ â€“ â€“ â€“ voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert) d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es :",U,NOMBRE
+7,,,,21,- - - - - neuves,U,NOMBRE
+7,,,,29,- - - - - usagÃ©es Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,31,- - - - - - - neufs,U,NOMBRE
+7,,,,39,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,40,"- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal Ã",U,NOMBRE
+7,,,,51,"- - - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,53,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,57,- - - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'un cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,71,- - - - - - - neufs,U,NOMBRE
+7,,,,79,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,80,"- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ d'un poids en charge maximal supÃ©rieur Ã  2,2 tonnes et infÃ©rieur ou Ã©gal Ã",U,NOMBRE
+7,,,,91,"- - - - - - - neufs, mÃªme tous terrains, Ã  quatre roues motrices ou non Â£entiÃ¨rement carrossÃ©s",U,NOMBRE
+7,,,,93,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,97,- - - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - - usagÃ©s,U,NOMBRE
+,,8704.52,,,- - D'un poids en charge maximal excÃ©dant 5 tonnes,,
+,,,10,,"- - - ""importÃ©s Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D., Ã  l'exclusiondes Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent Chapitre :""",,
+7,,,,11,- - - - camions-citernes,U,NOMBRE
+7,,,,19,- - - - autres,U,NOMBRE
+,,,90,,"- - - ""autres:â€“ â€“ â€“ â€“ chÃ¢ssis de vÃ©hicules automobiles comportant une cabine :""",,
+7,,,,11,- - - - - avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3,U,NOMBRE
+7,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e infÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,21,- - - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,30,- - - - - - camions automobiles spÃ©cialement conÃ§us pour le transport des Â£produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,41,- - - - - - - neufs,U,NOMBRE
+7,,,,49,- - - - - - - usagÃ©s Â£â€“ â€“ â€“ â€“ â€“ avec moteur d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  3.000 cm3 : Â£â€“ â€“ â€“ â€“ â€“ â€“ camions-citernes :,U,NOMBRE
+7,,,,51,- - - - - - - neufs,U,NOMBRE
+7,,,,59,- - - - - - - usagÃ©s,U,NOMBRE
+7,,,,60,- - - - - - camions spÃ©cialement conÃ§us pour le transport des produits Ã  forte Â£radio-activitÃ© Â£â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+7,,,,91,- - - - - - - neufs,U,NOMBRE
+7,,,,99,- - - - - - - usagÃ©s,U,NOMBRE
+7,,8704.60,00,00,"- - Autres, uniquement Ã  moteur Ã©lectrique pour la propulsion",U,NOMBRE
+,,8704.90,,,- Autres,,
+7,,,10,00,"- - - voitures tous terrains, Ã  quatre roues motrices (avec boÃ®te de transfert), importÃ©es Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D. Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autre",U,NOMBRE
+7,,,10,00,"- - - voitures tous terrains, Ã  quatre roues motrices (avec boÃ®te de transfert), importÃ©es Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D. Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre Â£- - - autre",U,NOMBRE
+7,,,10,00,"- - - voitures tous terrains, Ã  quatre roues motrices (avec boÃ®te de transfert), importÃ©es Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D. destinÃ©es aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©men",U,NOMBRE
+7,,,10,00,"- - - voitures tous terrains, Ã  quatre roues motrices (avec boÃ®te de transfert), importÃ©es Ã  l'Ã©tat dÃ©montÃ©, sous la forme d'Ã©lÃ©ments C.K.D. destinÃ©es aux chaÃ®nes de montage agrÃ©Ã©es Ã  cette fin par le gouvernement Ã  l'exclusion des Ã©lÃ©men",U,NOMBRE
+,,,90,,- - - autres:,,
+7,,,,10,- - - - neufs,U,NOMBRE
+7,,,,90,- - - - usagÃ©s,U,NOMBRE
+,,,99,,"- - - - autres :Â£- - - - - voitures tous terrains, Ã  4 roues motrices (avec boÃ®te de transfert), d'une charge utile Ã©gale ou supÃ©rieure Ã  500 kg et infÃ©rieure Ã  900 kg, non entiÃ¨rement carrossÃ©es :",,
+,87.05,,,,"- - - - - - VÃ©hicules automobiles Ã  usages spÃ©ciaux, autres que ceux princi- palement conÃ§us pour le transport de personnes ou de marchandises (dÃ©panneuses, camions-grues, voitures de lutte contre l'incendie, camions-bÃ©tonniÃ¨res, voitures balayeuse",,
+,,8705.10,,,- Camions-grues,,
+,,,10,,- - - d'une capacitÃ© de levage supÃ©rieure Ã  10 tonnes :,,
+7,,,,10,- - - - neufs,U,NOMBRE
+7,,,,90,- - - - usagÃ©s,U,NOMBRE
+,,,90,,- - - - - autres :,,
+7,,,,10,- - - - neufs,U,NOMBRE
+7,,,,90,- - - - usagÃ©s,U,NOMBRE
+,,8705.20,00,,- Derricks automobiles pour le sondage ou le forage,,
+7,,,,10,- - - neufs,U,NOMBRE
+7,,,,90,- - - usagÃ©s,U,NOMBRE
+,,8705.30,00,,- Voitures de lutte contre l'incendie,,
+7,,,,10,- - - neuves,U,NOMBRE
+7,,,,90,- - - usagÃ©es,U,NOMBRE
+,,8705.40,00,,- Camions-bÃ©tonniÃ¨res,,
+7,,,,10,- - - neufs,U,NOMBRE
+7,,,,90,- - - usagÃ©s,U,NOMBRE
+,,8705.90,,,- Autres,,
+7,,,10,00,- - - cars vidÃ©o mobiles Ã©quipÃ©s destinÃ©s aux chaines de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,NOMBRE
+7,,,20,00,- - - - voitures-Ã©chelles avec Ã©chelles tÃ©lÃ©scopiques et pivotantes avec ou sans nacelle,U,NOMBRE
+,,,30,,- - - voitures balayeuses :,,
+7,,,,10,- - - - neuves,U,NOMBRE
+7,,,,90,- - - - usagÃ©esÂ£- - - autres :,U,NOMBRE
+,,,40,,- - - - ensemble automobile Ã©quipÃ© d'une cuve et d'une rampe de pulvÃ©risation :,,
+7,,,,10,- - - - - neuf,U,NOMBRE
+7,,,,90,- - - - - usagÃ©,U,NOMBRE
+7,,,92,00,- - - - - - - - ambulances Ã©quipÃ©es d'un bloc opÃ©ratoire ou de matÃ©riel respiratoire de rÃ©animation,U,NOMBRE
+,,,98,,- - - - autres :Â£- - - - - voitures dÃ©panneuses et voitures-grues :,,
+7,,,,11,- - - - - - neuves,U,NOMBRE
+7,,,,19,- - - - - - usagÃ©esÂ£- - - - - camions scanners :,U,NOMBRE
+7,,,,21,- - - - - - neufs,U,NOMBRE
+7,,,,29,- - - - - - usagÃ©sÂ£- - - - - autres :,U,NOMBRE
+7,,,,92,- - - - - - neufs,U,NOMBRE
+7,,,,98,- - - - - - usagÃ©s,U,NOMBRE
+,,8706.00,00,,"- - ChÃ¢ssis des vÃ©hicules automobiles des nÂ°s 8701 Ã  8705, Ã©quipÃ©s de leur moteur.Â£- - - chÃ¢ssis de tracteurs (autres que de motoculteurs) :",,
+7,,,,10,- - - chÃ¢ssis de tracteurs (autres que de motoculteurs)Â£â€“ â€“ â€“ chassis des voitures automobiles Ã  moteur Ã  explosion d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  2.800 cm3 ou avec moteur Ã  combustion interne d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã,U,- - - - -
+7,,,,21,"- - - - pour le transport des personnes, autres qu'en commun, y compris les voitures mixtes",U,- - - - -
+7,,,,29,"- - - - autresÂ£- - - autres :Â£- - - - pour le transport des personnes, autres qu'en commun, y compris les voitures mixtes :Â£- - - - - pour vÃ©hicules Ã  moteur Ã  explosion :",U,- - - - -
+7,,,,31,- - - - - - d'une cylindrÃ©e infÃ©rieure Ã  2800 cm3,U,- - - - -
+7,,,,39,- - - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  2800 cm3Â£- - - - - pour vÃ©hicules Ã  moteur Ã  combustion interne :,U,- - - - -
+7,,,,41,- - - - - - d'une cylindrÃ©e infÃ©rieure Ã  2500 cm3,U,- - - - -
+7,,,,49,- - - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  2500 cm3Â£- - - - autres :Â£- - - - - pour vÃ©hicules Ã  moteur Ã  explosion :,U,- - - - -
+7,,,,51,- - - - - - d'une cylindrÃ©e infÃ©rieure Ã  2800 cm3,U,- - - - -
+7,,,,59,- - - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  2800 cm3Â£- - - - - pour vÃ©hicules Ã  moteur Ã  combustion interne :,U,- - - - -
+7,,,,61,- - - - - - d'une cylindrÃ©e infÃ©rieure Ã  2500 cm3,U,- - - - -
+7,,,,69,- - - - - - d'une cylindrÃ©e Ã©gale ou supÃ©rieure Ã  2500 cm3,U,- - - - -
+7,,,,90,- - - - - autres,U,- - - - -
+,87.07,,,,"Carrosseries des vÃ©hicules automobiles des nÂ°s 8701 Ã  8705, y compris les cabines.",,
+7,,8707.10,00,00,- Des vÃ©hicules du nÂ° 87.03,U,NOMBRE
+,,8707.90,00,,"- Autresâ€“ â€“ â€“ des tracteurs Ã  essieu simple du nÂ° 87.01, des voitures automobiles pour le transport des personnes, y compris les voituresmixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã",,
+,,8707.90,00,,"- Autresâ€“ â€“ â€“ des tracteurs Ã  essieu simple du nÂ° 87.01, des voitures automobiles pour le transport des personnes, y compris les voituresmixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã",,
+,,8707.90,00,,"- Autresâ€“ â€“ â€“ des tracteurs Ã  essieu simple du nÂ° 87.01, des voitures automobiles pour le transport des personnes, y compris les voituresmixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã",,
+,,8707.90,00,,"- Autres - - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport",,
+,,8707.90,00,,"- Autres - - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport",,
+,,8707.90,00,,"- Autres - - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport",,
+,,8707.90,00,,"- Autres - - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosi",,
+,,8707.90,00,,"- Autres - - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosi",,
+,,8707.90,00,,"- Autres - - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosi",,
+8,,,,10,"- - - - pour le transport des personnes, y compris les voitures mixtesÂ£- - - - autres :",U,NOMBRE
+7,,,,21,- - - - - bennes tasseuses,U,NOMBRE
+7,,,,29,- - - - - autresÂ£- - - autres :,U,NOMBRE
+8,,,,30,"- - - - pour le transport des personnes, y compris les voitures mixtesÂ£- - - - autres :Â£- - - - - pour le transport des marchandises y compris les bennes basculantes :",U,NOMBRE
+7,,,,41,- - - - - - bennes basculantes,U,NOMBRE
+7,,,,49,- - - - - - autres,U,NOMBRE
+7,,,,50,- - - - - cabines,U,NOMBRE
+7,,,,90,- - - - - autres,U,NOMBRE
+,87.08,,,,Parties et accessoires des vÃ©hicules automobiles des nÂ°s 8701 Ã  87.05.,,
+8,,8708.10,00,00,- Pare-chocs et leurs partiesÂ£â€“ Autres parties et accessoires de carrosseries (y compris les cabines) :,KG,- - - - -
+8,,8708.21,00,00,- - Ceintures de sÃ©curitÃ©,KG,- - - - -
+8,,8708.22,00,00,"- - Pare-brises, vitres arriÃ¨res et autres glaces visÃ©s Ã  la Note 1 de sous-positions du prÃ©sent Chapitre",KG,- - - - -
+,,8708.29,,,- - Autres,,
+8,,,10,00,"- - - Ù€ Ù€ Ù€ destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport",KG,- - - - -
+8,,,10,00,"- - - Ù€ Ù€ Ù€ destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport",KG,- - - - -
+8,,,10,00,"- - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosion d'une",KG,- - - - -
+8,,,10,00,"- - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosion d'une",KG,- - - - -
+8,,,81,00,- - - - cÃ¢bles de capot gainÃ©s et munis de leurs piÃ¨ces de connexion,KG,- - - - -
+8,,,88,00,- - - - autres,KG,- - - - -
+8,,8708.30,10,00,- - - garnitures de freins montÃ©es,KG,- - - - -
+8,,8708.30,90,10,"- - - - des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transportdes personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosion d'une",KG,- - - - -
+8,,8708.30,90,91,- - - - - cÃ¢bles de freins gainÃ©s et munis de leurs piÃ¨ces de connexion,KG,- - - - -
+8,,8708.30,90,92,- - - - - tambours et disuqes de frein Ã  l'Ã©tat fini,KG,- - - - -
+8,,8708.30,90,99,- - - - autres,KG,- - - - -
+,,8708.31,,,- - Garnitures de freins montÃ©es,,
+,,8708.39,,,- - Autres,,
+8,,8708.40,00,10,- - - boÃ®tes de vitesse,KG,- - - - -
+8,,8708.40,00,10,- - - boÃ®tes de vitesse,KG,- - - - -
+8,,8708.40,00,10,"- - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 8701, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des march",KG,- - - - -
+8,,8708.40,00,10,"- - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 8701, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des march",KG,- - - - -
+8,,8708.40,00,90,- - - parties,KG,- - - - -
+8,,8708.50,00,10,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des march",KG,- - - - -
+8,,8708.50,00,10,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des march",KG,- - - - -
+8,,8708.50,00,10,"- - - ponts avec diffÃ©rentiels, mÃªme pourvus d'autres organes de transmission",KG,- - - - -
+8,,8708.50,00,10,"- - - ponts avec diffÃ©rentiels, mÃªme pourvus d'autres organes de transmission",KG,- - - - -
+8,,8708.50,00,20,- - - essieux porteurs% - - - parties :,KG,- - - - -
+8,,8708.50,00,91,"- - - - de ponts avec diffÃ©rentiel, mÃªme pourvus d'autres organes de transmission",KG,- - - - -
+8,,8708.50,00,91,"- - - - de ponts avec diffÃ©rentiel, mÃªme pourvus d'autres organes de transmission",KG,- - - - -
+8,,8708.50,00,91,- - - - complÃ¨ts,KG,- - - - -
+8,,8708.50,00,91,- - - - complÃ¨ts,KG,- - - - -
+8,,8708.50,00,99,- - - - d'essieux porteurs,KG,- - - - -
+8,,8708.50,00,99,- - - - d'essieux porteurs,KG,- - - - -
+8,,8708.50,00,99,- - - - autres,KG,- - - - -
+8,,8708.50,00,99,- - - - autres,KG,- - - - -
+8,,8708.70,00,10,"- - - - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des",KG,- - - - -
+8,,8708.70,00,10,"- - - - - destinÃ©es Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des",KG,- - - - -
+8,,8708.70,00,10,- - - - - d'un poids unitaire de 15 kg exclus Ã  70 kg inclus,KG,- - - - -
+8,,8708.70,00,10,- - - - - d'un poids unitaire de 15 kg exclus Ã  70 kg inclus,KG,- - - - -
+8,,8708.70,00,21,- - - - - - d'un poids unitaire n'excÃ©dant pas 3 kg,KG,- - - - -
+8,,8708.70,00,29,- - - - - - autres,KG,- - - - -
+8,,8708.70,00,30,- - - - des types utilisÃ©s pour autobus ou camions,KG,- - - - -
+8,,8708.70,00,41,- - - - - d'un poids unitaire de plus de 190 kg,KG,- - - - -
+8,,8708.70,00,49,- - - - - autres,KG,- - - - -
+8,,8708.70,00,90,- - - autres,KG,- - - - -
+8,,8708.70,00,90,- - - autres,KG,- - - - -
+8,,8708.70,00,90,- - - Migration NGP inexistants,KG,- - - - -
+8,,8708.70,00,90,- - - Migration NGP inexistants,KG,- - - - -
+,,8708.80,,,- Amortisseurs de suspension,,
+8,,,00,11,- - - - amortisseurs de suspension,KG,- - - - -
+8,,,00,19,- - - - autres%â€“ â€“ â€“ parties :%â€“ â€“ â€“ â€“ pour amortisseurs:,KG,- - - - -
+8,,,00,21,"- - - - - tiges, cylindres, corps et fonds de corps",KG,- - - - -
+8,,,00,29,- - - - - autres%â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ rotules de suspension pour vÃ©hicules automobiles:,KG,- - - - -
+8,,,00,32,- - - - - - corps et sphÃ¨res obtenus par forgeage en matrice,KG,- - - - -
+8,,,00,39,- - - - - - autres%â€“ â€“ â€“ â€“ â€“ moyeux et pivots de suspension:,KG,- - - - -
+8,,,00,41,- - - - - - Ã©bauches de fonderie de moyeux et pivots de suspension,KG,- - - - -
+8,,,00,49,- - - - - - autres,KG,- - - - -
+8,,,00,90,- - - - - autres,KG,- - - - -
+,,8708.91,,,"- - RadiateursÂ£- - - radiateurs Ã  eau et leurs Ã©lÃ©ments et parties (y compris les tubes de laiton quand ils sont rÃ©unis en faisceaux), destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01, des voitures automobiles pour le transport des",,
+,,,10,,- - - radiateurs Ã  eau et leurs parties (y compris les tubes en laiton quant ils sont rÃ©unis en faisceaux) :,NON PREVUE,
+8,,,,20,- - - - radiateurs Ã  eau prÃ©sentÃ©s Ã  l'Ã©tat complet,KG,- - - - -
+8,,,,80,- - - - autres,KG,- - - - -
+8,,,90,00,- - - autres radiateurs et leurs parties,KG,- - - - -
+,,,91,,- - - - radiateurs Ã  eau et leurs Ã©lÃ©ments et parties (y compris les tubes de laiton quand ils sont rÃ©unis en faisceaux) :,,
+8,,8708.92,10,00,- - - silencieux et tuyaux d'Ã©chappement,KG,- - - - -
+8,,8708.92,90,00,- - - parties,KG,- - - - -
+,,8708.93,,,- - Embrayages et leurs parties,,
+8,,,10,00,- - - disques d'embrayage finisÂ£- - - autres :,KG,- - - - -
+8,,,91,00,"- - - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marc",KG,- - - - -
+8,,,91,00,"- - - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marc",KG,- - - - -
+8,,,91,00,"- - - - des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosion d'une",KG,- - - - -
+8,,,91,00,"- - - - des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marchandises, Ã  moteur Ã  explosion d'une",KG,- - - - -
+8,,,92,00,"- - - - autres, cÃ¢bles d'embrayage gainÃ©s et munis de leurs piÃ¨ces de connexion",KG,- - - - -
+8,,,99,00,- - - autres,KG,- - - - -
+8,,8708.94,10,00,"- - - volants, colonnes et boÃ®tiers de direction",KG,- - - - -
+8,,8708.94,90,21,- - - - - corps et sphÃ¨res obtenus par forgeage en matrice,KG,- - - - -
+8,,8708.94,90,29,- - - - - autres,KG,- - - - -
+8,,8708.94,90,90,- - - - autres,KG,- - - - -
+8,,8708.95,00,00,"- - ""Coussins gonflables de sÃ©curitÃ© avec systÃ¨me de gonflage (airbags); leurs parties""",KG,- - - - -
+,,8708.99,,,- - Autres,,
+,,8708.99,,,- - Autres,,
+,,8708.99,,,- - Autres Â£â€“ â€“ â€“ rotules de direction et de suspension pour vÃ©hicules automobiles :,,
+,,8708.99,,,- - Autres Â£â€“ â€“ â€“ rotules de direction et de suspension pour vÃ©hicules automobiles :,,
+8,,,10,00,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marcha",KG,- - - - -
+8,,,10,00,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 87-01,des voitures automobiles pour le transport des personnes, y compris les voitures mixtes, comportant moins de 15 places assises, des voitures automobiles pour le transport des marcha",KG,- - - - -
+8,,,10,00,- - - rÃ©servoirs Ã  combustible et leurs parties,KG,- - - - -
+8,,,10,00,- - - rÃ©servoirs Ã  combustible et leurs parties,KG,- - - - -
+8,,,20,10,- - - - Ã©bauches de fonderie de supports de moteurs,KG,- - - - -
+8,,,20,90,- - - - autres,KG,- - - - -
+8,,,30,00,- - - cÃ¢bles de starters et d'accÃ©lÃ©rateurs gainÃ©s et munis de leurs piÃ¨ces de connexion,KG,- - - - -
+8,,,40,00,- - - transmissions flexibles pour compteurs gainÃ©es et munies de leurs piÃ¨ces de connexion.,KG,- - - - -
+8,,,50,00,- - - cardans Ã  l'Ã©tat fini,KG,- - - - -
+,,,81,,- - - - moyeux et pivots de suspension :,NON PREVUE,
+,,,84,,- - - - supports de moteurs :,NON PREVUE,
+8,,,99,00,- - - autres,KG,- - - - -
+8,,,99,00,- - - autres,KG,- - - - -
+8,,,99,00,- - - autres,KG,- - - - -
+8,,,99,00,- - - autres,KG,- - - - -
+,87.09,,,,"Chariots automobiles non munis d'un dispositif de levage, des types utilisÃ©s dans les usines, les entrepÃ´ts, les ports ou les aÃ©roports pour le transport des marchandises sur de courtes distances; chariots- tracteurs des types utilisÃ©s dans les gares;",,
+,,8709.11,00,,- - Electriques,,
+7,,,,00,- - Electriques,U,NOMBRE
+,,8709.19,,,- - Autres,,
+7,,,00,00,- - Autres,U,NOMBRE
+,,8709.90,00,,- Parties,,
+7,,,,00,- - Parties,KG,- - - - -
+,,8710.00,00,,"Chars et automobiles blindÃ©es de combat, armÃ©s ou non; leurs parties.",,
+7,,,,10,- - - chars de combat ; leurs parties,U,- - - - -
+7,,,,90,- - - automobiles blindÃ©es de combat; leurs parties,U,- - - - -
+,87.11,,,,"Motocycles (y compris les cyclomoteurs) et cycles Ã©quipÃ©s d'un moteur auxiliaire, avec ou sans side-cars; side-cars.",,
+,,8711.10,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e n'excÃ©dant pas 50 cm3Â£- - - scooters et motos avec moteur comportant un dispositif de changement de vitesse incorporÃ© (Ã  l'exclusion du dispositif de simple changement de rÃ©gime) :",,
+,,8711.10,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e n'excÃ©dant pas 50 cm3Â£- - - scooters et motos avec moteur comportant un dispositif de changement de vitesse incorporÃ© (Ã  l'exclusion du dispositif de simple changement de rÃ©gime) :",,
+,,8711.10,,,"- A moteur Ã  piston , d'une cylindrÃ©e n'excÃ©dant pas 50 cm3",,
+,,8711.10,,,"- A moteur Ã  piston , d'une cylindrÃ©e n'excÃ©dant pas 50 cm3",,
+8,,,11,00,- - - - Ã  l'Ã©tat montÃ©,U,NOMBRE
+8,,,13,00,- - - - sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©,U,NOMBRE
+8,,,19,00,- - - - autresÂ£- - - triporteurs :,U,NOMBRE
+8,,,21,00,- - - - sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©,U,NOMBRE
+8,,,29,00,- - - - autresÂ£- - - autres :,U,NOMBRE
+8,,,91,00,- - - - Ã  l'Ã©tat montÃ©,U,NOMBRE
+8,,,93,00,- - - - sous la forme d'Ã©lÃ©ments CKD Ã  l'exclusion des Ã©lÃ©ments visÃ©s par la note complÃ©mentaire nÂ° 2 du prÃ©sent chapitre,U,NOMBRE
+8,,,99,00,- - - - autres,U,NOMBRE
+,,8711.20,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 50 cm3 mais n'excÃ©dant pas 250 cm3",,
+,,8711.20,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 50 cm3 mais n'excÃ©dant pas 250 cm3",,
+,,8711.20,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 50 cm3 maisn'excÃ©dant pas 250 cm3""",,
+,,8711.20,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 50 cm3 maisn'excÃ©dant pas 250 cm3""",,
+8,,,10,00,"- - - triporteurs sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©Â£- - - engins dits ""quads"" Ã  4 roues, sans dispositif de marche arriÃ¨re :",U,NOMBRE
+8,,,21,00,- - - - - - neufs,U,NOMBRE
+8,,,29,00,- - - - usagÃ©s,U,NOMBRE
+8,,,80,00,- - - autres,U,NOMBRE
+,,8711.30,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 250 cm3 mais n'excÃ©dant pas 500 cm3",,
+,,8711.30,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 250 cm3 mais n'excÃ©dant pas 500 cm3",,
+,,8711.30,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 250 cm3 maisn'excÃ©dant pas 500 cm3""",,
+,,8711.30,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 250 cm3 maisn'excÃ©dant pas 500 cm3""",,
+8,,,10,00,"- - - triporteurs sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©Â£- - - engins dits ""quads"" Ã  4 roues, sans dispositif de marche arriÃ¨re :",U,NOMBRE
+8,,,21,00,- - - - - - neufs,U,NOMBRE
+8,,,29,00,- - - - usagÃ©s,U,NOMBRE
+8,,,80,00,- - - autres,U,NOMBRE
+,,8711.40,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 500 cm3 mais n'excÃ©dant pas 800 cm3",,
+,,8711.40,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 500 cm3 mais n'excÃ©dant pas 800 cm3",,
+,,8711.40,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 500 cm3 maisn'excÃ©dant pas 800 cm3""",,
+,,8711.40,,,"- ""A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 500 cm3 maisn'excÃ©dant pas 800 cm3""",,
+8,,,10,00,"- - - triporteurs sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©Â£- - - engins dits ""quads"" Ã  4 roues, sans dispositif de marche arriÃ¨re :",U,NOMBRE
+8,,,21,00,- - - - - - neufs,U,NOMBRE
+8,,,29,00,- - - - usagÃ©s,U,NOMBRE
+8,,,80,00,- - - autres,U,NOMBRE
+,,8711.50,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 800 cm3",,
+,,8711.50,,,"- A moteur Ã  piston alternatif, d'une cylindrÃ©e excÃ©dant 800 cm3",,
+,,8711.50,,,"- A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 800 cm3",,
+,,8711.50,,,"- A moteur Ã  piston , d'une cylindrÃ©e excÃ©dant 800 cm3",,
+8,,,10,00,"- - - triporteurs sous la forme d'Ã©lÃ©ments CKD non peints avec chassis non soudÃ©Â£- - - engins dits ""quads"" Ã  4 roues, sans dispositif de marche arriÃ¨re :",U,NOMBRE
+8,,,21,00,- - - - - - neufs,U,NOMBRE
+8,,,29,00,- - - - usagÃ©s,U,NOMBRE
+8,,,80,00,- - - autres,U,NOMBRE
+8,,8711.60,00,00,- - - A moteur Ã©lectrique pour la propulsion,KG,- - - - -
+,,8711.90,,,- Autres,,
+8,,,10,00,- - - motocycles et vÃ©locipÃ¨des,U,NOMBRE
+8,,,90,00,- - - side-cars prÃ©sentÃ©s isolÃ¨ment,U,NOMBRE
+,,8712.00,,,"Bicyclettes et autres cycles (y compris les triporteurs), sans moteur",,
+8,,,10,00,- - - bicyclettes sous la forme d'Ã©lÃ©ments CKD non peints avec cadres non soudÃ©s,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - bicyclettes pour enfants :,,
+8,,,,10,bicyclettes pour enfants,U,NOMBRE
+8,,,,90,- - - - autres,U,NOMBRE
+,87.13,,,,"Fauteuils roulants et autres vÃ©hicules pour invalides, mÃªme avec moteur ou autre mÃ©canisme de propulsion.",,
+7,,8713.10,00,00,- Sans mÃ©canisme de propulsion,U,- - - - -
+8,,8713.90,00,00,- Autres,U,- - - - -
+,87.14,,,,Parties et accessoires des vÃ©hicules des nÂ° s 8711 Ã  8713Â£- De motocycles (y compris les cyclomoteurs) :,,
+8,,8714.10,00,10,- - - selles,KG,- - - - -
+8,,8714.10,00,20,- - - siÃ¨ges,KG,- - - - -
+8,,8714.10,00,30,- - - rayons et leurs Ã©crous,KG,- - - - -
+8,,8714.10,00,40,- - - cadres,KG,- - - - -
+8,,8714.10,00,50,- - - jantes,KG,- - - - -
+8,,8714.10,00,60,- - - moyeux freins Ã  contre-pÃ©dalage,KG,- - - - -
+8,,8714.10,00,70,- - - pÃ©dales,KG,- - - - -
+8,,8714.10,00,90,- - - autres,KG,- - - - -
+,,8714.11,00,,- - Selles,,
+,,8714.19,00,,- - AutresÂ£- - - de motocycles :,,
+,,8714.20,,,- De fauteuils roulants ou d'autres vÃ©hicules pour invalides,,
+7,,,00,00,- De fauteuils roulants ou d'autres vÃ©hicules pour invalides,KG,- - - - -
+,,8714.91,00,,"- - Cadres et fourches, et leurs partiesÂ£- - - de bicyclettes pour enfants :",,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,8714.92,00,,- - Jantes et rayonsÂ£- - - de bicyclettes pour enfants :,,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,91,- - - - rayons et leurs Ã©crous,KG,- - - - -
+8,,,,99,- - - - jantes,KG,- - - - -
+,,8714.93,00,,- - - Moyeux (autres que les moyeux Ã  freins) et pignons de roues libresÂ£- - - de bicyclettes pour enfants :,,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,8714.94,00,,"- - Freins, y compris les moyeux Ã  freins, et leurs partiesÂ£- - - de bicyclettes pour enfants :",,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,8714.95,00,,- - SellesÂ£- - - de bicyclettes pour enfants :,,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,8714.96,00,,"- - PÃ©dales et pÃ©daliers, et leurs partiesÂ£- - - de bicyclettes pour enfants :",,
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,8714.99,00,,- - Autres,,
+8,,,,03,- - - amortisseurs de suspensionÂ£- - - autres :Â£- - - - de bicyclettes pour enfants :,KG,- - - - -
+8,,,,10,- - - de bicyclettes pour enfants,KG,- - - - -
+8,,,,91,"- - - - - garde-boue, leurs dispositifs de fixation, et leurs parties",KG,- - - - -
+8,,,,92,- - - - - guidons et leurs parties,KG,- - - - -
+8,,,,99,- - - - - autres,KG,- - - - -
+7,,8715.00,00,00,"Landaus, poussettes et voitures similaires pour le transport des enfants, et leurs parties",KG,NOMBRE
+,87.16,,,,Remorques et semi-remorques pour tous vÃ©hicules; autres vÃ©hicules non automobiles; leurs parties.,,
+,,8716.10,,,"- - - - - Remorques et semi-remorques pour l'habitation ou le camping, du type caravaneÂ£- - - importÃ©es Ã  l'Ã©tat dÃ©montÃ©, prÃ©sentÃ©es :",,
+7,,,11,00,- - - - sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,19,00,- - - - sous la forme d'Ã©lÃ©ments SKD,U,NOMBRE
+7,,,90,00,- - - - autres,U,NOMBRE
+,,8716.20,,,"- - Remorques et semi-remorques autochargeuses ou autodÃ©char- geuses, pour usages agricolesÂ£- - - importÃ©es Ã  l'Ã©tat dÃ©montÃ©, prÃ©sentÃ©es :",,
+7,,,11,00,- - - - sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,19,00,- - - - sous la forme d'Ã©lÃ©ments SKD,U,NOMBRE
+,,,90,,- - - - autres :,,
+7,,,,10,- - - - neuves,U,NOMBRE
+7,,,,90,- - - - usagÃ©esÂ£- Autres remorques et semi-remorques pour le transport de mar- chandises :,U,NOMBRE
+,,8716.31,,,"- - CiternesÂ£- - - importÃ©es Ã  l'Ã©tat dÃ©montÃ©, prÃ©sentÃ©es :",,
+7,,,11,00,- - - - sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,19,00,- - - - sous la forme d'Ã©lÃ©ments SKD,U,NOMBRE
+7,,,20,00,"- - - autres, en acier inoxydableÂ£- - - autres :",U,NOMBRE
+7,,,91,00,- - - - pour le transport des gaz mÃªme liquÃ©fiÃ©s,U,NOMBRE
+,,,98,,- - - - autres :,,
+7,,,,10,- - - - - neuves,U,NOMBRE
+7,,,,90,- - - - - usagÃ©es,U,NOMBRE
+7,,,,90,- - - - - usagÃ©es,U,NOMBRE
+7,,,,90,- - - - - usagÃ©es,U,NOMBRE
+7,,,,90,- - - - - usagÃ©es,U,NOMBRE
+,,8716.39,,,- - Autres,,
+7,,,10,00,"- - - semi-remorques frigorifiquesÂ£- - - autres, importÃ©es Ã  l'Ã©tat dÃ©montÃ©, prÃ©sentÃ©es :",U,NOMBRE
+7,,,21,00,- - - - sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,29,00,- - - - sous la forme d'Ã©lÃ©ments SKD,U,NOMBRE
+,,,30,,"- - - semi-remorques fourgons, Ã  trois essieux, avec porte arriÃ¨re, avec ou sans portes latÃ©rales :",,
+7,,,,10,- - - - neuves,U,NOMBRE
+7,,,,90,- - - - usagÃ©es,U,NOMBRE
+,,,70,,- - - autres :,,
+7,,,,20,- - - - neuves,U,NOMBRE
+7,,,,80,- - - - usagÃ©es,U,NOMBRE
+,,8716.40,,,"- Autres remorques et semi-remorquesÂ£- - - importÃ©es Ã  l'Ã©tat dÃ©montÃ©, prÃ©sentÃ©es :",,
+7,,,11,00,- - - - sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,19,00,- - - - sous la forme d'Ã©lÃ©ments SKD,U,NOMBRE
+,,,90,,- - - autres :,,
+7,,,,10,- - - - spÃ©cialement conÃ§us pour le transport de produits Ã  forte radio-activitÃ©Â£- - - - autres :,U,- - - - -
+7,,,,20,- - - - - pour le transport des personnesÂ£- - - - - autres :,U,NOMBRE
+7,,,,31,- - - - - - neufs,U,NOMBRE
+7,,,,39,- - - - - - usagÃ©s,U,NOMBRE
+7,,,,92,- - - - - - neuves,U,NOMBRE
+7,,,,98,- - - - - - usagÃ©es,U,NOMBRE
+,,8716.80,,,- Autres vÃ©hicules,,
+,,,00,,- Autres vÃ©hicules,,
+7,,,,10,- - - spÃ©cialement conÃ§us pour le transport de produits Ã  forte radio-activitÃ© Â£â€“ â€“ â€“ autres :,U,- - - - -
+7,,,,91,- - - - brouettes,U,- - - - -
+7,,,,92,"- - - - chariots de manutention spÃ©cialisÃ©s pour l'industrie textile en fer, en Â£aluminium ou en alliage d'aluminium, mÃªme perforÃ©s, dont le fond Â£peutÃªtre amovible et/ou le cÃ´tÃ© muni de porte latÃ©rale et les dimensions Â£internes de la longeur,",U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+,,,10,,- - - vÃ©hicules Ã  traction animale :,,
+,,8716.90,,,- Parties,,
+7,,,10,00,- - - - pour brouettes,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -

@@ -1,0 +1,103 @@
+0,1,2,3,4,5,6,7
+,93.01,,,,"Armes de guerre, autres que les revolvers, pistolets et armes blanches.Â£- PiÃ¨ces d'artillerie (canons, obusiers et mortiers, par exemple) :",,
+7,,9301.10,10,00,- - - auto-propulsÃ©s,U,- - - - -
+7,,9301.10,90,00,- - - autres similaires,U,- - - - -
+7,,9301.20,00,00,- Tubes lance-missiles; lance-flammes; lance-grenades; lance- torpilles et lanceurs similaires,U,- - - - -
+7,,9301.90,00,00,- Autres,U,- - - - -
+,,9302.00,,,"- - - Revolvers et pistolets, autres que ceux des nÂ°s 9303 ou 9304",,
+7,,,10,00,- - - du calibre 9 ou au dessusÂ£- - - autres :Â£- - - - pistolets automatiques :,U,NOMBRE
+7,,,21,00,"- - - - - du calibre 7,65 long ou de calibres supÃ©rieurs jusqu'au calibre de 9 exclu",U,NOMBRE
+7,,,29,00,"- - - - - du calibre 7,65 court et au-dessous",U,NOMBRE
+7,,,90,00,- - - - autres revolvers et pistolets de calibre infÃ©rieur Ã  9,U,NOMBRE
+,93.03,,,,"- - - - - - - - Autres armes Ã  feu et engins similaires utilisant la dÃ©flagration de la poudre (fusils et carabines de chasse, armes Ã  feu ne pouvant Ãªtre chargÃ©es que par le canon, pistolets lance-fusÃ©es et autres engins conÃ§us uniquement pour lan",,
+,,9303.10,,,- Armes Ã  feu ne pouvant Ãªtre chargÃ©es que par le canon,,
+,,,10,,- - - fusils et carabines de chasse et de tir :,,
+7,,,,10,- - - - fusils de chasse,U,NOMBRE
+7,,,,90,- - - - carabines de chasse ou de tir,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,9303.20,,,- - - Autres fusils et carabines de chasse ou de tir sportif comportant au moins un canon lisse,,
+7,,,10,00,- - - cannes-fusils et articles similaires,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - fusils de chasse :,,
+7,,,,11,- - - - - non automatiques,U,NOMBRE
+7,,,,19,"- - - - - automatiques, semi-automatiques ou Ã  rÃ©pÃ©titionÂ£- - - - carabines de chasse ou de tir :",U,NOMBRE
+7,,,,91,- - - - - non automatiques,U,NOMBRE
+7,,,,99,"- - - - - automatiques, semi-automatiques ou Ã  rÃ©pÃ©tition",U,NOMBRE
+,,9303.30,,,- Autres fusils et carabines de chasse ou de tir sportif,,
+7,,,10,00,- - - cannes-fusils et articles similaires,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - fusils de chasse :,,
+7,,,,11,- - - - - non automatiques,U,NOMBRE
+7,,,,19,"- - - - - automatiques, semi-automatiques ou Ã  rÃ©pÃ©titionÂ£- - - - carabines de chasse ou de tir :",U,NOMBRE
+7,,,,91,- - - - - non automatiques,U,NOMBRE
+7,,,,99,"- - - - - automatiques, semi-automatiques ou Ã  rÃ©pÃ©tition",U,NOMBRE
+7,,9303.90,00,00,- Autres,U,NOMBRE
+,,9304.00,00,,"Autres armes (fusils, carabines et pistolets Ã  ressort, Ã  air comprimÃ© ou Ã  gaz, matraques, par exemple), Ã  l'exclusion de celles du nÂ° 93.07.",,
+7,,,,10,"- - - fusils, carabines, pistolets et similaires Ã  ressort Ã  air comprimÃ© ou Ã  gaz",U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,93.05,,,,- - Parties et accessoires des articles des nÂ°s 9301 Ã  9304,,
+5,,9305.10,00,00,- De revolvers ou pistoletsÂ£- De fusils ou carabines du nÂ° 93.03 :,KG,- - - - -
+5,,9305.20,10,11,- - - - - simplement Ã©bauchÃ©s,KG,- - - - -
+5,,9305.20,10,19,- - - - - finis,KG,- - - - -
+5,,9305.20,10,90,- - - - autres,KG,- - - - -
+5,,9305.20,90,10,- - - - Ã©bauches de crosse (bois de fusils) %â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ pour fusil et carabine de chasse ou de tir :,KG,- - - - -
+5,,9305.20,90,21,- - - - - - simplement Ã©bauchÃ©s,KG,- - - - -
+5,,9305.20,90,29,- - - - - - finis,KG,- - - - -
+5,,9305.20,90,90,- - - - - autres,KG,- - - - -
+,,9305.21,,,- - Canons lisses,,
+,,,10,,- - - pour fusil et carabine de chasse ou de tir :,,
+,,9305.29,,,- - Autres,,
+,,,91,,- - - - pour fusil et carabine de chasse ou de tir :,,
+,,9305.91,,,- - Des armes de guerre du nÂ° 9301,,
+,,,10,,- - - en caoutchouc vulcanisÃ© non durci :,,
+8,,,,10,- - - - en caoutchouc spongieux ou cellulaire,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,20,00,- - - en cuir naturel ou reconstituÃ©,KG,- - - - -
+8,,,30,00,- - - en tissus,KG,- - - - -
+,,,90,,- - - autres :,,
+5,,,,10,- - - - Ã©bauches de crosse (bois de fusils),KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,9305.99,,,- - Autres,,
+,,,10,,- - - en caoutchouc vulcanisÃ© non durci :,,
+8,,,,10,- - - - en caoutchouc spongieux ou cellulaire,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,20,00,- - - en cuir naturel ou reconstituÃ©,KG,- - - - -
+8,,,30,00,- - - en tissus,KG,- - - - -
+,,,90,,- - - autres :,,
+5,,,,10,- - - - Ã©bauches de crosse (bois de fusils),KG,- - - - -
+5,,,,20,- - - - pour armes du nÂ° 9302,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,93.06,,,,"- - - Bombes, grenades, torpilles, mines, missiles, cartouches et autres munitions et projectiles, et leurs parties, y compris les chevrotines, plombs de chasse et bourres pour cartouches.",,
+,,9306.10,,,- Cartouches pour pistolets de scellement ou pour pistolets d'abattages et leurs parties,,
+,,9306.21,00,,- - CartouchesÂ£- - - cartouches de chasse :,,
+7,,,,11,- - - - chargÃ©es prÃªtes pour le tir,KG,- - - - -
+7,,,,19,"- - - - autres, amorcÃ©es ou non",KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,9306.29,,,- - Autres,,
+7,,,10,00,"- - - plombs pour carabines Ã  air comprimÃ©Â£- - - autres, pour cartouches de chasse (balles, plombs, chevrotines, bourres, etc...) :",KG,- - - - -
+7,,,21,00,- - - - balles,KG,- - - - -
+7,,,22,00,- - - - plombs et chevrotines,KG,- - - - -
+7,,,23,00,- - - - bourres,KG,- - - - -
+7,,,24,00,- - - - obturateurs et douilles,KG,- - - - -
+7,,,28,00,- - - - autres,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,,9306.30,,,"- Autres cartouches et leurs partiesÂ£- - - pour revolvers, pistolets et pistolets mitrailleurs du nÂ° 93.01 :",,
+7,,,11,00,- - - - pour armes de guerre,KG,- - - - -
+7,,,19,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+,,,20,,- - - - de guerre :,,
+7,,,,10,- - - - - pour armes nÂ° 9301,KG,- - - - -
+7,,,,90,- - - - - autresÂ£- - - - autres :,KG,- - - - -
+,,,30,,- - - - - cartouches de chasse :,,
+7,,,,10,"- - - - - - chargÃ©es prÃªtes pour le tirÂ£- - - - - - autres, amorcÃ©es ou non, y compris leurs accessoires, (balles, plombs, chevrotines, bourres, etc...) :",KG,- - - - -
+7,,,,91,- - - - - - - balles,KG,- - - - -
+7,,,,92,- - - - - - - plombs et chevrotines,KG,- - - - -
+7,,,,93,- - - - - - - bourres,KG,- - - - -
+7,,,,99,- - - - - - - autresÂ£- - - - - autres :,KG,- - - - -
+7,,,91,10,- - - - - - - pour pistolets de scellement ou pour pistolets d'abattages,KG,- - - - -
+7,,,91,90,- - - - - - - autres,KG,- - - - -
+7,,,99,00,- - - - - - autres,KG,- - - - -
+,,9306.90,,,- Autres,,
+,,,10,,- - - de guerre :,,
+7,,,,10,- - - - pour armes du nÂ° 9301,KG,- - - - -
+7,,,,90,- - - - autresÂ£- - - autres :,KG,- - - - -
+7,,,91,00,- - - - pour appareils Ã  usage technique ou industriel,KG,- - - - -
+7,,,99,00,- - - - autres,KG,- - - - -
+7,,9307.00,00,00,"- - Sabres, Ã©pÃ©es, baÃ¯onnettes, lances et autres armes blanches, leurs parties et leurs fourreaux",KG,- - - - -

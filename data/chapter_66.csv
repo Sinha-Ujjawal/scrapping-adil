@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,66.01,,,,"Parapluies, ombrelles et parasols (y compris les parapluies-cannes, les parasols de jardin et articles similaires).",,
+8,,6601.10,00,00,- Parasols de jardin et articles similairesÂ£- Autres :,U,NOMBRE
+8,,6601.91,00,00,- - A mÃ¢t ou manche tÃ©lescopique,U,NOMBRE
+8,,6601.99,00,00,- - Autres,U,NOMBRE
+,,6602.00,,,"Cannes, cannes-siÃ¨ges, fouets, cravaches et articles similaires",,
+8,,,00,00,"- - - Cannes, cannes-siÃ¨ges, fouets, cravaches et articles similaires",U,- - - - -
+,66.03,,,,"Parties, garnitures et accessoires pour articles des nÂ°s 6601 ou 66.02.",,
+,,6603.10,,,- PoignÃ©es et pommeaux,,
+,,6603.20,,,"- Montures assemblÃ©es, mÃªme avec mÃ¢ts ou manches, pour parapluies, ombrelles ou parasols",,
+5,,,10,00,"- - - comportant des parties en ivoire, Ã©caille, corne blonde, ambre, mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux",KG,- - - - -
+5,,,90,00,- - - - autres,KG,- - - - -
+,,6603.90,,,- AutresÂ£- - - bouts :,,
+5,,,30,00,- - - - poignÃ©es et pommeaux,KG,- - - - -
+,,,31,,"- - - - entiÃ¨rement ou partiellement en pierres gemmes, en pierres synthÃ©tiques ou reconstituÃ©es, en mÃ©taux prÃ©cieux ou en plaquÃ©s ou doublÃ©s de mÃ©taux prÃ©cieux",,
+,,,32,,"- - - - entiÃ¨rement ou partiellement en ivoire, Ã©caille, corne blonde ou autres",,
+,,,39,,- - - - autres,,
+5,,,80,00,- - - - autres,KG,- - - - -

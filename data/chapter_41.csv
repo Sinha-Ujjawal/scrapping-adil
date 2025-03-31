@@ -1,0 +1,250 @@
+0,1,2,3,4,5,6,7
+,41.01,,,,"- - Cuirs et peaux bruts de bovins (y compris les buffles) ou d'Ã©quidÃ©s (frais, ou salÃ©s, sÃ©chÃ©s, chaulÃ©s, picklÃ©s ou autrement conservÃ©s, mais non tannÃ©s ni parcheminÃ©s ni autrement prÃ©parÃ©s), mÃªme Ã©pilÃ©s ou refendus.",,
+,,4101.20,,,"- - - - Cuirs et peaux bruts entiers, d'un poids unitaire n'excÃ©dant pas 8 kg lorsqu'ils sont secs, 10 kg lorsqu'ils sont salÃ©s secs et 16 kg lorsqu'ils sont frais, salÃ©s verts ou autrement conservÃ©sÂ£- - - cuirs et peaux de bovins :",,
+,,,12,,- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,,
+5,,,,00,- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,18,,"- - - - autres :%â€“ â€“ â€“ â€“ â€“ frais, salÃ©s ou sÃ©chÃ©s :",,
+3,,,,10,- - - - - - de veaux frais ou salÃ©s verts%â€“ â€“ â€“ â€“ â€“ â€“ de veaux sÃ©chÃ©s ou salÃ©s secs :,KG,- - - - -
+3,,,,20,- - - - - - de veaux sÃ©chÃ©s ou salÃ©s secs,KG,- - - - -
+3,,,,31,- - - - - - - de gros bovins,KG,- - - - -
+3,,,,39,- - - - - - - de vachettes%â€“ â€“ â€“ â€“ â€“ â€“ d'autres bovins sÃ©chÃ©s ou salÃ©s secs :%â€“ â€“ â€“ â€“ â€“ â€“ â€“ de gros bovins :,KG,- - - - -
+3,,,,40,- - - - - - - de gros bovins,KG,- - - - -
+3,,,,50,- - - - - - - de vachettes,KG,- - - - -
+3,,,,91,- - - - - - de veaux,KG,- - - - -
+3,,,,92,- - - - - - de gros bovins,KG,- - - - -
+3,,,,99,- - - - - - de vachettes%â€“ â€“ â€“ cuirs et peaux d'Ã©quidÃ©s :,KG,- - - - -
+,,,19,,"- - - - autres :Â£- - - - - frais, salÃ©s ou sÃ©chÃ©s :",,
+,,,70,,- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,,
+5,,,,00,- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible%â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+3,,,90,00,- - - - autres,KG,- - - - -
+,,,95,,- - - - - frais ou salÃ©s verts,,
+,,,96,,- - - - - sÃ©chÃ©s,,
+,,,97,,- - - - - salÃ©s secs,,
+,,,98,,- - - - - autres,,
+,,4101.50,,,"- Cuirs et peaux bruts entiers, d'un poids unitaire excÃ©dant 16 kgs",,
+5,,,10,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+3,,,80,11,- - - - - - de bovins,KG,- - - - -
+3,,,80,19,- - - - - - autres,KG,- - - - -
+3,,,80,20,- - - - sÃ©chÃ©s ou salÃ©s secs,KG,- - - - -
+3,,,80,90,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - de bovins frais ou salÃ©s verts :,,
+,,4101.90,,,"- Autres, y compris les croupons, demi-croupons et flancs",,
+,,,12,,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,,
+5,,,,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,80,,- - - autres :%â€“ â€“ â€“ â€“ de bovins frais ou salÃ©s verts :%â€“ â€“ â€“ â€“ â€“ croupons et demi-croupons :,,
+3,,,,11,- - - - - - de veaux%â€“ â€“ â€“ â€“ â€“ â€“ d'autres bovins :,KG,- - - - -
+3,,,,12,- - - - - - - de gros bovins,KG,- - - - -
+3,,,,19,- - - - - - - de vachettes%â€“ â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+3,,,,21,- - - - - - de veaux%â€“ â€“ â€“ â€“ â€“ â€“ d'autres bovins :,KG,- - - - -
+3,,,,22,- - - - - - - de gros bovins,KG,- - - - -
+3,,,,29,- - - - - - - de vachettes,KG,- - - - -
+3,,,,71,- - - - - - de vachettes,KG,- - - - -
+3,,,,79,- - - - - - autres,KG,- - - - -
+3,,,,80,- - - - - autres,KG,- - - - -
+3,,,,90,- - - - d'Ã©quidÃ©s,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - de bovins frais ou salÃ©s verts :Â£- - - - - croupons et demi-croupons :,,
+,41.02,,,,"- - - - - Peaux brutes d'ovins (fraÃ®ches, ou salÃ©es, sÃ©chÃ©es, chaulÃ©es, picklÃ©es ou autrement conservÃ©es, mais non tannÃ©es ni parcheminÃ©es ni autrement prÃ©parÃ©es), mÃªme Ã©pilÃ©es ou refendues, autres que celles exclues par la Note 1 c) du prÃ©",,
+,,4102.10,00,,- LainÃ©esÂ£- - - d'agneaux :,,
+3,,,,10,- - - d'agneaux,KG,- - - - -
+3,,,,90,- - - d'autres ovins,KG,- - - - -
+,,4102.21,,,- - PicklÃ©es,,
+5,,,10,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,90,,- - - autres :,,
+3,,,,00,- - - - d'agneaux,KG,- - - - -
+,,4102.29,,,- - Autres,,
+5,,,10,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,90,,- - - autres :,,
+3,,,,00,- - - autres,KG,- - - - -
+,41.03,,,,"- - - - - - Autres cuirs et peaux bruts (frais, ou salÃ©s, sÃ©chÃ©s, chaulÃ©s, picklÃ©s ou autrement conservÃ©s, mais non tannÃ©s ni parcheminÃ©s ni autrement prÃ©parÃ©s), mÃªme Ã©pilÃ©s ou refendus, autres que ceux exclues par les Notes 1 b) ou 1 c) du p",,
+,,4103.10,,,- De caprins,,
+,,,90,,- - - autres :,,
+,,4103.20,,,- De reptiles,,
+3,,,10,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,90,,- - - autres :,,
+3,,,,00,- - - - d'agneaux,KG,- - - - -
+,,4103.30,,,- De porcins,,
+5,,,10,00,- - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible,KG,- - - - -
+,,,90,,- - - autres :,,
+3,,,,00,- - - - d'agneaux,KG,- - - - -
+,,4103.90,,,- Autres,,
+,,,10,,- - - de caprins:,,
+5,,,,10,- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible%â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+3,,,,93,- - - - - sÃ©chÃ©s,KG,- - - - -
+3,,,,98,- - - - - autres,KG,- - - - -
+,,,90,,"- - - autres :Â£- - - - frais, salÃ©s ou sÃ©chÃ©s :",,
+5,,,,10,"- - - - ayant subi une opÃ©ration de tannage (y compris le prÃ©tannage) rÃ©versible%â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ frais, salÃ©s ou sÃ©chÃ©s :",KG,- - - - -
+3,,,,21,"- - - - - - de batraciens, de poissons et de mammifÃ¨res marins",KG,- - - - -
+3,,,,29,- - - - - - de cervidÃ©s et antilopinÃ©s%â€“ â€“ â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ â€“ â€“ de chameaux ou de dromadaires :,KG,- - - - -
+3,,,,35,- - - - - - - de chameaux ou de dromadaires,KG,- - - - -
+3,,,,39,- - - - - - - - autres%â€“ â€“ â€“ â€“ â€“ autres:,KG,- - - - -
+3,,,,92,"- - - - - de batraciens, de poissons et de mammifÃ¨res marins",KG,- - - - -
+3,,,,98,- - - - - - autres,KG,- - - - -
+,41.04,,,,"Cuirs et peaux tannÃ©s ou en croÃ»te de bovins (y compris les buffles) ou d'Ã©quidÃ©s, Ã©pilÃ©s, mÃªme refendus, mais non autrement prÃ©parÃ©s.Â£- A l'Ã©tat humide (y compris wet-blue) :",,
+,,4104.11,,,"- - Pleine fleur, non refendue; cÃ´tÃ©s fleurÂ£- - - wet-blue :",,
+5,,,05,00,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,07,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+,,,10,,"- - - - cuirs et peaux de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6 m2) :",,
+,,,20,,"- - - - - cuirs et peaux de bovins, Ã  prÃ©tannage vÃ©gÃ©tal :",,
+,,,40,,- - - - - cuirs et peaux de bovins autrement prÃ©parÃ©s :,,
+5,,,90,10,"- - - - cuirs et peaux de vachettes des Indes (â€œKipsâ€), entiers ou mÃªme Â£dÃ©pourvus de la tÃªte et des pattes, d'un poids net par unitÃ© infÃ©rieur ou Ã©gal Â£Ã  4,5 Kg, simplement tannÃ©s Ã  l'aide de substances vÃ©gÃ©tales, mÃªme Â£ayant subi d'au",KG,- - - - -
+3,,,90,91,"- - - - - pleine fleur, non refendue",KG,- - - - -
+3,,,90,92,- - - - - cÃ´tÃ©s fleur,KG,- - - - -
+,,4104.19,,,- - AutresÂ£- - - wet-blue :,,
+5,,,05,00,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,07,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+5,,,08,00,"- - - - cuirs et peaux de vachettes des Indes (â€œKipsâ€), entiers ou mÃªme Â£dÃ©pourvus de la tÃªte et des pattes, d'un poids net par unitÃ© infÃ©rieur ou Ã©gal Â£Ã  4,5 Kg, simplement tannÃ©s Ã  l'aide de substances vÃ©gÃ©tales, mÃªme Â£ayant subi d'au",KG,- - - - -
+,,,10,,"- - - - cuirs et peaux de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6 m2) :",,
+5,,,,30,- - - - - de veaux,KG,- - - - -
+5,,,,80,"- - - - - d'autres bovinsÂ£- - - - autres cuirs et peaux de bovins et peaux d'Ã©quidÃ©s, tannÃ©s ou retannÃ©s mais sans autre prÃ©paration ultÃ©rieure, mÃªme refendus :",KG,- - - - -
+,,,20,,"- - - - - cuirs et peaux de bovins, Ã  prÃ©tannage vÃ©gÃ©tal :",,
+5,,,,00,- - - - - - cuirs et peaux de bovins (y compris les buffles) Ã  prÃ©tannage vÃ©gÃ©tal,KG,- - - - -
+,,,40,,- - - - - cuirs et peaux de bovins autrement prÃ©parÃ©s :,,
+5,,,,00,- - - - - - cuirs et peaux de bovins autrement prÃ©parÃ©s,KG,- - - - -
+5,,,80,00,- - - - - autresÂ£- A l'Ã©tat sec (en croÃ»te) :,KG,- - - - -
+,,4104.41,,,"- - Pleine fleur, non refendue; cÃ´tÃ©s fleur",,
+,,,10,,"- - - cuirs et peaux entiers de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6 m2) :Â£- - - - de veaux :",,
+5,,,,10,- - - - de veaux,KG,M2 (METRE CARRE)
+5,,,20,00,- - - - - cuirs de pleine Ã©paisseur pour semelles,KG,- - - - -
+,,,30,,- - - - - autres :,,
+5,,,,12,"- - - - - - cuirs sciÃ©s de bovins, fleurs",KG,M2 (METRE CARRE)
+5,,,,18,- - - - - - autres,KG,M2 (METRE CARRE)
+5,,,40,00,- - - - autres,KG,M2 (METRE CARRE)
+,,,50,,"- - - autres cuirs et peaux de bovins et peaux d'Ã©quidÃ©s, prÃ©parÃ©s aprÃ¨s tannage :Â£- - - - de veaux :",,
+5,,,,00,"- - - autres cuirs et peaux de bovins et peaux d'Ã©quidÃ©s, prÃ©parÃ©s aprÃ¨s tannage",KG,M2 (METRE CARRE)
+5,,,60,00,- - - - - cuirs de pleine Ã©paisseur pour semelles,KG,- - - - -
+,,,70,,- - - - - autres :,,
+5,,,,10,"- - - - - - cuirs sciÃ©s, fleurs",KG,M2 (METRE CARRE)
+5,,,,90,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,M2 (METRE CARRE)
+,,4104.49,,,- - Autres,,
+5,,,00,10,- - - de veaux Â£â€“ â€“ â€“ de gros bovins :,KG,M2 (METRE CARRE)
+5,,,00,21,- - - - cuirs de pleine Ã©paisseur pour semelles,KG,- - - - -
+5,,,00,29,- - - - autres,KG,M2 (METRE CARRE)
+5,,,00,90,- - - autres,KG,M2 (METRE CARRE)
+,,,10,,"- - - cuirs et peaux entiers de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6 m2) :",,
+,,,90,,"- - - autres cuirs et peaux de bovins et peaux d'Ã©quidÃ©s, prÃ©parÃ©s aprÃ¨s tannage :",,
+,41.05,,,,"Peaux tannÃ©es ou en croÃ»te d'ovins, Ã©pilÃ©es, mÃªme refendues, mais non autrement prÃ©parÃ©es.",,
+,,4105.10,00,,- A l'Ã©tat humide (y compris wet-blue)Â£- - - wet-blue :,,
+5,,,,05,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,,07,- - - - autresÂ£- - - autres :Â£- - - - Ã  prÃ©tannage vÃ©gÃ©tal :,KG,- - - - -
+5,,,,10,"- - - - - de metis des Indes, simplement tannÃ©es Ã  l'aide de substances vÃ©gÃ©tales, mÃªme ayant subi d'autres prÃ©parations, mais manifestement non utilisables, en l'Ã©tat, pour la fabrication d'ouvrages en cuirÂ£- - - - - autres :Â£- - - - - - de mout",KG,- - - - -
+5,,,,91,"- - - - - plein fleur, non refendue",KG,- - - - -
+5,,,,92,- - - - - cÃ´tÃ©s fleur,KG,- - - - -
+5,,,,98,- - - - - autres,KG,- - - - -
+,,4105.30,00,,- A l'Ã©tat sec (en croÃ»te),,
+5,,,,00,- A l'Ã©tat sec (en croÃ»te),KG,- - - - -
+,41.06,,,,"Cuirs et peaux Ã©pilÃ©s d'autres animaux et peaux d'animaux dÃ©pourvus de poils, tannÃ©s ou en croÃ»te, mÃªme refendus, mais non autrement prÃ©parÃ©s.Â£- De caprins :",,
+,,4106.21,00,,- A l'Ã©tat humide (y compris wet-blue)Â£- - - wet-blue :,,
+5,,,,05,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,,07,- - - - autresÂ£- - - autres :Â£- - - - Ã  prÃ©tannage vÃ©gÃ©tal :,KG,- - - - -
+5,,,,81,"- - - - plein fleur, non refendue",KG,- - - - -
+5,,,,82,- - - - cÃ´tÃ©s fleur,KG,- - - - -
+5,,,,89,- - - - autres,KG,- - - - -
+,,4106.22,00,,- A l'Ã©tat sec (en croÃ»te)Â£- - - veloutÃ©s :,,
+5,,,,00,- - A l'Ã©tat sec (en croÃ»te),KG,- - - - -
+,,4106.31,,,- - A l'Ã©tat humide (y compris wet-blue)Â£- - - wet-blue :,,
+5,,,11,00,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,19,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+5,,4106.32,00,00,- - A l'Ã©tat sec (en croÃ»te),KG,- - - - -
+,,4106.40,00,,- De reptilesÂ£- - - Ã  prÃ©tannage vÃ©gÃ©tal :,,
+5,,,,00,- De reptiles,KG,- - - - -
+,,4106.91,,,- - A l'Ã©tat humide (y compris wet-blue)Â£- - - wet-blue :,,
+5,,,11,00,- - - - visÃ©s par la note complÃ©mentaire nÂ° 1,KG,- - - - -
+5,,,19,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+5,,,91,00,"de batraciens, de poissons et de mammifÃ¨res marins",KG,- - - - -
+5,,,99,00,autres,KG,- - - - -
+,,4106.92,00,,- - A l'Ã©tat sec (en croÃ»te),,
+5,,,,30,"- - - de poissons, de phoques et d'autres mammifÃ¨res marins",KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,41.07,,,,"Cuirs prÃ©parÃ©s aprÃ¨s tannage ou aprÃ¨s dÃ©ssÃ¨chement et cuirs et peaux parcheminÃ©s, de bovins (y compris les buffles) ou d'Ã©quidÃ©s, Ã©pilÃ©s, mÃªme refendus, autres que ceux du nÂ° 41.14.Â£- Cuirs et peaux entiers :",,
+,,4107.11,,,"- - Pleine fleur, non refendueÂ£- - - de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6m2) :Â£- - - - parcheminÃ©s :",,
+5,,,00,11,- - - - parcheminÃ©s,KG,- - - - -
+5,,,00,19,- - - - autres,KG,- - - - -
+5,,,00,20,- - - - parcheminÃ©s Â£â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+5,,,00,91,- - - - - de veaux,KG,M2 (METRE CARRE)
+5,,,00,92,- - - - - de gros bovins,KG,- - - - -
+5,,,00,99,- - - - - autres,KG,M2 (METRE CARRE)
+,,,40,,- - - - parcheminÃ©s :,,
+,,,50,,- - - - autres :Â£- - - - - de veaux :,,
+,,,90,,- - - - - autres :,,
+,,4107.12,,,"- - CÃ´tÃ©s fleurÂ£- - - de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6m2) :Â£- - - - parcheminÃ©s :",,
+5,,,00,11,- - - - parcheminÃ©s,KG,- - - - -
+5,,,00,19,- - - - autres,KG,- - - - -
+5,,,00,20,- - - - parcheminÃ©s,KG,- - - - -
+5,,,00,91,- - - - - de veaux,KG,M2 (METRE CARRE)
+5,,,00,92,- - - - - de gros bovins,KG,M2 (METRE CARRE)
+5,,,00,99,- - - - - autres,KG,M2 (METRE CARRE)
+,,,50,,- - - - parcheminÃ©s :,,
+,,,60,,- - - - autres :Â£- - - - - de veaux :,,
+,,,90,,- - - - - autres :,,
+,,4107.19,,,"- - AutresÂ£- - - de bovins, d'une surface unitaire n'excÃ©dant pas 28 pieds carrÃ©s (2,6m2) :",,
+5,,,00,11,- - - - parcheminÃ©s,KG,- - - - -
+5,,,00,19,- - - - autres,KG,M2 (METRE CARRE)
+5,,,00,20,- - - - - de veaux,KG,- - - - -
+5,,,00,91,- - - - - de gros bovins,KG,M2 (METRE CARRE)
+5,,,00,92,- - - - - autres,KG,M2 (METRE CARRE)
+5,,,00,99,- - - - - autres,KG,M2 (METRE CARRE)
+,,,10,,- - - - parcheminÃ©s :,,
+,,,20,,- - - - - de veaux :,,
+,,,50,,- - - - parcheminÃ©s :,,
+,,,70,,- - - - - de veaux :,,
+,,,90,,- - - - - autres :,,
+,,4107.91,,,"- - Pleine fleur, non refendue",,
+,,,10,,- - - parcheminÃ©s :Â£- - - - de gros bovins :,,
+5,,,,00,- - - parcheminÃ©s,KG,- - - - -
+,,,30,,- - - - de veaux :,,
+5,,,,00,- - - - de veaux,KG,M2 (METRE CARRE)
+5,,,41,00,- - - - - cuirs de pleine Ã©paisseur pour semelles,KG,- - - - -
+5,,,49,00,- - - - - autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,M2 (METRE CARRE)
+,,4107.92,,,- - CÃ´tÃ©s fleur,,
+,,,10,,- - - parcheminÃ©s :,,
+5,,,,00,- - - parcheminÃ©s,KG,- - - - -
+,,,30,,- - - - de veaux :,,
+5,,,,00,- - - - de veaux,KG,M2 (METRE CARRE)
+5,,,40,00,- - - - - de gros bovins,KG,M2 (METRE CARRE)
+,,,90,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,M2 (METRE CARRE)
+,,4107.99,,,- - Autres,,
+,,,10,,- - - parcheminÃ©s :,,
+5,,,,00,- - - parcheminÃ©s,KG,- - - - -
+,,,30,,- - - - de veaux :,,
+5,,,,00,- - - - de veaux,KG,M2 (METRE CARRE)
+5,,,40,00,- - - - de gros bovins,KG,M2 (METRE CARRE)
+,,,90,,- - - - autres :,,
+5,,,,00,- - - - autres,KG,M2 (METRE CARRE)
+,,4112.00,00,,"Cuirs prÃ©parÃ©s aprÃ¨s tannage ou aprÃ¨s dÃ©ssÃ¨chement et cuirs et peaux parcheminÃ©s, d'ovins, Ã©pilÃ©s, mÃªme refendus, autres que ceux du nÂ° 41.14.",,
+5,,,,10,parcheminÃ©sÂ£- - - autres :,KG,- - - - -
+5,,,,91,veloutÃ©s,KG,- - - - -
+5,,,,99,autres,KG,- - - - -
+,41.13,,,,"Cuirs prÃ©parÃ©s aprÃ¨s tannage ou aprÃ¨s dÃ©ssÃ¨chement et cuirs et peaux parcheminÃ©s, d'autres animaux, Ã©pilÃ©s, et cuirs prÃ©parÃ©s aprÃ¨s tannage et cuirs et peaux parcheminÃ©s, d'animaux dÃ©pourvus de poils, mÃªme refendus, autres que ceux du nÂ° 4",,
+,,4113.10,00,,- De caprins,,
+5,,,,10,- - - parcheminÃ©sÂ£- - - autres :Â£- - - - veloutÃ©s :,KG,- - - - -
+5,,,,92,- - - - veloutÃ©s,KG,- - - - -
+5,,,,98,- - - - autres,KG,- - - - -
+,,4113.20,00,,- De porcins,,
+5,,,,00,- De porcins,KG,- - - - -
+,,4113.30,00,,- De reptiles,,
+5,,,,10,- - - parcheminÃ©s,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,4113.90,00,,- Autres,,
+5,,,,30,"- - - de poissons,de phoques et d'autres mammifÃ¨res marins",KG,- - - - -
+5,,,,90,- - - d'autres animaux,KG,- - - - -
+,41.14,,,,Cuirs et peaux chamoisÃ©s (y compris le chamois combinÃ©); cuirs et peaux vernis ou plaquÃ©s; cuirs et peaux mÃ©tallisÃ©s.,,
+,,4114.10,00,,- Cuirs et peaux chamoisÃ©s (y compris le chamois combinÃ©),,
+5,,4114.10,10,00,- - - de bovins,KG,- - - - -
+5,,4114.10,20,00,- - - de caprins,KG,- - - - -
+5,,4114.10,30,00,- - - d'ovins,KG,- - - - -
+5,,4114.10,90,00,- - - d'autres animaux,KG,- - - - -
+,,4114.20,00,,- Cuirs et peaux vernis ou plaquÃ©s; cuirs et peaux mÃ©tallisÃ©sÂ£- - - de gros bovins :,,
+5,,,,20,- - - de bovins,KG,M2 (METRE CARRE)
+5,,,,40,- - - d'ovins,KG,M2 (METRE CARRE)
+5,,,,50,- - - de caprins,KG,M2 (METRE CARRE)
+5,,,,80,- - - d'autres animaux,KG,M2 (METRE CARRE)
+,41.15,,,,"Cuir reconstituÃ©, Ã  base de cuir ou de fibres de cuir, en plaques, feuilles ou bandes mÃªme enroulÃ©es; rognures et autres dÃ©chets de cuirs ou de peaux prÃ©parÃ©s ou de cuir reconstituÃ©, non utilisables pour la fabrication d'ouvrages en cuir; sciure,",,
+5,,4115.10,00,00,"- Cuir reconstituÃ©, Ã  base de cuir ou de fibres de cuir, en plaques, feuilles ou bandes mÃªme enroulÃ©es",KG,M2 (METRE CARRE)
+,,4115.20,00,,"- Rognures et autres dÃ©chets de cuirs ou de peaux prÃ©parÃ©s ou de cuir reconstituÃ©, non utilisables pour la fabrication d'ouvrages en cuir; sciure, poudre et farine de cuir",,
+3,,,,00,"- ""Rognures et autres dÃ©chets de cuirs ou de peaux prÃ©parÃ©s ou de Â£cuir reconstituÃ©, non utilisables pour la fabrication d'ouvrages en cuir; Â£sciure, poudre et farine de cuir""",KG,- - - - -

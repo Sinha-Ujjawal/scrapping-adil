@@ -1,0 +1,143 @@
+0,1,2,3,4,5,6,7
+,22.01,,,,"- - Eaux, y compris les eaux minÃ©rales naturelles ou artificielles et les eaux gazÃ©ifiÃ©es, non additionnÃ©es de sucre ou d'autres Ã©dulcorants ni aromatisÃ©es; glace et neige.",,
+,,2201.10,00,,- Eaux minÃ©rales et eaux gazÃ©ifiÃ©esÂ£- - - eaux minÃ©rales naturelles ou artificielles :,,
+1,,,,11,- - - - naturelles,LITRE,- - - - -
+1,,,,19,- - - - artificielles,LITRE,- - - - -
+1,,,,90,- - - - - - autres,LITRE,- - - - -
+,,2201.90,,,- Autres,,
+1,,,10,00,"- - - - eaux naturelles, non distillÃ©es",LITRE,- - - - -
+1,,,90,00,- - - - - glace (naturelle ou artificielle) et neige,LITRE,- - - - -
+,22.02,,,,"- - - - - Eaux, y compris les eaux minÃ©rales et les eaux gazÃ©ifiÃ©es, addition- nÃ©es de sucre ou d'autres Ã©dulcorants ou aromatisÃ©es, et autres boissons non alcooliques, Ã  l'exclusion des jus de fruits ou de lÃ©gumes du nÂ° 20.09.",,
+,,2202.10,00,,"- Eaux, y compris les eaux minÃ©rales et les eaux gazÃ©ifiÃ©es, addition- nÃ©es de sucre ou d'autres Ã©dulcorants ou aromatisÃ©esÂ£- - - ne contenant pas de lait ou de matiÃ¨res grasses provenant du lait :",,
+1,,,,11,- - - - additionnÃ©es de sucre,LITRE,LITRE
+1,,,,19,- - - - - - autres,LITRE,LITRE
+1,,,,90,- - - - - autres,LITRE,LITRE
+,,2202.90,00,,"- AutresÂ£- - - ne contenant pas de lait ou de matiÃ¨res grasses provenant du lait (limonades, orangeades, citronades et autres boissons similaires) :",,
+1,,2202.91,00,00,- - - - - BiÃ¨re sans alcool,LITRE,LITRE
+,,2202.99,00,,"- - """"""Autresâ€“ â€“ â€“ ne contenant pas de lait ou de matiÃ¨res grasses provenant du lait (limonades,orangeades, citronades et autres boissons similaires) :""""""",,
+1,,,,11,- - - - additionnÃ©es de sucre,LITRE,LITRE
+1,,,,19,- - - - - - autres,LITRE,LITRE
+1,,,,80,- - - autres,LITRE,LITRE
+,,2203.00,,,BiÃ¨res de malt,,
+1,,,00,10,- - - Migration NGP inexistants,LITRE,LITRE
+1,,,00,10,- - - Migration NGP inexistants,LITRE,LITRE
+1,,,00,10,"- - - Â£prÃ©sentÃ©es en bouteilles, flacons, cruchons, flasques et contenants Â£analogues d'une capacitÃ© de 5 litres ou moins",LITRE,LITRE
+1,,,00,10,"- - - Â£prÃ©sentÃ©es en bouteilles, flacons, cruchons, flasques et contenants Â£analogues d'une capacitÃ© de 5 litres ou moins",LITRE,LITRE
+1,,,00,90,- - - autres,LITRE,LITRE
+,,,90,,- - - autrement prÃ©sentÃ©es :,,
+,22.04,,,,"Vins de raisins frais, y compris les vins enrichis en alcool; moÃ»ts de raisin autres que ceux du nÂ° 20.09.",,
+1,,2204.10,00,00,- Vins mousseuxÂ£- Autres vins; moÃ»ts de raisin dont la fermentation a Ã©tÃ© empÃªchÃ©e ou arrÃªtÃ©e par addition d'alcool :,LITRE,LITRE
+,,2204.21,00,,- - En rÃ©cipients d'une contenance n'excÃ©dant pas 2 lÂ£- - - vins de raisins frais ; moÃ»ts de raisins frais mutÃ©s Ã  l'alcool (y compris les mistelles) :,,
+1,,2204.21,10,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,2204.21,10,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,2204.21,10,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,2204.21,10,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,2204.21,10,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.21,20,,- - - vins avec indication gÃ©ographique (IGP):,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.21,90,,- - - autres:,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.22,00,,"- - """"""En rÃ©cipients d'une contenance excÃ©dant 2 l mais n'excÃ©dantpas 10 lâ€“ â€“ â€“ vins de raisins frais ; moÃ»ts de raisins frais mutÃ©s Ã  l'alcool (y compris les mistelles) :""""""",,
+,,2204.22,00,,"- - """"""En rÃ©cipients d'une contenance excÃ©dant 2 l mais n'excÃ©dantpas 10 lâ€“ â€“ â€“ vins de raisins frais ; moÃ»ts de raisins frais mutÃ©s Ã  l'alcool (y compris les mistelles) :""""""",,
+,,2204.22,00,,- - En rÃ©cipients d'une contenance excÃ©dant 2 l mais n'excÃ©dant pas 10 l,,
+,,2204.22,00,,- - En rÃ©cipients d'une contenance excÃ©dant 2 l mais n'excÃ©dant pas 10 l,,
+,,2204.22,10,,- - - vins avec appellation d'origine protÃ©gÃ©e (AOP):,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.22,20,,- - - vins avec indication gÃ©ographique (IGP):,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.22,90,,- - - autres:,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.29,00,,- - AutresÂ£- - - vins de raisins frais ; moÃ»ts de raisins frais mutÃ©s Ã  l'alcool (y compris les mistelles) :,,
+,,2204.29,10,,- - - vins avec appellation d'origine protÃ©gÃ©e (AOP):,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.29,20,,- - - vins avec indication gÃ©ographique (IGP):,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+,,2204.29,90,,- - - autres:,,
+1,,,,10,- - - - titrant 12 ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - - titrant plus de 12 et pas plus de 15 d'alcool acquis,LITRE,LITRE
+1,,,,30,- - - - titrant plus de 15 et pas plus de 18 d'alcool acquis,LITRE,LITRE
+1,,,,40,- - - - titrant plus de 18 et pas plus de 22 d'alcool acquis,LITRE,LITRE
+1,,,,50,- - - - titrant plus de 22 d'alcool acquis,LITRE,LITRE
+1,,2204.30,00,00,- Autres moÃ»ts de raisin,LITRE,LITRE
+,22.05,,,,Vermouths et autres vins de raisins frais prÃ©parÃ©s Ã  l'aide de plantes ou de substances aromatiques.,,
+,,2205.10,00,,- En rÃ©cipients d'une contenance n'excÃ©dant pas 2 l,,
+1,,,,10,- - - titrant 18Â° ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - titrant plus de 18Â° et pas plus de 22Â° d'alcool acquis,LITRE,LITRE
+1,,,,90,- - - titrant plus de 22Â° d'alcool acquis,LITRE,LITRE
+,,2205.90,00,,- Autres,,
+1,,,,10,- - - titrant 18Â° ou moins d'alcool acquis,LITRE,LITRE
+1,,,,20,- - - titrant plus de 18Â° et pas plus de 22Â° d'alcool acquis,LITRE,LITRE
+1,,,,90,- - - titrant plus de 22Â° d'alcool acquis,LITRE,LITRE
+,,2206.00,00,,"- - - - - - - Autres boissons fermentÃ©es (cidre, poirÃ©, hydromel, par exemple); mÃ©langes de boissons fermentÃ©es et mÃ©langes de boissons fermentÃ©es et de boissons non alcooliques, non dÃ©nommÃ©s ni compris ailleurs.Â£- - - cidre, poirÃ© et hydromel",,
+1,,,,00,"""Autres boissons fermentÃ©es (cidre, poirÃ©, hydromel, sakÃ© par Â£exemple); mÃ©langes de boissons fermentÃ©es et mÃ©langes de Â£boissons fermentÃ©es et de boissons non alcooliques, non Â£dÃ©nommÃ©s ni compris ailleurs""",LITRE,LITRE
+,22.07,,,,Alcool Ã©thylique non dÃ©naturÃ© d'un titre alcoomÃ©trique volumique de 80% vol ou plus; alcool Ã©thylique et eaux-de-vie dÃ©naturÃ©s de tous titres.,,
+1,,2207.10,00,00,- - Alcool Ã©thylique non dÃ©naturÃ© d'un titre alcoomÃ©trique volumique de 80 % vol ou plus,LITRE,LITRE
+1,,2207.20,00,00,- Alcool Ã©thylique et eaux-de-vie dÃ©naturÃ©s de tous titres,LITRE,LITRE
+,22.08,,,,"- - Alcool Ã©thylique non dÃ©naturÃ© d'un titre alcoomÃ©trique volumique de moins de 80% vol; eaux-de-vie, liqueurs et autres boissons spiritueuses.",,
+,,2208.20,00,,- Eaux-de-vie de vin ou de marc de raisin,,
+,,2208.20,10,,- - - eau-de-vie de vin:,,
+1,,,,10,- - - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.20,20,,- - - eau-de-vie de marc de raisin:,,
+1,,,,10,- - - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.30,00,,- Whiskies,,
+1,,,,10,- - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.40,00,,- Rhum et tafia,,
+1,,,,10,- - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.50,00,,- Gin et geniÃ¨vreÂ£- - - gin en rÃ©cipients contenant :,,
+,,2208.50,10,,- - - gin :,,
+1,,,,10,- - - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.50,20,,- - - geniÃ¨vre :,,
+1,,,,10,- - - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,90,- - - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.60,00,,"- VodkaÂ£- - - d'une teneur en alcool Ã©thylique de 45,2 ou moins en rÃ©cipients contenant :",,
+1,,,,21,- - - - - deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,29,"- - - - - plus de deux litresÂ£- - - autre, en rÃ©cipients contenant :",LITRE,LITRE ALCOOL PUR
+1,,,,91,- - - - - deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,99,- - - - - plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.70,00,,- LiqueursÂ£- - - en rÃ©cipients contenant deux litres ou moins :,,
+1,,,,20,- - - en rÃ©cipients contenant deux litres ou moins,LITRE,LITRE ALCOOL PUR
+1,,,,80,- - - en rÃ©cipients contenant plus de deux litres,LITRE,LITRE ALCOOL PUR
+,,2208.90,00,,- AutresÂ£- - - alcool Ã©thylique non dÃ©naturÃ© de moins de 80Â° :,,
+5,,,,12,- - - - - en rÃ©cipients contenant 2 litres ou moins,LITRE,LITRE ALCOOL PUR
+5,,,,18,"- - - - - en rÃ©cipients contenant plus de 2 litresÂ£- - - boissons spiritueuses :Â£- - - - arak, en rÃ©cipients contenant :",LITRE,LITRE ALCOOL PUR
+1,,,,92,- - - - arak,LITRE,LITRE ALCOOL PUR
+1,,,,93,"- - - - eaux-de-vie de prunes, de poires ou de cerises",LITRE,LITRE ALCOOL PUR
+1,,,,94,- - - - autres eaux-de-vie de fruits,LITRE,LITRE ALCOOL PUR
+1,,,,95,- - - - tequila,LITRE,LITRE ALCOOL PUR
+1,,,,97,- - - - autres,LITRE,LITRE ALCOOL PUR
+,,2209.00,00,,Vinaigres comestibles et succÃ©danÃ©s de vinaigre comestibles obtenus Ã  partir d'acide acÃ©tique.,,
+1,,2209.00,10,00,- - - vinaigres comestibles,LITRE,LITRE
+1,,2209.00,20,00,- - - succÃ©danÃ©s de vinaigre comestibles obtenus Ã  partir d'acide acÃ©tique,LITRE,LITRE

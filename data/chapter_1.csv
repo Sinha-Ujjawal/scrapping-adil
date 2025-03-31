@@ -1,0 +1,147 @@
+0,1,2,3,4,5,6,7
+,01.01,,,,"Chevaux, Ã¢nes, mulets et bardots, vivants",,
+,,0101.10,,,- Reproducteurs de race pure,,
+1,,0101.21,00,00,- - Reproducteurs de race pure (a.),U,NOMBRE
+,,0101.29,,,- - Autres,,
+1,,,10,00,- - - destinÃ©s Ã  la boucherie,U,NOMBRE
+3,,,20,00,"- - - de course, Ã¢gÃ©s de moins de six (6) ans, dans la limite d'un contingent annuel de vingt (20) tÃªtes, aux conditions fixÃ©es par un arrÃªtÃ© du ministre chargÃ© des finances aprÃ¨s avis du ministre de l'agriculture.%â€“ â€“ â€“ autres:",U,NOMBRE
+3,,,90,00,- - - - autres,U,NOMBRE
+,,0101.30,00,,- Anes,,
+3,,,,10,"- - - Ã¢nes, des espÃ¨ces domestiques, reproducteurs de race pure (a.)",U,NOMBRE
+3,,,,90,- - - autres,U,NOMBRE
+,,0101.90,,,- - - - - AutresÂ£- - - chevaux :,,
+3,,,00,00,- Autres,U,NOMBRE
+,,,30,,- - - - autres :,,
+,,,90,,"- - - Ã¢nes, mulets et bardots :",,
+,01.02,,,,Animaux vivants de l'espÃ¨ce bovine,,
+,,0102.10,00,,- Reproducteurs de race pure,,
+1,,0102.21,00,00,- - Reproducteurs de race pure (a.),U,NOMBRE
+,,0102.29,,,- - Autres,,
+1,,,10,00,- - - veaux %â€“ â€“ â€“ vaches:,U,NOMBRE
+1,,,21,00,- - - - destinÃ©es Ã  l'abattage immÃ©diat et dont la viande est destinÃ©e Ã  la transformation,U,NOMBRE
+1,,,22,00,- - - - vaches laitiÃ¨res,U,NOMBRE
+,,,29,,- - - - autres,,
+1,,,,00,"- - - - autres %â€“ â€“ â€“ taureaux, Ã  l'exclusion des taurillons :",U,NOMBRE
+1,,,31,00,- - - - taureaux de combat importÃ©s pour les besoins d'une manifestation tauromachique dÃ©terminÃ©e et conduits directement au toril,U,NOMBRE
+1,,,39,00,- - - - autres%â€“ â€“ â€“ â€“ autres :,U,NOMBRE
+1,,,41,00,"- - - - - boeufs, Ã  l'exclusion des bouvillons et gÃ©nisses",U,NOMBRE
+1,,,49,00,- - - - - autres,U,NOMBRE
+1,,,90,00,- - - autres%â€“ Buffles:,U,NOMBRE
+,,0102.31,00,,- - Reproducteurs de race pure,,
+1,,,,10,- - - des espÃ¨ces domestiques (a.),U,NOMBRE
+1,,,,90,- - - autres (a.),U,NOMBRE
+,,0102.39,00,,- - Autres,,
+1,,,,10,- - - des espÃ¨ces domestiques (a.),U,NOMBRE
+1,,,,90,- - - autres (a.),U,NOMBRE
+,,0102.90,,,- - - - - AutresÂ£- - - des espÃ¨ces domestiques :,,
+,,,00,,- Autres,,
+1,,,,10,- - - reproducteurs de race pure (Ø£),U,NOMBRE
+1,,,,90,- - - autres,U,NOMBRE
+,01.03,,,,Animaux vivants de l'espÃ¨ce porcine,,
+,,0103.10,00,,- Reproducteurs de race pure,,
+1,,,,10,- - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,,90,- - - - - autres Â£- Autres :,U,NOMBRE
+,,0103.91,,,- - D'un poids infÃ©rieur Ã  50 kg,,
+1,,,10,00,- - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,90,00,- - - - autres,U,NOMBRE
+,,0103.92,,,- - D'un poids Ã©gal ou supÃ©rieur Ã  50 kg,,
+,,,10,,- - - des espÃ¨ces domestiques :,,
+1,,,,00,- - - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,90,00,- - - - - autres,U,NOMBRE
+,01.04,,,,Animaux vivants des espÃ¨ces ovine ou caprine,,
+,,0104.10,,,- De l'espÃ¨ce ovine,,
+,,,10,,- - - reproducteurs de race pure :,,
+1,,,,10,- - - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,,90,- - - - - - autres,U,NOMBRE
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,,90,- - - - - - autres,U,NOMBRE
+,,0104.20,,,- De l'espÃ¨ce caprine,,
+,,,10,,- - - reproducteurs de race pure :,,
+1,,,,10,- - - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,,90,- - - - - - autres,U,NOMBRE
+,,,90,,- - - - - autres :,,
+1,,,,10,- - - - des espÃ¨ces domestiques,U,NOMBRE
+1,,,,90,- - - - - - autres,U,NOMBRE
+,01.05,,,,"Coqs, poules, canards, oies, dindons, dindes et pintades, vivants, des espÃ¨ces domestiques.Â£- D'un poids n'excÃ©dant pas 185 g :",,
+,,0105.11,,,- - Coqs et poules,,
+1,,,10,00,- - - - reproducteurs,U,NOMBRE
+1,,,90,00,- - - - - autres,U,NOMBRE
+,,0105.12,00,,- - Dindes et dindons,,
+1,,,,10,- - - - reproducteurs,U,NOMBRE
+1,,,,90,- - - - - autres,U,NOMBRE
+,,0105.13,,,- - Canards,,
+1,,,10,00,- - - reproducteurs (a.),U,NOMBRE
+1,,,90,00,- - - autres,U,NOMBRE
+,,0105.14,,,- - Oies,,
+1,,,10,00,- - - reproducteurs (a.),U,NOMBRE
+1,,,90,00,- - - autres,U,NOMBRE
+,,0105.15,,,- - pintades,,
+1,,,10,00,- - - reproducteurs (a.),U,NOMBRE
+1,,,90,00,- - - autres,U,NOMBRE
+,,0105.19,00,,- - - - - AutresÂ£- - - canetons :,,
+,,0105.94,00,,- - Coqs et poules,,
+1,,,,00,- - - Volailles de l espÃ¨ce Gallus domesticus,U,NOMBRE
+,,0105.99,00,,- - - - - Autres,,
+1,,,,10,- - - - canards,U,NOMBRE
+1,,,,20,- - - oies,U,NOMBRE
+1,,,,30,- - - - - - dindons et dindes,U,NOMBRE
+1,,,,90,- - - - - pintades,U,NOMBRE
+,01.06,,,,Autres animaux vivantsÂ£- MammifÃ¨res :,,
+,,0106.11,,,- - Primates,,
+3,,,10,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs",U,- - - - -
+3,,,90,00,- - - autres,U,- - - - -
+,,0106.12,,,"- - Baleines, dauphins et marsouins (mammifÃ¨res de l'ordre des cÃ©tacÃ©s) ; lamantins et dugongs (mammifÃ¨res de l'ordre des sirÃ©niens)",,
+3,,,20,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales,%importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs",U,- - - - -
+3,,,80,00,- - - autres,U,NOMBRE
+,,0106.13,,,- - Chameaux et autres camÃ©lidÃ©s (CamelidÃ©s),,
+1,,,10,00,- - - reproducteurs,U,NOMBRE
+,,,90,,- - - autres,,
+1,,,,10,"- - - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs.",U,- - - - -
+1,,,,90,- - - - autres,U,NOMBRE
+,,0106.14,,,- - Lapins et liÃ¨vres%â€“ â€“ â€“ lapins domestiques :,,
+1,,,11,00,- - - - lapereaux reproducteurs (b),U,NOMBRE
+1,,,19,00,- - - - autres %â€“ â€“ â€“ autres :,U,NOMBRE
+3,,,30,00,"- - - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs.%â€“ â€“ â€“ â€“ autres:",U,- - - - -
+3,,,50,00,- - - - - des espÃ¨ces gibier,U,- - - - -
+3,,,60,00,- - - - - des espÃ¨ces Ã  poils,U,- - - - -
+3,,,90,00,- - - - - autres %%,U,- - - - -
+,,0106.19,,,- - - - - AutresÂ£- - - lapins domestiques :,,
+3,,,35,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales,importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs.%â€“ â€“ â€“ Autres:%â€“ â€“ â€“ â€“ des espÃ¨ces domestiques:",U,- - - - -
+3,,,41,00,- - - - - - chiens et chats,U,- - - - -
+3,,,47,00,- - - - - autres%â€“ â€“ â€“ â€“ Autres:,U,- - - - -
+3,,,55,00,- - - - - des espÃ¨ces gibier %â€“ â€“ â€“ â€“ â€“ des espÃ¨ces Ã  poils:,U,- - - - -
+3,,,61,00,- - - - - - - chiens et chats,U,- - - - -
+3,,,67,00,- - - - - - autres,U,- - - - -
+3,,,80,00,- - - - - autres,U,- - - - -
+,,0106.20,,,- Reptiles (y compris les serpents et les tortues de mer),,
+3,,,10,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcsÂ£- - - autres :",U,- - - - -
+3,,,91,00,- - - - tortues,U,- - - - -
+3,,,92,00,- - - - crocodiles,U,- - - - -
+3,,,99,00,- - - - autresÂ£- Oiseaux :,U,- - - - -
+,,0106.31,,,- - Oiseaux de proie,,
+3,,,00,00,- - - Oiseaux de proie,U,- - - - -
+,,0106.32,,,"- - Psittaciformes (y compris les perroquets, perruches, aras et cacatoÃ¨s)",,
+3,,,10,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs",U,- - - - -
+3,,,90,00,- - - autres,U,- - - - -
+,,0106.33,,,"- - ""Autruches; Ã©meus (Dromaius novaehollandiae)""",,
+3,,,10,00,"- - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs",U,- - - - -
+3,,,90,00,- - - autres,U,- - - - -
+,,0106.39,,,- - AutresÂ£- - - pigeons :,,
+1,,,11,00,- - - - dits Â«de tirÂ» importÃ©s pour les besoins d'une manifestation publique (con- cours) dÃ©terminÃ©e et conduits directement Ã  destination sous le couvert d'un acquit-Ã -caution Ã  faire dÃ©charger par le service des douanes du lieu oÃ¹ est organisÃ,U,- - - - -
+3,,,12,00,- - - - pigeons voyageurs,U,- - - - -
+1,,,19,00,- - - - autresÂ£- - - autres :,U,- - - - -
+3,,,40,00,"- - - - destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcs.",U,- - - - -
+3,,,91,00,- - - - - - des espÃ¨ces gibier,U,- - - - -
+3,,,99,00,- - - - - - autres,U,- - - - -
+,,0106.41,,,- - Abeilles,,
+3,,,10,00,- - - bourdons pollinisateurs,U,RUCHE
+3,,,90,00,- - - autres,U,- - - - -
+,,0106.49,,,- - Autres,,
+3,,,10,00,- - - insectes exotiques de la lutte biologique,U,- - - - -
+3,,,90,00,- - - autres,U,- - - - -
+,,0106.90,,,- - - - Autres,,
+3,,,30,00,"- - - animaux destinÃ©s aux parcs zoologiques, nationaux ou des collectivitÃ©s locales, importÃ©s Ã  leur ordre ou pour leur compte et conduits directement Ã  ces parcsÂ£- - - autres :",U,- - - - -
+3,,,91,00,- - - - des espÃ¨ces gibier,U,- - - - -
+3,,,92,00,- - - - des espÃ¨ces Ã  poils,U,- - - - -
+3,,,97,00,- - - - autres,U,- - - - -

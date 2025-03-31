@@ -1,0 +1,58 @@
+0,1,2,3,4,5,6,7
+,26.01,,,,"- - Minerais de fer et leurs concentrÃ©s, y compris les pyrites de fer grillÃ©es (cendres de pyrites).Â£- Minerais de fer et leurs concentrÃ©s, autres que les pyrites de fer grillÃ©es (cendres de pyrites) :",,
+4,,2601.11,00,00,- - Non agglomÃ©rÃ©s,KG,- - - - -
+4,,2601.12,00,00,- - AgglomÃ©rÃ©s,KG,- - - - -
+4,,2601.20,00,00,- Pyrites de fer grillÃ©es (cendres de pyrites),KG,- - - - -
+4,,2602.00,00,00,"- - - Minerais de manganÃ¨se et leurs concentrÃ©s, y compris les minerais de manganÃ¨se ferrugineux et leurs concentrÃ©s d'une teneur en manganÃ¨se de 20% ou plus en poids, sur produit sec",KG,- - - - -
+4,,2603.00,00,00,Minerais de cuivre et leurs concentrÃ©s,KG,- - - - -
+4,,2604.00,00,00,Minerais de nickel et leurs concentrÃ©s,KG,- - - - -
+4,,2605.00,00,00,Minerais de cobalt et leurs concentrÃ©s,KG,- - - - -
+4,,2606.00,00,00,Minerais d'aluminium et leurs concentrÃ©s,KG,- - - - -
+4,,2607.00,00,00,Minerais de plomb et leurs concentrÃ©s,KG,- - - - -
+4,,2608.00,00,00,Minerais de zinc et leurs concentrÃ©s,KG,- - - - -
+4,,2609.00,00,00,Minerais d'Ã©tain et leurs concentrÃ©s,KG,- - - - -
+4,,2610.00,00,00,Minerais de chrome et leurs concentrÃ©s,KG,- - - - -
+4,,2611.00,00,00,Minerais de tungstÃ¨ne et leurs concentrÃ©s,KG,- - - - -
+,26.12,,,,Minerais d'uranium ou de thorium et leurs concentrÃ©s,,
+4,,2612.10,00,00,- Minerais d'uranium et leurs concentrÃ©s,KG,- - - - -
+4,,2612.20,00,00,- Minerais de thorium et leurs concentrÃ©s,KG,- - - - -
+,26.13,,,,Minerais de molybdÃ¨ne et leurs concentrÃ©s,,
+4,,2613.10,00,00,- GrillÃ©s,KG,- - - - -
+4,,2613.90,00,00,- Autres,KG,- - - - -
+4,,2614.00,00,00,Minerais de titane et leurs concentrÃ©s,KG,- - - - -
+,26.15,,,,"Minerais de niobium, de tantale, de vanadium ou de zirconium et leurs concentrÃ©s.",,
+4,,2615.10,00,00,- Minerais de zirconium et leurs concentrÃ©s,KG,- - - - -
+4,,2615.90,00,00,- Autres,KG,- - - - -
+,26.16,,,,Minerais de mÃ©taux prÃ©cieux et leurs concentrÃ©s,,
+4,,2616.10,00,00,- - Minerais d'argent et leurs concentrÃ©s,KG,- - - - -
+4,,2616.90,00,00,- Autres,KG,- - - - -
+,26.17,,,,Autres minerais et leurs concentrÃ©s,,
+4,,2617.10,00,00,- Minerais d'antimoine et leurs concentrÃ©s,KG,- - - - -
+,,2617.90,00,,- Autres,,
+4,,,,10,- - - minerais de beryllium (glucinium) et de lithium,KG,- - - - -
+4,,,,80,- - - autres,KG,- - - - -
+4,,2618.00,00,00,"Laitier granulÃ© (sable-laitier) provenant de la fabrication de la fonte, du fer ou de l'acier",KG,- - - - -
+,,2619.00,00,,"Scories, laitiers (autres que le laitier granulÃ©), battitures et autres dÃ©chets de la fabrication de la fonte, du fer ou de l'acier.",,
+4,,,,20,- - - dÃ©chets propres Ã  la rÃ©cupÃ©ration du fer ou du manganÃ¨se,KG,- - - - -
+4,,,,80,- - - autres,KG,- - - - -
+,26.20,,,,"Cendres et rÃ©sidus (autres que ceux provenant de la fabrication de la fonte, du fer ou de l'acier) contenant de l'arsenic, des mÃ©taux ou des composÃ©s de mÃ©taux.Â£- Contenant principalement du zinc :",,
+4,,2620.11,00,00,- - Mattes de galvanisation,KG,- - - - -
+,,2620.19,00,,- - Autres,,
+4,,,,00,- - - Autres,KG,- - - - -
+4,,2620.21,00,00,- - Boues d'essence au plomb et boues de composÃ©s antidÃ©tonants contenant du plomb,KG,- - - - -
+4,,2620.29,00,00,- - Autres,KG,- - - - -
+,,2620.30,00,,- Contenant principalement du cuivre,,
+4,,,,00,- - - Contenant principalement du cuivre,KG,- - - - -
+4,,2620.40,00,00,- Contenant principalement de l'aluminium,KG,- - - - -
+4,,2620.60,00,00,"- Contenant de l'arsenic, du mercure, du thallium ou leurs mÃ©langes, des types utilisÃ©s pour l'extraction de l'arsenic ou de ces mÃ©taux ou pour la fabrication de leurs composÃ©s chimiquesÂ£- Autres :",KG,- - - - -
+4,,2620.91,00,00,"- - Contenant de l'antimoine, du bÃ©ryllium, du cadmium, du chrome ou leurs mÃ©langes",KG,- - - - -
+,,2620.99,00,,- - Autres,,
+4,,,,10,- - - contenant principalement du vanadium,KG,- - - - -
+4,,,,80,- - - autres,KG,- - - - -
+,26.21,,,,"Autres scories et cendres, y compris les cendres de varech; cendres et rÃ©sidus provenant de l'incinÃ©ration des dÃ©chets municipaux.",,
+4,,2621.10,00,00,- Cendres et rÃ©sidus provenant de l'incinÃ©ration des dÃ©chets municipaux,KG,- - - - -
+,,2621.90,,,- Autres,,
+4,,,10,00,- - - cendres de varech,KG,- - - - -
+5,,,20,00,"- - - salins de betteraves prÃ©sentÃ©s soit en tablettes, pastilles et autres formes similaires, soit en emballages d'un poids brut maximum de 10 kgs",KG,- - - - -
+5,,,30,00,- - - autres salins de betteraves,KG,KG. K2O (OXYDE DE POTASSIUM)
+4,,,90,00,- - - autres,KG,- - - - -

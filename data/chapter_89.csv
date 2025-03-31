@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6,7
+,89.01,,,,"- - Paquebots, bateaux de croisiÃ¨res, transbordeurs, cargos, pÃ©niches et bateaux similaires pour le transport de personnes ou de mar- chandises.",,
+,,8901.10,00,,"- - - - Paquebots, bateaux de croisiÃ¨res et bateaux similaires principa- lement conÃ§us pour le transport de personnes; transbordeurs",,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,,8901.20,00,,- Bateaux-citernes,,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,,8901.30,00,,- Bateaux frigorifiques autres que ceux du nÂ° 890120,,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,,8901.90,00,,- - - - - Autres bateaux pour le transport de marchandises et autres bateaux conÃ§us Ã  la fois pour le transport de personnes et de marchandises,,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,,8902.00,00,,Bateaux de pÃªche; navires-usines et autres bateaux pour le traitement ou la mise en conserve des produits de la pÃªche.,,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,89.03,,,,Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux Ã  rames et canoes.,,
+,89.03,,,,Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux Ã  rames et canoes.,,
+,89.03,,,,"""Yachts et autres bateaux et embarcations de plaisance ou de sport ;bateaux Ã  rames et canoes.â€“ Bateaux gonflables, mÃªme Ã  coque rigide :""",,
+,89.03,,,,"""Yachts et autres bateaux et embarcations de plaisance ou de sport ;bateaux Ã  rames et canoes.â€“ Bateaux gonflables, mÃªme Ã  coque rigide :""",,
+8,,8903.11,00,00,"- - Comportant un moteur ou conÃ§us pour comporter un moteur, d'un poids Ã  vide sans moteur n'excÃ©dant pas 100 kg",U,NOMBRE
+8,,8903.12,00,00,- - Non conÃ§us pour Ãªtre utilisÃ©s avec un moteur et d'un poids Ã  vide n'excÃ©dant pas 100 kg,U,NOMBRE
+8,,8903.19,00,00,"- - Autres Â£â€“Bateaux Ã  voile, autres que gonflables, mÃªme avec moteur auxiliaire :",U,NOMBRE
+8,,8903.21,00,00,"- - D'une longueur n'excÃ©dant pas 7,5 m",U,NOMBRE
+8,,8903.22,00,00,"- - D'une longueur excÃ©dant 7,5 m mais n'excÃ©dant pas 24 m",U,NOMBRE
+8,,8903.23,00,00,"- - D'une longueur excÃ©dant 24 m Â£â€“ Bateaux Ã  moteur, autres que gonflables, ne comportant pas de moteur hors-bord :",U,NOMBRE
+8,,8903.31,00,00,"- - D'une longueur n'excÃ©dant pas 7,5 m",U,NOMBRE
+8,,8903.32,00,00,"- - D'une longueur excÃ©dant 7,5 m mais n'excÃ©dant pas 24 m",U,NOMBRE
+8,,8903.33,00,00,- - D'une longueur excÃ©dant 24 m Â£â€“ Autres:,U,NOMBRE
+8,,8903.93,00,00,"- - D'une longueur n'excÃ©dant pas 7,5 m",U,NOMBRE
+8,,8903.99,00,00,- - Autres,U,NOMBRE
+8,,8903.99,00,00,- - Autres,U,NOMBRE
+8,,8903.99,00,00,- - Autres,U,NOMBRE
+8,,8903.99,00,00,- - Autres,U,NOMBRE
+7,,8904.00,00,00,- - - - - - Remorqueurs et bateaux-pousseurs,U,- - - - -
+,89.05,,,,"- - - - Bateaux-phares, bateaux-pompes, bateaux- dragueurs, pontons-grues et autres bateaux pour lesquels la navigation n'est qu'accessoire par rapport Ã  la fonction principale; docks flottants; plates-formes de forage ou d'exploitation, flottantes ou su",,
+7,,8905.10,00,00,- Bateaux-dragueurs,U,- - - - -
+7,,8905.20,00,00,"- Plates-formes de forage ou d'exploitation, flottantes ou submer- sibles",U,- - - - -
+7,,8905.90,00,00,- Autres,U,- - - - -
+,89.06,,,,"Autres bateaux, y compris les navires de guerre et les bateaux de sauvetage autres qu'Ã  rames.",,
+7,,8906.10,00,00,- Navires de guerre,U,- - - - -
+,,8906.90,00,,- Autres,,
+7,,,,10,- - - d'une jauge brute de plus de 250 tonneaux (BRT) (1),U,B.R.T. (TONNEAU)
+7,,,,90,- - - autres,U,B.R.T. (TONNEAU)
+,89.07,,,,"- - Autres engins flottants (radeaux, rÃ©servoirs, caissons, coffres d'amar- rage, bouÃ©es et balises, par exemple).",,
+7,,8907.10,00,00,- Radeaux gonflables,U,- - - - -
+7,,8907.90,00,00,- Autres,U,- - - - -
+7,,8908.00,00,00,Bateaux et autres engins flottants Ã  dÃ©pecer,U,- - - - -

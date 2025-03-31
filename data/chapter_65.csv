@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+,,6501.00,00,,"- - - - - Cloches non dressÃ©es (mises en forme) ni tournurÃ©es (mises en tournure), plateaux (disques), manchons (cylindres) mÃªme fendus dans le sens de la hauteur, en feutre, pour chapeaux.Â£- - - en feutre de poils ou de laine et poils :",,
+5,,,,10,- - - - en feutre de poils ou de laine et poils,KG,NOMBRE
+5,,,,90,- - - - autres,KG,NOMBRE
+,,6502.00,00,,"- - - - Cloches ou formes pour chapeaux, tressÃ©es ou fabriquÃ©es par l'assemb- lage de bandes en toutes matiÃ¨res, non dressÃ©es (mises en forme) ni tournurÃ©es (mises en tournure) ni garnies.",,
+5,,,,10,"- - - - en copeaux ou rubans de bois, paille, Ã©corce, sparte, aloÃ¨s, abaca, sisal ou autres fibres vÃ©gÃ©tales non filÃ©esÂ£- - - autres :",KG,NOMBRE
+5,,,,90,- - - autres,KG,NOMBRE
+,,6503.00,00,,"- - Chapeaux et autres coiffures en feutre, fabriquÃ©s Ã  l'aide des cloches ou des plateaux du nÂ° 65.01, mÃªme garnis.Â£- - - non garnis :",,
+,,6504.00,00,,"- Chapeaux et autres coiffures, tressÃ©s ou fabriquÃ©s par l'assemblage de bandes en toutes matiÃ¨res, mÃªme garnis.Â£- - - non garnis :",,
+8,,,,00,"- - - - - Chapeaux et autres coiffures, tressÃ©s ou fabriquÃ©s par l assemblage de bandes en toutes matiÃ¨res, mÃªme garnis",KG,NOMBRE
+,65.05,,,,"- - - - - - - - - Chapeaux et autres coiffures en bonneterie ou confectionnÃ©s Ã  l'aide de dentelles, de feutre ou d'autres produits textiles, en piÃ¨ces (mais non en bandes), mÃªme garnis; rÃ©silles et filets Ã  cheveux en toutes matiÃ¨res, mÃªme garnis",,
+,,6505.00,,,"""Chapeaux et autres coiffures en bonneterie ou confectionnÃ©s Ã  l'aide de dentelles, de feutre ou d'autres produits textiles, en piÃ¨ces (mais non en bandes), mÃªme garnis; rÃ©silles et filets Ã  cheveux en toutes matiÃ¨res, mÃªme garnis.""",,
+,,,10,,- - - rÃ©silles et filets Ã  cheuveux,,
+8,,,,10,- - - - en cheveux,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+,,,20,,"- - - chapeaux et autres coiffures en feutre, fabriquÃ©s Ã  l'aide des cloches ou des plateaux du nÂ° 65.01, mÃªme garnis:%â€“ â€“ â€“ â€“ non garnis :",,
+8,,,,00,"- - - - - chapeaux et autres coiffures en feutre, fabriquÃ©s Ã  l aide des cloches ou des plateaux du nÂ° 65.01, mÃªme garnis",U,- - - - -
+,,,90,,"- - - autres:%â€“ â€“ â€“ â€“ bÃ©rets, bonnets, calottes, fez, chÃ©chias et coiffures similaires :",,
+8,,,,12,- - - - bÃ©rets,KG,- - - - -
+8,,,,13,- - - - bonnets,KG,- - - - -
+8,,,,18,"- - - - calottes, fez, chÃ©chias et coiffures similaires",KG,- - - - -
+8,,,,35,- - - - casquettes,KG,- - - - -
+8,,,,40,- - - - kÃ©pis et coiffures similaires,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,6505.10,00,,- RÃ©silles et filets Ã  cheveux,,
+,,6505.90,00,,"- AutresÂ£- - - bÃ©rets, bonnets, calottes, fez, chÃ©chias et coiffures similaires :",,
+,65.06,,,,"Autres chapeaux et coiffures, mÃªme garnis",,
+,,6506.10,00,,- Coiffures de sÃ©curitÃ©,,
+8,,,,00,- - - Coiffures de sÃ©curitÃ©,KG,NOMBRE
+,,6506.91,00,,- - En caoutchouc ou en matiÃ¨re plastique,,
+8,,,,00,- - - En caoutchouc ou en matiÃ¨re plastique,KG,NOMBRE
+,,6506.99,00,,- - En autres matiÃ¨res,,
+8,,,,00,- - - Migration NGP inexistants,KG,NOMBRE
+8,,,,00,- - - Migration NGP inexistants,KG,NOMBRE
+8,,,,00,- - - En autres matiÃ¨res,KG,NOMBRE
+8,,,,00,- - - En autres matiÃ¨res,KG,NOMBRE
+,,6507.00,00,,"Bandes pour garniture intÃ©rieure, coiffes, couvre-coiffures, carcasses, visiÃ¨res et jugulaires pour la chapellerie.",,
+5,,,,00,"- - - Bandes pour garniture intÃ©rieure, coiffes, couvre-coiffures, carcasses, visiÃ¨res et jugulaires pour la chapellerie",KG,- - - - -

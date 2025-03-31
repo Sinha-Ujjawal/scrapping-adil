@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+,14.01,,,,"- - - MatiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es en vannerie ou en sparterie (bambous, rotins, roseaux, joncs, osiers, raphia, pailles de cÃ©rÃ©ales nettoyÃ©es, blanchies ou teintes, Ã©corces de tilleul, par exemple).",,
+,,1401.10,00,,- Bambous,,
+3,,,,00,- - - - - Bambous,KG,- - - - -
+,,1401.20,00,,- Rotins,,
+3,,,,00,- - - - - Rotins,KG,- - - - -
+,,1401.90,,,- Autres,,
+3,,,00,10,- - - - - Raphia,KG,- - - - -
+3,,,00,90,- - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,1402.00,,,"- - MatiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour le rembourrage (kapok, crin vÃ©gÃ©tal, crin marin, par exemple), mÃªme en nappes avec ou sans support en autres matiÃ¨res.",,
+,,,10,,- - - kapok :,,
+,,,90,,- - - autres :Â£- - - - crin vÃ©gÃ©tal :,,
+,,1403.00,,,"- - - - MatiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour la fabrication des balais ou des brosses (sorgho, piassava, chiendent, istle, par exemple), mÃªme en torsades ou en faisceaux.",,
+,,,10,,- - - sorgho Ã  balais (Sorghum vulgare var technicum) :,,
+,,,90,,"- - - autres :Â£- - - - piassava (ou piaÃ§aba), chiendent, istle et similaires :",,
+,14.04,,,,Produits vÃ©gÃ©taux non dÃ©nommÃ©s ni compris ailleurs,,
+,,1404.10,00,,- - - - MatiÃ¨res premiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour la teinture ou le tannageÂ£- - - pour la teinture :,,
+,,1404.20,00,,- Linters de coton,,
+3,,,,00,- - - Linters de coton,KG,- - - - -
+,,1404.90,,,"- autres%â€“ â€“ â€“ matiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour le rembourrage (kapok, crin vÃ©gÃ©tal, crin marin, par exemple), mÃªme en nappes avec ou sans support en autres matiÃ¨res :",,
+,,,00,,- Autres,,
+,,,11,,- - - - kapok,,
+,,,19,,- - - - autres :,,
+3,,,20,10,- - - - - hennÃ© (feuilles de),KG,- - - - -
+3,,,20,90,- - - - - autres,KG,- - - - -
+,,,21,,- - - - sorgho Ã  balais (Sorghum vulgare var.technicum),,
+,,,29,,- - - - autres :,,
+,,,30,,matiÃ¨res premiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour la teinture ou le tannage :%- - - - pour la teinture :,,
+3,,,40,00,"- - - - matiÃ¨res vÃ©gÃ©tales des espÃ¨ces principalement utilisÃ©es pour la fabrication des balais ou des brosses (sorgho, piassava, chiendent, istle, par exemple), mÃªme en torsades ou en faisceaux",KG,- - - - -
+3,,,80,10,"- - - - - - alfa, sparte et diss en tige ou en feuilles brutes, blanchies ou teintes (mÃªme en torsades)",KG,- - - - -
+3,,,80,90,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,

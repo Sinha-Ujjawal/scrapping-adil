@@ -1,0 +1,954 @@
+0,1,2,3,4,5,6,7
+,85.01,,,,"Moteurs et machines gÃ©nÃ©ratrices, Ã©lectriques, Ã  l'exclusion des groupes Ã©lectrogÃ¨nes.",,
+,,8501.10,,,"- Moteurs d'une puissance n'excÃ©dant pas 37,5 W",,
+8,,,10,00,- - - conÃ§us pour l'Ã©quipement de jouets ou modÃ¨les rÃ©duits pour le divertis- sementÂ£- - - autres :,U,- - - - -
+7,,,80,00,- - - autres,U,NOMBRE
+,,8501.20,,,"- - Moteurs universels d'une puissance excÃ©dant 37,5 W",,
+7,,,00,00,"- ""Moteurs universels d'une puissance excÃ©dant 37,5 W Â£â€“ Autres moteurs Ã  courant continu; machines gÃ©nÃ©ratrices Ã  courant continu, autres que les machines gÃ©nÃ©ratrices photovoltaÃ¯ques :""",U,NOMBRE
+,,,10,,- - - de 10 kgs ou moins :,,
+,,8501.31,,,- - D'une puissance n'excÃ©dant pas 750 W,,
+,,,10,,- - - de 10 kgs ou moins :,,
+7,,,,00,- - - de 10 kgs ou moins,U,NOMBRE
+7,,,,00,- - - de 10 kgs ou moins,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,90,00,- - - de plus de 10 kgs,U,NOMBRE
+,,8501.32,,,- - D'une puissance excÃ©dant 750 W mais n'excÃ©dant pas 75 kW,,
+7,,,20,00,- - - de 10 kgs ou moins,U,NOMBRE
+7,,,91,00,- - - - moteurs de traction,U,NOMBRE
+7,,,98,00,- - - - autres,U,NOMBRE
+,,8501.33,,,- - D'une puissance excÃ©dant 75 kW mais n'excÃ©dant pas 375 kW,,
+7,,,20,00,- - - moteurs de traction de plus de 10 kgs,U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8501.34,,,- - D'une puissance excÃ©dant 375 kW,,
+7,,,00,00,- - D'une puissance excÃ©dant 375 kW,U,NOMBRE
+,,8501.40,,,"- Autres moteurs Ã  courant alternatif, monophasÃ©sÂ£- - - de 10 kgs ou moins :",,
+7,,,11,00,- - - - moteurs d'une puissance n'excÃ©dant pas 50 W,U,NOMBRE
+7,,,19,00,- - - - moteurs Ã  embrayage pour machines Ã  coudreÂ£- - - - autres :,U,NOMBRE
+7,,,80,00,- - - - autres,U,NOMBRE
+,,8501.51,,,- - D'une puissance n'excÃ©dant pas 750 WÂ£- - - de 10 kgs ou moins :,,
+7,,,12,00,- - - - moteurs Ã  embrayage pour machines Ã  coudre,U,NOMBRE
+7,,,18,00,- - - - autres,U,NOMBRE
+7,,,90,00,- - - de plus de 10 kgs,U,NOMBRE
+,,8501.52,,,- - D'une puissance excÃ©dant 750 W mais n'excÃ©dant pas 75 kWÂ£- - - de 10 kgs ou moins :,,
+7,,,10,00,- - - - moteurs Ã  embrayage pour machines Ã  coudreÂ£- - - - autres :,U,NOMBRE
+7,,,30,00,- - - - autres,U,NOMBRE
+7,,,80,00,- - - de plus de 10 kgs,U,NOMBRE
+,,8501.53,,,- - D'une puissance excÃ©dant 75 kW,,
+7,,,00,00,"- - D'une puissance excÃ©dant 75 kW Â£â€“ Machines gÃ©nÃ©ratrices Ã  courant alternatif (alternateurs), autres Â£que les machines gÃ©nÃ©ratrices photovoltaÃ¯ques :",U,NOMBRE
+,,8501.61,00,,- - D'une puissance n'excÃ©dant pas 75 kVA,,
+7,,,,00,- - D'une puissance n'excÃ©dant pas 75 kVA,U,NOMBRE
+,,8501.62,00,,- - D'une puissance excÃ©dant 75 kVA mais n'excÃ©dant pas 375 kVA,,
+7,,,,00,- - D'une puissance excÃ©dant 75 kVA mais n'excÃ©dant pas 375 kVA,U,NOMBRE
+,,8501.63,,,- - D'une puissance excÃ©dant 375 kVA mais n'excÃ©dant pas 750 kVA,,
+7,,,00,00,- - D'une puissance excÃ©dant 375 kVA mais n'excÃ©dant pas 750 kVA,U,NOMBRE
+,,8501.64,00,,- - D'une puissance excÃ©dant 750 kVA,,
+7,,,,00,- - D'une puissance excÃ©dant 750 kVA Â£â€“ Machines gÃ©nÃ©ratrices photovoltaÃ¯ques Ã  courant continu :,U,NOMBRE
+7,,8501.71,00,00,- - D'une puissance n'excÃ©dant pas 50 W,U,NOMBRE
+7,,8501.72,00,00,- - D'une puissance excÃ©dant 50 W,U,NOMBRE
+7,,8501.80,00,00,- - Machines gÃ©nÃ©ratrices photovoltaÃ¯ques Ã  courant alternatif,U,NOMBRE
+,85.02,,,,Groupes Ã©lectrogÃ¨nes et convertisseurs rotatifs Ã©lectriquesÂ£- Groupes Ã©lectrogÃ¨nes Ã  moteur Ã  piston Ã  allumage par compres- sion (moteurs diesel ou semi-diesel) :,,
+,,8502.11,00,,- - D'une puissance n'excÃ©dant pas 75 kVA,,
+7,,,,00,- - D'une puissance n'excÃ©dant pas 75 kVA,U,NOMBRE
+7,,8502.12,00,00,- - D'une puissance excÃ©dant 75 kVA mais n'excÃ©dant pas 375 kVA,U,NOMBRE
+7,,8502.13,00,00,- - D'une puissance excÃ©dant 375 kVA,U,NOMBRE
+,,8502.20,00,,- - Groupes Ã©lectrogÃ¨nes Ã  moteur Ã  piston Ã  allumage par Ã©tincelles (moteurs Ã  explosion),,
+7,,,,00,- - Groupes Ã©lectrogÃ¨nes Ã  moteur Ã  piston Ã  allumage par Ã©tincelles Â£(moteurs Ã  explosion),U,NOMBRE
+,,8502.31,00,,- - A Ã©nergie Ã©olienne,,
+7,,,,00,- - A Ã©nergie Ã©olienne,U,NOMBRE
+,,8502.39,00,,- - Autres,,
+7,,,,00,- - Autres,U,NOMBRE
+7,,8502.40,00,00,- Convertisseurs rotatifs Ã©lectriques,U,NOMBRE
+,,8503.00,,,- - Parties reconnaissables comme Ã©tant exclusivement ou principa- lement destinÃ©es aux machines des nÂ°s 85.01 ou 85.02.,,
+8,,,10,00,- - - conÃ§ues pour l'Ã©quipement de jouets ou modÃ¨les rÃ©duits pour le divertis- sementÂ£- - - autres :Â£- - - - pour moteurs Ã©lectriques :,KG,- - - - -
+7,,,81,00,- - - - rotors,KG,NOMBRE
+7,,,82,00,- - - - stators,KG,NOMBRE
+7,,,89,00,- - - - autres,KG,NOMBRE
+,85.04,,,,"Transformateurs Ã©lectriques, convertisseurs Ã©lectriques statiques (redresseurs, par exemple), bobines de rÃ©actance et selfs.",,
+,,8504.10,,,- Ballasts pour lampes ou tubes Ã  dÃ©charge,,
+7,,,00,00,- Ballasts pour lampes ou tubes Ã  dÃ©charge,U,NOMBRE
+,,8504.21,,,- - D'une puissance n'excÃ©dant pas 650 kVA,,
+7,,,10,00,"- - - de mesureÂ£- - - autres :Â£- - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une puissance :",U,NOMBRE
+7,,,92,00,"- - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une Â£puissance infÃ©rieure ou Ã©gale Ã  0,5 KVA",U,NOMBRE
+7,,,98,00,- - - - autres,U,NOMBRE
+,,8504.22,,,- - D'une puissance excÃ©dant 650 kVA mais n'excÃ©dant pas 10000 kVA,,
+7,,,10,00,- - - de mesureÂ£- - - autres :Â£- - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde :,U,NOMBRE
+7,,,21,00,"- - - - - - - - - - - - - - d'une puissance nominale de 4 000 Ã  5 000 KVA, d'une tension nominale Ã  l'entrÃ©e Ã  vide de 20 000V, d'une tension maximale Ã  la sortie Ã  vide de 161V, d'une tension minimale Ã  la sortie Ã  vide de 121 V, et d'une inducti",U,NOMBRE
+7,,,29,00,- - - - - autres,U,NOMBRE
+7,,,99,00,- - - - autres,U,NOMBRE
+,,8504.23,,,- - D'une puissance excÃ©dant 10000 kVA,,
+7,,,10,00,"- - - de mesureÂ£- - - autres :Â£- - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une puissance :",U,NOMBRE
+7,,,90,00,- - - - autres,U,NOMBRE
+,,8504.31,,,- - D'une puissance n'excÃ©dant pas 1 kVA,,
+8,,,10,00,- - - conÃ§us pour l'Ã©quipement de jouets ou modÃ¨les rÃ©duits pour le divertis- sementÂ£- - - autres :,U,- - - - -
+7,,,91,00,"- - - - de mesureÂ£- - - - autres :Â£- - - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une puissance :",U,NOMBRE
+7,,,95,00,"- - - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une Â£puissance , infÃ©rieure ou Ã©gale Ã  0,5 KVA",U,NOMBRE
+7,,,97,00,- - - - - autres,U,NOMBRE
+,,8504.32,,,- - D'une puissance excÃ©dant 1 kVA mais n'excÃ©dant pas 16 kVA,,
+8,,,10,00,- - - conÃ§us pour l'Ã©quipement de jouets ou modÃ¨les rÃ©duits pour le divertis- sementÂ£- - - autres :,U,- - - - -
+7,,,91,00,- - - - de mesureÂ£- - - - autres :,U,NOMBRE
+7,,,97,00,- - - - autres,U,NOMBRE
+,,8504.33,,,- - D'une puissance excÃ©dant 16 kVA mais n'excÃ©dant pas 500 kVA,,
+7,,,10,00,- - - de mesureÂ£- - - autres :,U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8504.34,,,- - D'une puissance excÃ©dant 500 kVA,,
+7,,,10,00,"- - - de mesureÂ£- - - autres :Â£- - - - Ã  frÃ©quence industrielle de 25 Ã  60 pÃ©riodes inclues par seconde, d'une puissance :",U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8504.40,,,- Convertisseurs statiques,,
+7,,,10,00,- - - Ã  l'Ã©tat complet sous la forme d'Ã©lÃ©ments CKD,U,NOMBRE
+7,,,20,00,"- - - - unitÃ©s d'alimentation stabilisÃ©es, visÃ©es Ã  la note 5 E du chapitre 84, prÃ©sentÃ©es isolÃ©mentÂ£- - - autres :",U,NOMBRE
+7,,,91,00,"- - - - redresseurs Ã  diodes avec rhÃ©ostat, pouvant dÃ©livrer un courant d'une intensitÃ© de 40 ampÃ¨res Ã  140 ampÃ¨res, pour l'alimentation de lampes xÃ©non au tungstÃ¨ne d'une puissance allant de 500 watts Ã  6500 watts",U,NOMBRE
+,,,99,,- - - - autres :,,
+7,,,,10,"- - - - - - - convertisseurs statiques dits Â«chargeurs de batterieÂ», d'une capacitÃ© supÃ©rieure ou Ã©gale Ã  6 volts et infÃ©rieure Ã  144 volts",U,NOMBRE
+7,,,,20,"- - - - - combinaison de machines au sens de la note 4 de la section XVI, constituÃ© d'un transformateur diÃ©lectrique de 13500 KVA, d'une frÃ©quence industrielle de 25 Ã  60 pÃ©riodes, d'une tension d'alimentation de 60 kv et d'une tension et d'une tensi",U,NOMBRE
+7,,,,30,"- - - - - appareils pour varier la vitesse des moteurs Ã©lectriques en agissant sur la frÃ©quence et/ou la tension, comportant une carte Ã©lectronique avec logiciel installÃ© et un convertisseur statique composÃ© lui-mÃªme d'un redresseur et/ou d'un ondul",U,NOMBRE
+7,,,,40,- - - - - autres convertisseurs. pour transformer le courant continu en un courant continu de tension ou de polaritÃ© diffÃ©rentes (convertisseurs de courant continu),U,NOMBRE
+7,,,,50,- - - - - autres onduleurs,U,NOMBRE
+7,,,,80,- - - - - autres,U,NOMBRE
+7,,,,80,- - - - - autres,U,NOMBRE
+7,,,,80,- - - - - autres,U,NOMBRE
+7,,,,80,- - - - - autres,U,NOMBRE
+7,,8504.50,00,00,- Autres bobines de rÃ©actance et autres selfs,U,NOMBRE
+,,8504.90,,,- Parties,,
+8,,,10,00,- - - conÃ§ues pour l'Ã©quipement de jouets ou modÃ¨les rÃ©duits pour le divertis- sement,KG,- - - - -
+7,,,70,00,- - - autres,KG,- - - - -
+,,,80,,- - - autres :,,
+,85.05,,,,"Electro-aimants; aimants permanents et articles destinÃ©s Ã  devenir des aimants permanents aprÃ¨s aimantation; plateaux, mandrins et dispositifs magnÃ©tiques ou Ã©lectromagnÃ©tiques similaires de fixation; accouplements, embrayages, variateurs de vitesse",,
+7,,8505.11,00,00,- - En mÃ©tal,KG,- - - - -
+7,,8505.19,00,00,- - Autres,KG,- - - - -
+7,,8505.20,00,00,"- Accouplements, embrayages, variateurs de vitesse et freins Ã©lectromagnÃ©tiques",KG,- - - - -
+,,8505.90,00,,"- Autres, y compris les parties",,
+7,,8505.90,10,00,- - - tÃªtes de levage Ã©lectromagnÃ©tiques,U,- - - - -
+7,,8505.90,90,10,- - - - machines et appareils,U,- - - - -
+7,,8505.90,90,90,- - - - autres,U,- - - - -
+,85.06,,,,Piles et batteries de piles Ã©lectriques,,
+,,8506.10,00,,- Au bioxyde de manganÃ¨se,,
+,,8506.10,00,,- Au bioxyde de manganÃ¨se,,
+,,8506.10,00,,"- ""Au bioxyde de manganÃ¨seâ€“ â€“ â€“ alcalines:""",,
+,,8506.10,00,,"- ""Au bioxyde de manganÃ¨seâ€“ â€“ â€“ alcalines:""",,
+7,,,,11,- - - - piles cylindriques,U,- - - - -
+7,,,,19,- - - - autres Â£â€“ â€“ â€“ autres:,U,- - - - -
+7,,,,91,- - - - piles cylindriques,U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+,,8506.30,00,,- A l'oxyde de mercure,,
+7,,,,00,- A l'oxyde de mercure,U,- - - - -
+,,8506.40,00,,- A l'oxyde d'argent,,
+7,,,,00,- A l'oxyde d'argent,U,- - - - -
+,,8506.50,,,- Au lithiumÂ£- - - sÃ¨ches :,,
+7,,,20,00,- - - sÃ¨ches dont la tension est infÃ©rieure ou Ã©gale Ã  10 volts,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+,,8506.60,00,,- - A l'air-zinc,,
+7,,,,00,- A l'air-zinc,U,- - - - -
+,,8506.80,,,- Autres piles et batteries de pilesÂ£- - - sÃ¨ches :Â£- - - - dont la tension est infÃ©rieure ou Ã©gale Ã  10 volts :,,
+7,,,30,00,- - - alcalines dont la tension est infÃ©rieure ou Ã©gale Ã  10 volts,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+,,,90,,- - - autres :,,
+,,8506.90,,,- PartiesÂ£- - - de piles sÃ¨ches :,,
+7,,,20,00,- - - de piles sÃ¨ches,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,85.07,,,,"Accumulateurs Ã©lectriques, y compris leurs sÃ©parateurs, mÃªme de forme carrÃ©e ou rectangulaire.",,
+,,8507.10,00,,"- Au plomb, des types utilisÃ©s pour le dÃ©marrage des moteurs Ã  piston",,
+,,8507.10,00,,"- Au plomb, des types utilisÃ©s pour le dÃ©marrage des moteurs Ã  piston",,
+,,8507.10,00,,"- ""Au plomb, des types utilisÃ©s pour le dÃ©marrage desmoteurs Ã  pistonâ€“ â€“ â€“ pour le dÃ©marrage de vÃ©hicules automobiles:""",,
+,,8507.10,00,,"- ""Au plomb, des types utilisÃ©s pour le dÃ©marrage desmoteurs Ã  pistonâ€“ â€“ â€“ pour le dÃ©marrage de vÃ©hicules automobiles:""",,
+7,,,,11,- - - - fonctionnant Ã  l'electrolyte liquide,U,- - - - -
+7,,,,19,- - - - autres,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+7,,8507.20,00,00,- Autres accumulateurs au plomb,U,- - - - -
+,,8507.30,,,- - Au nickel-cadmium,,
+,,,10,,- - - spÃ©cialement conÃ§us pour l'Ã©quipement des vÃ©hicules automobiles:,,
+7,,,,10,- - - - fonctionnant Ã  l'electrolyte liquide,U,- - - - -
+7,,,,90,- - - - autres,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,,8507.40,,,- - Au nickel-fer,,
+7,,8507.50,10,00,- - - spÃ©cialement conÃ§us pour l'Ã©quipement des vÃ©hicules automobiles,U,- - - - -
+7,,8507.50,90,00,- - - autres,U,- - - - -
+7,,8507.60,07,00,"- - - Ã©lÃ©ments d'accumulateur (cellules), d'une tension de 3,6 V ou moins, ni reliÃ©s Ã©lectriquement, ni assemblÃ©s en batterie, sans boÃ®tier ou cadre commun",U,- - - - -
+7,,8507.60,10,00,- - - spÃ©cialement conÃ§us pour l'Ã©quipement des vÃ©hicules automobiles,U,- - - - -
+7,,8507.60,80,00,- - - autres,U,- - - - -
+,,8507.80,,,- Autres accumulateurs,,
+7,,,15,00,- - - spÃ©cialement conÃ§us pour l'Ã©quipement des vÃ©hicules automobiles,U,- - - - -
+7,,,20,00,- - - accumulateurs de compensation Ã  condensateurs,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+,,8507.90,,,- Parties,,
+5,,,40,00,"- - - sÃ©parateurs en bois, plaques bacs, couvercles, sÃ©parateurs et bouchons Â£en Ã©bonite ou en matiÃ¨res plastiques",KG,- - - - -
+5,,,80,00,- - - - autres,KG,- - - - -
+,85.08,,,,Aspirateurs.,,
+5,,8508.11,00,00,- - D'une puissance n'excÃ©dant pas 1.500 W et dont le volume du rÃ©servoir n'excÃ¨de pas 20 l,U,- - - - -
+5,,8508.19,00,00,- - Autres,U,- - - - -
+5,,8508.60,00,00,- - Autres aspirateurs,U,- - - - -
+5,,8508.70,00,00,- - Parties,U,- - - - -
+,85.09,,,,"Appareils Ã©lectromÃ©caniques Ã  moteur Ã©lectrique incorporÃ©, Ã  usage domestique.",,
+,,8509.40,00,,- - - Broyeurs et mÃ©langeurs pour aliments; presse-fruits et presse- lÃ©gumes,,
+8,,,,10,- - - broyeurs et mÃ©langeurs pour aliments ; presse-fruits,U,NOMBRE
+8,,,,90,- - - autres,U,NOMBRE
+8,,8509.80,00,00,- Autres appareils,U,- - - - -
+8,,8509.80,00,00,- Autres appareils,U,- - - - -
+8,,8509.80,00,00,- Autres appareils,U,- - - - -
+8,,8509.80,00,00,- Autres appareils,U,- - - - -
+8,,8509.90,00,00,- - Parties,KG,- - - - -
+,85.10,,,,"Rasoirs, tondeuses et appareils Ã  Ã©piler, Ã  moteur Ã©lectrique incorporÃ©",,
+,,8510.10,,,- Rasoirs,,
+8,,,10,00,- - - Ã  l'Ã©tat montÃ© et completÂ£- - - Ã  l'Ã©tat dÃ©montÃ© ou non assemblÃ© :,U,NOMBRE
+8,,,80,00,- - - autres,U,- - - - -
+8,,8510.20,00,00,- Tondeuses,U,- - - - -
+8,,8510.30,00,00,- Appareils Ã  Ã©piler,U,- - - - -
+,,8510.90,,,"- PartiesÂ£- - - tÃªtes, peignes, contre peignes, lames et couteaux :",,
+,,,00,,- Parties,,
+8,,,,10,"- - - tÃªtes, peignes, contre peignes, lames et couteaux",KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,85.11,,,,"Appareils et dispositifs Ã©lectriques d'allumage ou de dÃ©marrage pour moteurs Ã  allumage par Ã©tincelles ou par compression (magnÃ©tos, dynamos-magnÃ©tos, bobines d'allumage, bougies d'allumage ou de chauffage, dÃ©marreurs, par exemple); gÃ©nÃ©ratrices",,
+8,,8511.10,00,00,- Bougies d'allumage,U,- - - - -
+,,8511.20,00,,"- MagnÃ©tos; dynamos-magnÃ©tos; volants magnÃ©tiquesÂ£- - - magnÃ©tos, y compris les dynamos-magnÃ©tos :",,
+7,,8511.20,10,00,"- - - magnÃ©tos, y compris les dynamos-magnÃ©tos pour l'aviation",U,- - - - -
+8,,8511.20,20,00,- - - volants magnÃ©tiques,U,- - - - -
+,,8511.30,,,- Distributeurs; bobines d'allumage,,
+8,,,10,00,- - - collections pour bobines d'allumage visÃ©es Ã  la note complÃ©mentaire nÂ° 1 du prÃ©sent chapitre,U,- - - - -
+8,,,90,00,- - - autres,U,- - - - -
+7,,8511.40,00,00,"- DÃ©marreurs, mÃªme fonctionnant comme gÃ©nÃ©ratrices",U,- - - - -
+7,,8511.50,00,00,- Autres gÃ©nÃ©ratrices,U,- - - - -
+,,8511.80,00,,- Autres appareils et dispositifs,,
+7,,,,10,- - - conjoncteurs-disjoncteurs,U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+,,8511.90,,,- Parties,,
+7,,,20,00,- - - - - - collections pour rupteurs visÃ©es Ã  la note complÃ©mentaire nÂ° 2 du prÃ©sent chapitre,KG,- - - - -
+7,,,80,00,- - - autres,KG,- - - - -
+,85.12,,,,"Appareils Ã©lectriques d'Ã©clairage ou de signalisation (Ã  l'exclusion des articles du nÂ° 85.39), essuie-glaces, dÃ©givreurs et dispositifs antibuÃ©e Ã©lectriques, des types utilisÃ©s pour cycles ou automobiles.",,
+8,,8512.10,00,00,- - - - Appareils d'Ã©clairage ou de signalisation visuelle des types utilisÃ©s pour les bicyclettes,U,- - - - -
+,,8512.20,00,,- Autres appareils d'Ã©clairage ou de signalisation visuelleÂ£- - - appareils d'Ã©clairage pour motocycles et autres vÃ©hicules automobiles :,,
+8,,,,00,- Autres appareils d'Ã©clairage ou de signalisation visuelle,U,- - - - -
+,,8512.30,,,- Appareils de signalisation acoustique,,
+8,,,10,00,- - - - collections pour avertisseurs visÃ©es Ã  la note complÃ©mentaire nÂ° 3 du prÃ©sent chapitre,U,- - - - -
+8,,,90,00,- - - autres,U,- - - - -
+8,,8512.40,00,00,"- Essuie-glaces, dÃ©givreurs et dispositifs antibuÃ©e",U,- - - - -
+8,,8512.90,00,00,- - Parties,KG,- - - - -
+,85.13,,,,"Lampes Ã©lectriques portatives, conÃ§ues pour fonctionner au moyen de leur propre source d'Ã©nergie (Ã  piles, Ã  accumulateurs, Ã©lectromagnÃ©tiques, par exemple), autres que les appareils d'Ã©clairage du nÂ° 85.12.",,
+,85.13,,,,"Lampes Ã©lectriques portatives, conÃ§ues pour fonctionner au moyen de leur propre source d'Ã©nergie (Ã  piles, Ã  accumulateurs, Ã©lectromagnÃ©tiques, par exemple), autres que les appareils d'Ã©clairage du nÂ° 85.12.",,
+,85.13,,,,"Lampes Ã©lectriques portatives, destinÃ©es Ã  fonctionner au moyen de leur propre source d'Ã©nergie (Ã  piles, Ã  accumulateurs, Ã©lectro- magnÃ©tiques, par exemple), autres que les appareils d'Ã©clairage du nÂ° 85.12.",,
+,85.13,,,,"Lampes Ã©lectriques portatives, destinÃ©es Ã  fonctionner au moyen de leur propre source d'Ã©nergie (Ã  piles, Ã  accumulateurs, Ã©lectro- magnÃ©tiques, par exemple), autres que les appareils d'Ã©clairage du nÂ° 85.12.",,
+,,8513.10,00,,- Lampes,,
+7,,,,10,- - - de sÃ»retÃ© pour mineurs,U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+,,8513.90,00,,- Parties,,
+7,,,,10,- - - de lampes de sÃ»retÃ© pour mineurs,KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,85.14,,,,"""Fours Ã©lectriques industriels ou de laboratoires, y compris ceux fonctionantpar induction ou par pertes diÃ©lectriques; autres appareilsindustriels ou de laboratoires pour le traitement thermique desmatiÃ¨res par induction ou par pertes diÃ©lectriques.â",,
+,85.14,,,,"""Fours Ã©lectriques industriels ou de laboratoires, y compris ceux fonctionantpar induction ou par pertes diÃ©lectriques; autres appareilsindustriels ou de laboratoires pour le traitement thermique desmatiÃ¨res par induction ou par pertes diÃ©lectriques.â",,
+,85.14,,,,"Fours Ã©lectriques industriels ou de laboratoires, y compris ceux fonc- tionant par induction ou par pertes diÃ©lectriques; autres appareils industriels ou de laboratoires pour le traitement thermique des matiÃ¨res par induction ou par pertes diÃ©lectriqu",,
+,85.14,,,,"Fours Ã©lectriques industriels ou de laboratoires, y compris ceux fonc- tionant par induction ou par pertes diÃ©lectriques; autres appareils industriels ou de laboratoires pour le traitement thermique des matiÃ¨res par induction ou par pertes diÃ©lectriqu",,
+,,8514.10,00,,- Fours Ã  rÃ©sistance (Ã  chauffage indirect),,
+,,8514.11,00,,- - Presses isostatiques Ã  chaud,,
+7,,,,10,"- - - spÃ©cialement conÃ§us pour la sÃ©paration des combustibles nuclÃ©aires irradiÃ©s, pour le traitement des dÃ©chets radio-actifs ou pour le recyclage des Â£combustibles nuclÃ©aires irradiÃ©s",U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+8,,8514.19,00,00,- - Autres,U,- - - - -
+,,8514.20,00,,- Fours fonctionnant par induction ou par pertes diÃ©lectriques,,
+7,,,,10,"- - - spÃ©cialement conÃ§us pour la sÃ©paration des combustibles nuclÃ©aires irra- diÃ©s, pour le traitement des dÃ©chets radio-actifs ou pour le recyclage des combustibles nuclÃ©aires irradiÃ©s",U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8514.30,00,,- Autres fours,,
+7,,8514.31,00,00,- - Fours Ã  faisceau d'Ã©lectrons,U,- - - - -
+7,,8514.32,00,00,- - Fours Ã  plasma et fours Ã  arc sous vide,U,- - - - -
+7,,8514.39,00,00,- - Autres,U,- - - - -
+,,8514.40,00,,- Autres appareils pour le traitement thermique des matiÃ¨res par induction ou par pertes diÃ©lectriques,,
+7,,,,00,- Autres appareils pour le traitement thermique des matiÃ¨res par Â£induction ou par pertes diÃ©lectriques,U,- - - - -
+7,,8514.90,00,00,- - Parties,KG,- - - - -
+,85.15,,,,"- - Machines et appareils pour le brasage ou le soudage (mÃªme pouvant couper), Ã©lectriques (y compris ceux aux gaz chauffÃ©s Ã©lectriquement) ou opÃ©rant par laser ou autres faisceaux de lumiÃ¨re ou de photons, par ultra-sons, par faisceaux d'Ã©lectrons",,
+7,,8515.11,00,00,- - Fers et pistolets Ã  braser,U,- - - - -
+7,,8515.19,00,00,- - AutresÂ£- Machines et appareils pour le soudage des mÃ©taux par rÃ©sistance :,U,- - - - -
+7,,8515.21,00,00,- - EntiÃ¨rement ou partiellement automatiques,U,- - - - -
+7,,8515.29,00,00,- - - - AutresÂ£- Machines et appareils pour le soudage des mÃ©taux Ã  l'arc ou au jet de plasma :,U,- - - - -
+,,8515.31,00,,- - EntiÃ¨rement ou partiellement automatiques,,
+7,,,,00,- - EntiÃ¨rement ou partiellement automatiques,U,- - - - -
+,,8515.39,00,,- - - Autres,,
+7,,,,00,- - Autres,U,- - - - -
+,,8515.80,00,,"- Autres machines et appareilsÂ£- - - Ã  souder, braser ou couper, Ã©lectriques (y compris ceux aux gaz chauffÃ©s Ã©lectriquement), autres que ceux visÃ©s aux nÂ°s 8515.31 et 8515.39 :",,
+7,,,,00,- - Autres machines et appareils,U,- - - - -
+7,,8515.90,00,00,- Parties,U,- - - - -
+,85.16,,,,"- - - - Chauffe-eau et thermoplongeurs Ã©lectriques; appareils Ã©lectriques pour le chauffage des locaux, du sol ou pour usages similaires; appareils Ã©lectrothermiques pour la coiffure (sÃ¨che-cheveux, appareils Ã  friser, chauffe-fers Ã  friser, par exe",,
+,,8516.10,,,- - Chauffe-eau et thermoplongeurs Ã©lectriques,,
+8,,,10,00,- - - chauffe-eau et chauffe-bains,U,NOMBRE
+8,,,20,00,"- - - thermoplongeursÂ£- Appareils Ã©lectriques pour le chauffage des locaux, du sol ou pour usages similaires :",U,NOMBRE
+8,,8516.21,00,00,- - Radiateurs Ã  accumulation,U,- - - - -
+8,,8516.29,00,00,- - AutresÂ£- Appareils Ã©lectrothermiques pour la coiffure ou pour sÃ©cher les mains :,U,- - - - -
+8,,8516.31,00,00,- - SÃ¨che-cheveux,U,- - - - -
+8,,8516.32,00,00,- - Autres appareils pour la coiffure,U,- - - - -
+8,,8516.33,00,00,- - Appareils pour sÃ©cher les mains,U,- - - - -
+8,,8516.40,00,00,- Fers Ã  repasser Ã©lectriques,U,- - - - -
+8,,8516.50,00,00,- Fours Ã  micro-ondes,U,- - - - -
+,,,,,"- Autres fours; cuisiniÃ¨res, rÃ©chauds (y compris les tables de cuisson), grils et rÃ´tissoiresÂ£- Autres appareils Ã©lectrothermiques :",U,
+8,,8516.71,00,00,- - Appareils pour la prÃ©paration du cafÃ© ou du thÃ©,U,- - - - -
+8,,8516.72,00,00,- - Grille-pain,U,- - - - -
+8,,8516.79,00,00,- - Autres,U,- - - - -
+8,,8516.80,00,00,- RÃ©sistances chauffantes,U,- - - - -
+,,8516.90,,,- - Parties,,
+8,,,00,00,- Parties,KG,- - - - -
+,85.17,,,,"""Postes tÃ©lÃ©phoniques d'usagers, y compris les tÃ©lÃ©phonesintÃ©lligents et autres tÃ©lÃ©phones pour rÃ©seaux c ellulaires et po urautres rÃ©seaux sans fil ; autres appareils pour l'Ã©mission, latransmission ou la rÃ©ception de la voix, d'images ou d'au",,
+,85.17,,,,"""Postes tÃ©lÃ©phoniques d'usagers, y compris les tÃ©lÃ©phonesintÃ©lligents et autres tÃ©lÃ©phones pour rÃ©seaux c ellulaires et po urautres rÃ©seaux sans fil ; autres appareils pour l'Ã©mission, latransmission ou la rÃ©ception de la voix, d'images ou d'au",,
+,85.17,,,,"Appareils Ã©lectriques pour la tÃ©lÃ©phonie ou la tÃ©lÃ©graphie par fil, y compris les postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil et les appareils pour la tÃ©lÃ©communication par courant porteur ou pour la tÃ©lÃ©communication numÃ©riqu",,
+,85.17,,,,"Appareils Ã©lectriques pour la tÃ©lÃ©phonie ou la tÃ©lÃ©graphie par fil, y compris les postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil et les appareils pour la tÃ©lÃ©communication par courant porteur ou pour la tÃ©lÃ©communication numÃ©riqu",,
+,,8517.11,00,,- - Postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil,,
+,,8517.11,00,,- - Postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil,,
+,,8517.11,00,,- - Postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil,,
+,,8517.11,00,,- - Postes tÃ©lÃ©phoniques d'usagers par fil Ã  combinÃ©s sans fil,,
+7,,,,30,- - - Ã  l'Ã©tat complet sous la forme d'Ã©lÃ©ments CKD ou S.K.D,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+7,,8517.13,00,00,- - TÃ©lÃ©phones intelligents,U,- - - - -
+7,,8517.14,00,00,- - Autres tÃ©lÃ©phones pour rÃ©seaux cellulaires ou autres rÃ©seaux sans fil,U,- - - - -
+7,,8517.18,00,00,- - Autres,U,- - - - -
+,,8517.19,00,,- - Autres,,
+,,8517.21,00,,- - TÃ©lÃ©copieursÂ£- - - par courant porteur :,,
+,,8517.22,00,,- - TÃ©lÃ©scripteurs,,
+,,8517.50,00,,"- Autres appareils, pour la tÃ©lÃ©communication par courant porteur ou pour la tÃ©lÃ©communication numÃ©riqueÂ£- - - par courant porteur :",,
+7,,8517.61,00,00,- - Stations de base,U,- - - - -
+7,,8517.62,00,00,"- - Appareils pour la rÃ©ception, la conversion et l'Ã©mission, la transmission ou la rÃ©gÃ©nÃ©ration de la voix, d'images ou d'autres donnÃ©es, y compris les appareils de commutation et de routage",U,- - - - -
+7,,8517.69,00,00,- - Autres,U,- - - - -
+7,,8517.71,00,00,"- - ""Antennes et rÃ©flecteurs d'antennes de tous types; parties reconnaissables comme Ã©tant utilisÃ©es conjointement avec ces articles""",U,- - - - -
+,,8517.79,00,,- - Autres,,
+7,,,,10,- - - d'appareils d'emission pour la radiotÃ©lÃ©phonie mÃªme incorporant un Â£appareil de rÃ©ception,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,,8517.80,00,,- Autres appareils,,
+,,8517.90,00,,- PartiesÂ£- - - des appareils du nÂ° 85.17.22 :,,
+,85.18,,,,"Microphones et leurs supports; haut-parleurs, mÃªme montÃ©s dans leurs enceintes; casques d'Ã©coute et Ã©couteurs, mÃªme combinÃ©s avec un microphone, et ensembles ou assortiments constituÃ©s par un microphone et un ou plusieurs haut-parteurs; amplificate",,
+7,,8518.10,00,00,"- Microphones et leurs supportsÂ£- Haut-parleurs, mÃªme montÃ©s dans leurs enceintes :",U,- - - - -
+8,,8518.21,00,00,- - Haut-parleur unique montÃ© dans son enceinte,U,- - - - -
+8,,8518.22,00,00,- - Haut-parleurs multiples montÃ©s dans la mÃªme enceinte,U,- - - - -
+8,,8518.29,00,00,- - autres,U,- - - - -
+,,8518.30,,,"- Casques d'Ã©coute et Ã©couteurs, mÃªme combinÃ©s avec un microphone, et ensembles ou assortiments constituÃ©s par un microphone et un ou plusieurs haut-parteurs",,
+7,,,00,00,"- Casques d'Ã©coute et Ã©couteurs,mÃªme combinÃ©s avec unmicrophone, Â£et ensembles ou assortiments constituÃ©s par un microphone et Â£un ou plusieurs haut-parteurs",U,- - - - -
+8,,8518.40,00,00,- - - - - - - Amplificateurs Ã©lectriques d'audiofrÃ©quence,U,- - - - -
+,,8518.50,,,- Appareils Ã©lectriques d'amplification du son,,
+8,,,00,00,- Appareils Ã©lectriques d'amplification du son,U,- - - - -
+8,,,00,00,- Appareils Ã©lectriques d'amplification du son,U,- - - - -
+8,,,00,00,- Migration NGP inexistants,U,- - - - -
+8,,,00,00,- Migration NGP inexistants,U,- - - - -
+,,8518.90,,,- Parties,,
+8,,,10,00,"- - - de microphones, de haut-parleurs et d'amplificateurs Ã©lectriques de basse frÃ©quence",KG,- - - - -
+7,,,80,00,- - - autres,KG,- - - - -
+,85.19,,,,"Tourne-disques, Ã©lectrophones, lecteurs de cassettes et autres appareils de reproduction du son, n'incorporant pas de dispositif d'enregistrement du son.",,
+8,,8519.20,00,00,"- Appareils fonctionnant par l'introduction d'une piÃ¨ce de monnaie, Â£d'un bi llet de banque, d'une carte bancaire, d'un jeton ou par Â£d'autres moyens de paiement",U,NOMBRE
+,,8519.21,00,,- - Sans haut-parleur,,
+,,8519.29,00,,- - Autres,,
+8,,8519.30,00,00,- Platines tourne-disques,U,- - - - -
+,,8519.31,00,,- - A changeur automatique de disques,,
+,,8519.39,00,,- - Autres,,
+,,8519.40,00,,- Machines Ã  dicter,,
+8,,8519.81,00,00,"- - Utilisant un support magnÃ©tique, optique ou Ã  semi-conducteur",U,NOMBRE
+8,,8519.89,00,00,- - Autres,U,- - - - -
+,,8519.93,00,,- - Autres lecteurs de cassettes,,
+,,8519.99,,,- - Autres,,
+,,,10,,- - - appareils utilisÃ©s en cinÃ©matographie :,,
+,,,90,,- - - autres :,,
+,85.20,,,,"- - MagnÃ©tophones et autres appareils d'enregistrement du son, mÃªme incorporant un dispositif de reproduction du son.",,
+,,8520.10,00,,- - - - Machines Ã  dicter ne pouvant fonctionner sans une source d'Ã©nergie extÃ©rieure,,
+,,8520.32,,,- - NumÃ©riques,,
+,,,80,,- - - autres :,,
+,,8520.33,00,,"- - Autres, Ã  cassettes",,
+,,8520.39,00,,- - Autres,,
+,,8520.90,,,- Autres,,
+,,,10,,- - - appareils de prise du son utilisÃ©s en cinÃ©matographie :,,
+,,,90,,- - - autres :,,
+,85.21,,,,"Appareils d'enregistrement ou de reproduction vidÃ©ophoniques, mÃªme incorporant un rÃ©cepteur de signaux vidÃ©ophoniques.",,
+,,8521.10,00,,- A bandes magnÃ©tiques,,
+8,,,,00,- A bandes magnÃ©tiques,U,NOMBRE
+,,8521.90,00,,- Autres,,
+8,,,,00,- Autres,KG,NOMBRE
+,85.22,,,,Parties et accessoires reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux appareils des nÂ°s 85.19 Ã  85.21,,
+8,,8522.10,00,00,- Lecteurs phonographiques,KG,- - - - -
+,,8522.90,,,- Autres,,
+,,,00,,- Autres,,
+8,,,,10,"- - - ""aiguilles ou pointes; diamants, saphirs et autres pieres gemmes (prÃ©cieuses Â£ou fines) et pierres synthÃ©tiques ou reconstituÃ©es, montÃ©s ou non""",KG,- - - - -
+8,,,,20,"- - - piÃ¨ces dÃ©colletÃ©es dans la masse, en mÃ©taux communs, dont le plus grand Â£diamÃ¨tre n'excÃ©de pas 25 mm",KG,- - - - -
+7,,,,30,"- - - boÃ®tiers complets, mÃªme non montÃ©s, pour vidÃ©ocassettes",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+,,,10,,- - - d'appareils de prise et de reproduction du son utilisÃ©s en cinÃ©matographie :,,
+,,,80,,- - - autres :,,
+,85.23,,,,"Supports prÃ©parÃ©s pour l'enregistrement du son ou pour enregistre- ment analogue, mais non enregistrÃ©s, autres que les produits du Chapitre 37.Â£- Bandes magnÃ©tiques :",,
+,,8523.11,,,- - D'une largeur n'excÃ©dant pas 4 mm,,
+,,8523.12,,,"- - D'une largeur excÃ©dant 4 mm mais n'exÃ©dant pas 6,5 mm",,
+,,8523.13,,,"- - D'une largeur excÃ©dant 6,5 mm",,
+,,8523.20,,,- Disques magnÃ©tiques,,
+5,,8523.21,10,00,- - - non enregistrÃ©es,U,- - - - -
+7,,8523.21,90,00,- - - autres,U,- - - - -
+5,,8523.29,10,00,- - - non enregistrÃ©es,U,- - - - -
+8,,8523.29,91,10,- - - - - destinÃ©es aux ordinateurs Ã©lectroniques (programmes),U,- - - - -
+7,,8523.29,91,90,- - - - - autres %â€“ â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.29,92,10,"- - - - - - d'une largeur n'excÃ©dant pas 6,5 mm",U,- - - - -
+8,,8523.29,92,20,- - - - - - enregistrÃ©es magnÃ©tiquement pour la sonorisation des films cinÃ©matographiques %â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.29,92,30,- - - - - - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse %â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.29,92,41,"- - - - - - - - films publicitaires en bandes vidÃ©o d'une largeur de 12,5mm dites cassettes bÃ©tacam",U,- - - - -
+8,,8523.29,92,42,- - - - - - - - autres vidÃ©ocassettes publicitaires,U,- - - - -
+8,,8523.29,92,49,- - - - - - - - films publicitaires en bandes vidÃ©o d'une largeur de 25 mm%â€“ â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.29,92,91,- - - - - - - - - vidÃ©ocassettes,U,- - - - -
+8,,8523.29,92,99,- - - - - - - - - autres,U,- - - - -
+8,,8523.29,99,00,- - - - - autres,U,- - - - -
+,,8523.30,,,- Cartes munies d'une piste magnÃ©tique,,
+5,,8523.41,00,10,- - - disques compacts (CD),U,- - - - -
+5,,8523.41,00,90,- - - autres,U,- - - - -
+8,,8523.49,00,05,- - - - - - spÃ©cifiques au traitement des donnÃ©es et images satellites,U,- - - - -
+8,,8523.49,00,13,- - - - - - autres,U,- - - - -
+8,,8523.49,00,18,- - - - - autres,U,- - - - -
+8,,8523.49,00,30,- - - - pour la reproduction du son uniquement %â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ disques CD-ROM et DVD :,U,- - - - -
+8,,8523.49,00,41,- - - - - - renfermant des donnÃ©es et images satellites,U,- - - - -
+8,,8523.49,00,42,- - - - - - autres,U,- - - - -
+7,,8523.49,00,49,- - - - - autres %â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ pour la reproduction des phÃ©nomÃ¨nes autres que le son ou l'image :%â€“ â€“ â€“ â€“ â€“ destinÃ©s aux ordinateurs Ã©lectroniques (programmes) :,U,- - - - -
+8,,8523.49,00,51,- - - - - - spÃ©cifiques au traitement des donnÃ©es et images satellites,U,- - - - -
+8,,8523.49,00,52,- - - - - - autres,U,- - - - -
+8,,8523.49,00,59,- - - - - autres,U,- - - - -
+8,,8523.49,00,90,- - - - autres %â€“ Supports Ã  semi-conducteur :,U,- - - - -
+5,,8523.51,10,00,- - - non enregistrÃ©s %â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.51,91,11,- - - - - - spÃ©cifiques au traitement des donnÃ©es et images satellites,U,- - - - -
+8,,8523.51,91,12,- - - - - - autres,U,- - - - -
+7,,8523.51,91,19,- - - - - autres,U,- - - - -
+8,,8523.51,99,00,- - - - autres,U,- - - - -
+5,,8523.52,00,00,- - â€œCartes intelligentesâ€,U,- - - - -
+5,,8523.59,10,00,- - - non enregistrÃ©s %â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.59,91,11,- - - - - - spÃ©cifiques au traitement des donnÃ©es et images satellites,U,- - - - -
+8,,8523.59,91,12,- - - - - - autres,U,- - - - -
+7,,8523.59,91,19,- - - - - autres,U,- - - - -
+8,,8523.59,99,00,- - - - autres,U,- - - - -
+5,,8523.80,10,00,- - - non enregistrÃ©s %â€“ â€“ â€“ autres :,U,- - - - -
+8,,8523.80,20,00,- - - - disques pour Ã©lectrophones,U,- - - - -
+8,,8523.80,91,11,- - - - - - - spÃ©cifiques au traitement des donnÃ©es et images satellites,U,- - - - -
+8,,8523.80,91,12,- - - - - - - autres,U,- - - - -
+7,,8523.80,91,19,- - - - - - autres,U,- - - - -
+8,,8523.80,99,00,- - - - - autres,U,- - - - -
+,,8523.90,,,- Autres,,
+,85.24,,,,"""Modules d'affichage Ã  Ã©cran plat, mÃªme comprenant des Ã©crans tactiles.â€“ Sans pilotes ni circuits de commande :""",,
+,85.24,,,,"""Modules d'affichage Ã  Ã©cran plat, mÃªme comprenant des Ã©crans tactiles.â€“ Sans pilotes ni circuits de commande :""",,
+,85.24,,,,"Disques, bandes et autres supports pour l'enregistrement du son ou pour enregistrements analogues, enregistrÃ©s, y compris les matrices et moules galvaniques pour la fabrication des disques, mais Ã  l'exclusion des produits du Chapitre 37.",,
+,85.24,,,,"Disques, bandes et autres supports pour l'enregistrement du son ou pour enregistrements analogues, enregistrÃ©s, y compris les matrices et moules galvaniques pour la fabrication des disques, mais Ã  l'exclusion des produits du Chapitre 37.",,
+,,8524.10,,,- Disques pour Ã©lectrophones,,
+,,,90,,- - - autres :,,
+7,,8524.11,00,00,- - A cristaux liquides,U,- - - - -
+7,,8524.12,00,00,- - A diodes Ã©mettrices de lumiÃ¨re organiques (OLED),U,- - - - -
+7,,8524.19,00,00,- - Autres Â£â€“ Autres:,U,- - - - -
+,,8524.31,,,- - Pour la reproduction des phÃ©nomÃ¨nes autres que le son ou l'image,,
+,,,10,,- - - destinÃ©s aux ordinateurs Ã©lectroniques (programmes) :,,
+,,8524.32,,,- - Pour la reproduction du son uniquement,,
+,,8524.39,,,- - Autres,,
+,,,12,,- - - disques CD-ROM et DVD :,,
+,,8524.40,,,- - - Bandes magnÃ©tiques pour la reproduction des phÃ©nomÃ¨nes autres que le son ou l'image,,
+,,,10,,- - - destinÃ©s aux ordinateurs Ã©lectroniques (programmes) :,,
+,,8524.51,,,- - D'une largeur n'excÃ©dant pas 4 mm,,
+,,8524.52,,,"- - D'une largeur excÃ©dant 4 mm mais n'excÃ©dant pas 6,5 mm",,
+,,8524.53,,,"- - D'une largeur excÃ©dant 6,5 mm",,
+,,,98,,- - - - - - autres :,,
+,,8524.60,,,- Cartes munies d'une piste magnÃ©tique,,
+,,8524.91,,,- - Pour la reproduction des phÃ©nomÃ¨nes autres que le son ou l'image,,
+7,,,00,00,- - A cristaux liquides,U,- - - - -
+,,,10,,- - - destinÃ©s aux ordinateurs Ã©lectroniques (programmes) :,,
+7,,8524.92,00,00,- - A diodes Ã©mettrices de lumiÃ¨re organiques (OLED),U,- - - - -
+,,8524.99,,,- - Autres,,
+7,,,00,00,- - Autres,U,- - - - -
+,,,98,,"- - - - - autres :Â£- - - - - - cire, disques matrices et autres formes, intermÃ©diaires :",,
+,85.25,,,,"Appareils d'Ã©mission pour la radiotÃ©lÃ©phonie, la radiotÃ©lÃ©graphie, la radiodiffusion ou la tÃ©lÃ©vision, mÃªme incorporant un appareil de rÃ©ception ou un appareil d'enregistrement ou de reproduction du son; camÃ©ras de tÃ©lÃ©vision ; appareils de p",,
+,,8525.10,00,,- Appareils d'Ã©mission,,
+,,8525.20,00,,- Appareils d'Ã©mission incorporant un appareil de rÃ©ception,,
+,,8525.30,,,- CamÃ©ras de tÃ©lÃ©vision,,
+,,8525.40,00,,- appareils de prise de vues fixes vidÃ©o et autres camÃ©scopes; appareils photographiques numÃ©riques,,
+7,,8525.50,00,00,- Appareils d'Ã©mission,U,- - - - -
+7,,8525.60,00,00,"- Appareils d'Ã©mission incorporant un appareil de rÃ©ception Â£â€“ CamÃ©ras de tÃ©lÃ©vision, appareils photographiques numÃ©riques et camÃ©scopes :",U,- - - - -
+7,,8525.81,00,00,"- - Ultrarapides, mentionnÃ©s dans la Note 1 de sous-positions du prÃ©sent Chapitre",U,- - - - -
+7,,8525.82,00,00,"- - Autres, rÃ©sistants aux rayonnements, mentionnÃ©s dans la Note 2 de sous-positions du prÃ©sent Chapitre",U,- - - - -
+7,,8525.83,00,00,"- - Autres, Ã  vision nocturne, mentionnÃ©s dans la Note 3 de sous-positions du prÃ©sent Chapitre",U,- - - - -
+7,,8525.89,00,00,- - Autres,U,- - - - -
+,85.26,,,,"Appareils de radiodÃ©tection et de radiosondage (radar), appareils de radionavigation et appareils de radiotÃ©lÃ©commande.",,
+7,,8526.10,00,00,- Appareils de radiodÃ©tection et de radio-sondage (radar)Â£- Autres :,U,- - - - -
+7,,8526.91,00,00,- - Appareils de radionavigation,U,- - - - -
+,,8526.92,,,- - Appareils de radiotÃ©lÃ©commande,,
+8,,,10,00,- - - conÃ§us pour jouets ou modÃ¨les reduits pour le divertissement,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,85.27,,,,"- Appareils rÃ©cepteurs pour la radiotÃ©lÃ©phonie, la radiotÃ©lÃ©graphie ou la radiodiffusion, mÃªme combinÃ©s, sous une mÃªme enveloppe, Ã  un appareil d'enregistrement ou de reproduction du son ou Ã  un appareil d'horlogerie.Â£- Appareils rÃ©cepteurs de",,
+,,8527.12,,,- - Radiocassettes de poche,,
+8,,,00,00,- - Radiocassettes de poche,U,NOMBRE
+,,,99,,- - - - autres :,,
+,,8527.13,,,- - Autres appareils combinÃ©s Ã  un appareil d'enregistrement ou de reproduction du son,,
+,,,00,,"- - ""Autres appareils combinÃ©s Ã  un appareil d'enregistrement ou dereproduction du son""",,
+7,,,,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.19,,,- - Autres,,
+,,,00,,- - Autres,,
+7,,,,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.21,,,- - CombinÃ©s Ã  un appareil d'enregistrement ou de reproduction du son,,
+,,,00,,"- - ""CombinÃ©s Ã  un appareil d'enregistrement ou de reproductiondu son""",,
+7,,,,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse Â£â€“ â€“ â€“ autres :,U,NOMBRE
+8,,,,91,- - - - fixes pour vÃ©hicules automobiles,U,NOMBRE
+8,,,,99,- - - - autres,U,NOMBRE
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.29,,,- - Autres,,
+,,,00,,- - Autres,,
+7,,,,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,NOMBRE
+8,,,,90,- - - autres,U,NOMBRE
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.31,,,- - CombinÃ©s Ã  un appareil d'enregistrement ou de reproduction du son,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.32,,,- - Non combinÃ©s Ã  un appareil d'enregistrement ou de reproduction du son mais combinÃ©s Ã  un appareil d'horlogerie,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.39,,,- - Autres,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8527.90,00,,- Autres appareilsÂ£- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+7,,8527.91,00,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+8,,8527.91,00,90,- - - autres,U,- - - - -
+7,,8527.92,00,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+8,,8527.92,00,90,- - - autres,U,- - - - -
+7,,8527.99,00,10,- - - rÃ©cepteurs Ã  usage industriel destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision Â£autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+8,,8527.99,00,90,- - - autres,U,- - - - -
+,85.28,,,,"Appareils rÃ©cepteurs de tÃ©lÃ©vision, mÃªme incorporant un appareil rÃ©cepteur de radiodiffusion ou un appareil d'enregistrement ou de reproduction du son ou des images ; moniteurs vidÃ©o et projec- teurs vidÃ©o.Â£- Appareils rÃ©cepteurs de tÃ©lÃ©vision,",,
+,,8528.12,,,- - En couleurs,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8528.13,,,- - En noir et blanc ou en autres monochromes,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,99,,- - - - autres :,,
+,,8528.21,00,,- - En couleurs,,
+,,8528.22,00,,- - En noir et blanc ou en autres monochromes,,
+,,8528.30,00,,- Projecteurs vidÃ©o,,
+8,,8528.42,00,00,- - Aptes Ã  Ãªtre connetÃ©s directement Ã  une machine automatiquede traitement de l'information du nÂ°84. 71 et conÃ§us pour ÃªtreutilisÃ©s avec celle-ci,U,- - - - -
+8,,8528.49,00,00,- - Autres%ï¿½ Autres moniteurs :,U,- - - - -
+8,,8528.49,00,00,- - Autres%ï¿½ Autres moniteurs :,U,- - - - -
+8,,8528.49,00,00,- - Autres%â€“ Autres moniteurs :,U,- - - - -
+8,,8528.49,00,00,- - Autres%â€“ Autres moniteurs :,U,- - - - -
+8,,8528.52,00,00,- - Aptes Ã  Ãªtre connetÃ©s directement Ã  une machine automatiquede traitement de l'information du nÂ°84. 71 et conÃ§us pour ÃªtreutilisÃ©s avec celle-ci,U,- - - - -
+8,,8528.59,00,00,- - Autres%â€“ Projecteurs :,U,- - - - -
+8,,8528.59,00,00,- - Autres%â€“ Projecteurs :,U,- - - - -
+8,,8528.59,00,00,- - Autres%ï¿½ Projecteurs :,U,- - - - -
+8,,8528.59,00,00,- - Autres%ï¿½ Projecteurs :,U,- - - - -
+8,,8528.62,00,00,- - Aptes Ã  Ãªtre connetÃ©s directement Ã  une machine automatiquede traitement de l'information du nÂ°84. 71 et conÃ§us pour ÃªtreutilisÃ©s avec celle-ci,U,- - - - -
+8,,8528.69,00,00,"- - Autres%ï¿½ Appareils rï¿½pteurs de tï¿½vision, mï¿½ incorporant un appareil rï¿½pteur de radiodiffusion ou un appareil d'enregistrement ou de reproduction du son ou des images :",U,- - - - -
+8,,8528.69,00,00,"- - Autres%ï¿½ Appareils rï¿½pteurs de tï¿½vision, mï¿½ incorporant un appareil rï¿½pteur de radiodiffusion ou un appareil d'enregistrement ou de reproduction du son ou des images :",U,- - - - -
+8,,8528.69,00,00,"- - Autres%â€“ Appareils rÃ©cepteurs de tÃ©lÃ©vision, mÃªme incorporant un appareil rÃ©cepteur de radiodiffusion ou un appareil d'enregistrement ou de reproduction du son ou des images :",U,- - - - -
+8,,8528.69,00,00,"- - Autres%â€“ Appareils rÃ©cepteurs de tÃ©lÃ©vision, mÃªme incorporant un appareil rÃ©cepteur de radiodiffusion ou un appareil d'enregistrement ou de reproduction du son ou des images :",U,- - - - -
+,,8528.71,00,,"- - ""Non conÃ§us pour incorporer un dispositif d'affichage ou unÃ©cran vidÃ©o""",,
+7,,,,10,- - - appareils de tÃ©lÃ©vision Ã  usage industriel,U,- - - - -
+7,,,,20,- - - appareils pour la rÃ©ception de la tÃ©lÃ©vision par satellite Â£â€“ â€“ â€“ autres :,U,- - - - -
+8,,,,91,- - - - sous la forme d'Ã©lÃ©ments SKD (comportant des assemblages de piÃ¨ces Â£constituant des parties d'appareils),U,- - - - -
+8,,,,99,- - - - autres,U,- - - - -
+,,8528.72,00,,"- - Autres, en couleurs",,
+7,,,,10,- - - - - appareils de tÃ©lÃ©vision Ã  usage industriel,U,- - - - -
+7,,,,20,- - - - - appareils pour la rÃ©ception de la tÃ©lÃ©vision par satellite Â£â€“ â€“ â€“ autres :,U,- - - - -
+8,,,,91,- - - - sous la forme d'Ã©lÃ©ments SKD (comportant des assemblages de piÃ¨ces Â£constituant des parties d'appareils),U,- - - - -
+8,,,,99,- - - - autres,U,- - - - -
+8,,8528.73,00,00,"- - Autres, en monochromes",U,- - - - -
+,85.29,,,,Parties reconnaissables comme Ã©tant exclusivement ou principa- lement destinÃ©es aux appareils des nÂ°s 85.25 Ã  85.28.,,
+,,8529.10,,,- - Antennes et rÃ©flecteurs d'antennes de tous types; parties recon- naissables comme Ã©tant utilisÃ©es conjointement avec ces articles,,
+8,,,22,00,- - - - - - rÃ©flecteurs paraboliques et rÃ©flecteurs similaires,KG,- - - - -
+8,,,23,00,- - - - - - autres,KG,- - - - -
+8,,,29,00,- - - - - autres,KG,- - - - -
+8,,,80,00,- - - - autres,KG,- - - - -
+,,8529.90,00,,- Autres,,
+8,,,,20,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  Â£l'agence Maghreb Arabe Presse,KG,- - - - -
+8,,,,80,- - - - meubles et coffrets,KG,- - - - -
+8,,,,92,- - - - - microstructures,KG,- - - - -
+8,,,,94,"- - - - - piÃ¨ces dÃ©colletÃ©es dans la masse, en mÃ©taux communs, dont le plus grand diamÃ¨tre n'excÃ¨de pas 25 mm",KG,- - - - -
+8,,,,97,- - - - - autres,KG,- - - - -
+8,,,,97,- - - - - autres,KG,- - - - -
+8,,,,97,- - - - - autres,KG,- - - - -
+8,,,,97,- - - - - autres,KG,- - - - -
+,85.30,,,,"- - Appareils Ã©lectriques de signalisation (autres que pour la transmission de messages), de sÃ©curitÃ©, de contrÃ´le ou de commande pour voies ferrÃ©es ou similaires, voies routiÃ¨res ou fluviales, aires ou parcs de stationnement, installations portuair",,
+7,,8530.10,00,00,- Appareils pour voies ferrÃ©es ou similaires,U,- - - - -
+7,,8530.80,00,00,- Autres appareils,U,- - - - -
+7,,8530.90,00,00,- Parties,KG,- - - - -
+,85.31,,,,"Appareils Ã©lectriques de signalisation acoustique ou visuelle (son- neries, sirÃ¨nes, tableaux annonciateurs, appareils avertisseurs pour la protection contre le vol ou l'incendie, par exemple), autres que ceux des nÂ°s 85.12 ou 85.30.",,
+5,,8531.10,00,00,- Avertisseurs Ã©lectriques pour la protection contre le vol ou l'incendie et appareils similaires,U,- - - - -
+5,,8531.20,00,00,- Panneaux indicateurs incorporant des dispositifs Ã  cristaux liquides (LCD) ou Ã  diodes Ã©mettrices de lumiÃ¨re (LED),U,- - - - -
+5,,8531.80,00,00,- Autres appareils,U,- - - - -
+5,,8531.90,00,00,- Parties,KG,- - - - -
+,85.32,,,,"Condensateurs Ã©lectriques, fixes, variables ou ajustables",,
+5,,8532.10,00,00,"- - Condensateurs fixes conÃ§us pour les rÃ©seaux Ã©lectriques de 50/60 Hz et capables d'absorber une puissance rÃ©active Ã©gale ou supÃ©rieure Ã  0,5 kvar (condensateurs de puissance)Â£- Autres condensateurs fixes :",KG,- - - - -
+,,8532.21,00,,- - Au tantale,,
+5,,,,00,- - Au tantale,KG,- - - - -
+,,8532.22,00,,- - Electrolytiques Ã  l'aluminium,,
+5,,,,00,- - Electrolytiques Ã  l'aluminium,KG,- - - - -
+,,8532.23,00,,"- - A diÃ©lectrique en cÃ©ramique, Ã  une seule couche",,
+5,,,,00,"- - A diÃ©lectrique en cÃ©ramique, Ã  une seule couche",KG,- - - - -
+,,8532.24,00,,"- - A diÃ©lectrique en cÃ©ramique, multicouches",,
+5,,,,00,"- - A diÃ©lectrique en cÃ©ramique, multicouches",KG,- - - - -
+,,8532.25,00,,- - A diÃ©lectrique en papier ou en matiÃ¨res plastiques,,
+5,,,,00,- - diÃ©lectrique en papier ou en matiÃ¨res plastiques,KG,- - - - -
+,,8532.29,00,,- - AutresÂ£- - - de tÃ©lÃ©communication et de mesure :,,
+5,,,,00,- - Autres,KG,- - - - -
+5,,8532.30,00,00,- Condensateurs variables ou ajustables,KG,- - - - -
+5,,8532.90,00,00,- Parties,KG,- - - - -
+,85.33,,,,RÃ©sistances Ã©lectriques non chauffantes (y compris les rhÃ©ostats et les potentiomÃ¨tres).,,
+,,8533.10,00,,"- RÃ©sistances fixes au carbone, agglomÃ©rÃ©es ou Ã  couche",,
+7,,,,00,"- RÃ©sistances fixes au carbone, agglomÃ©rÃ©es ou Ã  couche",KG,- - - - -
+,,8533.21,00,,- - Pour une puissance n'excÃ©dant pas 20 W,,
+7,,,,00,- - Pour une puissance n'excÃ©dant pas 20 W,KG,- - - - -
+,,8533.29,00,,- - Autres,,
+7,,,,00,- - Autres,KG,- - - - -
+,,8533.31,00,,- - Pour une puissance n'excÃ©dant pas 20 WÂ£- - - rÃ©sistances non chauffantes :,,
+7,,,,00,- - Pour une puissance n'excÃ©dant pas 20 W,KG,- - - - -
+,,8533.39,00,,- - AutresÂ£- - - rÃ©sistances non chauffantes :,,
+7,,,,00,- - Autres,KG,- - - - -
+,,8533.40,00,,- - - - - - - Autres rÃ©sistances variables (y compris les rhÃ©ostats et les poten- tiomÃ¨tres)Â£- - - rÃ©sistances non chauffantes :,,
+7,,,,00,- Autres rÃ©sistances variables (y compris les rhÃ©ostats et les potentiomÃ¨tres),KG,- - - - -
+7,,8533.90,00,00,- Parties,KG,- - - - -
+,,8534.00,,,Circuits imprimÃ©s,,
+7,,,00,00,Circuits imprimÃ©s,KG,- - - - -
+,85.35,,,,"Appareillage pour la coupure, le sectionnement, la protection, le branchement, le raccordement ou la connexion des circuits Ã©lec- triques (interrupteurs, commutateurs, coupe-circuit, parafoudres, limiteurs de tension, Ã©taleurs d'ondes, prises de courant",,
+,,8535.10,00,,- Fusibles et coupe-circuit Ã  fusibles,,
+7,,,,00,- Fusibles et coupe-circuit Ã  fusibles,KG,- - - - -
+,,8535.21,00,,"- - Pour une tension infÃ©rieure Ã  72,5 kV",,
+7,,,,40,- - - - cellules Ã©lectriquesÂ£- - - - autres :,KG,- - - - -
+7,,,,80,- - - autres,KG,- - - - -
+,,8535.29,00,,- - Autres,,
+7,,,,00,- - Autres,KG,- - - - -
+,,8535.30,,,- Sectionneurs et interrupteurs,,
+,,,10,,- - - sectionneurs :,,
+7,,,,00,- - - sectionneurs,KG,- - - - -
+,,,90,,- - - interrupteurs :,,
+7,,,,40,- - - - - cellules Ã©lectriques,KG,- - - - -
+7,,,,50,"- - - - - interrupteurs pour circuits Ã©lectriques d'une tension n'excÃ©dant pas 60 000 V, constituÃ©s de deux demi-coquilles en araldite, qui assemblÃ©es, forment une enveloppe Ã©tanche comportant les parties actives de l'appareil, et pouvant Ãªtre sous",KG,- - - - -
+7,,,,80,- - - - autres,KG,- - - - -
+,,8535.40,00,,"- - Parafoudres, limiteurs de tension et Ã©taleurs d'ondes",,
+7,,,,00,"- Parafoudres, limiteurs de tension et parasurtenseurs",KG,- - - - -
+,,8535.90,,,- Autres,,
+7,,,10,00,"- - - barrettes pour la connexion des circuits Ã©lectriques, autres que pour la tÃ©lÃ©- communication et mesure",KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,10,- - - - d'application industrielle Ã  l'exclusion du materiel de connexionÂ£- - - - pour tÃ©lÃ©communication et de mesure :,KG,- - - - -
+7,,,,20,- - - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+7,,,,91,- - - - - coffrets de comptage Ã©lectrique,KG,- - - - -
+7,,,,99,- - - - - autres,KG,- - - - -
+,85.36,,,,"Appareillage pour la coupure, le sectionnement, la protection, le bran- chement, le raccordement ou la connexion des circuits Ã©lectriques (interrupteurs, commutateurs, relais, coupe-circuit, Ã©taleurs d'ondes, fiches et prises de courant, douilles pour l",,
+,,8536.10,,,- Fusibles et coupe-circuit Ã  fusiblesÂ£- - - d'application domestique :,,
+7,,,11,00,- - - - coupe-circuit Ã  fusibles,KG,- - - - -
+7,,,19,00,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,91,- - - - - fusibles,KG,- - - - -
+7,,,,97,- - - - autres,KG,- - - - -
+,,8536.20,,,- Disjoncteurs,,
+7,,,10,00,- - - d'application domestique,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,10,- - - - d'application industrielle,KG,- - - - -
+7,,,,90,- - - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+,,8536.30,,,- Autres appareils pour la protection des circuits Ã©lectriquesÂ£- - - d'application domestique :,,
+7,,,00,00,- Autres appareils pour la protection des circuits Ã©lectriques,KG,- - - - -
+,,,90,,- - - autres :,,
+,,8536.41,00,,- - Pour une tension n'excÃ©dant pas 60VÂ£- - - d'application industrielle :,,
+7,,,,00,- - Pour une tension n'excÃ©dant pas 60V,KG,- - - - -
+,,8536.49,00,,- - AutresÂ£- - - d'application industrielle :,,
+7,,,,00,- - Autres,KG,- - - - -
+,,8536.50,,,"- Autres interrupteurs, sectionneurs et commutateursÂ£- - - d'application domestique :",,
+7,,,05,00,- - - interrupteurs crÃ©pusculaires,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - d'application industrielle :,,
+,,,90,,- - - autres :Â£- - - - d'application industrielle :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+7,,,,11,"- - - - - interrupteur de position constituÃ©s d'un boÃ®tier Ã©quipÃ© d'un ou plusieurs contacts, d'une tÃªte de commande et d'un dispositif d'attaque qui est actionnÃ© par le contact physique direct avec les objets ou les piÃ¨ces machines",KG,- - - - -
+7,,,,12,- - - - - manipulateurs et combinateurs (commutateurs Ã©lectriques),KG,- - - - -
+7,,,,13,"- - - - - sÃ©lecteur de position composÃ© d'un boÃ®tier, d'un rÃ©ducteur, d'un arbre et des contacts",KG,- - - - -
+7,,,,17,- - - - - autres,KG,- - - - -
+7,,,,70,- - - - autres,KG,- - - - -
+,,8536.61,,,- - Douilles pour lampes,,
+7,,,10,00,- - - d'application domestique,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,KG,- - - - -
+,,8536.69,,,- - Autres,,
+7,,,10,00,- - - d'application domestique,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,KG,- - - - -
+7,,8536.70,10,00,- - - en cÃ©ramiques,U,- - - - -
+7,,8536.70,20,00,- - - en matiÃ¨res plastiques,KG,- - - - -
+7,,8536.70,90,00,- - - autres,U,- - - - -
+,,8536.90,,,- Autres appareils,,
+7,,,20,00,- - - connexions et Ã©lÃ©ments de contacts pour tÃ©lÃ©communication et mesure,KG,- - - - -
+7,,,30,00,- - - collections pour capuchons de bougie avec anti-parasites incorporÃ©s visÃ©es Ã  la note complÃ©mentaire nÂ° 4 du prÃ©sent chapitre,KG,- - - - -
+7,,,40,00,- - - dÃ©marreurs (starters) pour tubes Ã  dÃ©charge d'application domestique,KG,- - - - -
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :,,
+,,,90,,- - - autres :Â£- - - - d'application industrielle Ã  l'exclusion du matÃ©riel de connexion :,,
+,,,90,,- - - autres :Â£- - - - d'application industrielle Ã  l'exclusion du matÃ©riel de connexion :,,
+7,,,,11,- - - - - contacteurs,KG,- - - - -
+7,,,,15,"- - - - - boutons poussoirs, combinateurs, dÃ©marreurs non automatiques",KG,- - - - -
+7,,,,18,- - - - - autres,KG,- - - - -
+7,,,,92,"- - - - - plaques mÃ©talliques d'une longueur de 19 pouces, Ã©quipÃ©es de plusieurs modules de connexion permettant la concentration et la distribution des prises informatiques",KG,- - - - -
+7,,,,93,- - - - boÃ®te de jonction en matiÃ¨res plastiques pour systÃ¨mes photovoltaÃ¯ques Ã©quipÃ©e de connecteurs et de diodes de protection mÃªme avec cÃ¢bles de connexion,M2 (METRE CARRE),- - - - -
+7,,,,96,- - - - - autres,KG,- - - - -
+,85.37,,,,"- - - - Tableaux, panneaux, consoles, pupitres, armoires et autres supports comportant plusieurs appareils des nÂ°s 85.35 ou 85.36, pour la commande ou la distribution Ã©lectrique, y compris ceux incorporant des instruments ou appareils du Chapitre 90 ain",,
+,,8537.10,00,,- Pour une tension n'excÃ©dant pas 1.000 V,,
+,,8537.10,00,,- Pour une tension n'excÃ©dant pas 1.000 V,,
+,,8537.10,00,,- Pour une tension n'excÃ©dant pas 1000 VÂ£- - - d'application industrielle :,,
+,,8537.10,00,,- Pour une tension n'excÃ©dant pas 1000 VÂ£- - - d'application industrielle :,,
+7,,,,10,- - - Migration NGP inexistants,KG,- - - - -
+7,,,,10,- - - Migration NGP inexistants,KG,- - - - -
+7,,,,10,"- - - automate programmable d'application industrielle de moins de 1 000 V , Â£prÃ©sentÃ© en forme compacte ou modulaire (unitÃ© centrale, alimentation Â£Ã©lectrique, des interfaces et un chassis) comportant un microprocesseur Â£qui reÃ§oit de l'informati",KG,- - - - -
+7,,,,10,"- - - automate programmable d'application industrielle de moins de 1 000 V , Â£prÃ©sentÃ© en forme compacte ou modulaire (unitÃ© centrale, alimentation Â£Ã©lectrique, des interfaces et un chassis) comportant un microprocesseur Â£qui reÃ§oit de l'informati",KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+7,,,,90,- - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+7,,,,90,- - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+7,,,,90,- - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+7,,,,90,- - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+,,8537.20,00,,- Pour une tension excÃ©dant 1000 V,,
+7,,,,10,- - - pour tÃ©lÃ©communication et de mesure,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,85.38,,,,"Parties reconnaissables comme Ã©tant exclusivement ou principa- lement destinÃ©es aux appareils des nÂ°s 85.35, 85.36 ou 85.37.",,
+7,,8538.10,00,00,"- - Tableaux, panneaux, consoles, pupitres, armoires et autres supports du nÂ° 85.37, dÃ©pourvus de leurs appareils",KG,- - - - -
+,,8538.90,,,- Autres,,
+,,,00,,"- ""Autresâ€“ â€“ â€“ pour appareils d'application industrielle Ã  l'exclusion de celles pourmateriel de connexion :""",,
+5,,,,11,- - - - de 1000 V ou plus Â£â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+7,,,,13,"- - - - - contacts auxiliaires ou temporisÃ©s, dÃ©clencheurs et bloc diffÃ©rentiel Â£de disjoncteurs dÃ©finis par l'alinÃ©a (b) de la note complÃ©mentaire n 5 Â£du prÃ©sent Chapitre",KG,- - - - -
+7,,,,19,- - - - - autres,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,,91,,- - - - pour appareils d'application domestique Ã  l'exclusion de celles pour matÃ©- riel de connexion :,,
+,,,99,,- - - - autres :Â£- - - - - pour appareils d'application industrielle Ã  l'exclusion de celles pour materiel de connexion :,,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc; lampes et tubes Ã  diodes Ã©mettrices de lumiÃ¨re (",,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc; lampes et tubes Ã  diodes Ã©mettrices de lumiÃ¨re (",,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc; lampes et tubes Ã  diodes Ã©mettrices de lumiÃ¨re (",,
+,85.39,,,,"""Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits """"""""""phares et projecteurs scellÃ©s"""""""""" et leslampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã arc; sources lumineuses Ã  diodes Ã©mettrices de lumi",,
+,85.39,,,,"""Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits """"""""""phares et projecteurs scellÃ©s"""""""""" et leslampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã arc; sources lumineuses Ã  diodes Ã©mettrices de lumi",,
+,85.39,,,,"""Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, ycompris les articles dits """"""""""phares et projecteurs scellÃ©s"""""""""" et leslampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã arc; sources lumineuses Ã  diodes Ã©mettrices de lumi",,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, y compris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc.",,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, y compris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc.",,
+,85.39,,,,"Lampes et tubes Ã©lectriques Ã  incandescence ou Ã  dÃ©charge, y compris les articles dits â€œphares et projecteurs scellÃ©sâ€ et les lampes et tubes Ã  rayons ultraviolets ou infrarouges; lampes Ã  arc.",,
+,,8539.10,,,- Articles dits â€œphares et projecteurs scellÃ©sâ€Â£- - - pour motocycles et autres vÃ©hicules automobiles :,,
+8,,,10,00,- - - pour motocycles,U,- - - - -
+8,,,20,00,- - - pour vÃ©hicules automobiles,U,- - - - -
+8,,,90,00,- - - autres,U,NOMBRE
+,,8539.21,,,"- - HalogÃ¨nes, au tungstÃ¨ne",,
+8,,,10,00,- - - pour tension de 28 V ou moins,U,NOMBRE
+8,,,90,00,- - - pour tension de plus de 28 V,U,NOMBRE
+,,8539.22,00,,"- - Autres, d'une puissance n'excÃ©dant pas 200 W et d'une tension excÃ©dant 100 V",,
+8,,,,10,"- - - Ã©bauches de lampes, constituÃ©es de pieds montÃ©s de filaments tungstÃ¨nes et scellÃ©s sur leurs bulbes",U,- - - - -
+8,,,,90,- - - autres,U,- - - - -
+,,8539.29,,,- - Autres,,
+8,,,10,00,- - - pour tension de 28 V ou moins,U,NOMBRE
+8,,,90,00,"- - - pour tension de plus de 28 VÂ£- Lampes et tubes Ã  dÃ©charge, autres qu'Ã  rayons ultraviolets :",U,NOMBRE
+,,8539.31,00,,"- - Fluorescents, Ã  cathode chaude",,
+8,,,,00,"- - Fluorescents, Ã  cathode chaude",U,- - - - -
+8,,8539.32,00,00,- - - - Lampes Ã  vapeur de mercure ou de sodium ; lampes Ã  halogÃ©nure mÃ©tallique,U,NOMBRE
+8,,8539.39,00,00,- - AutresÂ£- Lampes et tubes Ã  rayons ultraviolets ou infrarouges ; lampes Ã  arc :,U,NOMBRE
+,,8539.41,,,- - Lampes Ã  arc,,
+8,,,00,00,- - Lampes Ã  arc,U,NOMBRE
+,,8539.49,,,- - Autres,,
+8,,,00,00,- - Autres Â£â€“ Sources lumineuses Ã  diodes Ã©mettrices de lumiÃ¨re (LED) :,U,NOMBRE
+,,8539.51,00,,- - Modules Ã  diodes Ã©mettrices de lumiÃ¨re (LED),,
+8,,,,10,"- - - de lampes de chevet, lampes de bureau, lampadaires d'intÃ©rieur, Â£guirlandes des types utilisÃ©s pour les arbres de NoÃ«l, Ã©lectriques",KG,- - - - -
+8,,,,90,- - - autres,KG,- - - - -
+8,,8539.52,00,00,- - Lampes et tubes Ã  diodes Ã©mettrices de lumiÃ¨re (LED),U,- - - - -
+,,8539.90,,,- Parties,,
+,,8539.90,,,- Parties,,
+,,8539.90,,,- Parties,,
+,,8539.90,,,- Parties,,
+,,,10,,- - - Â«de phares et projecteurs scÃ©llÃ©sÂ» :,,
+8,,,,11,- - - - pour motocycles,KG,- - - - -
+8,,,,19,- - - - pour autres vÃ©hicules automobiles,KG,- - - - -
+,,,20,,- - - du nÂ° 8539.51:,,
+8,,,,11,"- - - - pour appareils d'Ã©clairage, articles de lampisterie et de lustrerie",KG,- - - - -
+8,,,,19,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+5,,,,00,- - - autres,KG,- - - - -
+,85.40,,,,"Lampes, tubes et valves Ã©lectroniques Ã  cathode chaude, Ã  cathode froide ou Ã  photocathode (lampes, tubes et valves Ã  vide, Ã  vapeur ou Ã  gaz, tubes redresseurs Ã  vapeur de mercure, tubes cathodiques, tubes et valves pour camÃ©ras de tÃ©lÃ©vision,",,
+7,,8540.11,00,00,- - En couleurs,U,NOMBRE
+7,,8540.12,00,00,- - En noir et blanc ou en autres monochromes,U,NOMBRE
+5,,8540.20,00,00,- - - - Tubes pour camÃ©ras de tÃ©lÃ©vision; tubes convertisseurs ou inten- sificateurs d'images; autres tubes Ã  photocathode,U,NOMBRE
+,,8540.40,00,,"- - Tubes de visualisation des donnÃ©es graphiques, en couleurs avec un Ã©cran phosphorique d'espacement Ã  points infÃ©rieur Ã  0,4 mm",,
+5,,,,00,"- ""Tubes de visualisation des donnÃ©es graphiques en monochromes; Â£tubes de visualisation des donnÃ©es graphiques, en couleurs avec Â£un Ã©cran phosphorique d'espacement Ã  points infÃ©rieur Ã  0,4 mm""",U,NOMBRE
+,,8540.50,00,,- - - - - Tubes de visualisation des donnÃ©es graphiques en noir et blanc ou en autres monochromes,,
+,,8540.60,00,,- Autres tubes cathodiques,,
+5,,,,00,- Autres tubes cathodiques,U,NOMBRE
+5,,8540.71,00,00,- - MagnÃ©trons,U,NOMBRE
+5,,8540.79,00,00,"- - autres - Autres lampes, tubes et valves :",U,- - - - -
+5,,8540.79,00,00,"- - autres - Autres lampes, tubes et valves :",U,- - - - -
+5,,8540.79,00,00,- - Autres,U,- - - - -
+5,,8540.79,00,00,- - Autres,U,- - - - -
+,,8540.81,00,,- - Tubes de rÃ©ception ou d'amplification,,
+5,,,,00,- - Tubes de rÃ©ception ou d'amplification,U,NOMBRE
+,,8540.89,00,,- - Autres,,
+5,,,,00,- - Autres,U,NOMBRE
+5,,8540.91,00,00,- - De tubes cathodiques,KG,- - - - -
+5,,8540.99,00,00,- - Autres,KG,- - - - -
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur;dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re (LED); cristau",,
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur;dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re (LED); cristau",,
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur;dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re (LED); cristau",,
+,85.41,,,,"Dispositifs Ã  semi-conducteur (par exemple, diodes, transistors, transducteurs Ã  semi-conducteur); dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©",,
+,85.41,,,,"Dispositifs Ã  semi-conducteur (par exemple, diodes, transistors, transducteurs Ã  semi-conducteur); dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©",,
+,85.41,,,,"Dispositifs Ã  semi-conducteur (par exemple, diodes, transistors, transducteurs Ã  semi-conducteur); dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©",,
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur; dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re; cristaux piÃ",,
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur; dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re; cristaux piÃ",,
+,85.41,,,,"Diodes, transistors et dispositifs similaires Ã  semi-conducteur; dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re; cristaux piÃ",,
+,,8541.10,00,,"- Diodes, autres que les photodiodes et les diodes Ã©mettrices de lumiÃ¨re",,
+,,8541.10,00,,"- Diodes, autres que les photodiodes et les diodes Ã©mettrices de lumiÃ¨re",,
+,,8541.10,00,,"- Diodes, autres que les photodiodes et les diodes Ã©mettrices delumiÃ¨re (LED)",,
+,,8541.10,00,,"- Diodes, autres que les photodiodes et les diodes Ã©mettrices delumiÃ¨re (LED)",,
+7,,,,10,- - - diodes Ã  cristal,U,- - - - -
+7,,,,90,"- - - autresÂ£- Transistors, autres que les phototransistors :",U,- - - - -
+5,,8541.21,00,00,- - A pouvoir de dissipation infÃ©rieur Ã  1W,U,- - - - -
+5,,8541.29,00,00,- - Autres,U,- - - - -
+7,,8541.30,00,00,"- - Thyristors, diacs et triacs, autres que les dispositifs photosensibles",U,- - - - -
+,,8541.40,,,"- Dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou cons- tituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re",,
+,,8541.40,,,"- Dispositifs photosensibles Ã  semi-conducteur, y compris les cellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou cons- tituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re",,
+,,8541.40,,,"- Dispositifs photosensibles Ã  semi-conducteur, y compris lescellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re (LED).",,
+,,8541.40,,,"- Dispositifs photosensibles Ã  semi-conducteur, y compris lescellules photovoltaÃ¯ques mÃªme assemblÃ©es en modules ou constituÃ©es en panneaux; diodes Ã©mettrices de lumiÃ¨re (LED).",,
+7,,8541.41,00,00,- Diodes Ã©mettrices de lumiÃ¨re (LED),U,- - - - -
+7,,8541.42,00,00,- - Cellules photovoltaÃ¯ques non assemblÃ©es en modules ni constituÃ©es en panneaux,U,- - - - -
+7,,8541.43,00,00,- - Cellules photovoltaÃ¯ques assemblÃ©es en modules ou constituÃ©es en panneaux,U,- - - - -
+7,,8541.49,00,00,- - Autres Â£â€“ Autres dispositifs Ã  semi-conducteur :,U,- - - - -
+7,,8541.51,00,00,- - Transducteurs Ã  semi-conducteur,U,- - - - -
+7,,8541.59,00,00,- - Autres,U,- - - - -
+7,,8541.60,00,00,- - Cristaux piÃ©zo-Ã©lectriques montÃ©s,U,- - - - -
+7,,8541.90,00,00,- Parties,KG,- - - - -
+,85.42,,,,Circuits intÃ©grÃ©s et micro-assemblages Ã©lectroniques,,
+,,8542.10,,,- Cartes munies d'un circuit intÃ©grÃ© Ã©lectronique (â€œcartes intelligentesâ€),,
+,,8542.21,,,- - NumÃ©riques,,
+7,,8542.31,00,00,"- - Processeurs et contrÃ´leurs,mÃªme combinÃ©s avec des mÃ©moires, des convertisseurs, des circuits logiques, des amplificateurs, des horloges,des circuits de synchronisation ou d'autres circuits",U,- - - - -
+7,,8542.32,00,00,- - MÃ©moires,U,- - - - -
+7,,8542.33,00,00,- - Amplificateurs,U,- - - - -
+7,,8542.39,00,00,- - Autres,U,- - - - -
+5,,8542.90,00,00,- Parties,KG,- - - - -
+,85.43,,,,"Machines et appareils Ã©lectriques ayant une fonction propre, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre.Â£- AccÃ©lÃ©rateurs de particules :",,
+7,,8543.10,00,00,- AccÃ©lÃ©rateurs de particules,U,- - - - -
+,,8543.20,,,- GÃ©nÃ©rateurs de signaux,,
+7,,,00,00,- GÃ©nÃ©rateurs de signaux,U,- - - - -
+,,8543.30,00,,"- Machines et appareils de galvanotechnique, Ã©lectrolyse ou Ã©lectro- phorÃ¨se",,
+7,,,,00,"- Machines et appareils de galvanoplastie, Ã©lectrolyse ou Ã©lectrophorÃ¨se",U,- - - - -
+,,8543.40,,,- Electrificateurs de clÃ´tures,,
+7,,,00,00,- Cigarettes Ã©lectroniques et dispositifs de vaporisation Ã©lectriques personnels similaires,U,- - - - -
+7,,8543.70,10,00,- - - Ã©lectrificateurs de clÃ´tures,U,- - - - -
+7,,8543.70,70,00,- - - autres,U,- - - - -
+,,8543.81,,,- - Cartes et Ã©tiquettes Ã  dÃ©clenchement par effet de proximitÃ©,,
+,,8543.89,,,- - Autres,,
+,,,10,,- - - destinÃ©s aux chaÃ®nes de tÃ©lÃ©vision autorisÃ©es par le gouvernement et Ã  l'agence Maghreb Arabe Presse :,,
+,,,90,,- - - - autres :,,
+,,8543.90,,,- Parties,,
+7,,,00,00,- Parties,KG,- - - - -
+,85.44,,,,"- - - Fils, cÃ¢bles (y compris les cÃ¢bles coaxiaux) et autres conducteurs isolÃ©s pour l'Ã©lectricitÃ© (mÃªme laquÃ©s ou oxydÃ©s anodiquement), munis ou non de piÃ¨ces de connexion; cÃ¢bles de fibres optiques, constituÃ©s de fibres gainÃ©es individuellem",,
+,,8544.11,,,- - En cuivre,,
+5,,,10,00,- - - Ã  section transversale non circulaire,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,8544.19,,,- - Autres,,
+5,,,10,00,- - - Ã  section transversale non circulaire,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,8544.20,,,- CÃ¢bles coaxiaux et autres conducteurs Ã©lectriques coaxiaux,,
+7,,,10,00,- - - cÃ¢bles coaxiaux sous gaine de plombÂ£- - - autres :Â£- - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res :,KG,- - - - -
+7,,,21,00,- - - - - pour branchement d'antennes d'appareils rÃ©cepteurs de tÃ©lÃ©vision,KG,- - - - -
+7,,,21,00,- - - - - pour branchement d'antennes d'appareils rÃ©cepteurs de tÃ©lÃ©vision,KG,- - - - -
+7,,,21,00,- - - - - pour branchement d'antennes d'appareils rÃ©cepteurs de tÃ©lÃ©vision,KG,- - - - -
+7,,,21,00,- - - - - pour branchement d'antennes d'appareils rÃ©cepteurs de tÃ©lÃ©vision,KG,- - - - -
+7,,,29,00,- - - - - autres,KG,- - - - -
+7,,,29,00,- - - - - autres,KG,- - - - -
+7,,,29,00,- - - - - autres,KG,- - - - -
+7,,,29,00,- - - - - autres,KG,- - - - -
+7,,,90,00,- - - - isolÃ©s avec d'autres matiÃ¨res,KG,- - - - -
+,,8544.30,,,- - Jeux de fils pour bougies d'allumage et autres jeux de fils des types utilisÃ©s dans les moyens de transport,,
+7,,,10,00,- - - isolÃ©s avec des matiÃ¨res plastiques,KG,- - - - -
+7,,,90,00,"- - - isolÃ©s avec d'autres matiÃ¨resÂ£- Autres conducteurs Ã©lectriques, pour tensions n'excÃ©dant pas 80 V :",KG,- - - - -
+,,8544.41,,,- - Munis de piÃ¨ces de connexionÂ£- - - cÃ¢bles sous gaine de plomb :,,
+7,,8544.42,10,11,- - - - - cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous armature mÃ©tallique Ã©tanche,U,- - - - -
+7,,8544.42,10,19,- - - - - autres%â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous armature mÃ©tallique Ã©tanche :,U,- - - - -
+7,,8544.42,10,21,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res,U,- - - - -
+7,,8544.42,10,29,- - - - - - isolÃ©s avec d'autres matiÃ¨res%â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+7,,8544.42,10,90,- - - - - autres,U,- - - - -
+,,8544.42,90,,- - - pour une tension excÃ©dant 80 V mais n'excÃ©dant pas 1000 V:,,
+7,,,,10,- - - - cÃ¢bles sous gaine de plomb,U,- - - - -
+7,,,,21,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res,U,- - - - -
+7,,,,29,- - - - - - isolÃ©s avec d'autres matiÃ¨res%â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+7,,,,90,- - - - - - isolÃ©s avec d'autres matiÃ¨res,U,- - - - -
+,,8544.49,,,- - AutresÂ£- - - cÃ¢bles sous gaine de plomb :,,
+7,,,10,11,- - - - - cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous armature mÃ©tallique Ã©tanche,KG,- - - - -
+7,,,10,19,- - - - - autres%â€“ â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ â€“ cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous armature mÃ©tallique Ã©tanche :,U,- - - - -
+7,,,10,21,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res,U,- - - - -
+7,,,10,29,- - - - - - isolÃ©s avec d'autres matiÃ¨res%â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+7,,,10,30,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res%â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+5,,,10,40,"- - - - - - - isolÃ©s avec du caoutchouc naturel ou artificiel mÃªme avec adjonction d'autres matiÃ¨res %â€“ â€“ â€“ â€“ â€“ â€“ â€“ isolÃ©s avec du vernis, de la laque, de l'Ã©mail ou des sels ou oxydes mÃ©talliques :",U,- - - - -
+7,,,10,51,"- - - - - - - - fils simples (Ã  l'exclusion des cables et des tresses) et barres, Ã  section transversale non circulaire",U,- - - - -
+7,,,10,59,"- - - - - - - - autres %â€“ â€“ â€“ â€“ â€“ â€“ â€“ isolÃ©s avec de la pÃ¢te de cellulose du papier, ou des matiÃ¨res textiles :",U,- - - - -
+7,,,10,61,"- - - - - - - - fils simples (Ã  l'exclusion des cables et des tresses) et barres, Ã  section transversale non circulaire",U,- - - - -
+7,,,10,69,- - - - - - - - autres,U,- - - - -
+5,,,10,90,- - - - - - - isolÃ©s avec d'autres matiÃ¨res,U,- - - - -
+7,,,90,10,- - - - cÃ¢bles sous gaine de plomb,U,- - - - -
+7,,,90,20,- - - - - cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous Â£armature mÃ©tallique Ã©tanche,U,- - - - -
+7,,,90,30,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨res%â€“ â€“ â€“ â€“ â€“ â€“ autres :,U,- - - - -
+5,,,90,40,"- - - - - - - isolÃ©s avec du caoutchouc naturel ou artificiel mÃªme avec adjonction d'autres matiÃ¨res %â€“ â€“ â€“ â€“ â€“ â€“ â€“ isolÃ©s avec du vernis, de la laque, de l'Ã©mail ou des sels ou oxydes mÃ©talliques :",U,- - - - -
+7,,,90,51,"- - - - - - - - fils simples (Ã  l'exclusion des cÃ¢bles et des tresses) et barres, Ã  section transversale non circulaire",U,- - - - -
+7,,,90,59,"- - - - - - - - autres %â€“ â€“ â€“ â€“ â€“ â€“ â€“ isolÃ©s avec de la pÃ¢te de cellulose du papier, ou des matiÃ¨res textiles :",U,- - - - -
+7,,,90,61,"- - - - - - - - fils simples (Ã  l'exclusion des cÃ¢bles et des tresses) et barres, Ã  section transversale non circulaire",U,- - - - -
+7,,,90,69,- - - - - - - - autres,U,- - - - -
+5,,,90,90,- - - - - - - isolÃ©s avec d'autres matiÃ¨res,U,- - - - -
+,,8544.51,,,- - Munis de piÃ¨ces de connexionÂ£- - - cÃ¢bles sous gaine de plomb :,,
+,,8544.59,,,- - AutresÂ£- - - cÃ¢bles sous gaine de plomb :,,
+,,8544.60,,,"- Autres conducteurs Ã©lectriques, pour tensions excÃ©dant 1000 VÂ£- - - cÃ¢bles sous gaine de plomb :",,
+7,,,10,00,- - - cÃ¢bles sous gaine de plomb,KG,- - - - -
+7,,,20,00,- - - - cÃ¢bles Ã  un ou plusieurs conducteurs isolÃ©s au papier imprÃ©gnÃ© sous Â£armature mÃ©tallique Ã©tanche,KG,- - - - -
+7,,,30,00,- - - - - munis de leurs piÃ¨ces de connexion,KG,- - - - -
+7,,,40,00,- - - - - - isolÃ©s avec des matiÃ¨res plastiques mÃªme avec adjonction d'autres matiÃ¨resÂ£- - - - - - autres :,KG,- - - - -
+5,,,50,00,"- - - - - - - isolÃ©s avec du caoutchouc naturel ou artificiel mÃªme avec adjonc- tion d'autres matiÃ¨resÂ£- - - - - - - isolÃ©s avec du vernis, de la laque, de l'Ã©mail ou des sels ou oxydes mÃ©talliques :",KG,- - - - -
+7,,,61,00,"- - - - - - - - fils simples (Ã  l'exclusion des cÃ¢bles et des tresses) et barres, Ã  section transversale non circulaire",KG,- - - - -
+7,,,69,00,"- - - - - - - - autresÂ£- - - - - - - isolÃ©s avec de la pÃ¢te de cellulose du papier, ou des matiÃ¨res textiles :",KG,- - - - -
+7,,,71,00,"- - - - - - - - fils simples (Ã  l'exclusion des cÃ¢bles et des tresses) et barres, Ã  section transversale non circulaire",KG,- - - - -
+7,,,79,00,- - - - - - - - autres,KG,- - - - -
+5,,,90,00,- - - - - - - isolÃ©s avec d'autres matiÃ¨res,KG,- - - - -
+,,8544.70,00,,- CÃ¢bles de fibres optiques,,
+7,,,,10,- - - en verre non travaillÃ© optiquement,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,85.45,,,,"- - Electrodes en charbon, balais en charbon, charbons pour lampes ou pour piles et autres articles en graphite ou en autre carbone, avec ou sans mÃ©tal, pour usages Ã©lectriques.Â£- Electrodes :",,
+5,,8545.11,00,00,- - Des types utilisÃ©s pour fours,KG,- - - - -
+,,8545.19,00,,- - Autres,,
+5,,,,00,- - Autres,KG,- - - - -
+5,,8545.20,00,00,- Balais,KG,- - - - -
+,,8545.90,00,,- Autres,,
+5,,,,00,- Autres,KG,- - - - -
+,85.46,,,,Isolateurs en toutes matiÃ¨res pour l'Ã©lectricitÃ©,,
+7,,8546.10,00,00,- En verre,KG,- - - - -
+7,,8546.20,00,00,- En cÃ©ramique,KG,- - - - -
+,,8546.90,00,,- Autres,,
+7,,,,10,- - - en caoutchouc durci,KG,- - - - -
+7,,,,20,- - - en matiÃ¨res plastiques,KG,- - - - -
+7,,,,30,- - - en fibres de verre,KG,- - - - -
+7,,,,90,- - - en autres matiÃ¨res,KG,- - - - -
+,85.47,,,,"- - - - - - - PiÃ¨ces isolantes, entiÃ¨rement en matiÃ¨res isolantes ou comportant de simples piÃ¨ces mÃ©talliques d'assemblage (douilles Ã  pas de vis, par exemple) noyÃ©es dans la masse, pour machines, appareils ou installations Ã©lectriques, autres que",,
+5,,8547.10,00,00,- PiÃ¨ces isolantes en cÃ©ramique,KG,- - - - -
+5,,8547.20,00,00,- PiÃ¨ces isolantes en matiÃ¨res plastiques,KG,- - - - -
+,,8547.90,00,,- Autres,,
+5,,,,20,- - - en verre,KG,- - - - -
+5,,,,30,"- - - en caoutchouc durci, en matiÃ¨res asphaltiques ou goudronneuses",KG,- - - - -
+5,,,,90,- - - en autres matiÃ¨res,KG,- - - - -
+5,,,,90,- - - en autres matiÃ¨res,KG,- - - - -
+5,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+5,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+,85.48,,,,"DÃ©chets et dÃ©bris de piles, de batteries de piles et d'accumulateurs Ã©lectriques ; piles et batteries de piles Ã©lectriques hors d'usage et accumulateurs Ã©lectriques hors d'usage ; parties Ã©lectriques de machines ou d'appareils, non dÃ©nommÃ©es ni co",,
+5,,8548.00,00,00,"Parties Ã©lectriques de machines ou d'appareils, non dÃ©nommÃ©es ni comprises ailleurs dans le prÃ©sent Chapitre.",KG,- - - - -
+5,,8548.00,00,00,"Parties Ã©lectriques de machines ou d'appareils, non dÃ©nommÃ©es ni comprises ailleurs dans le prÃ©sent Chapitre.",KG,- - - - -
+5,,8548.00,00,00,Migration NGP inexistants,KG,- - - - -
+5,,8548.00,00,00,Migration NGP inexistants,KG,- - - - -
+,,8548.10,,,"- - DÃ©chets et dÃ©bris de piles, de batteries de piles et d'accumulateurs Ã©lectriques ; piles et batteries de piles Ã©lectriques hors d'usage et accumulateurs Ã©lectriques hors d'usage",,
+,,,10,,- - - dÃ©chets et dÃ©bris contenant des composÃ©s chimiques :,,
+,,,29,,- - - - autres :,,
+,85.49,,,,"""DÃ©chets et dÃ©bris Ã©lectriques et Ã©lectroniques.â€“ DÃ©chets et dÃ©bris de piles, de batteries de piles et d'accumulateurs Ã©lectriques; piles et batteries de piles Ã©lectriques hors d'usage et accumulateurs Ã©lectriques hors d'usage :""",,
+,,8549.11,00,,- - DÃ©chets et dÃ©bris d'accumulateurs au plomb et Ã  l'acide; accumulateurs au plomb et Ã  l'acide hors d'usage,,
+4,,,,10,- - - dÃ©chets et dÃ©bris d'accumulateurs au plomb et Ã  l'acide,KG,- - - - -
+7,,,,20,- - - accumulateurs au plomb et Ã  l'acide hors d'usage,KG,- - - - -
+,,8549.12,00,,"- - Autres, contenant du plomb, du cadmium ou du mercure",,
+4,,,,11,- - - contenant du plomb,KG,- - - - -
+5,,,,12,- - - contenant du cadmium,KG,- - - - -
+5,,,,13,- - - contenant du mercure,KG,- - - - -
+4,,,,90,- - - autres,KG,- - - - -
+,,8549.13,00,,"- - TriÃ©s par type de composant chimique et ne contenant ni plomb, ni cadmium ni mercure",,
+4,,,,10,"- - - dÃ©chets et dÃ©bris de piles, de batterie de piles et d'accumulateurs Ã©lectriques",KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,8549.14,00,,"- - En vrac et ne contenant ni plomb, ni cadmium ni mercure",,
+4,,,,10,"- - - dÃ©chets et dÃ©bris de piles, de batterie de piles et d'accumulateurs Ã©lectriques",KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,8549.19,00,,- - Autres,,
+4,,,,10,"- - - dÃ©chets et dÃ©bris de piles, de batterie de piles et d'accumulateurs Ã©lectriques",KG,- - - - -
+7,,,,90,- - - autres Â£â€“ Des types utilisÃ©s principalement pour la rÃ©cupÃ©ration des mÃ©taux prÃ©cieux :,KG,- - - - -
+7,,8549.21,00,00,"- - Contenant des piles et batteries de piles Ã©lectriques, des accumulateurs Ã©lectriques, des interrupteurs Ã  mercure, du verre de tubes cathodiques et autres verres activÃ©s, ou des composants Ã©lectriques ou Ã©lectroniques contenant du cadmium, du me",KG,- - - - -
+7,,8549.29,00,00,- - Autres Â£â€“ Autres assemblages Ã©lectriques et Ã©lectroniques et les cartes de circuits imprimÃ©s :,KG,- - - - -
+7,,8549.31,00,00,"- - Contenant des piles et batteries de piles Ã©lectriques, des accumulateurs Ã©lectriques, des interrupteurs Ã  mercure, du verre de tubes cathodiques et autres verres activÃ©s, ou des composants Ã©lectriques ou Ã©lectroniques contenant du cadmium, du me",KG,- - - - -
+7,,8549.39,00,00,- - Autres Â£â€“ Autres:,U,- - - - -
+7,,8549.91,00,00,"- - Contenant des piles et batteries de piles Ã©lectriques, des accumulateurs Ã©lectriques, des interrupteurs au mercure, du verre de tubes cathodiques et autres verres activÃ©s, ou des composants Ã©lectriques ou Ã©lectroniques contenant du cadmium, du me",KG,- - - - -
+7,,8549.99,00,00,- - Autres,U,- - - - -

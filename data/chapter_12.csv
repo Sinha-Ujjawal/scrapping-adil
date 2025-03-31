@@ -1,0 +1,213 @@
+0,1,2,3,4,5,6,7
+,12.01,,,,"FÃ¨ves de soja, mÃªme concassÃ©es.",,
+,,1201.00,,,"FÃ¨ves de soja, mÃªme concassÃ©es",,
+,,1201.10,,,- De semence,,
+,,,00,,- De semence,,
+3,,,,00,- De semence,KG,- - - - -
+,,1201.90,,,- Autres,,
+,,,00,,- Autres,,
+3,,,,10,- - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,,90,- - - autres,KG,- - - - -
+,12.02,,,,"- Arachides non grillÃ©es ni autrement cuites, mÃªme dÃ©cortiquÃ©es ou concassÃ©es.",,
+,,1202.10,,,- En coques,,
+,,,90,,- - - - - autres :,,
+,,1202.20,,,"- DÃ©cortiquÃ©es, mÃªme concassÃ©es",,
+,,,90,,- - - - - autres :,,
+,,1202.30,,,- De semence,,
+,,,00,,- De semence,,
+3,,,,00,- - - De semence,KG,- - - - -
+,,1202.41,,,- - En coques,,
+,,,00,,- - En coques,,
+3,,,,00,- - - En coques,KG,- - - - -
+,,1202.42,,,"- - DÃ©cortiquÃ©es, mÃªme concassÃ©es",,
+,,,00,,"- - DÃ©cortiquÃ©es, mÃªme concassÃ©es",,
+3,,,,00,"- - - DÃ©cortiquÃ©es, mÃªmes concassÃ©es",KG,- - - - -
+3,,1203.00,00,00,Coprah,KG,- - - - -
+,,1204.00,,,"Graines de lin, mÃªme concassÃ©es",,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,12.05,,,,"Graines de navette ou de colza, mÃªme concassÃ©es",,
+,,1205.10,,,- Graines de navette ou de colza Ã  faible teneur en acide Ã©rucique,,
+,,,10,,- - - de semence :,,
+3,,,,10,- - - - de navette,KG,- - - - -
+3,,,,90,- - - - de colza,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - de navette :,,
+3,,,,11,- - - - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,,19,- - - - - autresÂ£- - - - de colza :,KG,- - - - -
+3,,,,91,- - - - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,,99,- - - - - autres,KG,- - - - -
+,,1205.90,,,- Autres,,
+,,,10,,- - - de semence :,,
+3,,,,10,- - - - de navette,KG,- - - - -
+3,,,,90,- - - - de colza,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - de navette :,,
+3,,,,11,- - - - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,,19,- - - - - autresÂ£- - - - de colza :,KG,- - - - -
+3,,,,91,- - - - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,,99,- - - - - autres,KG,- - - - -
+,,1206.00,,,"Graines de tournesol, mÃªme concassÃ©es",,
+3,,,10,00,- - - - - de semence Â£- - - autres :,KG,- - - - -
+3,,,81,00,- - - - importÃ©es par les triturateurs,KG,- - - - -
+3,,,89,00,- - - - - - autres,KG,- - - - -
+,12.07,,,,"Autres graines et fruits olÃ©agineux, mÃªme concassÃ©s",,
+,,1207.10,,,- Noix et amandes de palmiste,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+,,,90,,- - - - - autres :,,
+3,,,,00,- - - - - - autres,KG,- - - - -
+,,1207.20,,,- Graines de coton,,
+,,1207.21,,,- - De semence,,
+,,,00,,- - De semence,,
+3,,,,00,- - De semence,KG,- - - - -
+,,1207.29,,,- - Autres,,
+,,,00,,- - Autres,,
+3,,,,00,- - Autres,KG,- - - - -
+,,1207.30,,,- Graines de ricin,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,,1207.40,,,- Graines de sÃ©same,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,,1207.50,,,- Graines de moutarde,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,,1207.60,,,- Graines de carthame,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+,,,90,,- - - - - autres :,,
+3,,,,00,- - - - autres,KG,- - - - -
+,,1207.70,,,- Graines de melon,,
+,,,10,,- - - de semence,,
+3,,,,00,- - - de semence,KG,- - - - -
+,,,90,,- - - autres,,
+3,,,,00,- - - autres,KG,- - - - -
+,,1207.91,,,- - Graines d'oeillette ou de pavot,,
+3,,,10,00,- - - - - de semence,KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,,1207.99,,,- - AutresÂ£- - - de semence :,,
+3,,,11,00,- - - - graines de chanvre,KG,- - - - -
+3,,,13,00,- - - - graines de karitÃ©,KG,- - - - -
+,,,15,,- - - - graines de pastÃ¨ques,,
+3,,,,00,- - - - graines de pastÃ¨ques,KG,- - - - -
+3,,,19,00,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+3,,,,01,- - - - graines de chanvre (chenevis),KG,- - - - -
+3,,,,02,- - - - graines de karitÃ©,KG,- - - - -
+3,,,,10,- - - - graines d'illipÃ©,KG,- - - - -
+3,,,,20,- - - - graines de mowra,KG,- - - - -
+3,,,,30,- - - - graines de niger,KG,- - - - -
+3,,,,40,- - - - graines de pulghÃ¨re,KG,- - - - -
+3,,,,50,"- - - - graines de ravison, de camÃ©line et d'autres crucifÃ¨res",KG,- - - - -
+3,,,,60,- - - - graines de marfouraire,KG,- - - - -
+3,,,,80,- - - - graines de pastÃ¨ques (pÃ©pins),KG,- - - - -
+3,,,,90,- - - - autres,KG,- - - - -
+,12.08,,,,"Farines de graines ou de fruits olÃ©agineux, autres que la farine de moutarde.",,
+3,,1208.10,00,00,- - De fÃ¨ves de soja,KG,- - - - -
+,,1208.90,,,- Autres,,
+3,,,10,00,- - - d'arachide,KG,- - - - -
+,,,90,,- - - - - autres :,,
+3,,,,10,- - - - - - de tournesol,KG,- - - - -
+3,,,,20,- - - - de colza,KG,- - - - -
+3,,,,30,- - - - - de coton,KG,- - - - -
+3,,,,40,- - - - - de carthame,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+,12.09,,,,"Graines, fruits et spores Ã  ensemencer",,
+3,,1209.10,00,00,- Graines de betteraves Ã  sucre,KG,- - - - -
+3,,1209.21,00,00,- - De luzerne,KG,- - - - -
+3,,1209.22,00,00,- - De trÃ¨fle (Trifolium spp),KG,- - - - -
+3,,1209.23,00,00,- - De fÃ©tuque,KG,- - - - -
+3,,1209.24,00,00,- - Du pÃ¢turin des prÃ©s du Kentucky (Poa pratensis L),KG,- - - - -
+3,,1209.25,00,00,"- - De ray grass (Lolium multiflorum Lam, Lolium perenne L)",KG,- - - - -
+,,1209.29,,,- - Autres,,
+3,,,10,00,- - - de betteraves autres qu'Ã  sucre,KG,- - - - -
+,,,20,,- - - de flÃ©ole des prÃ©s,,
+3,,,,00,- - - - de flÃ©ole des prÃ©s,KG,- - - - -
+3,,,90,00,- - - autres,KG,- - - - -
+3,,1209.30,00,00,- Graines de plantes herbacÃ©es utilisÃ©es principalement pour leurs fleursÂ£- Autres :,KG,- - - - -
+,,1209.91,00,,- - Graines de lÃ©gumes,,
+3,,,,01,"- - - graines de choux-raves (Brassica, oleracea, var-caulorapa et gongylodes)",KG,- - - - -
+3,,,,05,- - - - - graines de choux,KG,- - - - -
+3,,,,11,- - - graines d'Ã©pinards,KG,- - - - -
+3,,,,15,- - - - graines de carottes,KG,- - - - -
+3,,,,21,- - - - graines de navets,KG,- - - - -
+3,,,,25,- - - - graines de radis,KG,- - - - -
+3,,,,31,- - - - graines de betterave Ã  salade,KG,- - - - -
+3,,,,35,- - - - graines de poireaux,KG,- - - - -
+3,,,,41,- - - - - graines d'oignons potagers,KG,- - - - -
+3,,,,45,- - - - - graines de tomates,KG,- - - - -
+3,,,,51,"- - - - - - graines de courges, courgettes et autres cucurbitacÃ©es (Ã  l'exception des graines de pastÃ¨ques)",KG,- - - - -
+3,,,,55,- - - - - graines d'aubergines,KG,- - - - -
+3,,,,60,- - - - graines de piments,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+,,1209.99,00,,- - Autres,,
+3,,,,10,- - - - - graines forestiÃ¨res,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+,12.10,,,,"CÃ´nes de houblon frais ou secs, mÃªme broyÃ©s, moulus ou sous forme de pellets ; lupuline.",,
+3,,1210.10,00,00,"- CÃ´nes de houblon, non broyÃ©s ni moulus ni sous forme de pellets",KG,- - - - -
+,,1210.20,00,,"- - CÃ´nes de houblon, broyÃ©s, moulus ou sous forme de pellets; lupuline",,
+3,,,,00,"- - - - - ""CÃ´nes de houblon, broyÃ©s, moulus ou sous forme de pellets; lupuline """,KG,- - - - -
+,12.11,,,,"Plantes, parties de plantes, graines et fruits des espÃ¨ces utilisÃ©es principalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides ou similaires, frais ou secs, mÃªme coupÃ©s, concassÃ©s ou pulvÃ©risÃ©s.",,
+,12.11,,,,"Plantes, parties de plantes, graines et fruits des espÃ¨ces utilisÃ©es principalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides ou similaires, frais ou secs, mÃªme coupÃ©s, concassÃ©s ou pulvÃ©risÃ©s.",,
+,12.11,,,,"Plantes, parties de plantes, graines et fruits des espÃ¨ces utilisÃ©esprincipalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides ou similaires, frais, rÃ©frigÃ©rÃ©s, congelÃ©s ou sÃ©chÃ©s, mÃªme coupÃ©s, concassÃ©s ou pulvÃ©risÃ©s",,
+,12.11,,,,"Plantes, parties de plantes, graines et fruits des espÃ¨ces utilisÃ©esprincipalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides ou similaires, frais, rÃ©frigÃ©rÃ©s, congelÃ©s ou sÃ©chÃ©s, mÃªme coupÃ©s, concassÃ©s ou pulvÃ©risÃ©s",,
+,,1211.20,00,,"- """"""Racines de ginsengâ€“ â€“ â€“ rÃ©frigÃ©rÃ©s ou congelÃ©s:""""""",,
+1,,,,11,"- - - entiers ou en morceaux mÃªme pelÃ©s, prÃ©parÃ©s ou conservÃ©s au sucre ou au sirop",KG,- - - - -
+1,,,,19,- - - autres,KG,- - - - -
+3,,,,90,- autres,KG,- - - - -
+3,,1211.30,00,00,- Coca (feuille de),KG,- - - - -
+3,,1211.40,00,00,- Paille de pavot,KG,- - - - -
+3,,1211.50,00,00,- EphÃ©dra,KG,- - - - -
+3,,1211.60,00,00,- Ã‰corce de cerisier africain (Prunus africana),KG,- - - - -
+,,1211.90,,,- Autres,,
+,,1211.90,,,- Autres,,
+,,1211.90,,,- Autresâ€“ â€“ â€“ rÃ©frigÃ©rÃ©s ou congelÃ©s:,,
+,,1211.90,,,- Autresâ€“ â€“ â€“ rÃ©frigÃ©rÃ©s ou congelÃ©s:,,
+1,,,10,10,"- - - entiers ou en morceaux mÃªme pelÃ©s ou dÃ©noyautÃ©s ou Ã©pÃ©pinÃ©s, prÃ©parÃ©s ou conservÃ©s au sucre ou au sirop",KG,- - - - -
+1,,,10,90,- - - autresâ€“ â€“ â€“ autres,KG,- - - - -
+,,,70,,- - - racines de rÃ©glisse,,
+3,,,90,10,"- - - - pyrÃ¨thre (fleurs, feuilles, tiges, Ã©corces, racines)",KG,- - - - -
+3,,,90,20,- - - - Ã©corces de quinquina,KG,- - - - -
+3,,,90,30,- - - - quassia amara (bois et Ã©corces),KG,- - - - -
+3,,,90,40,- - - - fÃ¨ves de tonka,KG,- - - - -
+3,,,90,50,- - - - fÃ¨ves de calabar,KG,- - - - -
+3,,,90,60,- - - - poivre de cubÃ¨be,KG,- - - - -
+3,,,90,70,- - - - racines de rÃ©glisse,KG,- - - - -
+3,,,90,85,"- - - - ""autres bois, racines et Ã©corces ; mousses et lichens""",KG,- - - - -
+3,,,90,90,- - - - autres,KG,- - - - -
+,12.12,,,,"- - - - - - - - - - - - - - - - - - - Caroubes, algues, betteraves Ã  sucre et cannes Ã  sucre, fraÃ®ches, rÃ©frigÃ©rÃ©es, congelÃ©es ou sÃ©chÃ©es, mÃªme pulvÃ©risÃ©es; noyaux et amandes de fruits et autres produits vÃ©gÃ©taux (y compris les racines de ch",,
+,,1212.10,00,,"- Caroubes, y compris les graines de caroubesÂ£- - - caroubes :",,
+,,1212.20,,,"- AlguesÂ£- - - des espÃ¨ces utilisÃ©es principalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides et similaires, mÃªme coupÃ©es, concassÃ©es ou pulvÃ©risÃ©es :",,
+,,,90,,- - - - - autres :,,
+,,1212.21,,,- - DestinÃ©es Ã  l'alimentation humaine,,
+,,,00,,- - DestinÃ©es Ã  l'alimentation humaine,,
+1,,,,00,- - DestinÃ©es Ã  l'alimentation humaine,KG,- - - - -
+,,1212.29,,,"- - Autres%â€“ â€“ â€“ des espÃ¨ces utilisÃ©es principalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides et similaires, mÃªme coupÃ©es, concassÃ©es ou pulvÃ©risÃ©es:",,
+3,,,10,00,"- - - - des espÃ¨ces utilisÃ©es principalement en parfumerie, en mÃ©decine ou Ã  usages insecticides, parasiticides et similaires, mÃªme coupÃ©es,concassÃ©es ou pulvÃ©risÃ©es",KG,- - - - -
+,,,11,,- - - - prÃ©sentÃ©es Ã  l'Ã©tat congelÃ©,,
+,,,19,,- - - - autres,,
+,,,90,,- - - autres :,,
+3,,,,00,- - - - autres,KG,- - - - -
+,,1212.91,00,,- - Betteraves Ã  sucre,,
+3,,,,10,- - - - fraÃ®ches,KG,- - - - -
+3,,,,90,- - - - - - sÃ©chÃ©es ou en poudre,KG,- - - - -
+,,,00,,- - caroubes%â€“ â€“ â€“ caroubes :,,
+3,,,,10,"- - - - flocons, semoules et farines de caroubes",KG,- - - - -
+3,,,,20,- - - - autres%â€“ â€“ â€“ graines de caroubes :,KG,- - - - -
+3,,,,41,"- - - - non dÃ©cortiquÃ©es, ni concassÃ©es, ni moulues",KG,- - - - -
+3,,,,42,"- - - - flocons, semoules et farines de graines de caroubes",KG,- - - - -
+3,,,,80,- - - - autres,KG,- - - - -
+,,1212.93,,,- - Cannes Ã  sucre,,
+,,,00,,- - Cannes Ã  sucre,,
+3,,,,00,- - Cannes Ã  sucre,KG,- - - - -
+,,1212.94,,,- - Racines de chicorÃ©e%,,
+,,,00,,"- - Racines de chicorÃ©e%â€“ â€“ â€“ racines de chicorÃ©e, fraÃ®ches ou sÃ©chÃ©es, mÃªme coupÃ©es, non torrÃ©fiÃ©es:",,
+3,,,,00,- - - - Racines de chicorÃ©e,KG,- - - - -
+,,1212.99,00,,"- - AutresÂ£- - - racines de chicorÃ©e, fraÃ®ches ou sÃ©chÃ©es, mÃªme coupÃ©es, non torrÃ©fiÃ©es :",,
+3,,,,20,- - - oignons sauvages,KG,- - - - -
+3,,,,40,"- - - noyaux et amandes d'abricots, de pÃªches (y compris les brugnons et%nectarines) ou de prunes",KG,- - - - -
+3,,,,80,- - - autres,KG,- - - - -
+,,1213.00,,,"Pailles et balles de cÃ©rÃ©ales brutes, mÃªme hachÃ©es, moulues, pressÃ©es ou agglomÃ©rÃ©es sous forme de pellets.",,
+,,,10,,"- - - - - - pailles et balles brutes, mÃªme hachÃ©es :Â£- - - - pailles :",,
+3,,,,00,"- - - - - pailles et balles brutes, mÃªme hachÃ©es",KG,- - - - -
+3,,,90,00,- - - - - autres,KG,- - - - -
+,12.14,,,,"- - - - - - - - - - - Rutabagas, betteraves fourragÃ¨res, racines fourragÃ¨res, foin, luzerne, trÃ¨fle, sainfoin, choux fourragers, lupin, vesces et produits fourragers similaires, mÃªme agglomÃ©rÃ©s sous forme de pellets.",,
+3,,1214.10,00,00,- Farine et agglomÃ©rÃ©s sous forme de pellets de luzerne,KG,- - - - -
+3,,1214.90,00,00,- Autres,KG,- - - - -

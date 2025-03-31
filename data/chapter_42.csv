@@ -1,0 +1,108 @@
+0,1,2,3,4,5,6,7
+,,4201.00,,,"- - - Articles de sellerie ou de bourrellerie pour tous animaux (y compris les traits, laisses, genouillÃ¨res, museliÃ¨res,tapis de selles, fontes, manteaux pour chiens et articles similaires), en toutes matiÃ¨res.",,
+6,,,10,00,"- - - - - articles de bourrellerie; articles de harnachement et d'Ã©quipement pour chevaux, mulets et chameaux (selles et harnachements de selles, harnais fins de trait, couvertures et tapis de selles, camails, caparaÃ§ons, etc...)",KG,- - - - -
+6,,,90,00,- - - - - autres,KG,- - - - -
+,42.02,,,,"- - - - - - Malles, valises et mallettes, y compris les mallettes de toilette et les mallettes porte-documents, serviettes, cartables, Ã©tuis Ã  lunettes, Ã©tuis pour jumelles, appareils photographiques, camÃ©ras, instruments de musique ou armes et conten",,
+,,4202.11,00,,"- - - A surface extÃ©rieure en cuir naturel, en cuir reconstituÃ© ou en cuir verni",,
+8,,,,10,- - - articles de voyage et trousses de toilette,U,- - - - -
+8,,,,20,- - - serviettes et porte-documents,U,NOMBRE
+8,,,,90,- - - - - autres,U,NOMBRE
+,,4202.12,,,- - A surface extÃ©rieure en matiÃ¨res plastiques ou en matiÃ¨res textiles,,
+,,,10,,- - - en feuilles de matiÃ¨res plastiques :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,,,10,- - - - contenant des matiÃ¨res textiles,U,- - - - -
+8,,,,91,"- - - - - malles, mallettes ou porte-habits",U,- - - - -
+8,,,,92,"- - - - - serviettes, cartables, porte-musique et similaires",U,NOMBRE
+8,,,,99,- - - - - - - autres,U,- - - - -
+,,,20,,- - - - en fibre vulcanisÃ©e :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,,,00,- - - en fibre vulcanisÃ©e,U,NOMBRE
+8,,,30,00,- - - - en tissus,U,NOMBRE
+8,,,40,00,- - - en bonneterie,U,NOMBRE
+,,,90,,- - - - - autres :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,,,10,- - - - contenant des matiÃ¨res textiles,U,- - - - -
+8,,,,91,- - - - - articles de voyages et trousses de toilette,U,- - - - -
+8,,,,99,- - - - - - - autres,U,NOMBRE
+,,4202.19,,,- - Autres,,
+8,,,00,10,- - - serviettes et cartables Ã©coliers,U,NOMBRE
+8,,,00,90,- - - autres,U,NOMBRE
+,,,90,,- - - - - autres :,,
+,,4202.21,,,- - A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+,,,00,,- - A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+8,,,,00,"- - A surface extÃ©rieure en cuir naturel, en cuir reconstituÃ© ou en cuir verni",U,NOMBRE
+,,4202.22,,,- - A surface extÃ©rieure en feuilles de matiÃ¨res plastiques ou en matiÃ¨res textiles,,
+8,,,00,10,- - - en feuilles de matiÃ¨res plastiques,U,- - - - -
+8,,,00,90,- - - en matiÃ¨res textiles,U,- - - - -
+,,,10,,- - - - en feuilles de matiÃ¨res plastiques :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,4202.29,00,00,- - AutresÂ£- Articles de poche ou de sac Ã  main :,U,NOMBRE
+,,4202.31,,,A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+,,,00,,A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+8,,,,00,"- - - A surface extÃ©rieure en cuir naturel, en cuir reconstituÃ© ou en cuir verni",KG,- - - - -
+,,4202.32,,,- - A surface extÃ©rieure en feuilles de matiÃ¨res plastiques ou en matiÃ¨res textiles,,
+,,,10,,- - - - en feuilles de matiÃ¨res plastiques :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,,,10,- - - - contenant des matiÃ¨res textiles,KG,- - - - -
+8,,,,91,"- - - - - trousses et Ã©tuis souples, portefeuilles, porte-monnaie, porte-cartes, blagues Ã  tabac, liseuses et autres articles similaires",KG,- - - - -
+8,,,,99,- - - - - autres articles,KG,- - - - -
+8,,,90,00,- - - - - autres,KG,- - - - -
+,,4202.39,,,- - Autres,,
+8,,,10,00,- - - - en matiÃ¨res plastiques,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,4202.91,,,A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+,,,00,,A surface extÃ©rieure en cuir naturel ou en cuir reconstituÃ©,,
+8,,,,00,"- - - A surface extÃ©rieure en cuir naturel, en cuir reconstituÃ© ou en cuir verni",KG,- - - - -
+,,4202.92,,,- - A surface extÃ©rieure en feuilles de matiÃ¨res plastiques ou en matiÃ¨res textiles,,
+8,,,05,00,- - - Sacs isothermiques ou sacs isothermes en feuilles de matiÃ¨res plastiques (b),KG,- - - - -
+,,,10,,- - - - en feuilles de matiÃ¨res plastiques :Â£- - - - contenant des matiÃ¨res textiles :,,
+8,,,,10,- - - - - contenant des matiÃ¨res textiles,KG,- - - - -
+8,,,,91,- - - - - sacs de voyage,KG,- - - - -
+8,,,,92,"- - - - - Ã©tuis et Ã©crins pour armes, pour jumelles, pour appareils photographiques, pour instruments de musique et autres instruments ou appareils ; cartou- chiÃ¨res",KG,- - - - -
+8,,,,99,- - - - - autres articles,KG,- - - - -
+,,,90,,- - - - en autres matiÃ¨res :,,
+8,,,,10,- - - - en bonneterie,KG,- - - - -
+8,,,,90,- - - - - - autres,KG,- - - - -
+,,4202.99,,,- - Autres,,
+,,,00,,"- - ""Autresâ€“ â€“ â€“ sacs en non tissÃ©s:â€“ â€“ â€“ â€“ d'une surface massique supÃ©rieure ou Ã©gale Ã  50g/m2:""",,
+8,,,,11,- - - - - de filaments synthÃ©tiques,KG,- - - - -
+8,,,,12,- - - - - de filaments artificielles,KG,- - - - -
+8,,,,19,- - - - - autres Â£â€“ â€“ â€“ â€“ d'une surface massique infÃ©rieure Ã  50g/m2:,KG,- - - - -
+8,,,,21,- - - - - de filaments synthÃ©tiques,KG,- - - - -
+8,,,,22,- - - - - de filaments artificielles,KG,- - - - -
+8,,,,29,- - - - - autres,KG,- - - - -
+8,,,,30,- - - trousses Ã©coliers en toute matiÃ¨re Â£â€“ â€“ â€“ autres:,KG,- - - - -
+8,,,,91,- - - - en matiÃ¨res plastiques,KG,- - - - -
+8,,,,99,- - - - autres,KG,- - - - -
+,42.03,,,,VÃªtements et accessoires du vÃªtement en cuir naturel ou reconstituÃ©,,
+,,4203.10,,,- VÃªtements,,
+7,,,10,00,- - - constituant des Ã©quipements spÃ©ciaux pour tous mÃ©tiers,KG,- - - - -
+8,,,90,00,"- - - - - autresÂ£- Gants, mitaines et moufles :",KG,- - - - -
+8,,4203.21,00,00,- - SpÃ©cialement concus pour la pratique de sports,KG,PAIRE
+,,4203.29,,,- - Autres,,
+7,,,10,00,- - - de protection pour tous mÃ©tiers,KG,PAIRE
+8,,,90,00,- - - - - autres,KG,PAIRE
+,,4203.30,,,"- Ceintures, ceinturons et baudriers",,
+7,,,10,00,- - - constituant des Ã©quipements spÃ©ciaux pour tous mÃ©tiers,KG,- - - - -
+8,,,90,00,- - - - - autres,KG,- - - - -
+,,4203.40,,,- Autres accessoires du vÃªtement,,
+7,,,10,00,- - - constituant des Ã©quipements spÃ©ciaux pour tous mÃ©tiers,KG,- - - - -
+8,,,90,00,- - - - - autres,KG,- - - - -
+,,4204.00,,,"Articles en cuir naturel ou reconstituÃ©, Ã  usages techniques",,
+,42.05,,,,Autres ouvrages en cuir naturel ou reconstituÃ©.,,
+,,4205.00,,,Autres ouvrages en cuir naturel ou reconstituÃ©.,,
+,,,00,,Autres ouvrages en cuir naturel ou reconstituÃ©,,
+,,,10,,- - - articles Ã  usages techniques:,,
+7,,,,10,- - - - courroies de transmission ou de transport,KG,- - - - -
+7,,,,20,- - - - taquets et butÃ©es de taquets pour mÃ©tiers Ã  tisser,KG,- - - - -
+5,,,,30,"- - - - articles emboutis pour pompes, presses ou autres usages",KG,- - - - -
+5,,,,40,- - - - articles pour l'industrie textile autres que les taquets et butÃ©es de taquets pour mÃ©tiers Ã  tisser,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+8,,,,10,"- - - - articles de maroquinerie, n'ayant pas le caractÃ¨re de contenants (sous-main, signets, etc...)%â€“ â€“ â€“ â€“ articles de gainerie, n'ayant pas le caractÃ¨re de contenants :",KG,- - - - -
+8,,,,20,"- - - - articles de gainerie, n'ayant pas le caractÃ¨re de contenants",KG,- - - - -
+5,,,,30,"- - - - laniÃ¨res pour trÃ©pointes, quelle que soit leur longueur",KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+8,,,,90,- - - - Migration NGP inexistants,KG,- - - - -
+,42.06,,,,"Ouvrages en boyaux, en baudruches, en vessies ou en tendons",,
+,,4206.00,,,"Ouvrages en boyaux, en baudruches, en vessies ou en tendons.",,
+,,,00,,"Ouvrages en boyaux, en baudruches, en vessies ou en tendons.",,
+5,,,,10,- - - cordes en boyaux,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -

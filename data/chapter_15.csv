@@ -1,0 +1,205 @@
+0,1,2,3,4,5,6,7
+,,1501.00,,,"Graisses de porc (y compris le saindoux) et graisses de volailles, autres que celles du nÂ° 02.09 ou du nÂ° 15.03.",,
+,,1501.10,,,- Saindoux,,
+,,,00,,- Saindoux,,
+1,,,,00,- Saindoux,KG,- - - - -
+,,1501.20,,,- Autres graisses de porc,,
+,,,00,,- Autres graisses de porc,,
+1,,,,00,- Autres graisses de porc,KG,- - - - -
+,,1501.90,,,- Autres,,
+,,,00,,- Autres,,
+1,,,,00,- Autres,KG,- - - - -
+,,1502.00,00,,"- - Graisses des animaux des espÃ¨ces bovine, ovine ou caprine, autres que celles du nÂ° 15.03.",,
+,,1502.10,,,- Suif,,
+,,,00,,- Suif%â€“ â€“ â€“ destinÃ©s Ã  des usages industriels autres que la fabrication de produits alimentaires :,,
+3,,,,00,- - - - Suif,KG,- - - - -
+,,1502.90,,,- Autres,,
+,,,00,,- Autres,,
+3,,,,00,- Autres,KG,- - - - -
+,,1503.00,00,,"- StÃ©arine solaire, huile de saindoux, olÃ©o-stÃ©arine, olÃ©o-margarine et huile de suif, non Ã©mulsionnÃ©es, ni mÃ©langÃ©es ni autrement prÃ©parÃ©es.Â£- - - stÃ©arine solaire et olÃ©o-stÃ©arine :",,
+3,,,,11,- - - - destinÃ©es Ã  des usages industriels,KG,- - - - -
+3,,,,19,- - - - - - autres,KG,- - - - -
+3,,,,20,"- - - huile de suif, destinÃ©e Ã  des usages industriels autres que la fabrication de produits alimentairesÂ£- - - autres :",KG,- - - - -
+3,,,,91,- - - - huile de saindoux,KG,- - - - -
+3,,,,92,- - - - olÃ©o-margarine,KG,- - - - -
+3,,,,99,- - - - - - autres,KG,- - - - -
+,15.04,,,,"Graisses et huiles et leurs fractions, de poissons ou de mammifÃ¨res marins, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.",,
+,,1504.10,,,- Huiles de foies de poissons et leurs fractions,,
+,,,10,,- - - non durcies ni solidifiÃ©es :,,
+3,,,,10,- - - - d'une teneur en vitamine A Ã©gale ou infÃ©rieure Ã  2500 unitÃ©s internationales par gramme,KG,- - - - -
+3,,,,90,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+3,,,91,00,- - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+3,,,,00,- - - - - autres,KG,- - - - -
+,,1504.20,,,"- Graisses et huiles de poissons et leurs fractions, autres que les huiles de foies",,
+3,,,10,00,- - - non durcies ni solidifiÃ©esÂ£- - - autres :,KG,- - - - -
+3,,,91,00,- - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+3,,,,00,- - - - - autres,KG,- - - - -
+,,1504.30,,,- Graisses et huiles de mammifÃ¨res marins et leurs fractions,,
+,,,10,,- - - non durcies ni solidifiÃ©es :,,
+3,,,,10,- - - - huile de baleine,KG,- - - - -
+3,,,,90,- - - - - - autresÂ£- - - autres :,KG,- - - - -
+3,,,91,00,- - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+3,,,,10,- - - - - destinÃ©es Ã  la fabrication de produits alimentaires et prÃ©sentÃ©es sous des emballages contenant plus de 20 kgs nets de produits,KG,- - - - -
+3,,,,90,- - - - - destinÃ©es Ã  des usages industriels,KG,- - - - -
+,,1505.00,,,"Graisse de suint et substances grasses dÃ©rivÃ©es, y compris la lanoline",,
+3,,,20,00,- - - - lanoline,KG,- - - - -
+3,,,80,00,- - - autres,KG,- - - - -
+,,,90,,- - - autres :,,
+,,1506.00,,,"Autres graisses et huiles animales et leurs fractions, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.",,
+,,,10,,- - - non durcies ni solidifiÃ©es :,,
+3,,,,00,- - - - non durcies ni solidifiÃ©es,KG,- - - - -
+3,,,90,00,- - - - autres,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+,15.07,,,,"Huile de soja et ses fractions, mÃªme raffinÃ©es, mais non chimique- ment modifiÃ©es.",,
+3,,1507.10,00,00,"- Huile brute, mÃªme dÃ©gommÃ©e",KG,- - - - -
+3,,1507.90,00,00,- Autres,KG,- - - - -
+,15.08,,,,"- Huile d'arachide et ses fractions, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.",,
+3,,1508.10,00,00,- Huile brute,KG,- - - - -
+3,,1508.90,00,00,- Autres,KG,- - - - -
+,15.09,,,,"- Huile d'olive et ses fractions, mÃªme raffinÃ©es, mais non chimique- ment modifiÃ©es.",,
+,,1509.10,00,,- Vierges,,
+3,,1509.20,00,00,- Huile d'olive vierge extra,KG,- - - - -
+3,,1509.30,00,00,- Huile d'olive vierge,KG,- - - - -
+3,,1509.40,00,00,- Autres huiles d'olive vierges,KG,- - - - -
+,,1509.90,,,- AutresÂ£- - - non durcies ni solidifiÃ©es :,,
+,,,10,,- - - - ayant subi un processus de raffinage :,,
+3,,,,10,"- - - - - destinÃ©es Ã  la fabrication de produits pharmaceutiques et importÃ©es direc- tement par les industriels intÃ©ressÃ©sÂ£- - - - - obtenues par le raffinage d'huile d'olive vierge, mÃªme coupÃ©es d'huile d'olive vierge :",KG,- - - - -
+3,,,,21,- - - - - - en emballages immÃ©diats d'un contenu net de 20 kgs ou moins,KG,- - - - -
+3,,,,29,- - - - - - - autresÂ£- - - - - autres :,KG,- - - - -
+3,,,,91,- - - - - - en emballages immÃ©diats d'un contenu net de 20 kgs ou moins,KG,- - - - -
+3,,,,99,- - - - - - - autresÂ£- - - - autres :,KG,- - - - -
+3,,,21,00,- - - - - destinÃ©es Ã  la fabrication de produits pharmaceutiques et importÃ©es direc- tement par les industriels intÃ©ressÃ©s,KG,- - - - -
+,,,29,,- - - - - - autres :,,
+3,,,,10,- - - - - - en emballages immÃ©diats d'un contenu net de 20 kgs ou moins,KG,- - - - -
+3,,,,90,- - - - - - - autresÂ£- - - autres :,KG,- - - - -
+3,,,91,00,- - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs,KG,- - - - -
+,,,99,,- - - - - autres :,,
+3,,,,10,- - - - - destinÃ©es Ã  la fabrication de produits alimentaires et prÃ©sentÃ©es sous des emballages contenant plus de 20 kgs nets de produits,KG,- - - - -
+3,,,,90,- - - - - destinÃ©es Ã  des usages industriels,KG,- - - - -
+,15.10,,,,"Autres huiles et leurs fractions, obtenues exclusivement Ã  partir d'olives, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es et mÃ©langes de ces huiles ou fractions avec des huiles ou fractions du nÂ° 15.09.",,
+,,1510.00,,,"- - - Autres huiles et leurs fractions, obtenues exclusivement Ã  partir d'olives, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es et mÃ©langes de ces huiles ou fractions avec des huiles ou fractions du nÂ° 15.09.Â£- - - non durcies ni solidifiÃ©es :Â£",,
+,,,99,,- - - - - - autres :,,
+,,1510.10,00,,- Huile de grignons d'olive brute,,
+3,,,,10,- - - non durcies ni solidifiÃ©es,KG,- - - - -
+3,,,,90,- - - autres,KG,- - - - -
+,,1510.90,,,- Autres,,
+3,,,00,10,- - - non durcies ni solidifiÃ©es,KG,- - - - -
+3,,,00,90,- - - autres,KG,- - - - -
+,15.11,,,,"- - Huile de palme et ses fractions, mÃªme raffinÃ©es, mais non chimique- ment modifiÃ©es.",,
+3,,1511.10,00,00,- Huile brute,KG,- - - - -
+3,,1511.90,00,00,- Autres,KG,- - - - -
+,15.12,,,,"- Huiles de tournesol, de carthame ou de coton et leurs fractions, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.Â£- Huiles de tournesol ou de carthame et leurs fractions :",,
+3,,1512.11,00,00,- - Huiles brutes,KG,- - - - -
+3,,1512.19,00,00,- - AutresÂ£- Huile de coton et ses fractions :,KG,- - - - -
+3,,1512.21,00,00,"- - Huile brute, mÃªme dÃ©pourvue de gossypol",KG,- - - - -
+3,,1512.29,00,00,- - Autres,KG,- - - - -
+,15.13,,,,"- - Huiles de coco (huile de coprah), de palmiste ou de babassu et leurs fractions, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.Â£- Huile de coco (huile de coprah) et ses fractions :",,
+3,,1513.11,00,00,- - Huile brute,KG,- - - - -
+3,,1513.19,00,00,- - AutresÂ£- Huiles de palmiste ou de babassu et leurs fractions :,KG,- - - - -
+3,,1513.21,00,00,- - Huiles brutes,KG,- - - - -
+3,,1513.29,00,00,- - Autres,KG,- - - - -
+,15.14,,,,"Huiles de navette, de colza ou de moutarde et leurs fractions, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.Â£- Huile de navette ou de colza Ã  faible teneur en acide Ã©rucique et leurs fractions :",,
+3,,1514.11,00,00,- - Huiles brutes,KG,- - - - -
+3,,1514.19,00,00,- - AutresÂ£- Autres :,KG,- - - - -
+3,,1514.91,00,00,- - Huiles brutes,KG,- - - - -
+3,,1514.99,00,00,- - Autres,KG,- - - - -
+,15.15,,,,"Autres graisses et huiles vÃ©gÃ©tales (y compris l'huile de jojoba) et leurs fractions, fixes, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.Â£- Huile de lin et ses fractions :",,
+,15.15,,,,"Autres graisses et huiles vÃ©gÃ©tales (y compris l'huile de jojoba) et leurs fractions, fixes, mÃªme raffinÃ©es, mais non chimiquement modifiÃ©es.Â£- Huile de lin et ses fractions :",,
+,15.15,,,,"Autres graisses et huiles vÃ©gÃ©tales ou d'origine microbienne (y compris l'huile de jojoba) et leurs fractions, fixes, mÃªme raffinÃ©es, mais non chimiquement modifiÃ© modifiÃ©es.",,
+,15.15,,,,"Autres graisses et huiles vÃ©gÃ©tales ou d'origine microbienne (y compris l'huile de jojoba) et leurs fractions, fixes, mÃªme raffinÃ©es, mais non chimiquement modifiÃ© modifiÃ©es.",,
+3,,1515.11,00,00,- - Huile brute,KG,- - - - -
+3,,1515.19,00,00,- - AutresÂ£- Huile de maÃ¯s et ses fractions :,KG,- - - - -
+3,,1515.21,00,00,- - Huile brute,KG,- - - - -
+3,,1515.29,00,00,- - Autres,KG,- - - - -
+3,,1515.30,00,00,- Huile de ricin et ses fractions,KG,- - - - -
+,,1515.40,,,- Huile de tung (d'abrasin) et ses fractions,,
+,,1515.50,,,- - Huile de sÃ©same et ses fractions,,
+3,,,10,00,- - - - huile brute,KG,- - - - -
+3,,,90,00,- - - - autres,KG,- - - - -
+,,1515.60,,,- Graisses et huiles d'origine microbienne et leurs fractions,,
+3,,,10,00,- - - huile brute,KG,- - - - -
+3,,,90,00,- - - autres,KG,- - - - -
+,,1515.90,,,- AutresÂ£- - - huile de jojoba et ses fractions :,,
+3,,,11,00,- - - - huile brute,KG,- - - - -
+3,,,19,00,- - - - autresÂ£- - - autres :,KG,- - - - -
+,,,21,,- - - - huile brute,,
+3,,,,00,- - - - huile brute,KG,- - - - -
+,,,29,,- - - - autres,,
+3,,,,00,- - - - autres %â€“ â€“ â€“ autres :,KG,- - - - -
+3,,,92,00,- - - - huiles brutes,KG,- - - - -
+3,,,98,00,- - - - autres,KG,- - - - -
+,15.16,,,,"Graisses et huiles animales, vÃ©gÃ©tales ou d'origine microbienne et leurs fractions, partiellement ou totalement hydrogÃ©nÃ©es, interestÃ©rifiÃ©es, rÃ©estÃ©rifiÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es.",,
+,15.16,,,,"Graisses et huiles animales, vÃ©gÃ©tales ou d'origine microbienne et leurs fractions, partiellement ou totalement hydrogÃ©nÃ©es, interestÃ©rifiÃ©es, rÃ©estÃ©rifiÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es.",,
+,15.16,,,,"Graisses et huiles animales ou vÃ©gÃ©tales et leurs fractions, partiel- lement ou totalement hydrogÃ©nÃ©es, interestÃ©rifiÃ©es, rÃ©estÃ©rifiÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es.",,
+,15.16,,,,"Graisses et huiles animales ou vÃ©gÃ©tales et leurs fractions, partiel- lement ou totalement hydrogÃ©nÃ©es, interestÃ©rifiÃ©es, rÃ©estÃ©rifiÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es.",,
+,,1516.10,,,"- Graisses et huiles animales et leurs fractionsÂ£- - - huiles et graisses partiellement ou totalement hydrogÃ©nÃ©es, interestÃ©rifiÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es :",,
+,,,10,,- - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs :,,
+3,,,,10,- - - - - de baleine ou de cachalot,KG,- - - - -
+3,,,,90,- - - - - - autresÂ£- - - - autres :,KG,- - - - -
+3,,,21,00,- - - - - destinÃ©es Ã  la fabrication de produits alimentaires et prÃ©sentÃ©es sous des emballages contenant plus de 20 kgs nets de produits,KG,- - - - -
+3,,,29,00,- - - - - destinÃ©es Ã  des usages industriels,KG,- - - - -
+,,,90,,- - - - autres :,,
+3,,,,10,- - - - de foies de poissons,KG,- - - - -
+3,,,,20,"- - - - - autres, de poissons, autres que de foies",KG,- - - - -
+3,,,,30,- - - - de mammifÃ¨res marins,KG,- - - - -
+3,,,,90,- - - - - autres,KG,- - - - -
+,,1516.20,,,"- Graisses et huiles vÃ©gÃ©tales et leurs fractionsÂ£- - - huiles et graisses partiellement ou totalement hydrogÃ©nÃ©es, interestÃ©rifÃ©es ou Ã©laÃ¯dinisÃ©es, mÃªme raffinÃ©es, mais non autrement prÃ©parÃ©es :",,
+,,,10,,- - - - ayant le caractÃ¨re de cires :,,
+3,,,,10,"- - - - - sous-forme de billes, de pastilles, de granulÃ©s ou en poudre d'une teneur de 90% minimum en mono-diglycÃ©rides obtenus Ã  partir d'huiles de colza, de palme ou de tournesol, prÃ©sentÃ©es dans des sacs de 25 kg ou plus",KG,- - - - -
+3,,,,80,- - - - - autres,KG,- - - - -
+3,,,25,00,- - - - - en emballages immÃ©diats d'un contenu net infÃ©rieur ou Ã©gal Ã  20 kgs,KG,- - - - -
+,,,31,,- - - - - - destinÃ©es Ã  la fabrication de produits alimentaires et prÃ©sentÃ©es sous des emballages contenant plus de 20 kgs net de produits :,,
+3,,,,10,- - - - - - - de palme,KG,- - - - -
+3,,,,20,- - - - - - - de palmiste,KG,- - - - -
+3,,,,80,- - - - - - - autres,KG,- - - - -
+3,,,38,00,- - - - - - destinÃ©es Ã  des usages industriels (savonnerie etc...),KG,- - - - -
+3,,,91,00,- - - - de ricin,KG,- - - - -
+3,,,92,00,- - - - - de palme,KG,- - - - -
+3,,,93,00,- - - - de palmiste,KG,- - - - -
+3,,,94,00,- - - - de coco (de coprah),KG,- - - - -
+3,,,98,00,- - - - autres,KG,- - - - -
+3,,1516.30,00,00,- Graisses et huiles d'origine microbienne et leurs fractions,KG,- - - - -
+,15.17,,,,"Margarine; mÃ©langes ou prÃ©parations alimentaires de graisses ou d'huiles animales, vÃ©gÃ©tales ou d'origine microbienne ou de fractions de diffÃ©rentes graisses ou huiles du prÃ©sent Chapitre, autres que les graisses et huiles alimentaires ou leurs frac",,
+,15.17,,,,"Margarine; mÃ©langes ou prÃ©parations alimentaires de graisses ou d'huiles animales, vÃ©gÃ©tales ou d'origine microbienne ou de fractions de diffÃ©rentes graisses ou huiles du prÃ©sent Chapitre, autres que les graisses et huiles alimentaires ou leurs frac",,
+,15.17,,,,"Margarine; mÃ©langes ou prÃ©parations alimentaires de graisses ou d'huiles animales ou vÃ©gÃ©tales ou de fractions de diffÃ©rentes graisses ou huiles du prÃ©sent Chapitre, autres que les graisses et huiles alimentaires et leurs fractions du nÂ° 15.16.",,
+,15.17,,,,"Margarine; mÃ©langes ou prÃ©parations alimentaires de graisses ou d'huiles animales ou vÃ©gÃ©tales ou de fractions de diffÃ©rentes graisses ou huiles du prÃ©sent Chapitre, autres que les graisses et huiles alimentaires et leurs fractions du nÂ° 15.16.",,
+,,1517.10,00,,"- Margarine, Ã  l'exclusion de la margarine liquide",,
+1,,,,00,"- - - Margarine, Ã  l exclusion de la margarine liquide",KG,- - - - -
+,,1517.90,,,- Autres,,
+3,,,10,00,"- - - huiles vÃ©gÃ©tales fixes, simplement mÃ©langÃ©esÂ£- - - autres :",KG,- - - - -
+2,,,91,00,- - - - prÃ©parations utilisÃ©es pour le dÃ©moulage,KG,- - - - -
+1,,,92,00,- - - - margarine liquide,KG,- - - - -
+,,,99,,"- - - - simili-saindoux et autres graisses alimentaires prÃ©parÃ©es :Â£- - - - - graisses alimentaires rÃ©sultant du mÃ©lange de graisses ou d'huiles non Ã©mulsionnÃ©es :Â£- - - - - - d'origine exclusivement animale, prÃ©sentÃ©es sous des emballages conte",,
+1,,,,10,"- - - - - - - d origine exclusivement animale, prÃ©sentÃ©es sous des emballages",KG,- - - - -
+1,,,,20,- - - - - - - d origine exclusivement vÃ©gÃ©tale,KG,- - - - -
+1,,,,30,- - - - - - - d origine mixte (animale et vÃ©gÃ©tale),KG,- - - - -
+1,,,,90,- - - - - - autres,KG,- - - - -
+,,1518.00,,,"Graisses et huiles animales ou vÃ©gÃ©tales et leurs fractions, cuites, oxydÃ©es, dÃ©shydratÃ©es, sulfurÃ©es, soufflÃ©es, standolisÃ©es ou autrement modifiÃ©es chimiquement, Ã  l'exclusion de celles du nÂ° 15.16; mÃ©langes ou prÃ©parations non alimentaires",,
+,,1518.00,,,"Graisses et huiles animales ou vÃ©gÃ©tales et leurs fractions, cuites, oxydÃ©es, dÃ©shydratÃ©es, sulfurÃ©es, soufflÃ©es, standolisÃ©es ou autrement modifiÃ©es chimiquement, Ã  l'exclusion de celles du nÂ° 15.16; mÃ©langes ou prÃ©parations non alimentaires",,
+,,1518.00,,,"Graisses et huiles animales, vÃ©gÃ©tales ou d'origine microbienne et leurs fractions, cuites, oxydÃ©es, dÃ©shydratÃ©es, sulfurÃ©es, soufflÃ©es, standolisÃ©es ou autrement modifiÃ©es chimiquement, Ã  l'exclusion de celles du nÂ° 15.16; mÃ©langes ou prÃ©par",,
+,,1518.00,,,"Graisses et huiles animales, vÃ©gÃ©tales ou d'origine microbienne et leurs fractions, cuites, oxydÃ©es, dÃ©shydratÃ©es, sulfurÃ©es, soufflÃ©es, standolisÃ©es ou autrement modifiÃ©es chimiquement, Ã  l'exclusion de celles du nÂ° 15.16; mÃ©langes ou prÃ©par",,
+3,,,10,00,- - - linoxyne,KG,- - - - -
+3,,,20,00,"- - - huiles animales ou vÃ©gÃ©tales cuites, oxydÃ©es, dÃ©shydratÃ©es, sulfurÃ©es, souf- flÃ©es, standolisÃ©es ou autrement modifiÃ©es chimiquement",KG,- - - - -
+3,,,90,00,- - - - autres,KG,- - - - -
+5,,1520.00,00,00,GlycÃ©rol brut ; eaux et lessives glycÃ©rineuses,KG,- - - - -
+,15.21,,,,"Cires vÃ©gÃ©tales (autres que les triglycÃ©rides), cires d'abeilles ou d'autres insectes et spermaceti, mÃªme raffinÃ©s ou colorÃ©s.",,
+,,1521.10,00,,- Cires vÃ©gÃ©tales,,
+3,,,,00,- - - - - Cires vÃ©gÃ©tales,KG,- - - - -
+,,1521.90,,,- Autres,,
+3,,,10,00,"- - - blanc de baleine et d'autres cÃ©tacÃ©s (spermaceti), brut, pressÃ© ou raffinÃ©, mÃªme artificiellement colorÃ©",KG,- - - - -
+,,,90,,"- - - cires d'abeilles et d'autres insectes, mÃªme artificiellement colorÃ©es :Â£- - - - brutes :",,
+3,,,,11,- - - - - cires d'abeilles,KG,- - - - -
+3,,,,19,- - - - - - - autresÂ£- - - - autres :,KG,- - - - -
+3,,,,91,- - - - - cires d'abeilles,KG,- - - - -
+3,,,,99,- - - - - - - autres,KG,- - - - -
+,,1522.00,,,- - DÃ©gras; rÃ©sidus provenant du traitement des corps gras ou des cires animales ou vÃ©gÃ©tales.,,
+3,,,10,00,- - - dÃ©gras,KG,- - - - -
+,,,90,,- - - rÃ©sidus provenant du traitement des corps gras ou des cires animales ou vÃ©gÃ©tales :Â£- - - - contenant de l'huile ayant les caractÃ¨res de l'huile d'olive :,,
+3,,,,11,- - - - - brais stÃ©ariques ou poix de stÃ©arine,KG,- - - - -
+3,,,,12,- - - - - pÃ¢tes de neutralisation (Â«soap-stocksÂ» ),KG,- - - - -
+3,,,,19,- - - - - - - autresÂ£- - - - autres :,KG,- - - - -
+3,,,,91,"- - - - - lies ou fÃ¨ces d'huiles, pÃ¢tes de neutralisation ( Â«soap-stocksÂ» )",KG,- - - - -
+3,,,,99,- - - - - - - autres,KG,- - - - -

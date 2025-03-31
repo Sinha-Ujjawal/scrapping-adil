@@ -1,0 +1,184 @@
+0,1,2,3,4,5,6,7
+,27.01,,,,"- - Houilles; briquettes, boulets et combustibles solides similaires obtenus Ã  partir de la houille.Â£- Houilles, mÃªme pulvÃ©risÃ©es, mais non agglomÃ©rÃ©es :",,
+2,,2701.11,00,00,- - Anthracite,KG,- - - - -
+2,,2701.12,00,00,- - Houille bitumineuse,KG,- - - - -
+2,,2701.19,00,00,- - Autres houilles,KG,- - - - -
+,,2701.20,00,,"- - - Briquettes, boulets et combustibles solides similaires obtenus Ã  partir de la houilleÂ£- - - agglomÃ©rÃ©s de charbon :",,
+2,,,,00,"- Briquettes, boulets et combustibles solides similaires obtenus Ã  partir de la houille",KG,- - - - -
+,27.02,,,,"- - - Lignites, mÃªme agglomÃ©rÃ©s, Ã  l'exclusion du jais",,
+2,,2702.10,00,00,"- Lignites, mÃªme pulvÃ©risÃ©s, mais non agglomÃ©rÃ©s",KG,- - - - -
+2,,2702.20,00,00,- Lignites agglomÃ©rÃ©s,KG,- - - - -
+,,2703.00,,,"- - Tourbe (y compris la tourbe pour litiÃ¨re), mÃªme agglomÃ©rÃ©e",,
+2,,,10,00,- - - agglomÃ©rÃ©s de tourbeÂ£- - - autres :,KG,- - - - -
+2,,,91,00,- - - - tourbe Ã  usage agricole,KG,- - - - -
+2,,,99,00,- - - - - autres,KG,- - - - -
+,,2704.00,00,,"- Cokes et semi-cokes de houille, de lignite ou de tourbe, mÃªme agglomÃ©rÃ©s; charbon de cornue.",,
+5,,2704.00,10,00,- - - cockes et semi-cockes de houilles,KG,- - - - -
+2,,2704.00,20,00,- - - cockes et semi-cockes de lignite,KG,- - - - -
+2,,2704.00,90,00,- - - - autres,KG,- - - - -
+2,,2705.00,00,00,"Gaz de houille, gaz Ã  l'eau, gaz pauvre et gaz similaires, Ã  l'exclusion des gaz de pÃ©trole et autres hydrocarbures gazeux.",KG,100 M3
+,,2706.00,00,,"- - Goudrons de houille, de lignite ou de tourbe et autres goudrons minÃ©raux, mÃªme dÃ©shydratÃ©s ou Ã©tÃªtÃ©s, y compris les goudrons reconstituÃ©s.Â£- - - goudrons de houille :",,
+5,,,,00,"Goudrons de houille, de lignite ou de tourbe et autres goudrons Â£minÃ©raux, mÃªme dÃ©shydratÃ©s ou Ã©tÃªtÃ©s, y compris les goudrons Â£reconstituÃ©s Â£",KG,- - - - -
+5,,,,00,"Goudrons de houille, de lignite ou de tourbe et autres goudrons Â£minÃ©raux, mÃªme dÃ©shydratÃ©s ou Ã©tÃªtÃ©s, y compris les goudrons Â£reconstituÃ©s Â£",KG,- - - - -
+5,,,,00,Migration NGP inexistants,KG,- - - - -
+5,,,,00,Migration NGP inexistants,KG,- - - - -
+,27.07,,,,- - - - - - - Huiles et autres produits provenant de la distillation des goudrons de houille de haute tempÃ©rature; produits analogues dans lesquels les constituants aromatiques prÃ©dominent en poids par rapport aux constituants non aromatiques.,,
+,,2707.10,00,,- Benzol (benzÃ¨ne),,
+5,,,,10,- - - destinÃ© Ã  Ãªtre utilisÃ©s comme carburant ou comme combustile,KG,- - - - -
+5,,,,90,- - - destinÃ© Ã  d'autres usages,KG,- - - - -
+,,2707.20,00,,- Toluol (toluÃ¨ne),,
+5,,,,10,- - - destinÃ© Ã  Ãªtre utilisÃ© comme carburant ou comme combustible,KG,- - - - -
+5,,,,90,- - - destinÃ© Ã  d'autres usages,KG,- - - - -
+,,2707.30,00,,- Xylol (xylÃ¨nes),,
+5,,,,10,- - - destinÃ© Ã  Ãªtre utilisÃ© comme carburant ou comme combustible,KG,- - - - -
+5,,,,90,- - - destinÃ© Ã  d'autres usages,KG,- - - - -
+,,2707.40,00,,- NaphtalÃ¨ne,,
+5,,,,00,- NaphtalÃ¨ne,KG,- - - - -
+,,2707.50,00,,- Autres mÃ©langes d'hydrocarbures aromatiques distillant 65% ou plus de leur volume (y compris les pertes) Ã  250Â° C d'aprÃ¨s la mÃ©thode ASTM D 86Â£- - - destinÃ©s Ã  Ãªtre utilisÃ©s comme carburants ou comme combustibles :,,
+5,,,,10,- - - destinÃ©s Ã  Ãªtre utilisÃ©s comme carburants ou comme combustibles,KG,- - - - -
+5,,,,90,- - - destinÃ©s Ã  d'autres usages,KG,- - - - -
+,,2707.60,00,,- PhÃ©nols,,
+,,2707.91,00,,- - Huiles de crÃ©osoteÂ£- - - huiles brutes :,,
+5,,,,10,- - - huiles brutes,KG,- - - - -
+2,,,,90,- - - - - autres,KG,- - - - -
+,,2707.99,,,- - autres,,
+,,,00,,- - AutresÂ£- - - huiles brutes :,,
+,,,10,,- - - phÃ©nols :,,
+5,,,,00,- - - phÃ©nols,KG,- - - - -
+,,,90,,- - - autres%â€“ â€“ â€“ â€“ huiles brutes :,,
+5,,,,11,"- - - - - huiles lÃ©gÃ¨res brutes distillant 90% ou plus de leur volume jusqu'Ã  200Â° C2,5 kg â€“",KG,- - - - -
+5,,,,19,- - - - - autres%â€“ â€“ â€“ â€“ tÃªtes sulfurÃ©es des huiles lÃ©gÃ¨res brutes :,KG,- - - - -
+5,,,,21,- - - - - destinÃ©es Ã  Ãªtre utilisÃ©s comme carburants ou comme combustibles,KG,- - - - -
+5,,,,29,- - - - - destinÃ©es Ã  d'autres usages%â€“ â€“ â€“ â€“ produits basiques :,KG,- - - - -
+5,,,,30,- - - - produits basiques,KG,- - - - -
+5,,,,40,- - - - anthracÃ¨ne,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,27.08,,,,- - Brai et coke de brai de goudron de houille ou d'autres goudrons minÃ©raux.,,
+2,,2708.10,00,00,- Brai,KG,- - - - -
+2,,2708.20,00,00,- Coke de brai,KG,- - - - -
+,,2709.00,,,Huiles brutes de pÃ©trole ou de minÃ©raux bitumineux,,
+,,,10,,- - - destinÃ©es au raffinage :,,
+2,,,,10,- - - - huiles brutes de pÃ©trole,KG,- - - - -
+2,,,,90,- - - - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+2,,,,10,- - - - huiles brutes de pÃ©trole,KG,- - - - -
+2,,,,90,- - - - - - autres,KG,- - - - -
+,27.10,,,,"Huiles de pÃ©trole ou de minÃ©raux bitumineux, autres que les huiles brutes; prÃ©parations non dÃ©nommÃ©es ni comprises ailleurs, contenant en poids 70% ou plus d'huiles de pÃ©trole ou de minÃ©raux bitumineux et dont ces huiles constituent l'Ã©lÃ©ment de",,
+,,2710.11,,,- - Huiles lÃ©gÃ¨res et prÃ©parationsÂ£- - - alkylÃ¨nes (alkylidÃ¨nes) en mÃ©langes :,,
+,,,99,,- - - - - autres :,,
+,,2710.12,,,- - Huiles lÃ©gÃ¨res et prÃ©parations%â€“ â€“ â€“ alkylÃ¨nes (alkylidÃ¨nes) en mÃ©langes :,,
+,,,11,,- - - - en emballages d'une contenance nette de 1 Kg ou moins.,,
+5,,,,00,- - - - en emballages d'une contenance nette de 1 Kg ou moins.,KG,- - - - -
+,,,19,,5 19 00 â€“ â€“ â€“ â€“ autres,,
+5,,,,00,- - - - autres %â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ essences spÃ©ciales :,KG,- - - - -
+,,,21,,- - - - - white spirit.,,
+2,,,,00,- - - - - white spirit.,KG,- - - - -
+,,,29,,- - - - - autres â€“,,
+2,,,,00,- - - - - autres%â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+,,,91,,- - - - - supercarburants:,,
+,,,91,,- - - - - supercarburants:,,
+,,,91,,"- - - - - supercarburants, mÃªme sans plomb",,
+,,,91,,"- - - - - supercarburants, mÃªme sans plomb",,
+2,,,,10,- - - - - - avec plomb,KG,- - - - -
+2,,,,90,- - - - - - sans plomb,KG,- - - - -
+,,,92,,- - - - - essence ordinaire,,
+2,,,,00,- - - - - essence ordinaire,KG,- - - - -
+,,,99,,- - - - - autres,,
+2,,,,10,- - - - - - essence d'aviation,KG,- - - - -
+2,,,,90,- - - - - - autres,KG,- - - - -
+,,2710.19,,,- - AutresÂ£- - - huiles moyennes :,,
+,,,13,,- - - - pÃ©trole lampant,,
+2,,,,00,- - - - pÃ©trole lampant,KG,- - - - -
+,,,15,,- - - - carburÃ©acteur,,
+2,,,,00,- - - - carburÃ©acteur,KG,- - - - -
+,,,17,,- - - - autres,,
+2,,,,00,- - - - autres %â€“ â€“ â€“ huiles lourdes :,KG,- - - - -
+,,,21,,- - - - gasoil :,,
+,,,22,,- - - - gasoil :,,
+2,,,,20,"- - - - - d'une teneur en poids de soufre n'excÃ©dant pas 0,001% (10 ppm) (gasoil 10)",KG,- - - - -
+2,,,,80,- - - - - autres,KG,- - - - -
+,,,28,,"- - - - ""fuel-oils :â€“ â€“ â€“ â€“ â€“ lourds:""",,
+,,,28,,"- - - - ""fuel-oils :â€“ â€“ â€“ â€“ â€“ lourds:""",,
+,,,28,,- - - - fuel-oils.,,
+,,,28,,- - - - fuel-oils.,,
+2,,,,10,"- - - - - fuel-oils lourds destinÃ©s Ã  la fabrication de la paraffine, des bitumes, des huiles lubrifiantes, des extraits bitumineux et autres prouduits similaires%â€“ â€“ â€“ â€“ â€“ autres :",KG,- - - - -
+2,,,,12,- - - - fuel-oils n 1,KG,- - - - -
+2,,,,13,- - - - fuel-oils n 2,KG,- - - - -
+2,,,,14,- - - - fuel-oils rÃ©cupÃ©rÃ©,KG,- - - - -
+2,,,,19,- - - - autres Â£â€“ â€“ â€“ â€“ â€“lÃ©ger:,KG,- - - - -
+2,,,,21,- - - - fuel-oils n 7,KG,- - - - -
+2,,,,22,- - - - fuel-oils 20 contistokes,KG,- - - - -
+2,,,,29,- - - - autres,KG,- - - - -
+2,,,,90,- - - - - autres,KG,- - - - -
+,,,29,,- - - - fuel-oils :,,
+2,,,31,00,- - - - - huiles dites de vaseline ou de paraffine (type Â«Water whiteÂ»),KG,- - - - -
+2,,,32,00,- - - - - huiles dites diÃ©lectriques,KG,- - - - -
+2,,,39,00,- - - - - huiles de base,KG,- - - - -
+,,,80,,- - - - - autres,,
+2,,,,10,- - - - - - spendle %â€“ â€“ â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+2,,,,21,"- - - - - - - prÃ©parations lubrifiantes non dÃ©nommÃ©es ni comprises ailleurs,contenant en poids une proportion d'huile de pÃ©trole ou de schistes supÃ©rieure ou Ã©gale Ã  70% et dont ces huiles constituent l'Ã©lÃ©ment de base",KG,- - - - -
+2,,,,29,- - - - - - - combustible haute viscositÃ© (CHV) dit rÃ©sidu sous vide (RSV)%â€“ â€“ â€“ â€“ â€“ â€“ â€“ autres :,KG,- - - - -
+2,,,,81,"- - - - - - - - prÃ©parations contenant plus de 60% des huiles paraffiniques,plus de 25% des huiles naphtÃ¨niques, et au plus 5% des huiles aromatiques",KG,- - - - -
+2,,,,89,- - - - - - - - autres,KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,2710.20,,,- Huiles de pÃ©trole ou de minÃ©raux bitumineux (autres que les,,
+,,,00,,"- Huiles de pÃ©trole ou de minÃ©raux bitumineux (autres que les huiles brutes) et prÃ©parations non dÃ©nommÃ©es ni comprises ailleurs, contenant en poids 70% ou plus d'huiles de pÃ©trole ou de minÃ©raux bitumineux et dont ces huiles constituent l'Ã©lÃ©men",,
+2,,,,11,- - - - essences spÃ©ciales autres que le white spirit,KG,- - - - -
+2,,,,12,"- - - - supercarburants, mÃªme sans plomb",KG,- - - - -
+2,,,,13,- - - - essence ordinaire,KG,- - - - -
+2,,,,19,- - - - autres%â€“ â€“ â€“ huiles moyennes :,KG,- - - - -
+2,,,,21,- - - - pÃ©trole lampant,KG,- - - - -
+2,,,,22,- - - - carburÃ©acteur,KG,- - - - -
+2,,,,29,- - - - autres %â€“ â€“ â€“ huiles lourdes :%â€“ â€“ â€“ â€“ gasoil :,KG,- - - - -
+2,,,,32,"- - - - - d'une teneur en poids de soufre n'excÃ©dant pas 0,001% (10 ppm) (gasoil 10)",KG,- - - - -
+2,,,,38,- - - - - autres,KG,- - - - -
+2,,,,91,"- - - - - fuel-oils lourds destinÃ©s Ã  la fabrication de la paraffine, des bitumes, des huiles lubrifiantes, des extraits bitumineux et autres prouduits similaires%â€“ â€“ â€“ â€“ â€“ autres :",KG,- - - - -
+2,,,,92,- - - - - - lÃ©ger,KG,- - - - -
+2,,,,93,- - - - - - lourd,KG,- - - - -
+2,,,,94,- - - - - - autres,KG,- - - - -
+2,,,,99,- - - - autres,KG,- - - - -
+2,,2710.91,00,00,"- - Contenant des diphÃ¨nyles polychlorÃ©s (PCB), des terphÃ©nyles polychlorÃ©s (PCT) ou des diphÃ©nyles polybromÃ©s (PBB)",KG,- - - - -
+2,,2710.99,00,00,- - Autres,KG,- - - - -
+,27.11,,,,Gaz de pÃ©trole et autres hydrocarbures gazeuxÂ£- LiquÃ©fiÃ©s :,,
+2,,2711.11,00,00,- - Gaz naturel,KG,- - - - -
+,,2711.12,00,,- - Propane,,
+2,,,,10,- - - commercial,KG,- - - - -
+2,,,,90,- - - - autre,KG,- - - - -
+,,2711.13,00,,- - Butanes,,
+2,,,,10,- - - commerciaux,KG,- - - - -
+2,,,,90,- - - - autres,KG,- - - - -
+2,,2711.14,00,00,"- - EthylÃ¨ne, propylÃ¨ne, butylÃ¨ne et butadiÃ¨ne",KG,- - - - -
+2,,2711.19,00,00,- - AutresÂ£- A l'Ã©tat gazeux :,KG,- - - - -
+2,,2711.21,00,00,- - Gaz naturel,KG,- - - - -
+2,,2711.29,00,00,- - Autres,KG,- - - - -
+,27.12,,,,"- - - - Vaseline; paraffine, cire de pÃ©trole micro-cristalline, â€œslack waxâ€, ozokÃ©rite, cire de lignite, cire de tourbe, autres cires minÃ©rales et produits similaires obtenus par synthÃ¨se ou par d'autres procÃ©dÃ©s, mÃªme colorÃ©s.",,
+,,2712.10,00,,- - Vaseline,,
+2,,,,10,- - - - - brute,KG,- - - - -
+2,,,,90,- - - - autre,KG,- - - - -
+,,2712.20,00,,"- Paraffine contenant en poids moins de 0,75 % d'huile",,
+2,,,,10,- - - - - brute,KG,- - - - -
+2,,,,90,- - - - autre,KG,- - - - -
+,,2712.90,00,,"- AutresÂ£- - - ozokÃ©rite, cire de lignite ou de tourbe :",,
+2,,,,10,"- - - ozokÃ©rite, cire de lignite ou de tourbe",KG,- - - - -
+2,,,,20,- - - - brutsÂ£- - - - autres :,KG,- - - - -
+2,,,,91,- - - - - cire microcristalline,KG,- - - - -
+2,,,,99,- - - - - - autres,KG,- - - - -
+,27.13,,,,"- - Coke de pÃ©trole, bitume de pÃ©trole et autres rÃ©sidus des huiles de pÃ©trole ou de minÃ©raux bitumineux.Â£- Coke de pÃ©trole :",,
+2,,2713.11,00,00,- - Non calcinÃ©,KG,- - - - -
+2,,2713.12,00,00,- - CalcinÃ©,KG,- - - - -
+2,,2713.20,00,00,- Bitume de pÃ©trole,KG,- - - - -
+,,2713.90,00,,- Autres rÃ©sidus des huiles de pÃ©trole ou de minÃ©raux bitumineux,,
+2,,,,00,- Autres rÃ©sidus des huiles de pÃ©trole ou de minÃ©raux bitumineux.,KG,- - - - -
+,27.14,,,,"- - - - - Bitumes et asphaltes, naturels; schistes et sables bitumineux; asphaltites et roches asphaltiques.",,
+,,2714.10,00,,- Schistes et sables bitumineux,,
+4,,,,00,- Schistes et sables bitumineux,KG,- - - - -
+,,2714.90,00,,- Autres,,
+4,,,,00,- Autres,KG,- - - - -
+,,2715.00,,,"- - - - - - MÃ©langes bitumineux Ã  base d'asphalte ou de bitume naturels, de bitume de pÃ©trole, de goudron minÃ©ral ou de brai de goudron minÃ©ral (mastics bitumineux, Â«cut-backsÂ», par exemple).",,
+,,,10,,- - - mastics bitumineux :,,
+2,,,,00,- - - mastics bitumineux,KG,- - - - -
+2,,,91,00,- - - - bitumes fluxÃ©s (Â«cut-backsÂ»),KG,- - - - -
+2,,,92,00,- - - - Ã©mulsions de bitumes de pÃ©trole et similaires,KG,- - - - -
+,,,99,,- - - - - - autres :,,
+2,,,,00,- - - - autres,KG,- - - - -
+2,,2716.00,00,00,Energie Ã©lectrique (position facultative),1000 KW/H,1000 KW/H

@@ -1,0 +1,67 @@
+0,1,2,3,4,5,6,7
+,86.01,,,,"Locomotives et locotracteurs, Ã  source extÃ©rieure d'Ã©lectricitÃ© ou Ã  accumulateurs Ã©lectriques.",,
+,,8601.10,00,,- A source extÃ©rieure d'Ã©lectricitÃ© :,,
+7,,,,00,- A source extÃ©rieure dÃ©lectricitÃ©,U,NOMBRE
+,,8601.20,00,,- A accumulateurs Ã©lectriques,,
+7,,,,00,- A accumulateurs Ã©lectriques,U,NOMBRE
+,86.02,,,,Autres locomotives et locotracteurs; tenders,,
+,,8602.10,00,,- Locomotives diesel-Ã©lectriquesÂ£- - - Ã  transmission hydraulique :,,
+7,,,,00,- Locomotives diesel-Ã©lectriques,U,NOMBRE
+,,8602.90,00,,"- AutresÂ£- - - locomotives et locotracteurs Ã  vapeur ; tenders :Â£- - - - pour voies de plus de 0,60 m d'Ã©cartement :",,
+7,,8602.90,11,00,- - - locomotives,U,NOMBRE
+7,,8602.90,19,00,- - - locomotives,U,- - - - -
+7,,8602.90,90,00,- - - autres,U,NOMBRE
+,86.03,,,,"Automotrices et autorails, autres que ceux du nÂ° 8604",,
+,,8603.10,00,,- A source extÃ©rieure d'Ã©lectricitÃ©,,
+7,,,,00,- A source extÃ©rieure dÃ©lectricitÃ©,U,NOMBRE
+,,8603.90,00,,- Autres,,
+7,,,,00,- Autres,U,NOMBRE
+,,8604.00,00,,"- - VÃ©hicules pour l'entretien ou le service des voies ferrÃ©es ou similaires, mÃªme autopropulsÃ©s (wagons-ateliers, wagons-grues, wagons Ã©quipÃ©s de bourreuses Ã  ballast, aligneuses pour voies, voitures d'essais et draisines, par exemple).",,
+7,,,,00,"- VÃ©hicules pour lentretien ou le service des voies ferrÃ©es ou similaires, mÃªme autopropulsÃ©s (wagons-ateliers, wagons-grues, wagons Ã©quipÃ©s de bourreuses Ã  ballast, aligneuses pour voies, voitures dessais et draisines, par exemple).",U,NOMBRE
+,,8605.00,00,,"- - - - - - Voitures Ã  voyageurs, fourgons Ã  bagages, voitures postales et autres voitures spÃ©ciales, pour voies ferrÃ©es ou similaires (Ã  l'ex- clusion des voitures du nÂ° 86.04).Â£- - - pour voies de plus de 0,60 m d'Ã©cartement :",,
+7,,,,00,"- Voitures Ã  voyageurs, fourgons Ã  bagages, voitures postales et autres voitures spÃ©ciales, pour voies ferrÃ©es ou similaires (Ã  lexclusion des voitures du n 86.04)",U,NOMBRE
+,86.06,,,,Wagons pour le transport sur rail de marchandises,,
+,,8606.10,00,,- Wagons-citernes et similaires :,,
+7,,,,00,- Wagons-citernes et similaires,U,NOMBRE
+,,8606.20,00,,"- - Wagons isothermes, rÃ©frigÃ©rants ou frigorifiques, autres que ceux du nÂ° 8606.10",,
+,,8606.30,00,,"- - - - Wagons Ã  dÃ©chargement automatique, autres que ceux des nÂ°s 8606.10 ou 8606.20",,
+7,,,,00,"- Wagons Ã  dÃ©chargement automatique, autres que ceux des n s 8606.10",U,NOMBRE
+,,8606.91,00,,- - Couverts et fermÃ©s,,
+7,,8606.91,10,00,"- - - wagons isothermes, rÃ©frigÃ©rants ou frigorifiques, autres que ceux du n 8606.10",U,- - - - -
+7,,8606.91,90,00,- - - autres,U,- - - - -
+,,8606.92,00,,"- - Ouverts, Ã  parois non amovibles d'une hauteur excÃ©dant 60 cm (tombereaux)",,
+7,,,,00,"- - Ouverts, Ã  parois non amovibles dune hauteur excÃ©dant 60 cm (tombereaux)",U,NOMBRE
+,,8606.99,00,,- - Autres,,
+7,,,,10,- - - spÃ©cialement conÃ§us pour le transport des produits Ã  forte radio-activitÃ©Â£- - - autres :,U,NOMBRE
+7,,,,92,- - - - autres wagons ordinaires ouverts,U,- - - - -
+7,,,,98,- - - - autres wagons spÃ©ciaux,U,NOMBRE
+,86.07,,,,"Parties de vÃ©hicules pour voies ferrÃ©es ou similairesÂ£- Bogies, bissels, essieux et roues, et leurs parties :",,
+7,,8607.11,00,00,- - - Bogies et bissels de traction,KG,- - - - -
+7,,8607.12,00,00,- - - Autres bogies et bissels,KG,- - - - -
+,,8607.19,00,,"- - Autres, y compris les partiesÂ£- - - essieux montÃ©s ou non :Â£- - - - non montÃ©s :",,
+7,,,,10,- - - essieux montÃ©s ou non,U,- - - - -
+7,,,,30,"- - - parties de bogies, bissels et similairesÂ£- - - roues et leurs parties :",KG,- - - - -
+7,,,,91,- - - - bandages et frettes,KG,- - - - -
+7,,,,92,- - - - centres de roues,KG,- - - - -
+7,,,,99,- - - - autresÂ£- Freins et leurs parties :,KG,- - - - -
+,,8607.21,00,,- - Freins Ã  air comprimÃ© et leurs parties,,
+7,,,,10,- - - freinsÂ£- - - parties de freins :,KG,- - - - -
+7,,,,91,- - - - semelles de freins,KG,- - - - -
+7,,,,99,- - - - autres,KG,- - - - -
+,,8607.29,00,,- - Autres,,
+7,,,,00,- - Autres,U,- - - - -
+7,,8607.30,00,00,"- Crochets et autres systÃ¨mes d'attelage, tampons de chocs, et leurs partiesÂ£- Autres :",KG,- - - - -
+,,8607.91,00,,- - De locomotives ou de locotracteurs,,
+7,,,,10,- - - boÃ®tes d'essieux et leurs parties,KG,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8607.99,00,,- - Autres,,
+7,,,,10,- - - boÃ®tes d'essieux et leurs parties,KG,- - - - -
+7,,,,20,- - - caisses et leurs parties,KG,- - - - -
+7,,,,30,- - - chÃ¢ssis et leurs parties,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,8608.00,00,,"- - - - - - - MatÃ©riel fixe de voies ferrÃ©es ou similaires; appareils mÃ©caniques (y compris Ã©lectromÃ©caniques) de signalisation, de sÃ©curitÃ©, de contrÃ´le ou de commande pour voies ferrÃ©es ou similaires, routiÃ¨res ou fluviales, aires ou parcs de",,
+7,,,,10,"- - - matÃ©riel fixe de voies ferrÃ©es ; parties dudit matÃ©rielÂ£- - - appareils de signalisation, de sÃ©curitÃ©, de contrÃ´le ou de commande pour voies ferrÃ©es ou similaires, routiÃ¨res ou fluviales, aires ou parcs de station- nement, installations por",KG,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8609.00,00,,- - - - - - - Cadres et conteneurs (y compris les conteneurs-citernes et les conte- neurs rÃ©servoirs) spÃ©cialement conÃ§us et Ã©quipÃ©s pour un ou plusieurs modes de transport.,,
+7,,,,10,"- - - containers munis de blindage en plomb de protection contre les radiations, pour le transport des matiÃ¨res radio-activesÂ£- - - autres :",KG,- - - - -
+7,,,,90,- - - autres,U,- - - - -

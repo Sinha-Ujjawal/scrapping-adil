@@ -1,0 +1,1467 @@
+0,1,2,3,4,5,6,7
+,84.01,,,,- - - - - - RÃ©acteurs nuclÃ©aires; Ã©lÃ©ments combustibles (cartouches) non irradiÃ©s pour rÃ©acteurs nuclÃ©aires; machines et appareils pour la sÃ©paration isotopique.,,
+7,,8401.10,00,00,- RÃ©acteurs nuclÃ©aires,KG,- - - - -
+,,8401.20,,,"- Machines et appareils pour la sÃ©paration isotopique, et leurs parties",,
+7,,,00,00,"- Machines et appareils pour la sÃ©paration isotopique, et leurs parties",KG,- - - - -
+,,,10,,"- - - machines et appareils de filtration, de centrifugation ou de distillation :",,
+,,,90,,- - - autres :,,
+,,8401.30,00,,- ElÃ©ments combustibles (cartouches) non irradiÃ©s,,
+7,,,,00,- ElÃ©ments combustibles (cartouches) non irradiÃ©s,KG,- - - - -
+7,,8401.40,00,00,- Parties de rÃ©acteurs nuclÃ©aires,KG,- - - - -
+,84.02,,,,"- - - ChaudiÃ¨res Ã  vapeur (gÃ©nÃ©rateurs de vapeur), autres que les chau- diÃ¨res pour le chauffage central conÃ§ues pour produire Ã  la fois de l'eau chaude et de la vapeur Ã  basse pression; chaudiÃ¨res dites â€œÃ  eau surchauffÃ©eâ€.Â£- ChaudiÃ¨res",,
+,,8402.11,00,,- - ChaudiÃ¨res aquatubulaires d'une production horaire de vapeur excÃ©dant 45 tonnes,,
+8,,,,00,- - ChaudiÃ¨res aquatubulaires d'une production horaire de vapeur Â£excÃ©dant 45 tonnes,KG,NOMBRE
+,,8402.12,,,- - ChaudiÃ¨res aquatubulaires d'une production horaire de vapeur n'excÃ©dant pas 45 tonnes,,
+7,,,10,00,- - - chaudiÃ¨res de locomotives et chaudiÃ¨res marinesÂ£- - - autres :,KG,NOMBRE
+7,,,91,00,- - - - d'une pression supÃ©rieure ou Ã©gale Ã  10 kg au centimÃ¨tre carrÃ© ou de vapo- risation horaire Ã©gale ou supÃ©rieure Ã  2000 kg,KG,NOMBRE
+7,,,99,00,- - - - autres,KG,- - - - -
+,,8402.19,,,"- - - - - - - Autres chaudiÃ¨res Ã  vapeur, y compris les chaudiÃ¨res mixtes",,
+,,,10,,- - - chaudiÃ¨res de locomotives et chaudiÃ¨res marines :,,
+7,,,,00,- - - chaudiÃ¨res de locomotives et chaudiÃ¨res marines,KG,NOMBRE
+7,,,91,00,- - - - d'une pression supÃ©rieure ou Ã©gale Ã  10 kg au centimÃ¨tre carrÃ© ou de vapo- risation horaire Ã©gale ou supÃ©rieure Ã  2000 kg,KG,NOMBRE
+,,,99,,- - - - autres :,,
+7,,,,10,- - - - - chaudiÃ¨res simples (sans tubes d'eau ni de fumÃ©e),KG,NOMBRE
+7,,,,20,- - - - - chaudiÃ¨res Ã  tubes de fumÃ©e,KG,NOMBRE
+7,,,,80,- - - - - autres,KG,- - - - -
+7,,8402.20,00,00,- ChaudiÃ¨res dites â€œÃ  eau surchauffÃ©eâ€,KG,- - - - -
+,,8402.90,,,- Parties,,
+7,,,00,00,- Parties,KG,NOMBRE
+,84.03,,,,ChaudiÃ¨res pour le chauffage central autres que celles du nÂ° 8402,,
+,,8403.10,00,,- ChaudiÃ¨res,,
+8,,,,00,- ChaudiÃ¨res,U,- - - - -
+,,8403.90,00,,- Parties,,
+8,,,,00,- Parties,KG,- - - - -
+,84.04,,,,"- - - - - Appareils auxiliaires pour chaudiÃ¨res des nÂ°s 8402 ou 8403 (Ã©cono- miseurs, surchauffeurs, appareils de ramonage ou de rÃ©cupÃ©ration des gaz, par exemple); condenseurs pour machines Ã  vapeur.",,
+,,8404.10,,,- - - Appareils auxiliaires pour chaudiÃ¨res des nÂ°s 8402 ou 8403,,
+8,,,10,00,- - - pour chaudiÃ¨res du nÂ° 840310,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+7,,8404.20,00,00,- Condenseurs pour machines Ã  vapeur,KG,- - - - -
+,,8404.90,00,,- Parties,,
+8,,,,10,- - - d'appareils auxiliaires pour chaudiÃ¨res du nÂ° 840310,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,84.05,,,,"- - GÃ©nÃ©rateurs de gaz Ã  l'air ou de gaz Ã  l'eau, avec ou sans leurs Ã©purateurs; gÃ©nÃ©rateurs d'acÃ©tylÃ¨ne et gÃ©nÃ©rateurs similaires de gaz, par procÃ©dÃ© Ã  l'eau, avec ou sans leurs Ã©purateurs.",,
+,,8405.10,00,,"- - - GÃ©nÃ©rateurs de gaz Ã  l'air ou de gaz Ã  l'eau, avec ou sans leurs Ã©purateurs; gÃ©nÃ©rateurs d'acÃ©tylÃ¨ne et gÃ©nÃ©rateurs similaires de gaz, par procÃ©dÃ© Ã  l'eau, avec ou sans leurs Ã©purateurs",,
+7,,,,00,"- ""GÃ©nÃ©rateurs de gaz Ã  l'air ou de gaz Ã  l'eau, avec ou sans leurs Ã©purateurs; gÃ©nÃ©rateurs d'acÃ©tylÃ¨ne et gÃ©nÃ©rateurs similaires de gaz, par procÃ©dÃ© Ã  l'eau, avec ou sans leurs Ã©purateurs""",KG,- - - - -
+7,,8405.90,00,00,- Parties,KG,- - - - -
+,84.06,,,,- - - - - Turbines Ã  vapeur,,
+7,,8406.10,00,00,- Turbines pour la propulsion de bateauxÂ£- Autres turbines :,U,NOMBRE
+7,,8406.81,00,00,- - D'une puissance excÃ©dant 40 MW,U,NOMBRE
+7,,8406.82,00,00,- - D'une puissance n'excÃ©dant pas 40 MW,U,NOMBRE
+7,,8406.90,00,00,- Parties,KG,- - - - -
+,84.07,,,,"- - - Moteurs Ã  piston alternatif ou rotatif, Ã  allumage par Ã©tincelles (moteurs Ã  explosion).",,
+,,8407.10,,,- Moteurs pour l'aviation,,
+7,,,00,00,- Moteurs pour l'aviation,U,NOMBRE
+7,,,00,00,- Moteurs pour l'aviation,U,NOMBRE
+7,,,00,00,- Migration NGP inexistants,U,NOMBRE
+7,,,00,00,- Migration NGP inexistants,U,NOMBRE
+,,8407.21,,,- - Du type hors-bord,,
+7,,,00,00,- - Migration NGP inexistants,U,NOMBRE
+7,,,00,00,- - Migration NGP inexistants,U,NOMBRE
+7,,,00,00,- - Du type hors-bord,U,NOMBRE
+7,,,00,00,- - Du type hors-bord,U,NOMBRE
+,,8407.29,00,,- - Autres,,
+7,,,,00,- - Autres,U,NOMBRE
+,,8407.31,,,- - D'une cylindrÃ©e n'excÃ©dant pas 50 cm3,,
+7,,,10,00,- - - moteurs visÃ©s Ã  la note complÃ©mentaire nÂ° 4 du prÃ©sent chapitre,U,NOMBRE
+7,,,20,00,"- - - autres, monocylindriques, d'un poids infÃ©rieur ou Ã©gal Ã  8 kgs",U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8407.32,,,- - D'une cylindrÃ©e excÃ©dant 50 cm3 mais n'excÃ©dant pas 250 cm3,,
+7,,,10,00,- - - moteurs visÃ©s Ã  la note complÃ©mentaire nÂ° 4 du prÃ©sent chapitre,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8407.33,,,- - - - - - D'une cylindrÃ©e excÃ©dant 250 cm3 mais n'excÃ©dant pas 1000 cm3,,
+7,,,10,00,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 8701.10 ; des voitures automobiles pour le transport des personnes, y compris les voitures mixtes comportant moins de 15 places assises ; des voitures automobiles pour le transport des ma",U,NOMBRE
+7,,,20,00,"- - - autres, visÃ©s Ã  la note complÃ©mentaire nÂ° 4 du prÃ©sent chapitre",U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8407.34,,,- - D'une cylindrÃ©e excÃ©dant 1000 cm3,,
+7,,,10,00,"- - - destinÃ©s Ã  l'industrie du montage : des motoculteurs du nÂ° 8701.10; des voitures automobiles pour le transport des personnes, y compris les voitures mixtes comportant moins de 15 places assises; des voitures automobiles pour le transport des marc",U,NOMBRE
+7,,,20,00,"- - - autres, visÃ©s Ã  la note complÃ©mentaire n 3 du prÃ©sent Chapitre, d'une Â£cylindrÃ©e",U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8407.90,00,,- Autres moteurs,,
+7,,,,00,- Autres moteurs,U,NOMBRE
+,84.08,,,,"Moteurs Ã  piston, Ã  allumage par compression (moteur diesel ou semi-diesel).",,
+,,8408.10,,,- Moteurs pour la propulsion de bateaux,,
+8,,,10,00,- - - propulseurs spÃ©ciaux du type horsbord,U,NOMBRE
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,U,NOMBRE
+7,,,,00,- - - autres,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+,,8408.20,,,- Moteurs des types utilisÃ©s pour la propulsion de vÃ©hicules du Chapitre 87,,
+7,,,10,00,"- - - d'une cylindrÃ©e infÃ©rieure ou Ã©gale Ã  3,5 litres, sous la forme d'Ã©lÃ©ments S.K.D. destinÃ©s Ã  l'industrie de montageÂ£- - - autres moteurs, visÃ©s Ã  la note complÃ©mentaire nÂ° 4 du prÃ©sent chapitre :",U,NOMBRE
+7,,,21,00,- - - - d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  12 000 cm3,U,NOMBRE
+7,,,29,00,- - - - d'une cylindrÃ©e supÃ©rieure Ã  12 000 cm3,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,,8408.90,,,- Autres moteurs,,
+7,,,10,00,"- - - d'une cylindrÃ©e, infÃ©rieure ou Ã©gale Ã  3,5 litres sous la forme d'Ã©lÃ©ments C.K.D., destinÃ©s Ã  l'industrie de montage",U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+7,,,90,00,- - - autres,U,NOMBRE
+,84.09,,,,Parties reconnaissables comme Ã©tant exclusivement ou principa- lement destinÃ©es aux moteurs des nÂ°s 84.07 ou 84.08.,,
+7,,8409.10,00,00,- De moteurs pour l'aviationÂ£- Autres :,KG,- - - - -
+,,8409.91,,,- - Reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©es aux moteurs Ã  piston Ã  allumage par Ã©tincellesÂ£- - - Ã©bauches de fonderie :,,
+7,,,10,00,- - - Ã©bauches de fonderie,KG,- - - - -
+7,,,21,00,- - - - pour moteurs de cyclomoteurs d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  50 cm3,KG,- - - - -
+,,,29,,- - - - autres :,,
+7,,,,10,- - - - - pour moteurs de vÃ©hicules automobiles,KG,- - - - -
+7,,,,90,- - - - - autresÂ£- - - bielles et pistons :,KG,- - - - -
+,,,30,,"- - - - pistons, y compris les ensembles Â«chemisespistonÂ», le piston Ã©tant en aluminium ou en alliages lÃ©gers :",,
+7,,,,10,- - - - - pour moteurs de vÃ©hicules automobiles,KG,- - - - -
+7,,,,80,- - - - - autres,KG,- - - - -
+7,,,41,00,- - - - - - - - - - pour moteurs de cyclomoteurs d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  50 cm3,KG,- - - - -
+,,,49,,- - - - - autres :,,
+7,,,,00,- - - - - autres,KG,- - - - -
+7,,,50,00,- - - chemises pour moteurs,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,,8409.99,,,- - AutresÂ£- - - Ã©bauches de fonderie :,,
+7,,,10,00,- - - Ã©bauches de fonderie,KG,- - - - -
+7,,,21,00,- - - - pour moteurs de vÃ©hicules automobiles,KG,- - - - -
+7,,,29,00,- - - - autresÂ£- - - bielles et pistons :,KG,- - - - -
+,,,30,,"- - - - pistons, y compris les ensembles Â«chemises-pistonÂ», le piston Ã©tant en aluminium ou en alliages lÃ©gers :",,
+7,,,,10,- - - - - - pour moteurs de vÃ©hicules automobiles,KG,- - - - -
+7,,,,90,- - - - - autresÂ£- - - - autres :,KG,- - - - -
+7,,,40,00,- - - - Migration NGP inexistants,KG,- - - - -
+7,,,40,00,- - - - Migration NGP inexistants,KG,- - - - -
+7,,,40,00,- - - - bielles,KG,- - - - -
+7,,,40,00,- - - - bielles,KG,- - - - -
+7,,,50,00,- - - chemises pour moteurs,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,84.10,,,,"Turbines hydrauliques, roues hydrauliques et leurs rÃ©gulateursÂ£- Turbines et roues hydrauliques :",,
+,,8410.11,00,,- - D'une puissance n'excÃ©dant pas 1000 kW,,
+7,,,,10,- - - turbines hydrauliques,U,NOMBRE
+7,,,,90,- - - roues hydrauliques,U,- - - - -
+,,8410.12,00,,- - D'une puissance excÃ©dant 1000 kW mais n'excÃ©dant pas 10000 kW,,
+7,,,,10,- - - turbines hydrauliques,U,NOMBRE
+7,,,,90,- - - roues hydrauliques,U,- - - - -
+,,8410.13,00,,- - D'une puissance excÃ©dant 10000 kW,,
+7,,,,10,- - - turbines hydrauliques,U,NOMBRE
+7,,,,90,- - - roues hydrauliques,U,- - - - -
+7,,8410.90,00,00,"- Parties, y compris les rÃ©gulateurs",KG,- - - - -
+,84.11,,,,"TurborÃ©acteurs, turbopropulseurs et autres turbines Ã  gazÂ£- TurborÃ©acteurs :",,
+7,,8411.11,00,00,- - D'une poussÃ©e n'excÃ©dant pas 25kN,U,NOMBRE
+7,,8411.12,00,00,- - D'une poussÃ©e excÃ©dant 25 kNÂ£- Turbopropulseurs :,U,NOMBRE
+7,,8411.21,00,00,- - D'une puissance n'excÃ©dant pas 1100 kW,U,NOMBRE
+7,,8411.22,00,00,- - D'une puissance excÃ©dant 1100 kWÂ£- Autres turbines Ã  gaz :,U,NOMBRE
+7,,8411.81,00,00,- - D'une puissance n'excÃ©dant pas 5000 kW,U,NOMBRE
+7,,8411.82,00,00,- - D'une puissance excÃ©dant 5000 kWÂ£- Parties :,U,NOMBRE
+7,,8411.91,00,00,- - De turborÃ©acteurs ou de turbopropulseurs,KG,- - - - -
+7,,8411.99,00,00,- - Autres,KG,- - - - -
+,84.12,,,,Autres moteurs et machines motrices,,
+7,,8412.10,00,00,- Propulseurs Ã  rÃ©action autres que les turborÃ©acteursÂ£- Moteurs hydrauliques :,U,NOMBRE
+7,,8412.21,00,00,- - A mouvement rectiligne (cylindres),U,- - - - -
+7,,8412.29,00,00,- - AutresÂ£- Moteurs pneumatiques :,U,- - - - -
+7,,8412.31,00,00,- - A mouvement rectiligne (cylindres),U,NOMBRE
+7,,8412.39,00,00,- - Autres,U,NOMBRE
+,,8412.80,,,- Autres,,
+7,,,10,00,"- - - - - locomobiles (Ã  l'exclusion des tracteurs du nÂ° 8701) et machines demi-fixes, Ã  vapeur",U,- - - - -
+7,,,80,00,- - - autres,U,NOMBRE
+,,8412.90,,,- Parties,,
+7,,,00,00,- Parties,KG,- - - - -
+,,,90,,- - - autres :,,
+,84.13,,,,"- - - Pompes pour liquides, mÃªme comportant un dispositif mesureur; Ã©lÃ©vateurs Ã  liquides.Â£- Pompes comportant un dispositif mesureur ou conÃ§ues pour comporter un tel dispositif :",,
+7,,8413.11,00,00,"- - Pompes pour la distribution de carburants ou de lubrifiants, des types utilisÃ©s dans les stations-service ou les garages",U,NOMBRE
+7,,8413.19,00,00,- - Autres,U,NOMBRE
+,,8413.20,00,,"- Pompes Ã  bras, autres que celles des nÂ°s 841311 ou 841319",,
+7,,,,00,"- Pompes actionnÃ©es Ã  la main, autres que celles des n s 8413.11 Â£ou 8413.19",U,NOMBRE
+,,8413.30,00,,"- - - - Pompes Ã  carburant, Ã  huile ou Ã  liquide de refroidissement pour moteurs Ã  allumage par Ã©tincelles ou par compression",,
+7,,,,10,- - - pouvant fournir une pression Ã©gale ou supÃ©rieure Ã  20 bars,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8413.40,00,,- Pompes Ã  bÃ©tonÂ£- - - pouvant fournir une pression Ã©gale ou supÃ©rieure Ã  20 bars :,,
+7,,,,00,- Pompes Ã  bÃ©ton,U,NOMBRE
+,,8413.50,,,- Autres pompes volumÃ©triques alternatives,,
+8,,,10,00,- - - pompes utilisÃ©es dans les piscines,U,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - autres,U,NOMBRE
+7,,,,00,- - - autres,U,NOMBRE
+,,8413.60,,,- Autres pompes volumÃ©triques rotatives,,
+8,,,10,00,- - - pompes utilisÃ©es dans les piscines,U,- - - - -
+,,,90,,- - - autres :Â£- - - - pouvant fournir une pression Ã©gale ou supÃ©rieure Ã  20 bars :,,
+7,,,,00,- - - autres,U,NOMBRE
+,,8413.70,,,- Autres pompes centrifuges,,
+8,,,11,00,- - - pompes utilisÃ©es dans les piscines,U,- - - - -
+8,,,12,00,- - - pompes avec revÃªtement intÃ©rieur anti-corrosif ou anti-abrasifÂ£- - - autres :Â£- - - - pouvant fournir une pression Ã©gale ou supÃ©rieure Ã  20 bars :,U,- - - - -
+7,,,21,00,- - - - - pompes nues (sans machine motrice),U,NOMBRE
+,,,29,,- - - - - autres :,,
+7,,,,00,- - - - - autres,U,NOMBRE
+7,,,30,00,- - - - - moto-pompes dites Â«pompes immergÃ©esÂ» ou Â«pompes submersiblesÂ» entrainÃ©es par un moteur Ã©lectrique incorporÃ© ou faisant partie intÃ©grante de l'ensemble,U,NOMBRE
+7,,,40,00,- - - - - moto-pompes entraÃ®nÃ©es par un moteur Ã©lectrique incorporÃ© dites â€œcirculateursâ€œÂ£- - - - - pompes et moto-pompes multicellulaires :,U,NOMBRE
+7,,,51,00,- - - - - - pompes nues (sans machine motrice) dont le diamÃ¨tre d'aspiration est supÃ©rieur Ã  150 mm,U,NOMBRE
+7,,,59,00,- - - - - - autresÂ£- - - - - autres :,U,NOMBRE
+7,,,91,00,- - - - - - - pompes nues (sans machine motrice) Ã  axe horizontal dont le diamÃ¨tre d'aspiration est supÃ©rieur Ã  80 mm,U,NOMBRE
+7,,,92,00,- - - - - - pompes nues (sans machine motrice) Ã  axe vertical dont le diamÃ¨tre d'aspiration est supÃ©rieur Ã  150 mm,U,NOMBRE
+7,,,93,00,- - - - - - motopompes d'Ã©vacuation d'eau dans les machines Ã  laver le linge d'un diamÃ¨tre d'aspiration compris entre 20 et 30 mm inclus et d'un diamÃ¨tre de refoulement de 14 Ã  18 mm inclus,U,NOMBRE
+7,,,98,00,- - - - - - - autresÂ£- Autres pompes; Ã©lÃ©vateurs Ã  liquides :,U,NOMBRE
+,,8413.81,,,- - Pompes,,
+8,,,10,00,- - - pompes utilisÃ©es dans les piscines,U,- - - - -
+,,,90,,- - - autres :Â£- - - - pouvant fournir une pression Ã©gale ou supÃ©rieure Ã  20 bars :,,
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,00,- - - autres,U,NOMBRE
+7,,,,00,- - - autres,U,NOMBRE
+7,,8413.82,00,00,- - ElÃ©vateurs Ã  liquidesÂ£- Parties :,U,NOMBRE
+,,8413.91,00,,- - De pompes,,
+7,,,,00,- - De pompes,KG,NOMBRE
+7,,,,00,- - De pompes,KG,NOMBRE
+7,,,,00,- - Migration NGP inexistants,KG,NOMBRE
+7,,,,00,- - Migration NGP inexistants,KG,NOMBRE
+7,,8413.92,00,00,- - D'Ã©lÃ©vateurs Ã  liquides,KG,- - - - -
+,84.14,,,,"""Pompes Ã  air ou Ã  vide, compresseurs d'air ou d'autres gaz et ventilateurs;hottes aspirantes Ã  extraction ou Ã  recyclage, Ã  ventilateurincorporÃ©, mÃªme filtrantes; enceintes de sÃ©curitÃ© biologiqueÃ©tanches aux gaz, mÃªme filtrantes.""",,
+,84.14,,,,"""Pompes Ã  air ou Ã  vide, compresseurs d'air ou d'autres gaz et ventilateurs;hottes aspirantes Ã  extraction ou Ã  recyclage, Ã  ventilateurincorporÃ©, mÃªme filtrantes; enceintes de sÃ©curitÃ© biologiqueÃ©tanches aux gaz, mÃªme filtrantes.""",,
+,84.14,,,,"Pompes Ã  air ou Ã  vide, compresseurs d'air ou d'autres gaz et ventila- teurs; hottes aspirantes Ã  extraction ou Ã  recyclage, Ã  ventilateur incorporÃ©, mÃªme filtrantes.",,
+,84.14,,,,"Pompes Ã  air ou Ã  vide, compresseurs d'air ou d'autres gaz et ventila- teurs; hottes aspirantes Ã  extraction ou Ã  recyclage, Ã  ventilateur incorporÃ©, mÃªme filtrantes.",,
+,,8414.10,,,- Pompes Ã  vide,,
+7,,,10,00,"- - - Ã  commande non mÃ©caniqueÂ£- - - nues, Ã  commande mÃ©canique :",U,NOMBRE
+7,,,21,00,"- - - - alternatives, Ã  pistons, Ã  membrane, centrifuges ou axiales",U,- - - - -
+7,,,29,00,- - - - autres,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+7,,8414.20,00,00,"- Pompes Ã  air, Ã  main ou Ã  pied",U,- - - - -
+,,8414.30,,,"- Compresseurs des types utilisÃ©s dans les Ã©quipements frigorifiquesÂ£- - - nus, Ã  commande mÃ©canique :",,
+7,,,10,00,"- - - nus, Ã  commande mÃ©canique",U,- - - - -
+7,,,20,00,- - - groupes moto-compresseurs hermÃ©tiques,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,,8414.40,,,"- Compresseurs d'air montÃ©s sur chÃ¢ssis Ã  roues et remorquablesÂ£- - - nus, Ã  commande mÃ©canique :",,
+7,,,00,00,- Compresseurs d'air montÃ©s sur chÃ¢ssis Ã  roues et remorquables,U,- - - - -
+,,8414.51,,,"- - Ventilateurs de table, de sol, muraux, plafonniers, de toitures ou de fenÃªtres, Ã  moteur Ã©lectrique incorporÃ© d'une puissance n'excÃ©dant pas 125 WÂ£- - - de toitures :",,
+7,,,11,00,"- - - - ventilateurs hÃ©licoidaux et centrifuges, d'un diamÃ¨tre Ã©gal ou supÃ©rieur Ã  75 cm.",U,- - - - -
+7,,,19,00,- - - - autres,U,- - - - -
+8,,,90,00,- - - autres,U,NOMBRE
+,,8414.59,,,- - - Autres,,
+8,,,10,00,- - - Ã  usage domestique,U,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,U,- - - - -
+,,8414.60,,,- - Hottes dont le plus grand cÃ´tÃ© horizontal n'excÃ¨de pas 120 cm,,
+8,,,10,00,- - - Ã  usage domestique,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+7,,8414.70,00,00,- Enceintes de sÃ©curitÃ© biologique Ã©tanches aux gaz,U,- - - - -
+,,8414.80,,,- Autres,,
+7,,,10,00,"- - - pompes Ã  commande non mÃ©caniqueÂ£- - - pompes et compresseurs nus, Ã  commande mÃ©canique :",U,NOMBRE
+7,,,80,00,- - - autres,U,- - - - -
+,,8414.90,,,- Parties,,
+7,,,00,10,- - - d'enceinte de sÃ©curitÃ© biologique Ã©tanches aux gaz,KG,- - - - -
+7,,,00,90,- - - autres,KG,- - - - -
+,84.15,,,,"- - - Machines et appareils pour le conditionnement de l'air comprenant un ventilateur Ã  moteur et des dispositifs propres Ã  modifier la tempÃ©rature et l'humiditÃ©, y compris ceux dans lesquels le degrÃ© hygromÃ©trique n'est pas rÃ©glable sÃ©parÃ©ment.",,
+,,8415.10,00,,"- Des types conÃ§us pour Ãªtre fixÃ©s sur une fenÃªtre, un mur, unplafond ou sur le sol, formant un seul corps ou du typeâ€œsplit-systÃ¨mâ€ (systÃ¨mes Ã  Ã©lÃ©ments sÃ©parÃ©s)",,
+,,8415.10,00,,"- Des types conÃ§us pour Ãªtre fixÃ©s sur une fenÃªtre, un mur, unplafond ou sur le sol, formant un seul corps ou du typeâ€œsplit-systÃ¨mâ€ (systÃ¨mes Ã  Ã©lÃ©ments sÃ©parÃ©s)",,
+,,8415.10,00,,"- Du type mural ou pour fenÃªtres, formant un seul corps ou du type â€œsplit-systÃ¨mâ€ (systÃ¨mes Ã  Ã©lÃ©ments sÃ©parÃ©s)",,
+,,8415.10,00,,"- Du type mural ou pour fenÃªtres, formant un seul corps ou du type â€œsplit-systÃ¨mâ€ (systÃ¨mes Ã  Ã©lÃ©ments sÃ©parÃ©s)",,
+7,,,,10,- - - avec compresseurÂ£- - - sans compresseur :,U,- - - - -
+7,,,,92,- - - - groupes de traitement de l'air,U,- - - - -
+7,,,,98,- - - - autres,U,- - - - -
+7,,8415.20,00,00,- Du type de ceux utilisÃ©s pour le confort des personnes dans les vÃ©hicules automobilesÂ£- Autres :,U,- - - - -
+7,,8415.81,00,00,- - - Avec dispositif de rÃ©frigÃ©ration et soupape d'inversion du cycle thermique (pompes Ã  chaleur rÃ©versibles),U,- - - - -
+7,,8415.82,00,00,"- - Autres, avec dispositif de rÃ©frigÃ©ration",U,- - - - -
+,,8415.83,00,,- - Sans dispositif de rÃ©frigÃ©ration,,
+7,,,,00,- - Sans dispositif de rÃ©frigÃ©ration,U,- - - - -
+7,,8415.90,00,00,- Parties,KG,- - - - -
+,84.16,,,,"- BrÃ»leurs pour l'alimentation des foyers, Ã  combustibles liquides, Ã  combustibles solides pulvÃ©risÃ©s ou Ã  gaz; foyers automatiques, y compris leurs avant-foyers, leurs grilles mÃ©caniques, leurs dispositifs mÃ©caniques pour l'Ã©vacuation des cendre",,
+7,,8416.10,00,00,- BrÃ»leurs Ã  combustibles liquides,KG,- - - - -
+7,,8416.20,00,00,"- Autres brÃ»leurs, y compris les brÃ»leurs mixtes",KG,- - - - -
+7,,8416.30,00,00,"- Foyers automatiques, y compris leurs avant-foyers, leurs grilles mÃ©caniques, leurs dispositifs mÃ©caniques pour l'Ã©vacuation des cendres et dispositifs similaires",KG,- - - - -
+7,,8416.90,00,00,- Parties,KG,- - - - -
+,84.17,,,,"Fours industriels ou de laboratoires, y compris les incinÃ©rateurs, non Ã©lectriques.",,
+,,8417.10,00,,"- Fours pour le grillage, la fusion ou autres traitements thermiques des minerais ou des mÃ©taux",,
+7,,,,00,"- Fours pour le grillage, la fusion ou autres traitements thermiques Â£des minerais ou des mÃ©taux",U,- - - - -
+,,8417.20,,,"- Fours de boulangerie, de pÃ¢tisserie ou de biscuiterie",,
+7,,,00,00,- Migration NGP inexistants,U,- - - - -
+7,,,00,00,- Migration NGP inexistants,U,- - - - -
+7,,,00,00,"- Fours de boulangerie, de pÃ¢tisserie ou de biscuiterie",U,- - - - -
+7,,,00,00,"- Fours de boulangerie, de pÃ¢tisserie ou de biscuiterie",U,- - - - -
+,,8417.80,00,,- Autres,,
+7,,,,00,- Autres,U,- - - - -
+7,,,,00,- Autres,U,- - - - -
+7,,,,00,- Migration NGP inexistants,U,- - - - -
+7,,,,00,- Migration NGP inexistants,U,- - - - -
+7,,8417.90,00,00,- Parties,KG,- - - - -
+,84.18,,,,"- - RÃ©frigÃ©rateurs, congÃ©lateurs-conservateurs et autres matÃ©riel, machi- nes et appareils pour la production du froid, Ã  Ã©quipement Ã©lectrique ou autre; pompes Ã  chaleur autres que les machines et appareils pour le conditionnement de l'air du nÂ°",,
+,,8418.10,00,,"- Combinaisons de rÃ©frigÃ©rateurs et de congÃ©lateurs-conservateurs munis de portes ou de tiroirs extÃ©rieurs sÃ©parÃ©s, ou d'une combinaison de ces Ã©lÃ©ments",,
+,,8418.10,00,,"- Combinaisons de rÃ©frigÃ©rateurs et de congÃ©lateurs-conservateurs munis de portes ou de tiroirs extÃ©rieurs sÃ©parÃ©s, ou d'une combinaison de ces Ã©lÃ©ments",,
+,,8418.10,00,,- Combinaisons de rÃ©frigÃ©rateurs et de congÃ©lateurs-conservateurs munis de portes extÃ©rieures sÃ©parÃ©esÂ£- - - d'un poids infÃ©rieur Ã  500 kg :Â£- - - - Ã  usage domestique :,,
+,,8418.10,00,,- Combinaisons de rÃ©frigÃ©rateurs et de congÃ©lateurs-conservateurs munis de portes extÃ©rieures sÃ©parÃ©esÂ£- - - d'un poids infÃ©rieur Ã  500 kg :Â£- - - - Ã  usage domestique :,,
+7,,,,12,- - - - - d'une capacitÃ© supÃ©rieure Ã  400 litres,U,NOMBRE
+7,,,,18,- - - - - d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  400 litres,U,NOMBRE
+7,,,,40,- - - - autres,U,NOMBRE
+7,,,,80,- - - d'un poids Ã©gal ou supÃ©rieur Ã  500 kg,U,NOMBRE
+,,8418.21,00,,- - A compression,,
+7,,,,10,- - - d'une capacitÃ© supÃ©rieure Ã  400 litres,U,NOMBRE
+7,,,,92,- - - - - - - - - d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  400 litres : Â£ - - - - d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  100 litres alimentÃ©s en courant continu non pÃ©riodique de 12 ou 24 volts,U,
+7,,,,93,- - - - - - - - - autres : Â£- - - - - d'une capacitÃ© supÃ©rieure ou Ã©gale Ã  50 litres et infÃ©rieure ou Ã©gale Ã  100 litres,U,
+7,,,,94,- - - - - d'une capacitÃ© infÃ©rieure Ã  50 litres,U,
+7,,,,99,- - - - - autres,U,NOMBRE
+,,8418.22,00,,"- - A absorption, Ã©lectriques",,
+,,8418.29,00,,- - Autres,,
+7,,8418.29,10,10,- - - - d'une capacitÃ© supÃ©rieure Ã  400 litres%â€“ â€“ â€“ â€“ d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  400 litres :,U,- - - - -
+7,,8418.29,10,91,- - - - - d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  75 litres,U,- - - - -
+7,,8418.29,10,99,- - - - - autres,U,- - - - -
+7,,8418.29,90,10,- - - - d'une capacitÃ© supÃ©rieure Ã  400 litres,U,- - - - -
+7,,8418.29,90,90,- - - - d'une capacitÃ© infÃ©rieure ou Ã©gale Ã  400 litres,U,- - - - -
+,,8418.30,00,,"- Meubles congÃ©lateurs-conservateurs du type coffre, d'une capacitÃ© n'excÃ©dant pas 800 lÂ£- - - d'un poids infÃ©rieur Ã  500 kg :Â£- - - - Ã  usage domestique :",,
+7,,,,20,- - - - Ã  usage domestique,U,NOMBRE
+7,,,,30,- - - - autres,U,NOMBRE
+7,,,,90,- - - d'un poids Ã©gal ou supÃ©rieur Ã  500 kg,U,NOMBRE
+,,8418.40,00,,"- Meubles congÃ©lateurs- conservateurs du type armoire, d'une capacitÃ© n'excÃ©dant pas 900 lÂ£- - - d'un poids infÃ©rieur Ã  500 kg :Â£- - - - Ã  usage domestique :",,
+7,,,,00,"- Meubles congÃ©lateurs- conservateurs du type armoire, d'une Â£capacitÃ© n'excÃ©dant pas 900 l",U,NOMBRE
+,,8418.50,,,"- Autres coffres, armoires, vitrines, comptoirs et meubles similaires, pour la production du froid",,
+7,,,15,00,- - - rÃ©frigÃ©rateurs-coffre. d'une capacitÃ© n'excÃ©dant pas 300 litres. alimentÃ©s en courant continu non pÃ©riodique de 12 ou 24 volts,U,NOMBRE
+7,,,20,00,"- - - vitrines prÃ©sentoires, positives ou nÃ©gatives avec vitrage galbÃ© en verre trempÃ© de sÃ©curitÃ©, Ã  tempÃ©rature contrÃ´lÃ©e et groupe frigorifique incorporÃ© ou Ã  distance",U,NOMBRE
+,,,80,,- - - autres :Â£- - - - d'un poids infÃ©rieur Ã  500 kg :Â£- - - - - Ã  usage domestique :,,
+7,,,,20,- - - - - Ã  usage domestique,U,NOMBRE
+7,,,,50,- - - - - autres,U,NOMBRE
+7,,,,80,- - - - d'un poids Ã©gal ou supÃ©rieur Ã  500 kg,U,NOMBRE
+7,,8418.61,00,00,- - Groupes Ã  compression dont le condenseur est constituÃ© par un Ã©changeur de chaleur,U,NOMBRE
+,,8418.69,,,- - Autres,,
+7,,,10,00,"- - - constructions prÃ©fabriquÃ©es Ã©quipÃ©es d'appareils pour la production du froid, constituant des entrepÃ´ts frigorifiques",KG,- - - - -
+7,,,90,00,- - - - - autresÂ£- Parties :,KG,- - - - -
+,,8418.91,00,,- - Meubles conÃ§us pour recevoir un Ã©quipement pour la production du froid,,
+7,,,,10,- - - - - manifestement destinÃ©s au montage des appareils industriels ou commer- ciaux d'une contenance supÃ©rieure Ã  300 litres,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,,8418.99,00,,- - Autres,,
+7,,,,10,"- - - Ã©vaporateurs et condenseurs, autres que pour appareils Ã  usages domes- tiques",KG,NOMBRE
+7,,,,90,- - - autres,KG,- - - - -
+,84.19,,,,"Appareils et dispositifs, mÃªme chauffÃ©s Ã©lectriquement (Ã  l'exclusion des fours et autres appareils du nÂ° 85.14), pour le traitement de matiÃ¨res par des opÃ©rations impliquant un changement de tempÃ©rature telles que le chauffage, la cuisson, la tor",,
+,84.19,,,,"Appareils et dispositifs, mÃªme chauffÃ©s Ã©lectriquement (Ã  l'exclusion des fours et autres appareils du nÂ° 85.14), pour le traitement de matiÃ¨res par des opÃ©rations impliquant un changement de tempÃ©rature telles que le chauffage, la cuisson, la tor",,
+,84.19,,,,"Appareils, dispositifs ou Ã©quipements de laboratoire, mÃªme chauffÃ©s Ã©lectriquement (Ã  l'exclusion des fours et autres appareils du nÂ° 85.14), pour le traitement de matiÃ¨res par des opÃ©rations impliquant un changement de tempÃ©rature telles que le",,
+,84.19,,,,"Appareils, dispositifs ou Ã©quipements de laboratoire, mÃªme chauffÃ©s Ã©lectriquement (Ã  l'exclusion des fours et autres appareils du nÂ° 85.14), pour le traitement de matiÃ¨res par des opÃ©rations impliquant un changement de tempÃ©rature telles que le",,
+,,8419.11,,,"- - A chauffage instantanÃ©, Ã  gazÂ£- - - pour usage domestique :",,
+8,,,00,00,"- - A chauffage instantanÃ©, Ã  gaz",U,- - - - -
+8,,8419.12,00,00,- - Chauffe-eau solaires,U,- - - - -
+,,8419.19,,,- - AutresÂ£- - - pour usage domestique :,,
+8,,,00,00,- - Autres,U,- - - - -
+,,8419.20,,,- StÃ©rilisateurs mÃ©dico-chirurgicaux ou de laboratoires,,
+7,,,00,00,- StÃ©rilisateurs mÃ©dico-chirurgicaux ou de laboratoires Â£â€“ SÃ©choirs :,U,- - - - -
+7,,8419.33,00,00,"- - Appareils de lyophilisation, appareils de cryodessiccation et sÃ©choirs Ã  pulvÃ©risation",U,- - - - -
+7,,8419.34,00,00,"- - Autres, pour produits agricoles",U,- - - - -
+7,,8419.35,00,00,"- - Autres, pour le bois, la pÃ¢te Ã  papier, le papier ou le carton",U,- - - - -
+,,8419.39,00,,- - Autres,,
+7,,,,00,- - Autres,U,- - - - -
+7,,,,00,- - Autres,U,- - - - -
+7,,,,00,- - Migration NGP inexistants,U,- - - - -
+7,,,,00,- - Migration NGP inexistants,U,- - - - -
+,,8419.40,00,,- Appareils de distillation ou de rectification,,
+7,,,,00,- Appareils de distillation ou de rectification,U,- - - - -
+7,,8419.50,00,00,- Echangeurs de chaleur,U,- - - - -
+7,,8419.60,00,00,- Appareils et dispositifs pour la liquÃ©faction de l'air ou d'autres gazÂ£- Autres appareils et dispositifs :,U,- - - - -
+,,8419.81,,,- - - - Pour la prÃ©paration de boissons chaudes ou la cuisson ou le chauffage des aliments,,
+,,,10,,- - - percolateurs et autres appareils pour la prÃ©paration du cafÃ© et autres bois- sons :,,
+8,,,20,00,- - - cuisiniÃ¨res pour Ã©quipement hÃ´telier et pour collectivitÃ©s,U,NOMBRE
+7,,,70,00,- - - Autres,U,- - - - -
+,,8419.89,00,,- - Autres,,
+7,,,,10,- - - appareils pour le traitement des dÃ©chets radioactifs ou pour le recyclage des combustibles nuclÃ©aires irradiÃ©esÂ£- - - autres :,U,- - - - -
+7,,,,90,- - - Migration NGP inexistants,U,- - - - -
+7,,,,90,- - - Migration NGP inexistants,U,- - - - -
+7,,,,90,- - - Autres,U,- - - - -
+7,,,,90,- - - Autres,U,- - - - -
+,,8419.90,,,- - Parties,,
+,,,10,,- - - de chauffe-eau et chauffe-bains non Ã©lÃ©ctriques :,,
+8,,,,10,- - - - utilisant de l'Ã©nergie solaire,KG,- - - - -
+8,,,,90,- - - - autres,KG,- - - - -
+8,,,20,00,- - - de cuisiniÃ¨res,KG,NOMBRE
+,,,90,,- - - autres :,,
+7,,,,00,- - - Autres,KG,- - - - -
+,84.20,,,,"- - Calandres et laminoirs, autres que pour les mÃ©taux ou le verre, et cylindres pour ces machines.",,
+,,8420.10,00,,- Calandres et laminoirsÂ£- - - calandres :,,
+7,,,,10,- - - calandres,U,NOMBRE
+7,,,,20,- - - laminoirs,U,NOMBRE
+,,8420.91,00,,- - Cylindres,,
+7,,,,00,- - Cylindres,KG,- - - - -
+7,,8420.99,00,00,- - Autres,KG,- - - - -
+,84.21,,,,"- - Centrifugeuses, y compris les essoreuses centrifuges; appareils pour la filtration ou l'Ã©puration des liquides ou des gaz.Â£- Centrifugeuses, y compris les essoreuses centrifuges :",,
+7,,8421.11,00,00,- - EcrÃ©meuses,U,- - - - -
+,,8421.12,00,,- - Essoreuses Ã  linge,,
+7,,,,30,- - - Ã  fonctionnement Ã©lectrique,U,NOMBRE
+7,,,,90,- - - autres,U,- - - - -
+,,8421.19,00,,- - Autres,,
+7,,,,10,"- - - appareils pour le traitement des dÃ©chets radioactifs, ou pour le recyclage des combustibles nuclaiÃ©res irradiÃ©s",U,- - - - -
+7,,,,20,- - - centrifugeuses pour laboratoires,U,- - - - -
+7,,,,30,- - - clarificateur pour le traitement du lait,U,NOMBRE
+7,,,,80,- - - autres,KG,- - - - -
+,,8421.21,,,- - Pour la filtration ou l'Ã©puration des eaux,,
+8,,,10,00,- - - appareils utilisÃ©s dans les piscines,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+7,,8421.22,00,00,- - Pour la filtration ou l'Ã©puration des boissons autres que l'eau,U,- - - - -
+,,8421.23,,,- - Pour la filtration des huiles minÃ©rales dans les moteurs Ã  allumage par Ã©tincelles ou par compression,,
+7,,,10,00,- - - filtres catalyseurs de carburants,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,,8421.29,,,- - Autres,,
+7,,,10,00,- - - pour moteurs,U,- - - - -
+7,,,90,00,- - - autresÂ£- Appareils pour la filtration ou l'Ã©puration des gaz :,U,- - - - -
+7,,8421.31,00,00,- - - - Filtres d'entrÃ©e d'air pour moteurs Ã  allumage par Ã©tincelles ou par compression,U,- - - - -
+,,8421.32,00,,"- - Convertisseurs catalytiques et filtres Ã  particules, mÃªme combinÃ©s, pour l'Ã©puration ou la filtration des gaz d'Ã©chappement des moteurs Ã  allumage par Ã©tincelles ou par compression",,
+7,,,,10,- - - pour moteurs,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,,8421.39,,,- - Autres,,
+,,,00,,- - Autres,,
+7,,,,10,- - - pour moteurs,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+7,,8421.91,00,00,"- - De centrifugeuses, y compris d'essoreuses centrifuges",KG,- - - - -
+,,8421.99,,,- - Autres,,
+7,,,10,00,- - - d'appareils pour la filtration ou l'Ã©puration des eauxÂ£- - - d'appareils pour la filtration ou l'Ã©puration d'autres liquides :,KG,- - - - -
+7,,,21,10,"- - - - - embase en mÃ©taux communs sous forme cylindrique d'une Ã©paisseur comprise entre 2,5 et 4 mm et d'un diamÃ¨tre externe excÃ©dant 95mm",KG,- - - - -
+7,,,21,20,"- - - - - autres, en matiÃ¨res plastiques",KG,- - - - -
+7,,,21,90,- - - - - autres,KG,- - - - -
+7,,,29,00,- - - - autresÂ£- - - d'appareils pour la filtration ou l'Ã©puration des gaz :,KG,- - - - -
+7,,,91,10,"- - - - - autres, en matiÃ¨res plastiques",KG,- - - - -
+7,,,91,90,- - - - - autres,KG,- - - - -
+7,,,98,00,- - - - autres,KG,- - - - -
+,84.22,,,,"- - Machines Ã  laver la vaisselle ; machines et appareils servant Ã  nettoyer ou Ã  sÃ©cher les bouteilles ou autres rÃ©cipients ; machines et appareils Ã  remplir, fermer, boucher ou Ã©tiqueter les bouteilles, boÃ®tes, sacs ou autres contenants ; machin",,
+,,8422.11,00,,- - De type mÃ©nager,,
+8,,,,00,- - De type mÃ©nager,U,NOMBRE
+,,8422.19,00,,- - Autres,,
+8,,,,00,- - Autres,U,NOMBRE
+7,,8422.20,00,00,- Machines et appareils servant Ã  nettoyer ou Ã  sÃ©cher les bouteilles ou autres rÃ©cipients,U,NOMBRE
+7,,8422.30,00,00,"- - - Machines et appareils Ã  remplir, fermer, boucher ou Ã©tiqueter les bouteilles, boÃ®tes, sacs ou autres contenants ; machines et appareils Ã  capsuler les bouteilles, pots, tubes et contenants analogues ; machines et appareils Ã  gazÃ©ifier les bois",U,NOMBRE
+7,,8422.40,00,00,- - Autres machines et appareils Ã  empaqueter ou Ã  emballer les marchandises ( y compris les machines et appareils Ã  emballer sous film thermorÃ©tractable),U,NOMBRE
+,,8422.90,,,- - - Parties,,
+8,,,10,00,- - - de machines et appareils Ã  laver la vaisselle Ã  usage mÃ©nager,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,KG,- - - - -
+,84.23,,,,"- - - - - Appareils et instruments de pesage, y compris les bascules et balances Ã  vÃ©rifier les piÃ¨ces usinÃ©es, mais Ã  l'exclusion des balances sensibles Ã  un poids de 5 cg ou moins; poids pour toutes balances.",,
+7,,8423.10,00,00,"- - - PÃ¨se-personnes, y compris les pÃ¨se-bÃ©bÃ©s; balances de mÃ©nage",U,- - - - -
+7,,8423.20,00,00,- Bascules Ã  pesage continu sur transporteurs,U,- - - - -
+7,,8423.30,00,00,- - Bascules Ã  pesÃ©es constantes et balances et bascules ensacheuses ou doseusesÂ£- Autres appareils et instruments de pesage :,U,- - - - -
+,,8423.81,,,- - D'une portÃ©e n'excÃ©dant pas 30 kg,,
+7,,,00,00,- - D'une portÃ©e n'excÃ©dant pas 30 kg,U,- - - - -
+,,8423.82,,,- - D'une portÃ©e excÃ©dant 30 kg mais n'excÃ©dant pas 5000 kg,,
+7,,,00,00,- - D'une portÃ©e excÃ©dant 30 kg mais n'excÃ©dant pas 5.000 kg,U,- - - - -
+7,,8423.89,00,00,- - Autres,U,- - - - -
+,,8423.90,,,- - - Poids pour toutes balances; parties d'appareils ou instruments de pesageÂ£- - - parties :,,
+,,,00,,"- ""Poids pour toutes balances; parties d'appareils ou instrumentsde pesage""",,
+7,,,,10,- - - poids pour toutes balances,KG,- - - - -
+7,,,,20,- - - parties d'appareils ou instruments de pesage,KG,- - - - -
+,84.24,,,,"- - Appareils mÃ©caniques (mÃªme Ã  main) Ã  projeter, disperser ou pul- vÃ©riser des matiÃ¨res liquides ou en poudre; extincteurs, mÃªme chargÃ©s; pistolets aÃ©rographes et appareils similaires; machines et appareils Ã  jet de sable, Ã  jet de vapeur et",,
+7,,8424.10,00,00,"- Extincteurs, mÃªme chargÃ©s",U,- - - - -
+7,,8424.20,00,00,- Pistolets aÃ©rographes et appareils similaires,U,- - - - -
+,,8424.30,,,"- """"""Machines et appareils Ã  jet de sable, Ã  jet de vapeur et appareils Ã jet similairesâ€“ PulvÃ©risateurs pour l'agriculture ou l'horticulture :""""""",,
+7,,,00,00,"- Machines et appareils Ã  jet de sable, Ã  jet de vapeur et appareils Ã  jet similairesÂ£- Autres appareils :",U,- - - - -
+6,,8424.41,00,00,- - PulvÃ©risateurs portables,U,- - - - -
+6,,8424.49,00,00,- - Autres,U,- - - - -
+6,,8424.82,00,00,- - Pour l'agriculture ou l'horticulture,U,- - - - -
+6,,8424.89,00,00,- - Autres,U,- - - - -
+,,8424.90,00,,- Parties :,,
+7,,,,00,- Parties,KG,- - - - -
+,84.25,,,,Palans; treuils et cabestans; crics et vÃ©rinsÂ£- Palans :,,
+7,,8425.11,00,00,- - A moteur Ã©lectrique,U,- - - - -
+7,,8425.19,00,00,- - Autres,U,- - - - -
+7,,8425.31,00,00,- - A moteur Ã©lectrique,U,- - - - -
+7,,8425.31,00,00,- - A moteur Ã©lectrique,U,- - - - -
+7,,8425.31,00,00,- - A moteur Ã©lectrique,U,- - - - -
+7,,8425.31,00,00,- - A moteur Ã©lectrique,U,- - - - -
+7,,8425.39,00,00,- - Autres,U,- - - - -
+7,,8425.39,00,00,- - Autres,U,- - - - -
+7,,8425.39,00,00,- - Autres - Crics et vÃ©rins :,U,- - - - -
+7,,8425.39,00,00,- - Autres - Crics et vÃ©rins :,U,- - - - -
+7,,8425.41,00,00,- - ElÃ©vateurs fixes de voitures pour garages,U,- - - - -
+7,,8425.42,00,00,"- - Autres crics et vÃ©rins, hydrauliques",U,- - - - -
+7,,8425.49,00,00,- - Autres,U,- - - - -
+,84.26,,,,"- - - - Bigues; grues et blondins; ponts roulants, portiques de dÃ©char- gement ou de manutention, ponts-grues, chariots-cavaliers et chariots-grues.Â£- Ponts roulants, poutres roulantes, portiques, ponts-grues et chariots- cavaliers :",,
+,,8426.11,,,"- - Ponts roulants et poutres roulantes, sur supports fixesÂ£- - - ponts roulants :",,
+7,,,11,00,"- - - - ponts-roulants bipoutre, Ã  chariot birail, comportant une passerelle d'inspection sur toute la longueur, Ã  moteurs Ã©lectriques assujettis Ã  des rÃ©gulateurs Ã©lec- troniques et dont toutes les manoeuvres sont assurÃ©es par radiotÃ©lÃ©commande",U,- - - - -
+7,,,19,00,- - - - autres,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,,8426.12,,,- - - - - Portiques mobiles sur pneumatiques et chariots-cavaliers,,
+,,,00,,- - Portiques mobiles sur pneumatiques et chariots-cavaliers,,
+7,,,,10,- - - portiques mobiles sur pneumatiques,U,- - - - -
+7,,,,20,- - - chariots-cavaliers,U,NOMBRE
+,,,90,,- - - autres :,,
+7,,8426.19,00,00,- - Autres,U,- - - - -
+,,8426.20,,,- Grues Ã  tour,,
+7,,,00,00,- Grues Ã  tour,U,- - - - -
+,,,10,,- - - d'une force de levage infÃ©rieure ou Ã©gale Ã  10 tonnes :,,
+,,8426.30,,,- Grues sur portiques,,
+7,,,00,00,- Grues sur portiques,U,- - - - -
+,,,10,,- - - d'une force de levage infÃ©rieure ou Ã©gale Ã  10 tonnes :,,
+,,8426.41,,,- - Sur pneumatiques,,
+,,,00,,- - Sur pneumatiques,,
+7,,,,10,- - - chariots,U,NOMBRE
+7,,,,90,- - - autres,U,- - - - -
+,,,90,,- - - autres :,,
+,,8426.49,,,- - Autres,,
+7,,,00,00,- - Autres,U,- - - - -
+7,,8426.91,00,00,- - ConÃ§us pour Ãªtre montÃ©s sur un vÃ©hicule routier,U,- - - - -
+7,,8426.99,00,00,- - Autres,U,- - - - -
+,84.27,,,,Chariots-gerbeurs; autres chariots de manutention munis d'un dispositif de levage.,,
+,,8427.10,00,,- Chariots autopropulsÃ©s Ã  moteur Ã©lectrique,,
+7,,,,00,- Chariots autopropulsÃ©s Ã  moteur Ã©lectrique,U,NOMBRE
+,,8427.20,00,,- Autres chariots autopropulsÃ©s,,
+7,,,,00,- Autres chariots autopropulsÃ©s,U,NOMBRE
+,,8427.90,,,- Autres chariots,,
+7,,,00,00,- Autres chariots,U,NOMBRE
+,,,10,,- - - chariots transporteurs :,,
+,,,90,,- - - autres :,,
+,84.28,,,,"- Autres machines et appareils de levage, de chargement, de dÃ©char- gement ou de manutention (ascenseurs, escaliers mÃ©caniques, transporteurs, tÃ©lÃ©phÃ©riques, par exemple).",,
+7,,8428.10,00,00,- Ascenseurs et monte-charge,U,- - - - -
+7,,8428.20,00,00,"- Appareils Ã©lÃ©vateurs ou transporteurs, pneumatiquesÂ£- Autres appareils Ã©lÃ©vateurs, transporteurs ou convoyeurs, Ã  action continue, pour marchandises :",U,- - - - -
+7,,8428.31,00,00,- - SpÃ©cialement conÃ§us pour mines au fond ou pour autres travaux souterrains,U,- - - - -
+7,,8428.32,00,00,"- - Autres, Ã  benne",U,- - - - -
+,,8428.33,,,"- - Autres, Ã  bande ou Ã  courroie",,
+7,,,10,00,- - - convoyeurs magnÃ©tiques,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+7,,8428.39,00,00,- - Autres,U,- - - - -
+7,,8428.40,00,00,- Escaliers mÃ©caniques et trottoirs roulants,U,- - - - -
+,,8428.50,,,"- - Encageurs de berlines, chariots transbordeurs, basculeurs et culbuteurs de wagons, berlines, etc. et installations similaires de manutention de matÃ©riel roulant sur rail",,
+7,,8428.60,00,00,- - - TÃ©lÃ©phÃ©riques (y compris les tÃ©lÃ©siÃ¨ges et remonte-pentes); mÃ©canismes de traction pour funiculaires,U,- - - - -
+7,,8428.70,00,00,- - Robots industriels,U,- - - - -
+,,8428.90,,,- Autres machines et appareils,,
+7,,,00,00,- Migration NGP inexistants,U,- - - - -
+7,,,00,00,- Migration NGP inexistants,U,- - - - -
+7,,,00,00,- Autres machines et appareils,U,- - - - -
+7,,,00,00,- Autres machines et appareils,U,- - - - -
+,84.29,,,,"- - - - - Bouteurs (bulldozers), bouteurs biais (angledozers), niveleuses, dÃ©capeuses (scrapers), pelles mÃ©caniques, excavateurs, chargeuses et chargeuses-pelleteuses, compacteuses et rouleaux compresseurs, autopropulsÃ©s.Â£- Bouteurs (bulldozers) et bo",,
+7,,8429.11,00,00,- - A chenilles,U,- - - - -
+7,,8429.19,00,00,- - Autres,U,- - - - -
+7,,8429.20,00,00,- Niveleuses,U,- - - - -
+7,,8429.30,00,00,- DÃ©capeuses,U,- - - - -
+,,8429.40,00,,- Compacteuses et rouleaux compresseurs,,
+7,,8429.40,10,00,- - - compacteuses,U,- - - - -
+7,,8429.40,20,00,- - - rouleaux compresseurs,U,NOMBRE
+,,8429.51,,,- - Chargeuses et chargeuses-pelleteuses Ã  chargement frontal,,
+7,,,00,00,- - Chargeuses et chargeuses-pelleteuses Ã  chargement frontal,U,- - - - -
+,,8429.52,,,- - Engins dont la superstructure peut effectuer une rotation de 360Â°,,
+7,,,00,00,- - Engins dont la superstructure peut effectuer une rotation de 360,U,- - - - -
+,,8429.59,,,- - Autres,,
+7,,,00,00,- - Autres,U,- - - - -
+,84.30,,,,"- - Autres machines et appareils de terrassement, nivellement, dÃ©capage, excavation, compactage, extraction ou forage de la terre, des minÃ©raux ou des minerais; sonnettes de battage et machines pour l'arrachage des pieux; chasse-neige.",,
+,,8430.10,,,- Sonnettes de battage et machines pour l'arrachage des pieux,,
+7,,,00,00,- Sonnettes de battage et machines pour l'arrachage des pieux,U,- - - - -
+7,,8430.20,00,00,"- Chasse-neigeÂ£- Haveuses, abatteuses et machines Ã  creuser les tunnels ou les galeries :",U,- - - - -
+7,,8430.31,00,00,- - AutopropulsÃ©es,U,- - - - -
+7,,8430.39,00,00,- - AutresÂ£- Autres machines de sondage ou de forage :,U,- - - - -
+7,,8430.41,00,00,- - AutopropulsÃ©es,U,- - - - -
+7,,8430.49,00,00,- - Autres,U,- - - - -
+7,,8430.50,00,10,- - - de terrassement,U,- - - - -
+7,,8430.50,00,20,- - - de nivellement,U,- - - - -
+7,,8430.50,00,30,- - - de dÃ©capage,U,- - - - -
+7,,8430.50,00,40,- - - d'excavage,U,- - - - -
+7,,8430.50,00,50,- - - de compactage,U,- - - - -
+7,,8430.50,00,90,- - - autres,U,- - - - -
+7,,8430.61,00,00,- - Machines et appareils Ã  tasser ou Ã  compacter,U,- - - - -
+,,8430.69,00,,- - Autres,,
+7,,,,00,- - Autres,U,- - - - -
+,84.31,,,,- Parties reconnaissables comme Ã©tant exclusivement ou principale- ment destinÃ©es aux machines ou appareils des nÂ°s 84.25 Ã  84.30,,
+7,,8431.10,00,00,- De machines ou appareils du nÂ° 8425,KG,- - - - -
+,,8431.20,00,,- De machines ou appareils du nÂ° 8427,,
+7,,,,30,- - - de chariots du n 8427.10 et 8427.20,KG,- - - - -
+7,,,,90,- - - autresÂ£- De machines ou appareils du nÂ° 84.28 :,KG,- - - - -
+7,,8431.31,00,00,"- - - - D'ascenseurs, monte-charge ou escaliers mÃ©caniques",KG,- - - - -
+,,8431.39,,,- - Autres,,
+7,,,15,00,- - - rouleaux pour convoyeurs,KG,- - - - -
+7,,,20,00,- - - de chariots travellings de la rubrique 8428501000,KG,- - - - -
+7,,,80,00,- - - autres,KG,- - - - -
+7,,,80,00,- - - autres,KG,- - - - -
+7,,,80,00,"- - - autres - De machines ou appareils des nÂ°s 84.26, 84.29 ou 84.30 :",KG,- - - - -
+7,,,80,00,"- - - autres - De machines ou appareils des nÂ°s 84.26, 84.29 ou 84.30 :",KG,- - - - -
+,,8431.41,,,"- - Godets, bennes, bennes-preneuses, pelles, grappins et pincesÂ£- - - de machines ou appareils du nÂ° 84.26 :",,
+7,,,11,00,- - - - pinces preneuses,KG,- - - - -
+7,,,19,00,- - - - autres,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+7,,8431.42,00,00,- - Lames de bouteurs (bulldozers) ou de bouteurs biais (angledozers),KG,- - - - -
+7,,8431.43,00,00,- - Parties de machines de sondage ou de forage des nÂ°s 843041 ou 8430.49,KG,- - - - -
+,,8431.49,,,"- - AutresÂ£- - - de machines ou appareils du nÂ° 84.26 :Â£- - - - de grues Â«automobilesÂ» sur chenilles ou sur roues, ne pouvant circuler sur rails :",,
+7,,,10,00,"- - - - de grues Â«automobilesÂ» sur chenilles ou sur roues, ne pouvant circuler sur Â£rails",KG,- - - - -
+7,,,21,00,- - - - - de grues d'une force de levage infÃ©rieure ou Ã©gale Ã  10 tonnes,KG,- - - - -
+7,,,23,00,- - - - - de portiques d'une force de levage infÃ©rieure ou Ã©gale Ã  30 tonnes,KG,- - - - -
+7,,,24,00,- - - - - de ponts roulants,KG,- - - - -
+7,,,28,00,- - - - - autres,KG,- - - - -
+,,,30,,- - - marteaux hydrauliques brise-roches et leurs Ã©lÃ©ments :,,
+7,,,,00,- - - marteaux hydrauliques brise-roches et leurs Ã©lÃ©ments,KG,- - - - -
+7,,,40,00,- - - de rippers,KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,10,- - - - de rouleaux compresseurs Ã  propulsion mÃ©canique,KG,- - - - -
+7,,,,20,- - - - de sonnettes de battage et de chasse-neige,KG,- - - - -
+7,,,,80,- - - - autres,KG,- - - - -
+,84.32,,,,"- Machines, appareils et engins agricoles, horticoles ou sylvicoles pour la prÃ©paration ou le travail du sol ou pour la culture; rouleaux pour pelouses ou terrains de sport.",,
+,,8432.10,,,- Charrues,,
+6,,,10,00,- - - charrues Ã  traction animale,U,NOMBRE
+6,,,20,00,"- - - autres, Ã  socs et Ã  versoirs",U,NOMBRE
+,,,90,,- - - autres :,,
+6,,,,00,- - - autres,U,NOMBRE
+6,,8432.21,00,00,- - Herses Ã  disques (pulvÃ©riseurs),U,NOMBRE
+,,8432.29,,,- - Autres,,
+6,,,00,10,- - - scarificateurs et cultivateurs,U,NOMBRE
+6,,,00,20,- - - herse,U,NOMBRE
+6,,,00,30,"- - - houes, sarcleuses ou bineuses",U,NOMBRE
+6,,,00,90,- - - autres,U,NOMBRE
+,,,90,,- - - autres :Â£- - - - Ã  traction mÃ©canique :,,
+,,8432.30,00,,"- Semoirs, plantoirs et repiqueurs",,
+6,,8432.31,00,00,"- - - Semoirs, plantoirs et repiqueurs, sans labour",U,NOMBRE
+6,,8432.39,00,00,- - - Autres,U,NOMBRE
+,,8432.40,00,,- Epandeurs de fumier et distributeurs d'engraisÂ£- - - Ã  traction mÃ©canique :,,
+6,,8432.41,00,00,- - - - Epandeurs de fumier,U,NOMBRE
+6,,8432.42,00,00,- - - - Distributeurs d'engrais,U,NOMBRE
+,,8432.80,,,"- Autres machines, appareils et engins",,
+6,,,00,10,- - - dÃ©marieuses de betteraves ou autres rogneuses et dÃ©broussailleuses,U,- - - - -
+6,,,00,20,- - - Ã©cimeuses et machines Ã  pinces rogneuses,U,- - - - -
+6,,,00,90,- - - autres,U,NOMBRE
+,,,90,,- - - autres :,,
+,,8432.90,,,- Parties,,
+6,,,10,00,- - - disques et porte-disques pour charrues et pour autres engins agricoles,KG,- - - - -
+,,,90,,- - - autres :,,
+6,,,,00,- - - autres,KG,- - - - -
+,84.33,,,,"- - Machines, appareils et engins pour la rÃ©colte ou le battage des produits agricoles, y compris les presses Ã  paille ou Ã  fourrage; tondeuses Ã  gazon et faucheuses; machines pour le nettoyage ou le triage des oeufs, fruits ou autres produits agricol",,
+6,,8433.11,00,00,"- - A moteur, dont le dispositif de coupe tourne dans un plan horizontal",U,NOMBRE
+,,8433.19,00,,- - Autres,,
+6,,,,00,- - Autres,U,NOMBRE
+,,8433.20,00,,"- - Faucheuses, y compris les barres de coupe Ã  monter sur tracteur",,
+6,,8433.20,10,00,- - - faucheuses,U,NOMBRE
+6,,8433.20,20,00,- - - barres de coupe faucheuses Ã  monter sur tracteur,U,NOMBRE
+,,8433.30,00,,- Autres machines et appareils de fenaison,,
+6,,,,00,- Autres machines et appareils de fenaison,U,NOMBRE
+6,,8433.40,00,00,"- Presses Ã  paille ou Ã  fourrage, y compris les presses ramasseusesÂ£- Autres machines et appareils pour la rÃ©colte; machines et appareils pour le battage :",U,NOMBRE
+,,8433.51,00,,- - Moissonneuses-batteuses,,
+6,,,,10,- - - - neuvesÂ£- - - usagÃ©es :,U,- - - - -
+6,,,,90,- - - usagÃ©es,U,- - - - -
+6,,8433.52,00,00,- - Autres machines et appareils pour le battage,U,NOMBRE
+6,,8433.53,00,00,- - Machines pour la rÃ©colte des racines ou tubercules,U,NOMBRE
+,,8433.59,00,,- - Autres,,
+6,,,,00,- - Autres,U,NOMBRE
+,,8433.60,00,,"- Machines pour le nettoyage ou le triage des oeufs, fruits ou autres produits agricoles",,
+6,,,,00,"- Machines pour le nettoyage ou le triage des oeufs, fruits ou autres Â£produits agricoles",U,NOMBRE
+6,,,,00,"- Machines pour le nettoyage ou le triage des oeufs, fruits ou autres Â£produits agricoles",U,NOMBRE
+6,,,,00,- Migration NGP inexistants,U,NOMBRE
+6,,,,00,- Migration NGP inexistants,U,NOMBRE
+,,8433.90,00,,- Parties,,
+6,,,,00,- Parties,KG,- - - - -
+,84.34,,,,Machines Ã  traire et machines et appareils de laiterie,,
+6,,8434.10,00,00,- Machines Ã  traire,U,NOMBRE
+6,,8434.20,00,00,- Machines et appareils de laiterie,U,NOMBRE
+6,,8434.90,00,00,- Parties,KG,- - - - -
+,84.35,,,,"- - Presses et pressoirs, fouloirs et machines et appareils analogues pour la fabrication du vin, du cidre, des jus de fruits ou de boissons similaires.",,
+6,,8435.10,00,00,- Machines et appareils,U,- - - - -
+6,,8435.90,00,00,- Parties,KG,- - - - -
+,84.36,,,,"- - - Autres machines et appareils pour l'agriculture, l'horticulture, la sylvi- culture, l'aviculture ou l'apiculture, y compris les germoirs comportant des dispositifs mÃ©caniques ou thermiques et les couveuses et Ã©leveu- ses pour l'aviculture.",,
+6,,8436.10,00,00,"- Machines et appareils pour la prÃ©paration des aliments ou provendes pour animauxÂ£- Machines et appareils pour l'aviculture, y compris les couveuses et Ã©leveuses :",U,- - - - -
+6,,8436.21,00,00,- - Couveuses et Ã©leveuses,U,- - - - -
+,,8436.29,,,- - Autres,,
+6,,,00,00,- - Autres,U,- - - - -
+6,,8436.80,00,00,- Autres machines et appareilsÂ£- Parties :,U,- - - - -
+6,,8436.91,00,00,- - De machines ou appareils d'aviculture,KG,- - - - -
+6,,8436.99,00,00,- - Autres,KG,- - - - -
+,84.37,,,,"- Machines pour le nettoyage, le triage ou le criblage des grains ou des lÃ©gumes secs; machines et appareils pour la minoterie ou le traitement des cÃ©rÃ©ales ou lÃ©gumes secs, autres que les machines et appareils du type fermier.",,
+,,8437.10,,,"- Machines pour le nettoyage, le triage ou le criblage des grains ou des lÃ©gumes secs",,
+6,,,10,00,- - - pour le traitement des cÃ©rÃ©ales et lÃ©gumes secs,U,- - - - -
+,,,90,,- - - autres :,,
+6,,,,10,- - - - trieurs rotatifs,U,NOMBRE
+6,,,,20,- - - - sÃ©lectionneurs de grains,U,NOMBRE
+6,,,,30,- - - - toiles trieuses,U,NOMBRE
+6,,,,40,"- - - - machines spÃ©ciales pour le nettoyage des graines de semence (dÃ©cuscu- teuses, dÃ©plantineuses etc...)",U,NOMBRE
+7,,,,90,- - - - autres,U,NOMBRE
+7,,8437.80,00,00,- Autres machines et appareils,U,- - - - -
+,,8437.90,,,- Parties,,
+6,,,10,00,- - - de machines et appareils pour le traitement des cÃ©rÃ©ales et lÃ©gumes secs,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,84.38,,,,"Machines et appareils, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre, pour la prÃ©paration ou la fabrication industrielles d'aliments ou de boissons, autres que les machines et appareils pour l'extraction ou la prÃ©paration des huiles ou gr",,
+,84.38,,,,"Machines et appareils, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre, pour la prÃ©paration ou la fabrication industrielles d'aliments ou de boissons, autres que les machines et appareils pour l'extraction ou la prÃ©paration des huiles ou gr",,
+,84.38,,,,"Machines et appareils, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre, pour la prÃ©paration ou la fabrication industrielles d'aliments ou de boissons, autres que les machines et appareils pour l'extraction ou la prÃ©paration des huiles ou gr",,
+,84.38,,,,"Machines et appareils, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre, pour la prÃ©paration ou la fabrication industrielles d'aliments ou de boissons, autres que les machines et appareils pour l'extraction ou la prÃ©paration des huiles ou gr",,
+,,8438.10,,,"- Machines et appareils pour la boulangerie, la pÃ¢tisserie, la biscuiterie ou pour la fabrication des pÃ¢tes alimentaires",,
+,,,00,,"- ""Machines et appareils pour la boulangerie, la pÃ¢tisserie, la biscuiterieou pour la fabrication des pÃ¢tes alimentaires""",,
+7,,,,10,"- - - pour la boulangerie, la patisserie ou la biscuiterie",U,- - - - -
+7,,,,20,- - - pour la fabrication des pÃ¢tes alimentaires,U,- - - - -
+7,,8438.20,00,00,- Machines et appareils pour la confiserie ou pour la fabrication du cacao ou du chocolat,U,- - - - -
+7,,8438.30,00,00,- - Machines et appareils pour la sucrerie,U,- - - - -
+7,,8438.40,00,00,- Machines et appareils pour la brasserie,U,- - - - -
+7,,8438.50,00,00,- Machines et appareils pour le travail des viandes,U,- - - - -
+7,,8438.60,00,00,- Machines et appareils pour la prÃ©paration des fruits ou des lÃ©gumes,U,- - - - -
+,,8438.80,,,- Autres machines et appareilsÂ£- - - pour le traitement et la prÃ©paration du cafÃ© et du thÃ© :,,
+7,,,10,00,- - - pour le traitement et la prÃ©paration du cafÃ© et du thÃ©,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+7,,8438.90,00,00,- Parties,KG,- - - - -
+,84.39,,,,- - Machines et appareils pour la fabrication de la pÃ¢te de matiÃ¨res fibreuses cellulosiques ou pour la fabrication ou le finissage du papier ou du carton.,,
+7,,8439.10,00,00,- Machines et appareils pour la fabrication de la pÃ¢te de matiÃ¨res fibreuses cellulosiques,U,- - - - -
+7,,8439.20,00,00,- Machines et appareils pour la fabrication du papier ou du carton,U,- - - - -
+7,,8439.30,00,00,- Machines et appareils pour le finissage du papier ou du cartonÂ£- Parties :,U,- - - - -
+7,,8439.91,00,00,- - De machines ou appareils pour la fabrication de la pÃ¢te de matiÃ¨res fibreuses cellulosiques,KG,- - - - -
+,,8439.99,00,,- - Autres,,
+7,,,,10,- - - de machines et appareils pour la fabrication du papier ou du carton,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,84.40,,,,"Machines et appareils pour le brochage ou la reliure, y compris les machines Ã  coudre les feuillets.",,
+7,,8440.10,00,00,- Machines et appareils,U,- - - - -
+7,,8440.90,00,00,- Parties,KG,- - - - -
+,84.41,,,,"- - Autres machines et appareils pour le travail de la pÃ¢te Ã  papier, du papier ou du carton, y compris les coupeuses de tous types.",,
+,,8441.10,,,- Coupeuses,,
+,,8441.10,,,- Coupeuses,,
+,,8441.10,,,- Coupeuses,,
+,,8441.10,,,- Coupeuses,,
+7,,,10,00,- - - des types utilisÃ©s dans les laboratoires photographiques ou cinÃ©matogra- phiques,U,- - - - -
+,,,90,,- - - autres :,,
+7,,,,10,- - - - coupeuses-bobineuses,U,- - - - -
+7,,,,20,- - - - coupeuses en long et en travers,U,- - - - -
+7,,,,90,- - - - autres coupeuses,U,- - - - -
+7,,8441.20,00,00,"- - Machines pour la fabrication de sacs, sachets ou enveloppes",U,- - - - -
+7,,8441.30,00,00,"- Machines pour la fabrication de boÃ®tes, caisses, tubes, tambours ou contenants similaires, autrement que par moulage",U,- - - - -
+7,,8441.40,00,00,"- - - - Machines Ã  mouler les articles en pÃ¢te Ã  papier, papier ou carton",U,- - - - -
+7,,8441.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8441.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8441.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8441.80,00,00,- Autres machines et appareils,U,- - - - -
+,,8441.90,,,- Parties,,
+7,,,20,00,- - - de coupeuses,KG,- - - - -
+7,,,80,00,- - - autres,KG,- - - - -
+,84.42,,,,"Machines, appareils et matÃ©riel (autres que les machines-outils des nÂ°s 84.56 Ã  84.65) Ã  fondre ou Ã  composer les caractÃ¨res ou pour la prÃ©paration ou la fabrication des clichÃ©s, planches, cylindres ou autres organes imprimants; caractÃ¨res d'impr",,
+,84.42,,,,"Machines, appareils et matÃ©riel (autres que les machines-outils des nÂ°s 84.56 Ã  84.65) Ã  fondre ou Ã  composer les caractÃ¨res ou pour la prÃ©paration ou la fabrication des clichÃ©s, planches, cylindres ou autres organes imprimants; caractÃ¨res d'impr",,
+,84.42,,,,"Machines, appareils et matÃ©riel (autres que les machines desnÂ°s 84.56 Ã  84.65) pour la prÃ©paration ou la fabrication des clichÃ©s,planches, cylindres ou autres organes imprimants ; clichÃ©s, planches, cylindres et autres organes imprimants; pierres li",,
+,84.42,,,,"Machines, appareils et matÃ©riel (autres que les machines desnÂ°s 84.56 Ã  84.65) pour la prÃ©paration ou la fabrication des clichÃ©s,planches, cylindres ou autres organes imprimants ; clichÃ©s, planches, cylindres et autres organes imprimants; pierres li",,
+,,8442.20,00,,"- Machines, appareils et matÃ©riel Ã  composer les caractÃ¨res par autres procÃ©dÃ©s, mÃªme avec dispositif Ã  fondre",,
+,,8442.30,00,,"- Machines, appareils et matÃ©riel",,
+,,8442.30,00,,"- Machines, appareils et matÃ©riel",,
+,,8442.30,00,,"- Autres machines, appareils et matÃ©riel",,
+,,8442.30,00,,"- Autres machines, appareils et matÃ©riel",,
+7,,,,10,- - - Ã  caractÃ¨res arabes - - - autres :,U,- - - - -
+7,,,,10,- - - Ã  caractÃ¨res arabes - - - autres :,U,- - - - -
+7,,,,10,"- - - machines, appareils et matÃ©riel Ã  composer les caractÃ¨res par tous procÃ©dÃ©s, Â£mÃªme avec dispositif Ã  fondre",U,- - - - -
+7,,,,10,"- - - machines, appareils et matÃ©riel Ã  composer les caractÃ¨res par tous procÃ©dÃ©s, Â£mÃªme avec dispositif Ã  fondre",U,- - - - -
+7,,,,20,- - - machines Ã  fondre sans travail de composition,U,- - - - -
+7,,,,91,- - - - Ã  caractÃ¨res arabes,U,- - - - -
+7,,,,91,- - - - Ã  caractÃ¨res arabes,U,- - - - -
+7,,,,91,- - - - machines Ã  fondre sans travail de composition,U,- - - - -
+7,,,,91,- - - - machines Ã  fondre sans travail de composition,U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+7,,,,99,- - - - autres,U,- - - - -
+,,8442.40,,,"- Parties de ces machines, appareils ou matÃ©riel",,
+7,,,00,00,"- Parties de ces machines, appareils ou matÃ©riel",KG,- - - - -
+,,8442.50,00,,"- - - CaractÃ¨res d'imprimerie, clichÃ©s, planches, cylindres et autres organes imprimants; pierres lithographiques, planches, plaques et cylindres prÃ©parÃ©s pour l'impression (planÃ©s, grenÃ©s, polis, par exemple)",,
+7,,,,00,"- ""ClichÃ©s, planches, cylindres et autres organes imprimants; Â£pierres lithographiques, planches, plaques et cylindres prÃ©parÃ©s Â£pour l'impression (planÃ©s, grenÃ©s, polis, par exemple)""",KG,- - - - -
+,84.43,,,,"- - - Machines et appareils servant Ã  l'impression au moyen de caractÃ¨res d'imprimerie, clichÃ©s, planches, cylindres et autres organes imprimants du nÂ° 84.42; machines Ã  imprimer Ã  jet d'encre, autres que celles du nÂ° 84.71 ; machines auxiliaires",,
+,,8443.11,00,,- - AlimentÃ©s en bobines,,
+7,,,,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir, papier de tenture, papier d'emballage et couvre-parquets",U,- - - - -
+7,,,,90,- - - autres,U,NOMBRE
+7,,8443.12,00,00,- - - AlimentÃ©s en feuilles d'un format de 22 x 36 cm ou moins (offset de bureau),U,NOMBRE
+7,,8443.13,00,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir,%papier de tenture, papier d'emballage et couvre-parquets",U,- - - - -
+7,,8443.13,00,90,- - - autres,U,- - - - -
+7,,8443.14,00,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir,papier de tenture, papier d'emballage et couvre-parquets%â€“ â€“ â€“ autres :",U,- - - - -
+7,,8443.14,00,90,- - - autres,U,- - - - -
+7,,8443.15,00,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir, papier de tenture, papier d'emballage et couvre-parquets %â€“ â€“ â€“ autres :",U,- - - - -
+7,,8443.15,00,90,- - - autres,U,- - - - -
+7,,8443.16,00,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir, papier de tenture, papier d'emballage et couvre-parquets %â€“ â€“ â€“ autres :",U,- - - - -
+7,,8443.16,00,90,- - - autres,U,- - - - -
+7,,8443.17,00,00,"- Machines et appareils Ã  imprimer, hÃ©liographiques",U,- - - - -
+,,8443.19,00,,- - Autres,,
+7,,,,10,"- - - machines des types utilisÃ©s pour l'impression des fils, tissus, feutre, cuir, papier de tenture, papier d'emballage et couvre-parquets",U,- - - - -
+7,,,,80,- - - autres,U,NOMBRE
+,,8443.21,00,,- - AlimentÃ©s en bobines,,
+,,8443.29,00,,- - Autres,,
+,,8443.30,00,,"- Machines et appareils Ã  imprimer, flexographiques",,
+7,,8443.31,00,00,"- - Machines qui assurent au moins deux des fonctions suivantes:impression, copie ou transmission de tÃ©lÃ©copie, apte Ã  ÃªtreconnectÃ©es Ã  une machine automatique de traitement del'information ou Ã  un rÃ©seau%",U,- - - - -
+,,8443.32,00,,"- - ""Autres, aptes Ã  Ãªtre connectÃ©es Ã  une machine automatique detraitement de l'information ou Ã  un rÃ©seauâ€“ â€“ â€“ imprimantes:""",,
+7,,,,11,- - - - Ã  jet d'encre,U,- - - - -
+7,,,,12,- - - - laser,U,NOMBRE
+7,,,,19,- - - - autres,U,NOMBRE
+7,,,,20,- - - tÃ©lÃ©copieurs,U,- - - - -
+7,,,,30,- - - appareil de photocopie Ã©lectrostatiques,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8443.39,,,"- - ""Autresâ€“ â€“ â€“ machines Ã  imprimer:""",,
+7,,,11,00,- - - - Ã  jet d'encre,U,- - - - -
+7,,,19,00,- - - - autres,U,- - - - -
+7,,,40,00,- - - appareil de photocopie Ã©lectrostatiques,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+,,8443.59,00,,- - Autres,,
+,,8443.90,00,,- Parties,,
+7,,8443.91,00,00,"- - Parties et accessoires de machines et d'appareils servant Ã  Â£Ã  l'impression au moyen de planches, cylindres et autres Â£organes imprimants du n 84.42",U,- - - - -
+7,,8443.99,10,00,- - - machines auxiliaires,U,- - - - -
+7,,8443.99,25,00,"- - - ""des machines des nÂ°s 8443.32.10.00 et 8443.39.10.00 autres que les cartouches avec ou sans encre (y compris l'encre pulverulente dite """"toner"""")""",U,- - - - -
+7,,8443.99,30,00,- - - tÃ©lÃ©imprimeurs destinÃ©s Ã  l'agence Maghreb Arabe Presse,U,- - - - -
+7,,8443.99,40,00,- - - dispositifs automatiques d'alimentation en documents,U,- - - - -
+7,,8443.99,50,00,- - - dispositifs d'alimentation en papier,U,- - - - -
+7,,8443.99,60,00,- - - dispositif de tri,U,- - - - -
+7,,8443.99,75,00,"- - - ""des appareils des nÂ°s 8443.32.30 et 8443.39.40 autres que les cartouches avec ou sans encre (y compris l'encre pulverulente dite """"toner"""")""",U,- - - - -
+7,,8443.99,80,51,- - - - - - - - pour imprimantes Ã  jet d'encre,U,- - - - -
+7,,8443.99,80,52,- - - - - - - - pour imprimantes laser,U,- - - - -
+7,,8443.99,80,55,- - - - - - - - autres,U,- - - - -
+7,,8443.99,80,56,- - - - - - - - pour imprimantes Ã  jet d'encre,U,- - - - -
+7,,8443.99,80,57,- - - - - - - - pour imprimantes laser,U,- - - - -
+7,,8443.99,80,58,- - - - - - - - autres,U,- - - - -
+7,,8443.99,80,59,- - - - - - - autres,U,- - - - -
+7,,8443.99,80,61,- - - - - - - - pour imprimantes laser,U,- - - - -
+7,,8443.99,80,65,- - - - - - - - autres,U,- - - - -
+7,,8443.99,80,67,- - - - - - - - pour imprimantes laser,U,- - - - -
+7,,8443.99,80,69,- - - - - - - - autres,U,- - - - -
+7,,8443.99,80,70,- - - - - - - autres,U,- - - - -
+7,,8443.99,80,85,- - - - autres,U,- - - - -
+7,,8443.99,90,00,- - - autres,U,- - - - -
+,,8444.00,00,,"Machines pour le filage (extrusion), l'Ã©tirage, la texturation ou le tranchage des matiÃ¨res textiles synthÃ©tiques ou artificielles.",,
+7,,,,10,- - - machines et appareils pour le filage (extrusion) des matiÃ¨res textiles synthÃ©- tiques ou artificielles,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,84.45,,,,"- - - - - - - Machines pour la prÃ©paration des matiÃ¨res textiles; machines pour la filature, le doublage ou le retordage des matiÃ¨res textiles et autres machines et appareils pour la fabrication des fils textiles; machines Ã  bobiner (y compris les can",,
+7,,8445.11,00,00,- - Cardes,U,NOMBRE
+7,,8445.12,00,00,- - Peigneuses,U,NOMBRE
+7,,8445.13,00,00,- - Bancs Ã  broches,U,NOMBRE
+7,,8445.19,00,00,- - Autres,U,NOMBRE
+7,,8445.20,00,00,- Machines pour la filature des matiÃ¨res textiles,U,NOMBRE
+7,,8445.30,00,00,- Machines pour le doublage ou le retordage des matiÃ¨res textiles,U,NOMBRE
+7,,8445.40,00,00,- - Machines Ã  bobiner (y compris les canetiÃ¨res) ou Ã  dÃ©vider les matiÃ¨res textiles,U,NOMBRE
+7,,8445.90,00,00,- Autres,U,NOMBRE
+,84.46,,,,MÃ©tiers Ã  tisser,,
+7,,8446.10,00,00,"- Pour tissus d'une largeur n'excÃ©dant pas 30 cmÂ£- Pour tissus d'une largeur excÃ©dant 30 cm, Ã  navettes :",U,NOMBRE
+7,,8446.21,00,00,- - A moteur,U,NOMBRE
+7,,8446.29,00,00,- - Autres,U,NOMBRE
+7,,8446.30,00,00,"- Pour tissus d'une largeur excÃ©dant 30 cm, sans navettes",U,NOMBRE
+,84.47,,,,"Machines et mÃ©tiers Ã  bonneterie, de couture-tricotage, Ã  guipure, Ã  tulle, Ã  dentelle, Ã  broderie, Ã  passementerie, Ã  tresses, Ã  filet ou Ã  touffeter.Â£- MÃ©tiers Ã  bonneterie circulaires :",,
+7,,8447.11,00,00,- - Avec cylindre d'un diamÃ¨tre n'excÃ©dant pas 165 mm,U,NOMBRE
+7,,8447.12,00,00,- - Avec cylindre d'un diamÃ¨tre excÃ©dant 165 mm,U,NOMBRE
+,,8447.20,00,,- MÃ©tiers Ã  bonneterie rectilignes; machines de couture-tricotage,,
+8,,,,10,- - - Ã  la mainÂ£- - - Ã  moteur :,U,NOMBRE
+7,,,,91,- - - - Ã  mailles cueillies,U,NOMBRE
+7,,,,92,- - - - mÃ©tiers Raschel,U,NOMBRE
+7,,,,93,- - - - machine de couture-tricotage,U,NOMBRE
+7,,,,98,- - - - autres,U,NOMBRE
+,,8447.90,00,,- Autres,,
+7,,,,00,- Autres,U,NOMBRE
+,84.48,,,,"- - - - - - - - - Machines et appareils auxiliaires pour les machines des nÂ°s 8444, 84.45, 84.46 ou 84.47 (ratiÃ¨res, mÃ©caniques Jacquard, casse-chaÃ®nes et casse-trames, mÃ©canismes de changement de navettes, par exem- ple); parties et accessoires reco",,
+,,8448.11,00,,"- - RatiÃ¨res (mÃ©caniques d'armures) et mÃ©caniques Jacquard; rÃ©ducteurs, perforatrices et copieuses de cartons; machines Ã  lacer les cartons aprÃ¨s perforation",,
+7,,,,00,"- - ""RatiÃ¨res (mÃ©caniques d'armures) et mÃ©caniques Jacquard; Â£rÃ©ducteurs, perforatrices et copieuses de cartons; machines Ã  Â£lacer les cartons aprÃ¨s perforation""",KG,- - - - -
+,,8448.19,00,,- - Autres,,
+7,,,,10,- - - pour les machines du nÂ° 8447,KG,- - - - -
+7,,,,90,- - - autres,KG,NOMBRE
+7,,8448.20,00,00,- - - Parties et accessoires des machines du nÂ° 8444 ou de leurs machines ou appareils auxiliairesÂ£- Parties et accessoires des machines du nÂ° 84.45 ou de leurs machines ou appareils auxiliaires :,KG,- - - - -
+7,,8448.31,00,00,- - Garnitures de cardes,KG,- - - - -
+7,,8448.32,00,00,"- - - De machines pour la prÃ©paration des matiÃ¨res textiles, autres que les garnitures de cardes",KG,- - - - -
+,,8448.33,00,,"- - Broches et leurs ailettes, anneaux et curseurs",,
+7,,,,00,"- - Broches et leurs ailettes, anneaux et curseurs",KG,- - - - -
+7,,8448.39,00,00,- - AutresÂ£- Parties et accessoires des mÃ©tiers Ã  tisser ou de leurs machines ou appareils auxiliaires :,KG,- - - - -
+7,,8448.42,00,00,"- - Peignes, lisses et cadres de lisses",KG,- - - - -
+7,,8448.49,00,00,"- - Autres - Parties et accessoires des mÃ©tiers, machines ou appareils du nÂ° 84.47 ou de leurs machines ou appareils auxiliaires :",U,- - - - -
+7,,8448.49,00,00,"- - Autres - Parties et accessoires des mÃ©tiers, machines ou appareils du nÂ° 84.47 ou de leurs machines ou appareils auxiliaires :",U,- - - - -
+7,,8448.49,00,00,- - Autres,U,- - - - -
+7,,8448.49,00,00,- - Autres,U,- - - - -
+7,,8448.51,00,00,"- - Platines, aiguilles et autres articles participant Ã  la formation des mailles",KG,- - - - -
+7,,8448.59,00,00,- - Autres,KG,- - - - -
+,,8449.00,,,"Machines et appareils pour la fabrication ou le finissage du feutre ou des nontissÃ©s, en piÃ¨ce ou en forme, y compris les machines et appareils pour la fabrication de chapeaux en feutre; formes de chapellerie.Â£- - - machines et appareils pour nontissÃ©",,
+7,,,10,00,- - - machines et appareils pour nontissÃ©s,KG,NOMBRE
+7,,,20,00,- - - machines et appareils de chapellerie,KG,- - - - -
+7,,,30,00,- - - autres machines et appareils,KG,- - - - -
+,,,90,,- - - autres :Â£- - - - machines et appareils de chapellerie :,,
+7,,,,00,- - - parties,KG,- - - - -
+,84.50,,,,"Machines Ã  laver le linge, mÃªme avec dispositif de sÃ©chageÂ£- Machines d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 10 kg :",,
+,,8450.11,,,- - Machines entiÃ¨rement automatiques,,
+7,,,10,00,- - - d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg,U,NOMBRE
+7,,,90,00,- - - autres,U,- - - - -
+,,8450.12,,,"- - Autres machines, avec essoreuse centrifuge incorporÃ©e",,
+,,,10,,- - - d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg :,,
+7,,,,00,- - - d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg,U,NOMBRE
+7,,,90,00,- - - autres,U,- - - - -
+,,8450.19,,,- - Autres,,
+,,,10,,- - - d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg :,,
+7,,,,00,- - - d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg,U,NOMBRE
+7,,,90,00,- - - autres,U,- - - - -
+7,,8450.20,00,00,- Machines d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec excÃ©dant 10 kg,U,- - - - -
+,,8450.90,,,- Parties,,
+,,,10,,- - - de machines Ã  laver le linge d'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 6 kg :,,
+7,,,,00,- - - de machines Ã  laver le linge d'une capacitÃ© unitaire exprimÃ©e en poids de Â£linge sec n'excÃ©dant pas 6 kg,KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,84.51,,,,"- - Machines et appareils (autres que les machines du nÂ°8450) pour le lavage, le nettoyage, l'essorage, le sÃ©chage, le repassage, le pressage (y compris les presses Ã  fixer), le blanchiment, la teinture, l'apprÃªt, le finissage, l'enduction ou l'imprÃ©",,
+7,,8451.10,00,00,- Machines pour le nettoyage Ã  secÂ£- Machines Ã  sÃ©cher :,U,- - - - -
+7,,8451.21,00,00,- - D'une capacitÃ© unitaire exprimÃ©e en poids de linge sec n'excÃ©dant pas 10 kg,U,- - - - -
+7,,8451.29,00,00,- - Autres,U,- - - - -
+,,8451.30,00,,"- Machines et presses Ã  repasser, y compris les presses Ã  fixer",,
+7,,,,00,"- Machines et presses Ã  repasser, y compris les presses Ã  fixer",U,- - - - -
+7,,8451.40,00,00,"- Machines pour le lavage, le blanchiment ou la teinture",U,- - - - -
+7,,8451.50,00,00,"- Machines Ã  enrouler, dÃ©rouler, plier, couper ou denteler les tissus",U,- - - - -
+,,8451.80,,,- Autres machines et appareils,,
+7,,,00,00,- Autres machines et appareils,U,- - - - -
+,,,90,,- - - autres :,,
+,,8451.90,00,,- Parties,,
+7,,,,10,- - - d'essoreuses non centrifuges,KG,- - - - -
+7,,,,90,- - - autres,KG,- - - - -
+,84.52,,,,"- - - Machines Ã  coudre, autres que les machines Ã  coudre les feuillets du nÂ° 84.40; meubles, embases et couvercles spÃ©cialement conÃ§us pour machines Ã  coudre; aiguilles pour machines Ã  coudre.",,
+,,8452.10,00,,- Machines Ã  coudre de type mÃ©nager,,
+8,,,,10,"- - - d'une valeur unitaire (bÃ¢tis, tables ou meubles non compris) supÃ©rieure Ã  65 U.C",U,- - - - -
+7,,,,90,- - - autresÂ£- Autres machines Ã  coudre :,U,- - - - -
+7,,8452.21,00,00,- - UnitÃ©s automatiques,U,- - - - -
+7,,8452.29,00,00,- - Autres,U,- - - - -
+8,,8452.30,00,00,- Aiguilles pour machines Ã  coudre,KG,- - - - -
+8,,8452.90,00,00,- Autres parties de machines Ã  coudre,KG,- - - - -
+,84.53,,,,"- - - Machines et appareils pour la prÃ©paration, le tannage ou le travail des cuirs ou peaux ou pour la fabrication ou la rÃ©paration des chaussures ou autres ouvrages en cuir ou en peau, autres que les machines Ã  coudre.",,
+7,,8453.10,00,00,"- Machines et appareils pour la prÃ©paration, le tannage ou le travail des cuirs ou peaux",U,- - - - -
+7,,8453.20,00,00,- Machines et appareils pour la fabrication ou la rÃ©paration des chaussures,U,- - - - -
+7,,8453.80,00,00,- Autres machines et appareils,U,- - - - -
+,,8453.90,00,,- Parties,,
+7,,,,00,- Parties,KG,- - - - -
+,84.54,,,,"- Convertisseurs, poches de coulÃ©e, lingotiÃ¨res et machines Ã  couler (mouler) pour mÃ©tallurgie, aciÃ©rie ou fonderie.",,
+7,,8454.10,00,00,- Convertisseurs,U,- - - - -
+,,8454.20,00,,- LingotiÃ¨res et poches de coulÃ©e,,
+7,,,,10,- - - poches de coulÃ©eÂ£- - - lingotiÃ¨res :,U,- - - - -
+7,,,,20,- - - lingotiÃ¨res,U,- - - - -
+7,,8454.30,00,00,- Machines Ã  couler (mouler),U,- - - - -
+7,,8454.90,00,00,- Parties,KG,- - - - -
+,84.55,,,,Laminoirs Ã  mÃ©taux et leurs cylindres,,
+,,8455.10,00,,- Laminoirs Ã  tubes,,
+7,,,,00,- Laminoirs Ã  tubes,U,- - - - -
+,,8455.21,00,,- - Laminoirs Ã  chaud et laminoirs combinÃ©s Ã  chaud et Ã  froid,,
+7,,,,00,- - Laminoirs Ã  chaud et laminoirs combinÃ©s Ã  chaud et Ã  froid,U,- - - - -
+,,8455.22,00,,- - Laminoirs Ã  froid,,
+7,,,,00,- - Laminoirs Ã  froid,U,- - - - -
+7,,8455.30,00,00,- Cylindres de laminoirs,U,NOMBRE
+7,,8455.90,00,00,- Autres parties,KG,NOMBRE
+,84.56,,,,"- - Machines-outils travaillant par enlÃ¨vement de toute matiÃ¨re et opÃ©rant par laser ou autre faisceau de lumiÃ¨re ou de photons, par ultra-sons, par Ã©lectro-Ã©rosion, par procÃ©dÃ©s Ã©lectrochimiques, par faisceaux d'Ã©lectrons, par faisceaux ionique",,
+,,8456.10,00,,- OpÃ©rant par laser ou autre faisceau de lumiÃ¨re ou de photons,,
+,,8456.11,00,,- - OpÃ©rant par laser,,
+7,,,,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,,,30,"- - - pour le travail du bois, du liÃ¨ge, de l'os, de l'Ã©bonite, des matiÃ¨res plastiqueset autres matiÃ¨res dures similairers",U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8456.12,00,,- - OpÃ©rant par autre faisceau de lumiÃ¨re ou de photons,,
+7,,,,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,,,30,"- - - pour le travail du bois, du liÃ¨ge, de l'os, de l'Ã©bonite, des matiÃ¨res plastiqueset autres matiÃ¨res dures similairers",U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8456.20,00,,- OpÃ©rant par ultra-sonsÂ£- - - pour le travail des mÃ©taux et des carbures mÃ©talliques :,,
+7,,,,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,,,70,- - - autres,U,- - - - -
+,,8456.30,00,,- OpÃ©rant par Ã©lectro-Ã©rosionÂ£- - - pour le travail des mÃ©taux et des carbures mÃ©talliques :,,
+7,,,,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,,,70,- - - autres,U,- - - - -
+,,8456.40,00,,- OpÃ©rant par jet de plasma,,
+7,,,,00,- OpÃ©rant par jet de plasma,U,- - - - -
+,,8456.50,00,,"- """"""Machine Ã  dÃ©couper par jet d'eauâ€“ â€“ â€“ pour le travail des mÃ©taux et des carbures mÃ©talliques:""""""",,
+7,,,,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,,,30,"- - - pour le travail du bois, du liÃ¨ge, de l'os, de l'Ã©bonite, desmatiÃ¨res plastiques et autres matiÃ¨res dures similairers",U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+7,,8456.90,00,10,- - - pour le travail des mÃ©taux et des carbures mÃ©talliques,U,- - - - -
+7,,8456.90,00,50,"- - - pour le travail du bois, du liÃ¨ge, de l'os, de l'Ã©bonite, desmatiÃ¨res plastiques et autres matiÃ¨res dures similairers",U,- - - - -
+7,,8456.90,00,80,- - - autres,U,- - - - -
+7,,8456.90,00,80,- - - autres,U,- - - - -
+7,,8456.90,00,80,- - - autres,U,- - - - -
+7,,8456.90,00,80,- - - autres,U,- - - - -
+,,8456.99,00,,- - AutresÂ£- - - pour le travail des mÃ©taux et des carbures mÃ©talliques :,,
+,84.57,,,,"Centres d'usinage, machines Ã  poste fixe et machines Ã  stations multiples, pour le travail des mÃ©taux.",,
+,,8457.10,00,,- Centres d'usinage,,
+7,,,,20,- - - horizontaux,U,NOMBRE
+7,,,,80,- - - autres,U,NOMBRE
+,,8457.20,00,,- Machines Ã  poste fixe,,
+7,,,,00,- Machines Ã  poste fixe,U,NOMBRE
+,,8457.30,00,,- Machines Ã  stations multiples,,
+7,,,,00,- Machines Ã  stations multiples,U,NOMBRE
+,84.58,,,,Tours (y compris les centres de tournage) travaillant par enlÃ¨vement de mÃ©tal.Â£- Tours horizontaux :,,
+,,8458.11,,,- - A commande numÃ©rique,,
+7,,,20,00,- - - centres de tournage,U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8458.19,,,- - Autres,,
+7,,,20,00,- - - centres de tournage,U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8458.91,,,- - A commande numÃ©rique,,
+7,,,20,00,- - - centres de tournage,U,NOMBRE
+7,,,80,00,- - - autres,U,NOMBRE
+,,8458.99,,,- - Autres,,
+7,,,00,00,- - Autres,U,NOMBRE
+,,,90,,- - - autres :,,
+,84.59,,,,"Machines (y compris les unitÃ©s d'usinage Ã  glissiÃ¨res) Ã  percer, alÃ©ser, fraiser, fileter ou tarauder les mÃ©taux par enlÃ¨vement de matiÃ¨re, autres que les tours (y compris les centres de tournage) du nÂ° 84.58.",,
+7,,8459.10,00,00,- UnitÃ©s d'usinage Ã  glissiÃ¨resÂ£- Autres machines Ã  percer :,U,NOMBRE
+7,,8459.21,00,00,- - A commande numÃ©rique,U,NOMBRE
+7,,8459.29,00,00,- - AutresÂ£- Autres alÃ©seuses-fraiseuses :,U,NOMBRE
+7,,8459.31,00,00,- - A commande numÃ©rique,U,NOMBRE
+7,,8459.39,00,00,- - Autres,U,NOMBRE
+,,8459.40,00,,- Autres machines Ã  alÃ©ser,,
+7,,8459.41,00,00,- - - A commande numÃ©rique,U,NOMBRE
+7,,8459.49,00,00,- - - Autres,U,NOMBRE
+,,8459.51,,,- - A commande numÃ©rique,,
+7,,,00,00,- - A commande numÃ©rique,U,NOMBRE
+,,8459.59,,,- - Autres,,
+7,,,00,00,- - Autres,U,NOMBRE
+,,8459.61,,,- - A commande numÃ©rique,,
+7,,,00,00,- - A commande numÃ©rique,U,NOMBRE
+,,8459.69,,,- - Autres,,
+7,,,00,00,- - Autres,U,NOMBRE
+7,,8459.70,00,00,- Autres machines Ã  fileter ou Ã  tarauder,U,NOMBRE
+,84.60,,,,"- - - - - - - - - Machines Ã  Ã©barber, affÃ»ter, meuler, rectifier, roder, polir ou Ã  faire d'autres opÃ©rations de finissage, travaillant des mÃ©taux ou des cermets Ã  l'aide de meules, d'abrasifs ou de produits de polissage, autres que les machines Ã",,
+,,8460.12,00,,- - A commande numÃ©rique,,
+7,,,,00,- - A commande numÃ©rique,U,NOMBRE
+7,,8460.19,00,00,- - Autres,U,NOMBRE
+7,,8460.19,00,00,- - Autres,U,NOMBRE
+7,,8460.19,00,00,"- - Autres - Autres machines Ã  rectifier, dont le positionnement dans un des axes peut Ãªtre rÃ©glÃ© Ã  au moins 0,01 mm prÃ¨s :",U,NOMBRE
+7,,8460.19,00,00,"- - Autres - Autres machines Ã  rectifier, dont le positionnement dans un des axes peut Ãªtre rÃ©glÃ© Ã  au moins 0,01 mm prÃ¨s :",U,NOMBRE
+,,8460.22,00,,"- - Machines Ã  rectifier sans centre, Ã  commande numÃ©rique",,
+7,,,,00,"- - Machines Ã  rectifier sans centre, Ã  commande numÃ©rique",U,NOMBRE
+,,8460.23,00,,"- - """"""Autres machines Ã  rectifier les surfaces cylindriques, Ã commande numÃ©rique""""""",,
+7,,,,00,"- - Autres machines Ã  rectifier les surfaces cylindriques, Ã  Â£commande numÃ©rique",U,NOMBRE
+,,8460.24,00,,"- - Autres, Ã  commande numÃ©rique",,
+7,,,,00,"- - Autres, Ã  commande numÃ©rique",U,NOMBRE
+7,,8460.29,00,00,- - Autres,U,NOMBRE
+7,,8460.29,00,00,- - Autres,U,NOMBRE
+7,,8460.29,00,00,- - Autres - Machines Ã  affÃ»ter :,U,NOMBRE
+7,,8460.29,00,00,- - Autres - Machines Ã  affÃ»ter :,U,NOMBRE
+,,8460.31,00,,- - A commande numÃ©rique,,
+7,,,,00,- - A commande numÃ©rique,U,NOMBRE
+,,8460.39,00,,- - Autres,,
+7,,,,00,- - Autres,U,NOMBRE
+,,8460.40,00,,- Machines Ã  glacer ou Ã  roderÂ£- - - avec systÃ¨me de rÃ©glage micromÃ©trique au sens de la note complÃ©mentaire 2 du prÃ©sent chapitre :,,
+7,,,,20,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,80,- - - autres,U,NOMBRE
+,,8460.90,00,,- AutresÂ£- - - avec systÃ¨me de rÃ©glage micromÃ©trique au sens de la note complÃ©mentaire 2 du prÃ©sent chapitre :,,
+7,,,,20,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,80,- - - autres,U,NOMBRE
+,84.61,,,,"- - - Machines Ã  raboter, Ã©taux-limeurs, machines Ã  mortaiser, brocher, tailler les engrenages, finir les engrenages, scier, tronÃ§onner et autres machines-outils travaillant par enlÃ¨vement de mÃ©tal ou de cermets, non dÃ©nommÃ©es ni comprises ailleur",,
+,,8461.20,00,,- Etaux-limeurs et machines Ã  mortaiser,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,20,- - - machines Ã  mortaiser,U,NOMBRE
+,,8461.30,00,,- Machines Ã  brocher,,
+7,,,,00,- Machines Ã  brocher,U,NOMBRE
+,,8461.40,00,,- Machines Ã  tailler ou Ã  finir les engrenages,,
+7,,8461.40,10,00,- - - machines Ã  taillers les engrenages,U,NOMBRE
+7,,8461.40,20,00,- - - machines Ã  finir les engrenages,U,NOMBRE
+,,8461.50,00,,- Machines Ã  scier ou Ã  tronÃ§onner,,
+7,,8461.50,10,00,- - - machines Ã  scier,U,NOMBRE
+7,,8461.50,20,00,- - - machines Ã  tronÃ§onner,U,NOMBRE
+,,8461.90,00,,- AutresÂ£- - - machines Ã  raboter :,,
+7,,,,10,- - - machines Ã  raboter,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,84.62,,,,"Machines (y compris les presses) Ã  forger ou Ã  estamper, moutons, marteaux-pilons et martinets pour le travail des mÃ©taux; machines (y compris les presses) Ã  rouler, cintrer, plier, dresser, planer, cisailler, poinÃ§onner ou gruger les mÃ©taux; presse",,
+,84.62,,,,"Machines (y compris les presses) Ã  forger ou Ã  estamper, moutons, marteaux-pilons et martinets pour le travail des mÃ©taux; machines (y compris les presses) Ã  rouler, cintrer, plier, dresser, planer, cisailler, poinÃ§onner ou gruger les mÃ©taux; presse",,
+,84.62,,,,"Machines (y compris les presses) Ã  forger ou Ã  estamper, moutons, marteaux-pilons et martinets pour le travail des mÃ©taux (Ã  l'exclusion des laminoirs); machines (y compris les presses, les lignes de refendage et les lignes de dÃ©coupe Ã  longueur) Ã",,
+,84.62,,,,"Machines (y compris les presses) Ã  forger ou Ã  estamper, moutons, marteaux-pilons et martinets pour le travail des mÃ©taux (Ã  l'exclusion des laminoirs); machines (y compris les presses, les lignes de refendage et les lignes de dÃ©coupe Ã  longueur) Ã",,
+,,8462.10,00,,"- - Machines (y compris les presses) Ã  forger ou Ã  estamper, moutons, marteaux-pilons et martinets",,
+,,8462.11,00,,- Machines pour le forgeage Ã  matrice fermÃ©e,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.19,00,,- Autres,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,"- - - autres Â£â€“ Machines (y compris les presses plieuses) Ã  rouler, cintrer, plier, dresser ou planer, pour produits plats :",U,NOMBRE
+7,,8462.22,00,00,- - Machines de formage des profilÃ©s,U,NOMBRE
+7,,8462.23,00,00,"- - Presses plieuses, Ã  commande numÃ©rique",U,NOMBRE
+7,,8462.24,00,00,"- - Presses Ã  panneaux, Ã  commande numÃ©rique",U,NOMBRE
+7,,8462.25,00,00,"- - Machines Ã  profiler Ã  galets, Ã  commande numÃ©rique",U,NOMBRE
+7,,8462.26,00,00,"- - Autres machines Ã  rouler, cintrer, plier, dresser ou planer, Ã  commande numÃ©rique",U,NOMBRE
+,,8462.29,00,,- - Autres,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,"- - - autres Â£â€“ Lignes de refendage, lignes de dÃ©coupe Ã  longueur et autres machines (Ã  l'exclusion des presses) Ã  cisailler, autres que les machines combinÃ©es Ã  poinÃ§onner et Ã  cisailler, pour produits plats :",U,NOMBRE
+7,,8462.32,00,00,- - Lignes de refendage et lignes de dÃ©coupe Ã  longueur,U,NOMBRE
+7,,8462.33,00,00,"- - Machines Ã  cisaller, Ã  commande numÃ©rique",U,NOMBRE
+7,,8462.39,00,00,"- - AutresÂ£- Machines (y compris les presses) Ã  poinÃ§onner ou Ã  gruger, y compris les machines combinÃ©es Ã  poinÃ§onner et Ã  cisailler :",U,NOMBRE
+7,,8462.39,00,00,"- - AutresÂ£- Machines (y compris les presses) Ã  poinÃ§onner ou Ã  gruger, y compris les machines combinÃ©es Ã  poinÃ§onner et Ã  cisailler :",U,NOMBRE
+7,,8462.39,00,00,"- - ""Autresâ€“ Machines (Ã  l'exclusion des presses) Ã  poinÃ§onner, Ã  gruger ou Ã  grignoter, pour produits plats, y compris les machines combinÃ©es Ã  poinÃ§onner et Ã  cisailler :""",U,NOMBRE
+7,,8462.39,00,00,"- - ""Autresâ€“ Machines (Ã  l'exclusion des presses) Ã  poinÃ§onner, Ã  gruger ou Ã  grignoter, pour produits plats, y compris les machines combinÃ©es Ã  poinÃ§onner et Ã  cisailler :""",U,NOMBRE
+7,,8462.42,00,00,- - Ã€ commande numÃ©rique,U,NOMBRE
+7,,8462.49,00,00,"- - ""Autresâ€“ Machines pour travailler les tubes, tuyaux, profilÃ©s creux, profilÃ©s, et barres (Ã  l'exclusion des presses) :""",U,NOMBRE
+7,,8462.49,00,00,"- - ""Autresâ€“ Machines pour travailler les tubes, tuyaux, profilÃ©s creux, profilÃ©s, et barres (Ã  l'exclusion des presses) :""",U,NOMBRE
+7,,8462.49,00,00,- - AutresÂ£- Autres :,U,NOMBRE
+7,,8462.49,00,00,- - AutresÂ£- Autres :,U,NOMBRE
+7,,8462.51,00,00,- - Ã€ commande numÃ©rique,U,NOMBRE
+7,,8462.59,00,00,- - Autres Â£â€“ Presses Ã  froid Ã  mÃ©taux :,U,NOMBRE
+,,8462.61,00,,- - Presses hydrauliques,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.62,00,,- - Presses mÃ©caniques,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.63,00,,- - Servopresses,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.69,00,,- - Autres,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.90,00,,- Autres,,
+7,,,,10,- - - Ã  commande numÃ©rique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8462.91,00,,- - Presses hydrauliques,,
+,,8462.99,00,,- - AutresÂ£- - - presses :,,
+,84.63,,,,"- - - Autres machines-outils pour le travail des mÃ©taux ou des cermets, travaillant sans enlÃ¨vement de matiÃ¨re.",,
+7,,8463.10,00,00,"- - - Bancs Ã  Ã©tirer les barres, tubes, profilÃ©s, fils ou similaires",U,NOMBRE
+7,,8463.20,00,00,- Machines pour exÃ©cuter un filetage extÃ©rieur ou intÃ©rieur par roulage ou laminage,U,NOMBRE
+7,,8463.30,00,00,- Machines pour le travail des mÃ©taux sous forme de fil,U,NOMBRE
+,,8463.90,00,,- AutresÂ£- - - machines Ã  pointer :,,
+7,,,,00,- Autres,U,NOMBRE
+,84.64,,,,"- Machines-outils pour le travail de la pierre, des produits cÃ©ramiques, du bÃ©ton, de l'amiante-ciment ou de matiÃ¨res minÃ©rales similaires, ou pour le travail Ã  froid du verre.",,
+7,,8464.10,00,00,- Machines Ã  scier,U,- - - - -
+,,8464.20,00,,- Machines Ã  meuler ou Ã  polir,,
+7,,,,20,- - - machines continues Ã  doucir ou Ã  polir les feuilles ou plaques de verre,U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+,,8464.90,,,- Autres,,
+7,,,20,00,- - - machines pour le ponÃ§age,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+,84.65,,,,"- - Machines-outils (y compris les machines Ã  clouer, agrafer, coller ou autrement assembler) pour le travail du bois, du liÃ¨ge, de l'os, du caoutchouc durci, des matiÃ¨res plastiques dures ou matiÃ¨res dures similaires.",,
+7,,8465.10,00,00,"- Machines pouvant effectuer diffÃ©rents types d'opÃ©rations d'usinage, sans changement d'outils entre ces opÃ©rationsÂ£- Autres :",U,NOMBRE
+7,,8465.20,00,00,- Centres d'usinage,U,NOMBRE
+7,,8465.91,00,00,- - Machines Ã  scier,U,NOMBRE
+7,,8465.91,00,00,- - Machines Ã  scier,U,NOMBRE
+7,,8465.91,00,00,- - Machines ï¿½cier,U,NOMBRE
+7,,8465.91,00,00,- - Machines ï¿½cier,U,NOMBRE
+7,,8465.92,00,00,"- - ""Machines ï¿½ï¿½uchir ou ï¿½aboter; machines ï¿½raiser ou ï¿½oulurer""",U,NOMBRE
+7,,8465.92,00,00,"- - ""Machines ï¿½ï¿½uchir ou ï¿½aboter; machines ï¿½raiser ou ï¿½oulurer""",U,NOMBRE
+7,,8465.92,00,00,- - Machines Ã  dÃ©gauchir ou Ã  raboter; machines Ã  fraiser ou Ã  moulurer,U,NOMBRE
+7,,8465.92,00,00,- - Machines Ã  dÃ©gauchir ou Ã  raboter; machines Ã  fraiser ou Ã  moulurer,U,NOMBRE
+7,,8465.93,00,00,"- - - Machines ï¿½euler, ï¿½oncer ou ï¿½olir",U,NOMBRE
+7,,8465.93,00,00,"- - - Machines ï¿½euler, ï¿½oncer ou ï¿½olir",U,NOMBRE
+7,,8465.93,00,00,"- - - Machines Ã  meuler, Ã  poncer ou Ã  polir",U,NOMBRE
+7,,8465.93,00,00,"- - - Machines Ã  meuler, Ã  poncer ou Ã  polir",U,NOMBRE
+7,,8465.94,00,00,- - Machines Ã  cintrer ou Ã  assembler,U,NOMBRE
+7,,8465.94,00,00,- - Machines Ã  cintrer ou Ã  assembler,U,NOMBRE
+7,,8465.94,00,00,- - Machines ï¿½intrer ou ï¿½ssembler,U,NOMBRE
+7,,8465.94,00,00,- - Machines ï¿½intrer ou ï¿½ssembler,U,NOMBRE
+7,,8465.95,00,00,- - Machines Ã  percer ou Ã  mortaiser,U,NOMBRE
+7,,8465.95,00,00,- - Machines Ã  percer ou Ã  mortaiser,U,NOMBRE
+7,,8465.95,00,00,- - Machines ï¿½ercer ou ï¿½ortaiser,U,NOMBRE
+7,,8465.95,00,00,- - Machines ï¿½ercer ou ï¿½ortaiser,U,NOMBRE
+7,,8465.96,00,00,"- - Machines Ã  fendre, Ã  trancher ou Ã  dÃ©rouler",U,NOMBRE
+7,,8465.96,00,00,"- - Machines Ã  fendre, Ã  trancher ou Ã  dÃ©rouler",U,NOMBRE
+7,,8465.96,00,00,"- - Machines ï¿½endre, ï¿½rancher ou ï¿½ï¿½uler",U,NOMBRE
+7,,8465.96,00,00,"- - Machines ï¿½endre, ï¿½rancher ou ï¿½ï¿½uler",U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+7,,8465.99,00,00,- - Autres,U,NOMBRE
+,84.66,,,,"Parties et accessoires reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines des nÂ°s 84.56 Ã  84.65, y compris les porte-piÃ¨ces et porte-outils, les filiÃ¨res Ã  dÃ©clenchement automatique, les dispositifs diviseurs et autr",,
+,84.66,,,,"Parties et accessoires reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines des nÂ°s 84.56 Ã  84.65, y compris les porte-piÃ¨ces et porte-outils, les filiÃ¨res Ã  dÃ©clenchement automatique, les dispositifs diviseurs et autr",,
+,84.66,,,,"Parties et accessoires reconnaissables comme Ã©tant exclusivementou principalement destinÃ©s aux machines des nÂ°s 84.56 Ã  84.65, ycompris les porte-piÃ¨ces et porte-outils, les filiÃ¨res Ã  dÃ©clenchement automatique, les dispositifs diviseurs et autres",,
+,84.66,,,,"Parties et accessoires reconnaissables comme Ã©tant exclusivementou principalement destinÃ©s aux machines des nÂ°s 84.56 Ã  84.65, ycompris les porte-piÃ¨ces et porte-outils, les filiÃ¨res Ã  dÃ©clenchement automatique, les dispositifs diviseurs et autres",,
+7,,8466.10,00,00,- Porte-outils et filiÃ¨res Ã  dÃ©clenchement automatique,KG,- - - - -
+7,,8466.20,00,00,- Porte-piÃ¨ces,KG,- - - - -
+7,,8466.30,00,00,- Dispositifs diviseurs et autres dispositifs spÃ©ciaux se montant sur machines-outilsÂ£- Autres :,KG,- - - - -
+7,,8466.91,00,00,- - Pour machines du nÂ° 8464,KG,- - - - -
+7,,8466.92,00,00,- - Pour machines du nÂ° 8465,KG,- - - - -
+,,8466.93,00,,- - Pour machines des nÂ°s 8456 Ã  8461,,
+7,,,,30,- - - de machines-outils pour le travail des mÃ©taux et des carbures mÃ©talliques,KG,- - - - -
+7,,,,70,- - - autres,KG,- - - - -
+7,,8466.94,00,00,- - Pour machines des nÂ°s 8462 ou 8463,KG,- - - - -
+7,,8466.94,00,00,- - Pour machines des nÂ°s 8462 ou 8463,KG,- - - - -
+7,,8466.94,00,00,- - Pour machines des nÂ°s 84.62 ou 84.63,KG,- - - - -
+7,,8466.94,00,00,- - Pour machines des nÂ°s 84.62 ou 84.63,KG,- - - - -
+,84.67,,,,"Outils pneumatiques, hydrauliques ou Ã  moteur (Ã©lectrique ou non Ã©lectrique) incorporÃ©, pour emploi Ã  la main.Â£- Pneumatiques :",,
+,,8467.11,00,,- - Rotatifs (mÃªme Ã  percussion),,
+7,,,,10,- - - pour le travail des mÃ©taux,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,,8467.19,00,,- - Autres,,
+7,,,,10,- - - pour le travail des mÃ©taux,U,- - - - -
+7,,,,90,- - - autresÂ£- A moteur Ã©lectrique incorporÃ© :,U,- - - - -
+7,,8467.21,00,00,"- - Perceuses de tous genres, y compris les perforatrices rotatives",U,NOMBRE
+,,8467.22,00,,- - Scies et tronÃ§onneuses,,
+7,,8467.22,10,00,- - - pour le travail du bois ou des mÃ©taux,U,- - - - -
+7,,8467.22,90,00,- - - autres,U,- - - - -
+,,8467.29,,,- - Autres,,
+,,,00,,- - Autres,,
+7,,,,10,- - - - outils et machines-outils d'emploi universel,U,NOMBRE
+7,,,,91,- - - - - pour le travail du bois ou des mÃ©taux,U,- - - - -
+7,,,,99,- - - - - pour le travail d'autres matiÃ¨res,U,- - - - -
+,,,90,,- - - autres :,,
+7,,8467.81,00,00,- - TronÃ§onneuses Ã  chaÃ®ne,U,- - - - -
+,,8467.89,,,- - Autres,,
+7,,,10,00,- - - hydrauliques,U,- - - - -
+7,,,90,00,- - - autresÂ£- Parties :,U,- - - - -
+7,,8467.91,00,00,- - De tronÃ§onneuses Ã  chaÃ®ne,KG,- - - - -
+7,,8467.92,00,00,- - - D'outils pneumatiques,KG,- - - - -
+7,,8467.99,00,00,- - Autres,KG,- - - - -
+,84.68,,,,"- Machines et appareils pour le brasage ou le soudage, mÃªme pouvant couper, autres que ceux du nÂ°85.15; machines et appareils aux gaz pour la trempe superficielle.",,
+7,,8468.10,00,00,- - Chalumeaux guidÃ©s Ã  la main,U,- - - - -
+7,,8468.20,00,00,- Autres machines et appareils aux gaz,U,- - - - -
+7,,8468.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8468.90,00,00,- Parties,KG,- - - - -
+,84.69,,,,Machines Ã  Ã©crire autres que les imprimantes du nÂ° 8471; machines pour le traitement des textes. - Machines Ã  Ã©crire automatiques et machines pour le traitement des textes :,,
+,,8469.11,00,,- - Machines pour le traitement des textes,,
+,,8469.12,00,,- - Machines Ã  Ã©crire automatiques,,
+,,8469.20,00,,"- Autres machines Ã  Ã©crire, Ã©lectriquesÂ£- - - portatives :",,
+,,8469.30,00,,"- Autres machines Ã  Ã©crire, non Ã©lectriquesÂ£- - - d'un poids n'excÃ©dant pas 12 kg, coffret non compris :",,
+,84.70,,,,"- Machines Ã  calculer et machines de poche permettant d'enregistrer, de reproduire et d'afficher des informations, comportant une fonction de calcul ; machines comptables, machines Ã  affranchir, Ã  Ã©tablir les tickets et machines similaires, comportant",,
+,,8470.10,,,"- - - Calculatrices Ã©lectroniques pouvant fonctionner sans source d'Ã©nergie Ã©lectrique extÃ©rieure et machines de poche comportant une fonction de calcul permettant d'enregistrer, de reproduire et d'afficher des informationsÂ£- - - machines de poche co",,
+7,,,00,00,"- Calculatrices Ã©lectroniques pouvant fonctionner sans source Â£d'Ã©nergie Ã©lectrique extÃ©rieure et machines de poche comportant Â£une fonction de calcul permettant d'enregistrer, de reproduire et Â£d'afficher des informations",U,NOMBRE
+7,,8470.21,00,00,- - Comportant un organe imprimant,U,NOMBRE
+7,,8470.29,00,00,- - Autres,U,NOMBRE
+,,8470.30,00,,- Autres machines Ã  calculerÂ£- - - machines Ã  calculer Ã  une ou deux opÃ©rations :,,
+7,,,,00,- Autres machines Ã  calculer,U,NOMBRE
+7,,8470.50,00,00,- - Caisses enregistreuses,U,NOMBRE
+7,,8470.90,00,00,- Autres,U,- - - - -
+7,,8470.90,00,00,- Autres,U,- - - - -
+7,,8470.90,00,00,- Autres,U,- - - - -
+7,,8470.90,00,00,- Autres,U,- - - - -
+,84.71,,,,"- - - - - Machines automatiques de traitement de l'information et leurs unitÃ©s; lecteurs magnÃ©tiques ou optiques, machines de mise d'informations sur support sous forme codÃ©e et machines de traitement de ces infor- mations, non dÃ©nommÃ©s ni compris ai",,
+,,8471.10,00,,"- Machines automatiques de traitement de l'information, analogiques ou hybridesÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :",,
+,,8471.30,00,,"- Machines automatiques de traitement de l'information numÃ©riques, portatives, d'un poids n'excÃ©dant pas 10 kg, comportant au moins une unitÃ© centrale de traitement, un clavier et un Ã©cranÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :",,
+7,,,,10,- - - tablette Ã©lectronique,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8471.41,00,,"- - - Comportant, sous une mÃªme enveloppe, au moins une unitÃ© centrale de traitement et, qu'elles soient ou non combinÃ©es, une unitÃ© d'entrÃ©e et une unitÃ© de sortieÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :",,
+7,,,,00,"- - Comportant, sous une mÃªme enveloppe, au moins une unitÃ© Â£centrale de traitement et, qu'elles soient ou non combinÃ©es, une Â£unitÃ© d'entrÃ©e et une unitÃ© de sortie",U,NOMBRE
+,,8471.49,00,,"- - Autres, se prÃ©sentant sous forme de systÃ¨mesÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :",,
+7,,,,10,- - - serveurs de fichiers en rÃ©seau qui possÃ¨dent Ã  la fois un clavier et un Â£moniteur,U,NOMBRE
+7,,,,90,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,90,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8471.50,00,,"- - - - - - - UnitÃ©s de traitement numÃ©riques autres que celles des nÂ°s 847141 ou 8471.49, pouvant comporter, sous une mÃªme enveloppe, un ou deux des types d'unitÃ©s suivants : unitÃ© de mÃ©moire, unitÃ© d'entrÃ©e et unitÃ© de sortieÂ£- - - destinÃ©es",,
+7,,,,10,- - - serveurs de fichiers en rÃ©seau ne possÃ¨dent ni clavier ni moniteur,U,NOMBRE
+7,,,,20,- - - cartes mÃ¨res complÃ¨tes avec unitÃ© centrale de traitement et mÃ©moire vive,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8471.60,00,,"- UnitÃ©s d'entrÃ©e ou de sortie, pouvant comporter, sous la mÃªme enveloppe, des unitÃ©s de mÃ©moireÂ£- - - dispositifs d'entrÃ©e Ã  coordonnÃ©es x,y :",,
+7,,,,10,- - - claviers,U,- - - - -
+7,,,,20,- - - imprimantes Ã  jet d'encre - - - autres :,U,- - - - -
+7,,,,20,- - - imprimantes Ã  jet d'encre - - - autres :,U,- - - - -
+7,,,,20,- - - souris,U,- - - - -
+7,,,,20,- - - souris,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,,8471.70,00,,- UnitÃ©s de mÃ©moireÂ£- - - unitÃ©s de mÃ©moire Ã  disque dur :,,
+7,,,,10,- - - unitÃ©s de mÃ©moires centrales Â£â€“ â€“ â€“ unitÃ©s de mÃ©moire Ã  disques:,U,NOMBRE
+7,,,,21,"- - - - optiques, y compris les magnÃ©to-optiques",U,NOMBRE
+7,,,,29,- - - - autres,U,NOMBRE
+7,,,,30,- - - unitÃ©s de mÃ©moire Ã  disques durs,U,NOMBRE
+7,,,,40,- - - unitÃ©s de mÃ©moire Ã  bandes,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+,,8471.80,00,,- Autres unitÃ©s de machines automatiques de traitement de l'infor- mationÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :,,
+,,8471.80,00,,- Autres unitÃ©s de machines automatiques de traitement de l'infor- mationÂ£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :,,
+,,8471.80,00,,"- ""Autres unitÃ©s de machines automatiques de traitement de l'informationâ€“ â€“ â€“ cartes d'extension:""",,
+,,8471.80,00,,"- ""Autres unitÃ©s de machines automatiques de traitement de l'informationâ€“ â€“ â€“ cartes d'extension:""",,
+7,,,,21,- - - - cartes graphiques,U,- - - - -
+7,,,,22,- - - - cartes son,U,- - - - -
+7,,,,23,- - - - cartes rÃ©seau,U,- - - - -
+7,,,,29,- - - - autres,U,- - - - -
+7,,,,80,- - - autres,U,NOMBRE
+,,8471.90,00,,- AutresÂ£- - - destinÃ©s Ã  l'agence Maghreb Arabe Presse :,,
+7,,,,10,- - - scanners Ã  plat de bureau,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+7,,,,90,- - - autres,U,NOMBRE
+7,,,,90,- - - Migration NGP inexistants,U,NOMBRE
+7,,,,90,- - - Migration NGP inexistants,U,NOMBRE
+,,8471.90,11,,perforatrices et vÃ©rificatrices,,
+,,8471.90,12,,trieuses et interclasseuses,,
+,,8471.90,13,,calculatrices,,
+,,8471.90,14,,tabulatrices,,
+,,8471.90,19,,autresÂ£- - - autres :,,
+,,8471.90,91,,perforatrices et vÃ©rificatrices,,
+,,8471.90,92,,trieuses et interclasseuses,,
+,,8471.90,93,,calculatrices,,
+,,8471.90,94,,tabulatrices,,
+,,8471.90,99,,autres,,
+,84.72,,,,"- - - - Autres machines et appareils de bureau (duplicateurs hectographi- ques ou Ã  stencils, machines Ã  imprimer les adresses, distributeurs automatiques de billets de banque, machines Ã  trier, Ã  compter ou Ã  encartoucher les piÃ¨ces de monnaie, app",,
+7,,8472.10,00,00,- Duplicateurs,U,NOMBRE
+7,,8472.30,00,00,"- - - - Machines pour le triage, le pliage, la mise sous enveloppe ou sous bande du courrier, machines Ã  ouvrir, fermer ou sceller la corres- pondance et machines Ã  apposer ou Ã  oblitÃ©rer les timbres",U,NOMBRE
+,,8472.90,,,- Autres,,
+7,,,10,00,- - - machines Ã  compter les piÃ¨ces de monnaie,U,NOMBRE
+,,,20,,"- - - """"""machines Ã  Ã©crire autres que les imprimantes du n Â° 84.43; machines pour le traitement des textes:""""""",,
+7,,,,00,"- - - ""machines Ã  Ã©crire autres que les imprimantes du n 84.43; machines pour Â£le traitement des textes""",U,- - - - -
+,,,90,,- - - - autres :,,
+7,,,,10,- - - - machines Ã  authentifier les chÃ¨ques,U,NOMBRE
+7,,,,80,- - - - autres,U,NOMBRE
+7,,,,80,- - - - autres,U,NOMBRE
+7,,,,80,- - - - autres,U,NOMBRE
+7,,,,80,- - - - autres,U,NOMBRE
+,84.73,,,,"Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines ou appareils des nÂ°s 84.69 Ã  84.72.",,
+,84.73,,,,"Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines ou appareils des nÂ°s 84.69 Ã  84.72.",,
+,84.73,,,,"Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines ou appareils des nÂ°s 84.70 Ã  84.72.",,
+,84.73,,,,"Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme Ã©tant exclusivement ou principalement destinÃ©s aux machines ou appareils des nÂ°s 84.70 Ã  84.72.",,
+7,,8473.21,00,00,"- - - Des machines Ã  calculer Ã©lectroniques des nÂ°s 847010,847021 ou 8470.29",KG,- - - - -
+7,,8473.29,00,00,- - Autres,KG,- - - - -
+,,8473.30,00,,- Parties et accessoires des machines du nÂ° 8471Â£- - - destinÃ©es Ã  l'agence Maghreb Arabe Presse :,,
+7,,,,20,- - - unitÃ©s central de traitement (processeurs),KG,- - - - -
+7,,,,30,- - - modules de mÃ©moire,KG,- - - - -
+7,,,,80,- - - autres,KG,- - - - -
+,,8473.40,00,,- Parties et accessoires des machines du nÂ° 8472,,
+7,,,,00,- Parties et accessoires des machines du n 84.72,KG,- - - - -
+7,,,,00,- Parties et accessoires des machines du n 84.72,KG,- - - - -
+7,,,,00,- Migration NGP inexistants,KG,- - - - -
+7,,,,00,- Migration NGP inexistants,KG,- - - - -
+7,,8473.50,00,00,- - - Parties et accessoires qui peuvent ï¿½e utilisï¿½indiffï¿½mment avec les machines ou appareils de plusieurs des nï¿½s 84.69 ï¿½4.72,KG,- - - - -
+7,,8473.50,00,00,- - - Parties et accessoires qui peuvent ï¿½e utilisï¿½indiffï¿½mment avec les machines ou appareils de plusieurs des nï¿½s 84.69 ï¿½4.72,KG,- - - - -
+7,,8473.50,00,00,- - - Parties et accessoires qui peuvent Ãªtre utilisÃ©s indiffÃ©remment avec les machines ou appareils de plusieurs des nÂ°s 84.69 Ã  84.72,KG,- - - - -
+7,,8473.50,00,00,- - - Parties et accessoires qui peuvent Ãªtre utilisÃ©s indiffÃ©remment avec les machines ou appareils de plusieurs des nÂ°s 84.69 Ã  84.72,KG,- - - - -
+,84.74,,,,"- - - Machines et appareils Ã  trier, cribler, sÃ©parer, laver, concasser, broyer, mÃ©langer ou malaxer les terres, pierres, minerais ou autres matiÃ¨res minÃ©rales solides (y compris les poudres et les pÃ¢tes); machines Ã  agglomÃ©rer, former ou mouler l",,
+,,8474.10,,,"- Machines et appareils Ã  trier, cribler, sÃ©parer ou laver",,
+7,,,10,00,- - - cribles vibrants,U,- - - - -
+7,,,80,00,- - - autres,U,- - - - -
+,,8474.20,00,,"- Machines et appareils Ã  concasser, broyer ou pulvÃ©riser",,
+7,,,,10,- - - concasseurs et broyeurs Ã  marteaux,U,- - - - -
+7,,,,90,- - - autresÂ£- Machines et appareils Ã  mÃ©langer ou Ã  malaxer :,U,- - - - -
+,,8474.31,,,- - BÃ©tonniÃ¨res et appareils Ã  gÃ¢cher le cimentÂ£- - - bÃ©tonniÃ¨res :,,
+7,,,11,00,- - - - d'une capacitÃ© n'excÃ©dant pas un mÃ¨tre cube,U,- - - - -
+7,,,19,00,- - - - autres,U,- - - - -
+7,,,90,00,- - - - - autres,U,- - - - -
+7,,8474.32,00,00,- - Machines Ã  mÃ©langer les matiÃ¨res minÃ©rales au bitume,U,- - - - -
+7,,8474.39,00,00,- - Autres,U,- - - - -
+7,,8474.80,00,00,- Autres machines et appareils,U,- - - - -
+,,8474.90,,,- Parties,,
+7,,,10,00,- - - de bÃ©tonniÃ¨resÂ£- - - autres :,KG,- - - - -
+7,,,91,00,- - - - de concasseurs et de broyeurs Ã  marteaux,KG,- - - - -
+7,,,92,00,- - - - mÃ©canisme agitateur de cellule de flottation de minerais,KG,- - - - -
+7,,,98,00,- - - - autres,KG,- - - - -
+,84.75,,,,"- - Machines pour l'assemblage des lampes, tubes ou valves Ã©lectriques ou Ã©lectroniques ou des lampes pour la production de la lumiÃ¨re- Ã©clair, qui comportent une enveloppe en verre; machines pour la fabrication ou le travail Ã  chaud du verre ou des",,
+7,,8475.10,00,00,"- Machines pour l'assemblage des lampes, tubes ou valves Ã©lect- riques ou Ã©lectroniques ou des lampes pour la production de la lumiÃ¨re-Ã©clair, qui comportent une enveloppe en verreÂ£- Machines pour la fabrication ou le travail Ã  chaud du verre ou des",U,- - - - -
+7,,8475.21,00,00,- - Machines pour la fabrication des fibres optiques et de leurs Ã©bauches,U,- - - - -
+,,8475.29,00,,- - Autres,,
+7,,,,00,- - autres,U,- - - - -
+7,,8475.90,00,00,- Parties,U,- - - - -
+7,,8475.90,00,00,- Parties,U,- - - - -
+7,,8475.90,00,00,- Parties,U,- - - - -
+7,,8475.90,00,00,- Parties,U,- - - - -
+,84.76,,,,"- - Machines automatiques de vente de produits (timbres-poste, ciga- rettes, denrÃ©es alimentaires, boissons, par exemple), y compris les machines pour changer la monnaie.Â£- Machines automatiques de vente de boissons :",,
+7,,8476.21,00,00,- - Comportant un dispositif de chauffage ou de rÃ©frigÃ©ration,U,- - - - -
+7,,8476.29,00,00,- - AutresÂ£- Autres machines :,U,- - - - -
+7,,8476.81,00,00,- - Comportant un dispositif de chauffage ou de rÃ©frigÃ©ration,U,- - - - -
+,,8476.89,00,,- - Autres,,
+7,,,,00,- - Autres,U,- - - - -
+,,8476.90,,,- Parties,,
+7,,,10,00,"- - - dispositif d'alimentation en piÃ¨ces de monnaie ou autres moyens de paiement (jetons, cartes programmÃ©es, par exemple) de machines automatiques de vente de produits",KG,- - - - -
+7,,,90,00,- - - autres,KG,- - - - -
+,84.77,,,,"- - - Machines et appareils pour le travail du caoutchouc ou des matiÃ¨res plastiques ou pour la fabrication de produits en ces matiÃ¨res, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre.",,
+7,,8477.10,00,00,- Machines Ã  mouler par injection,U,- - - - -
+7,,8477.20,00,10,- - - pour l'extrusion-gonflage,KG,- - - - -
+7,,8477.20,00,20,- - - pour l'extrusion Ã  plat,KG,- - - - -
+7,,8477.20,00,90,- - - autres,KG,- - - - -
+7,,8477.30,00,00,- Machines Ã  mouler par soufflage,U,- - - - -
+7,,8477.40,00,00,- Machines Ã  mouler sous vide et autres machines Ã  thermoformerÂ£- Autres machines et appareils Ã  mouler ou Ã  former :,U,- - - - -
+,,8477.51,00,,- - A mouler ou Ã  rechaper les pneumatiques ou Ã  mouler ou Ã  former les chambres Ã  air,,
+7,,,,00,- - A mouler ou Ã  rechaper les pneumatiques ou Ã  mouler ou Ã  former Â£les chambres Ã  air,U,- - - - -
+,,8477.59,00,,- - Autres,,
+7,,,,20,- - - autres,U,- - - - -
+7,,,,80,- - - autres,U,- - - - -
+7,,8477.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8477.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8477.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8477.80,00,00,- Autres machines et appareils,U,- - - - -
+7,,8477.90,00,10,- - - de machines et appareils pour l'extrusion-gonflage,KG,- - - - -
+7,,8477.90,00,20,- - - de machines et appareils pour l'extrusion Ã  plat,KG,- - - - -
+7,,8477.90,00,80,- - - autres,KG,- - - - -
+,84.78,,,,"Machines et appareils pour la prÃ©paration ou la transformation du tabac, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre.",,
+7,,8478.10,00,00,- Machines et appareils,U,- - - - -
+7,,8478.90,00,00,- Parties,KG,- - - - -
+,84.79,,,,"Machines et appareils mÃ©caniques ayant une fonction propre, non dÃ©nommÃ©s ni compris ailleurs dans le prÃ©sent Chapitre.",,
+7,,8479.10,00,00,"- Machines et appareils pour les travaux publics, le bÃ¢timent ou les travaux analogues",U,- - - - -
+,,8479.20,00,,- - Machines et appareils pour l'extraction ou la prÃ©paration des huiles ou graisses vÃ©gÃ©tales fixes ou animales,,
+7,,,,00,- Machines et appareils pour l'extraction ou la prÃ©paration des huiles ou graisses vÃ©gÃ©tales ou d'origine microbienne fixes ou animales,U,- - - - -
+,,8479.30,00,,- - - - - Presses pour la fabrication de panneaux de particules ou de fibres de bois ou d'autres matiÃ¨res ligneuses et autres machines et appareils pour le traitement du bois ou du liÃ¨ge,,
+7,,,,10,- - - presses,U,- - - - -
+7,,,,90,- - - autres,U,- - - - -
+,,8479.40,00,,- - Machines de corderie ou de cÃ¢blerie,,
+7,,,,10,"- - - toronneuses, commetteuses, assembleuses et autres machines et appareils similaires",U,NOMBRE
+7,,,,90,"- - - autres machines et appareils (Ã  armer, Ã  rubaner, Ã  isoler et similaires pour la prÃ©paration, le revÃªtement, le conditionnement, etc...)",U,- - - - -
+7,,8479.50,00,00,"- Robots industriels, non dÃ©nommÃ©s ni compris ailleurs",U,- - - - -
+7,,8479.60,00,00,- Appareils Ã  Ã©vaporation pour le rafraÃ®chissement de l'airÂ£- Autres machines et appareils :,U,- - - - -
+7,,8479.71,00,00,- - Des types utilisÃ©s dans les aÃ©roports,U,- - - - -
+7,,8479.79,00,00,- - Autres,U,- - - - -
+,,8479.81,00,,"- - - - - Pour le traitement des mÃ©taux, y compris les bobineuses pour enroulements Ã©lectriques",,
+7,,,,00,"- - Pour le traitement des mÃ©taux, y compris les bobineuses pour Â£enroulements Ã©lectriques",U,- - - - -
+7,,8479.82,00,00,"- - A mÃ©langer, malaxer, concasser, broyer, cribler, tamiser, homo- gÃ©nÃ©iser, Ã©mulsionner ou brasser",U,- - - - -
+7,,8479.83,00,00,- - Presses isostatiques Ã  froid,U,- - - - -
+,,8479.89,,,- - Autres,,
+7,,,20,00,- - - hydrocureuses,U,- - - - -
+7,,,70,00,- - - autres,U,- - - - -
+,,8479.90,,,- Parties,,
+7,,,00,00,- Parties,KG,- - - - -
+,,,90,,- - - autres :,,
+,84.80,,,,"ChÃ¢ssis de fonderie; plaques de fond pour moules; modÃ¨les pour moules; moules pour les mÃ©taux (autres que les lingotiÃ¨res), les carbures mÃ©talliques, le verre, les matiÃ¨res minÃ©rales, le caoutchouc ou les matiÃ¨res plastiques.",,
+7,,8480.10,00,00,- ChÃ¢ssis de fonderie,KG,- - - - -
+,,8480.20,00,,- Plaques de fond pour moules,,
+7,,,,00,- Plaques de fond pour moules,KG,- - - - -
+,,8480.30,,,- ModÃ¨les pour moules,,
+8,,,10,00,- - - en matiÃ¨res plastiquesÂ£- - - en bois :,KG,- - - - -
+8,,,21,00,- - - - en panneaux de fibres du nÂ° 4411,KG,- - - - -
+7,,,29,00,- - - - autres,KG,- - - - -
+8,,,30,00,"- - - en fonte, fer ou acier",KG,- - - - -
+,,,90,,- - - autres :,,
+7,,,,00,- - - autres,KG,- - - - -
+7,,8480.41,00,00,- - Pour le moulage par injection ou par compression,KG,- - - - -
+7,,8480.49,00,00,- - Autres,KG,- - - - -
+,,8480.50,00,,- Moules pour le verre,,
+7,,,,00,- Moules pour le verre,KG,- - - - -
+7,,8480.60,00,00,- Moules pour les matiÃ¨res minÃ©ralesÂ£- Moules pour le caoutchouc ou les matiÃ¨res plastiques :,KG,- - - - -
+7,,8480.71,00,00,- - Pour le moulage par injection ou par compression,KG,- - - - -
+7,,8480.79,00,00,- - Autres,KG,- - - - -
+,84.81,,,,"- - - - - - - - - - Articles de robinetterie et organes similaires pour tuyauteries, chau- diÃ¨res, rÃ©servoirs, cuves ou contenants similaires, y compris les dÃ©tendeurs et les vannes thermostatiques.",,
+,,8481.10,,,- DÃ©tendeurs,,
+7,,,10,00,- - - pour bouteilles Ã  gaz Ã  usage domestiqueÂ£- - - autres :,KG,- - - - -
+7,,,91,00,"- - - - valve Ã  gaz en zamak avec dispositif d'ouverture, de fermeture et de reglage du dÃ©bit",KG,- - - - -
+,,,99,,- - - - autres :,,
+7,,,,10,- - - - - - robinet dÃ©tendeur intÃ©grÃ©,KG,- - - - -
+7,,,,90,- - - - - - - autres,KG,- - - - -
+5,,8481.20,00,00,- Valves pour transmissions olÃ©ohydrauliques ou pneumatiques,KG,- - - - -
+5,,8481.30,00,00,- - - Clapets et soupapes de retenue,KG,- - - - -
+5,,8481.40,00,00,- - Soupapes de trop-plein ou de sÃ»retÃ©,KG,- - - - -
+,,8481.80,,,- Autres articles de robinetterie et organes similaires,,
+7,,,10,00,- - - Ã©bauches de fonderie,KG,- - - - -
+7,,,10,00,- - - Ã©bauches de fonderie,KG,- - - - -
+7,,,10,00,- - - valves pour bouteilles Ã  gaz de 3 kg,KG,- - - - -
+7,,,10,00,- - - valves pour bouteilles Ã  gaz de 3 kg,KG,- - - - -
+7,,,20,00,- - - robinets dits Â«de prise en chargeÂ» pour branchements d'immeubles en fonte ou en bronze,KG,- - - - -
+7,,,20,00,- - - robinets dits Â«de prise en chargeÂ» pour branchements d'immeubles en fonte ou en bronze,KG,- - - - -
+7,,,20,00,- - - de bouteilles Ã  gaz GPL (3 Ã  35 kg),KG,- - - - -
+7,,,20,00,- - - de bouteilles Ã  gaz GPL (3 Ã  35 kg),KG,- - - - -
+,,,30,,"- - - robinetterie sanitaire (pour lavabos, bidets, douches, baignoires, Ã©viers) :",,
+5,,,,10,- - - - Ã©bauches brutes de fonderie - - - - autres :,KG,- - - - -
+5,,,,10,- - - - Ã©bauches brutes de fonderie - - - - autres :,KG,- - - - -
+5,,,,10,- - - - en laiton ou en bronze,KG,- - - - -
+5,,,,10,- - - - en laiton ou en bronze,KG,- - - - -
+7,,,,90,- - - - autres,KG,- - - - -
+,,,40,,"- - - robinetterie de bÃ¢timent :Â£- - - - robinets d'arrÃªt et robinets de puisage, en bronze, ou en laiton, Ã  vis intÃ©- rieure, dont le diamÃ¨tre de l'orifice est infÃ©rieur ou Ã©gal Ã  20 mm :",,
+7,,,,10,- - - - robinets dits col de cygne. en alliages de cuivre chromÃ©. Ã  bouton poussoir. Ã  fermeture instantanÃ©e et rÃ©glage de dÃ©bit. D'un diamÃ¨tre d'entrÃ©e infÃ©rieur ou Ã©gal Ã  6 mm et dont la hauteur du bec mesurÃ©e de la base Ã  la sortie du flui,KG,- - - - -
+7,,,,20,"- - - - pour lavabot, bidets, douches, baignoires et Ã©viers",KG,- - - - -
+7,,,,90,- - - - autres,KG,- - - - -
+,,,90,,- - - autres:,,
+7,,,,20,- - - - valves pour pneumatiques et chambres Ã  air,KG,
+7,,,,81,"- - - - - en bronze ou en laiton, dont les diamÃ¨tres intÃ©rieurs d'entrÃ©e et de sortie n'excÃ©dant pas 50 mm.",KG,
+5,,,,89,- - - - - autres,KG,
+,,8481.90,,,- Parties,,
+7,,,10,00,- - - de valves pour bouteilles Ã  gaz de 3 kg,KG,NOMBRE
+7,,,20,00,- - - de dÃ©tendeurs pour bouteilles Ã  gaz Ã  usage domestique,KG,- - - - -
+7,,,30,00,- - - d'autres dÃ©tendeurs,KG,- - - - -
+7,,,40,00,- - - de robinets dits de Â«prise en chargeÂ» pour branchements d'immeubles en fonte ou en bronze,KG,- - - - -
+7,,,50,00,"- - - de robinetterie sanitaire (pour lavabos, bidets, douches, baignoires, Ã©viers)",KG,- - - - -
+5,,,60,00,- - - de robinetterie de bÃ¢timent,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,84.82,,,,"Roulements Ã  billes, Ã  galets, Ã  rouleaux ou Ã  aiguilles",,
+7,,8482.10,00,00,- Roulements Ã  billes,U,- - - - -
+7,,8482.20,00,00,"- - - Roulements Ã  rouleaux coniques, y compris les assemblages de cÃ´nes et rouleaux coniques",U,- - - - -
+7,,8482.30,00,00,- Roulements Ã  rouleaux en forme de tonneau,U,- - - - -
+7,,8482.40,00,00,- Roulements Ã  aiguilles,U,- - - - -
+7,,8482.50,00,00,- Roulements Ã  rouleaux cylindriques,U,- - - - -
+7,,8482.80,00,00,"- Autres, y compris les roulements combinÃ©sÂ£- Parties :",U,- - - - -
+7,,8482.91,00,00,"- - Billes, galets, rouleaux et aiguilles",KG,- - - - -
+7,,8482.99,00,00,- - Autres,KG,- - - - -
+,84.83,,,,"- - - - - - - - - - - - Arbres de transmission (y compris les arbres Ã  cames et les vilebre- quins) et manivelles; paliers et coussinets; engrenages et roues de friction; broches filetÃ©es Ã  billes ou Ã  rouleaux ; rÃ©ducteurs, multipli- cateurs et vari",,
+,,8483.10,,,"- - - Arbres de transmission (y compris les arbres Ã  cames et les vilebrequins) et manivellesÂ£- - - pour moteurs pour vÃ©hicules automobiles, des positions 84.07 et 84.08 :Â£- - - - vilebrequins et arbres Ã  cames :",,
+7,,,11,00,- - - - - vilebrequins pour moteurs pour cyclomoteurs d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  50 cm3,U,- - - - -
+7,,,19,00,- - - - - autresÂ£- - - - autres :,U,- - - - -
+7,,,21,00,- - - - - pour moteurs pour cyclomoteurs d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  50 cm3..,U,- - - - -
+7,,,29,00,- - - - - autres,U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+7,,8483.20,00,00,- Paliers Ã  roulements incorporÃ©s,U,- - - - -
+7,,8483.30,00,00,"- Paliers, autres qu'Ã  roulements incorporÃ©s; coussinets",U,- - - - -
+,,8483.40,,,"- - Engrenages et roues de friction, autres que les roues dentÃ©es et autres organes Ã©lÃ©mentaires de transmission prÃ©sentÃ©s sÃ©parement; broches filetÃ©es Ã  billes ou Ã  rouleaux ; rÃ©ducteurs, multiplicateurs et variateurs de vitesse, y compris les",,
+7,,,10,00,- - - broches filetÃ©es Ã  rouleaux,U,- - - - -
+,,,90,,- - - autres :,,
+7,,,,10,- - - - engrenages,U,- - - - -
+7,,,,20,- - - - roues de friction,U,- - - - -
+7,,,,30,"- - - - rÃ©ducteurs, multiplicateurs et variateurs de vitesse",U,- - - - -
+7,,,,90,- - - - autres,U,- - - - -
+7,,8483.50,00,00,"- - Volants et poulies, y compris les poulies Ã  moufles",U,- - - - -
+,,8483.60,,,"- - - Embrayages et organes d'accouplement, y compris les joints d'articulation",,
+7,,,10,00,- - - pour moteurs de cyclomoteurs d'une cylindrÃ©e Ã©gale ou infÃ©rieure Ã  50 cm3,U,- - - - -
+7,,,90,00,- - - pour autres moteurs,U,- - - - -
+7,,8483.90,00,00,- Roues dentÃ©es et autres organes Ã©lÃ©mentaires de transmission prÃ©sentÃ©s sÃ©parÃ©ment; parties,KG,- - - - -
+,84.84,,,,"Joints mÃ©talloplastiques ; jeux ou assortiments de joints de compo- sition diffÃ©rente prÃ©sentÃ©s en pochettes, enveloppes ou emballages analogues ; joints d'Ã©tanchÃ©itÃ© mÃ©caniques.",,
+5,,8484.10,00,00,- Joints mÃ©talloplastiques,KG,- - - - -
+5,,8484.20,00,00,- Joints d'Ã©tanchÃ©itÃ© mÃ©caniques,KG,- - - - -
+5,,8484.90,00,00,- Autres,KG,- - - - -
+,84.85,,,,Machines pour la fabrication additive.,,
+,84.85,,,,Machines pour la fabrication additive.,,
+,84.85,,,,"Parties de machines ou d'appareils, non dÃ©nommÃ©es ni comprises ailleurs dans le prÃ©sent Chapitre, ne comportant pas de connexions Ã©lectriques, de parties isolÃ©es Ã©lectriquement, de bobinages, de contacts ni d'autres caractÃ©ristiques Ã©lectriques.",,
+,84.85,,,,"Parties de machines ou d'appareils, non dÃ©nommÃ©es ni comprises ailleurs dans le prÃ©sent Chapitre, ne comportant pas de connexions Ã©lectriques, de parties isolÃ©es Ã©lectriquement, de bobinages, de contacts ni d'autres caractÃ©ristiques Ã©lectriques.",,
+,,8485.10,00,,- HÃ©lices pour bateaux et leurs pales,,
+7,,,,00,- Par dÃ©pÃ´t mÃ©tallique,U,NOMBRE
+7,,8485.20,00,00,- Par dÃ©pÃ´t de matiÃ¨res plastiques ou de caoutchouc,U,- - - - -
+7,,8485.30,00,00,"- Par dÃ©pÃ´t de plÃ¢tre, de ciment, de cÃ©ramique ou de verre",U,- - - - -
+7,,8485.80,00,00,- Autres,U,- - - - -
+,,8485.90,,,- Autres,,
+7,,,00,00,- Parties,KG,- - - - -
+,,,99,,- - - - autres :,,
+7,,8486.10,00,00,- Machines et appareils pour la fabrication de lingots ou de plaquettes,U,- - - - -
+7,,8486.20,10,00,- - - pour la gravure Ã  sec du tracÃ© sur les matiÃ¨res semi-conductrices,U,- - - - -
+7,,8486.20,20,00,- - - accÃ©lÃ©rateurs de particules consistants en des appareils d'implantation ionique pour doper les matiÃ¨res semi-conductrices,U,- - - - -
+7,,8486.20,30,00,- - - appareils pour la projection ou la rÃ©alisation des tracÃ©s de circuits sur les Â£matiÃ¨res semi-conductrices sensibilisÃ©es :,U,- - - - -
+7,,8486.20,90,00,- - - autres,U,- - - - -
+7,,8486.30,00,00,- Machines et appareils pour la fabrication de dispositifs d'affichage Ã  Ã©cran plat,U,- - - - -
+,,8486.40,,,- Machines et appareils visÃ©s Ã  la Note 11 C) du prÃ©sent Chapitre,,
+7,,,10,00,"- - - machines et appareils pour le levage, la manutention, le chargement ou le Â£dÃ©chargement des lingots, des plaquettes ou des dispositifs semiconducteurs, Â£des circuits Ã©lectroniques intÃ©grÃ©s et des dispositifs d'affichage Â£Ã  Ã©cran plat",U,- - - - -
+7,,,90,00,- - - autres,U,- - - - -
+7,,8486.90,10,00,- - - portes-outils et filiÃ¨res Ã  dÃ©clenchement automatiques,KG,- - - - -
+7,,8486.90,20,00,- - - portes-piÃ¨ces,KG,- - - - -
+7,,8486.90,30,00,- - - dispositifs diviseurs et autres dispositifs spÃ©ciaux se montant sur machines outils,KG,- - - - -
+7,,8486.90,40,00,- - - pour machines du nÂ° 8486.20.10.00,KG,- - - - -
+7,,8486.90,70,00,- - - rouleaux pour convoyeurs,U,- - - - -
+7,,8486.90,80,00,- - - autres,U,- - - - -
+7,,8487.10,00,10,- - - en bronze,KG,- - - - -
+7,,8487.10,00,90,- - - en autres matiÃ¨res,KG,- - - - -
+7,,8487.90,10,00,"- - - piÃ¨ces dÃ©colletÃ©es dans la masse, en mÃ©taux communs, dont le plus grand diamÃ¨tre n'excÃ¨de pas 25 mm%â€“ â€“ â€“ autres :",KG,- - - - -
+,,8487.90,97,,- - - autres :,,
+7,,,,10,- - - - en fonte,KG,- - - - -
+7,,,,20,- - - - en fer ou en acier,KG,- - - - -
+7,,,,90,- - - - - autres,KG,- - - - -
+,,8487.90,98,,- - - autres :,,

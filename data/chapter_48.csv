@@ -1,0 +1,444 @@
+0,1,2,3,4,5,6,7
+,,4801.00,,,"Papier journal, en rouleaux ou en feuilles",,
+,,,10,,"- - - """"""en bande ou en rouleaux:â€“ â€“ â€“ â€“ dont la largeur excÃ¨de 28cm mais n'excÃ¨de pas 36 cm:""""""",,
+5,,,,11,"- - - - pour l'impression des journaux et publications pÃ©riodiques, sous les conditions prÃ©vues par la rÃ©glementation en vigueur",KG,- - - - -
+5,,,,19,- - - - autres,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,,20,,- - - en feuilles:,,
+5,,,,10,- - - dont un cÃ´tÃ© n'excÃ¨de pas 435 mm e l'autre n'excÃ¨de pas 297 mm Ã l'Ã©tat non pliÃ©,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,48.02,,,,"- - Papiers et cartons, non couchÃ©s ni enduits, des types utilisÃ©s pour l'Ã©criture, l'impression ou d'autres fins graphiques et papiers et cartons pour cartes ou bandes Ã  perforer, non perforÃ©s, en rouleaux ou en feuilles, de forme carrÃ©e ou rectang",,
+5,,4802.10,00,00,- Papiers et cartons formÃ©s feuille Ã  feuille (papiers et cartons Ã  la main),KG,- - - - -
+,,4802.20,,,"- Papiers et cartons supports pour papiers ou cartons photosensibles, sensibles Ã  la chaleur ou Ã©lectrosensiblesÂ£- - - d'un poids au m2 infÃ©rieur ou Ã©gal Ã  250 g :",,
+5,,,11,00,"- - - - contenant 100% de pÃ¢te chimique, d'un poids au m2 variant entre 45 et 110 g, destinÃ©s Ã  la fabrication de papier hÃ©liographique fabriquÃ© principalement Ã  partir de pÃ¢te blanchie ou Ã  partir de pÃ¢te obtenue par un procÃ©dÃ© mÃ©canique, prÃ",KG,- - - - -
+5,,,19,00,- - - - autres,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4802.30,,,- Papiers supports pour carbone,,
+5,,4802.40,00,00,- Papiers supports pour papiers peints,KG,- - - - -
+,,4802.54,,,- - D'un poids au m2 infÃ©rieur Ã  40 gÂ£- - - papiers et cartons kraft :,,
+5,,,10,00,- - - papiers et cartons kraft,KG,- - - - -
+,,,80,,- - - autres .,,
+5,,,,00,- - - autres .,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,4802.55,,,"- - D'un poids au m2 de 40 g ou plus mais n'excÃ©dant pas 150 g, en rouleauxÂ£- - - papiers et cartons kraft :",,
+5,,,10,00,- - - papiers et cartons kraft,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,4802.56,,,"- - D'un poids au m2 de 40 g ou plus mais n'excÃ©dant pas 150 g, en feuilles dont un cÃ´tÃ© n'excÃ¨de pas 435 mm et l'autre n'excÃ¨de pas 297 mm Ã  l'Ã©tat non pliÃ©",,
+5,,,10,00,- - - papiers et cartons kraft,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,4802.57,,,"- - Autres, d'un poids au m2 de 40 g ou plus mais n'excÃ©dant pas 150 g",,
+5,,,10,00,- - - â€“ â€“ â€“ papiers et cartons kraft,KG,- - - - -
+5,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,4802.58,,,- - D'un poids au m2 excÃ©dant 150 g,,
+5,,,10,00,- - - papiers et cartons kraft,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,,99,,- - - - - autres :,,
+,,4802.61,,,- - En rouleauxÂ£- - - papier journal autre que celui du nÂ° 48.01 :,,
+5,,,13,00,"- - - - pour l'impression des journaux et publications pÃ©riodiques, sous les conditions prÃ©vues par la rÃ©glementation en vigueur",KG,- - - - -
+5,,,17,00,- - - - autres,KG,- - - - -
+5,,,20,00,- - - papiers et cartons kraft,KG,- - - - -
+,,,80,,- - - autres,,
+5,,,,00,- - - autres,KG,- - - - -
+,,,99,,- - - - - autres :,,
+,,4802.62,,,- - En feuilles dont un cÃ´tÃ© n'excÃ¨de pas 435 mm et l'autre n'excÃ¨de pas 297 mm Ã  l'Ã©tat non pliÃ©,,
+5,,,15,00,- - - papier journal autre que celui du nÂ° 48.01,KG,- - - - -
+5,,,20,00,- - - â€“ â€“ â€“ papiers et cartons kraft,KG,- - - - -
+,,,80,,- - - autres,,
+5,,,,00,- - - autres,KG,- - - - -
+,,,99,,- - - - - autres :,,
+,,4802.69,,,- - Autres,,
+5,,,10,00,- - - papier journal autre que celui du nÂ° 4801Â£- - - papiers et cartons kraft :,KG,- - - - -
+5,,,20,00,- - - papiers et cartons kraft,KG,- - - - -
+,,,80,,- - - autres,,
+5,,,,00,- - - autres,KG,- - - - -
+,,,99,,- - - - - autres :,,
+,,4803.00,,,"Papiers des types utilisÃ©s pour papiers de toilette, pour serviettes Ã  dÃ©maquiller, pour essuie-mains, pour serviettes ou pour papiers similaires Ã  usages domestiques, d'hygiÃ¨ne ou de toilette, ouate de cellulose et nappes de fibres de cellulose, mÃª",,
+,,,10,,- - - ouate de cellulose non traitÃ©e ni faÃ§onnÃ©e :,,
+5,,,,10,"- - - - - - contenant 45% de polyester, d'un grammage compris entre 65 g/mÂ² et 70 g/mÂ² et prÃ©sentÃ©e en rouleaux d'une largeur n'excÃ©dant pas 4m",KG,- - - - -
+5,,,,90,- - - - - - autres,KG,- - - - -
+,,,90,,"- - - autres :Â£- - - - papiers simplement ondulÃ©s, crÃªpÃ©s, plissÃ©s, gaufrÃ©s, estampÃ©s ou perforÃ©s :",,
+5,,,,00,- - - autres,KG,- - - - -
+,48.04,,,,"Papiers et cartons Kraft, non couchÃ©s ni enduits, en rouleaux ou en feuilles, autres que ceux des nÂ°s 48.02 ou 48.03.Â£- Papiers et cartons pour couverture, dits Â«KraftlinerÂ» :",,
+5,,4804.11,00,00,- - Ecrus,KG,- - - - -
+5,,4804.19,00,00,- - Autres,KG,- - - - -
+,,4804.21,,,- - Ecrus,,
+5,,,20,00,- - - â€“ â€“ â€“ d'un poids au m2 variant entre 70 et 100 g inclus. prÃ©sentÃ©s en bobines d'un poids minimum de 500 kilogrammes. de laize 102 cm,KG,- - - - -
+5,,,80,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+5,,4804.29,00,00,- - Autres,KG,- - - - -
+,,4804.31,,,- - Ecrus,,
+5,,,10,00,"- - - papiers destinÃ©s Ã  la fabrication de fils de papier (papier dit Â«kraft Ã  filerÂ» d'un poids de 40 Ã  45 g au mÃ¨tre carrÃ©, importÃ© en bobines par les exploi- tants de fabriques d'allumettes et conduit directement Ã  l'usine)Â£- - - autres :",KG,- - - - -
+5,,,20,00,- - - - d'un poids au m2 variant entre 70 et 100 g inclus. prÃ©sentÃ©s en bobines d'un poids minimum de 500 kilogrammes. de laize 102 cm,KG,- - - - -
+5,,,80,00,- - - - autres,KG,- - - - -
+,,4804.39,,,- - Autres,,
+5,,,10,00,"- - - papiers destinÃ©s Ã  la fabrication de fils de papier (papier dit Â«kraft Ã  filerÂ» d'un poids de 40 Ã  45 g au mÃ¨tre carrÃ©, importÃ© en bobines par les exploi- tants de fabriques d'allumettes et conduit directement Ã  l'usine)Â£- - - autres :",KG,- - - - -
+,,,49,,"- - - - - - autres :Â£- - - - - - complÃ¨tement blanchis, non colorÃ©s dans la masse :",,
+5,,,80,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,4804.41,,,- - Ecrus,,
+5,,,00,00,- - Ecrus,KG,- - - - -
+,,4804.42,,,- - - Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique,,
+5,,,00,00,- - Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique,KG,- - - - -
+,,,29,,- - - - autres papiers kraft :,,
+,,4804.49,,,- - Autres,,
+5,,,00,00,- - Autres,KG,- - - - -
+,,,29,,"- - - - autres papiers kraft :Â£- - - - - complÃ¨tement blanchis, non colorÃ©s dans la masse :",,
+,,4804.51,,,- - Ecrus,,
+5,,,00,00,- - Ecrus,KG,- - - - -
+,,4804.52,,,- - - Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique,,
+5,,,00,00,- - Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique,KG,- - - - -
+,,,29,,- - - - autres papiers kraft :,,
+,,4804.59,,,- - Autres,,
+5,,,00,00,- - Autres,KG,- - - - -
+,,,29,,"- - - - autres papiers kraft :Â£- - - - - complÃ¨tement blanchis, non colorÃ©s dans la masse :",,
+,48.05,,,,"Autres papiers et cartons, non couchÃ©s ni enduits, en rouleaux ou en feuilles, n'ayant pas subi d'ouvraison complÃ©mentaire ou de traitements autres que ceux stipulÃ©s dans la Note 3 du prÃ©sent chapitre.Â£- Papier pour cannelure :",,
+,,4805.11,,,- - Papier mi-chimique pour cannelure,,
+5,,,00,00,- - Papier mi-chimique pour cannelure,KG,- - - - -
+,,,90,,- - - autres :,,
+,,4805.12,,,- - Papier paille pour cannelureÂ£- - - d'un poids au m2 n'excÃ©dant pas 150 g :,,
+5,,,00,00,- - Papier paille pour cannelure,KG,- - - - -
+,,4805.19,,,- - Autres,,
+5,,,00,00,- - Autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,,4805.24,,,- - D'un poids au m2 n'excÃ©dant pas 150 gÂ£- - - papiers et cartons multicouches :Â£- - - - dont chaque couche est blanchie :,,
+5,,,10,00,- - - papiers pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,90,00,- - - autres,KG,- - - - -
+,,4805.25,,,- - D'un poids au m2 excÃ©dant 150 gÂ£- - - papiers et cartons multicouches :Â£- - - - dont chaque couche est blanchie :,,
+5,,,10,00,- - - papiers pour condensateurs Ã©lectriques,KG,- - - - -
+,,,19,,- - - - - autres :,,
+,,,29,,- - - - - autres :,,
+,,,39,,- - - - - autres :,,
+,,,49,,- - - - - autres :,,
+5,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,,99,,- - - - autres :,,
+,,4805.30,,,- Papier sulfite d'emballage,,
+5,,,00,00,- Papier sulfite d'emballage,KG,- - - - -
+,,,90,,- - - - autres :,,
+5,,4805.40,00,00,- â€“ Papier et carton filtre,KG,- - - - -
+,,4805.50,,,"- Papier et carton feutre, papier et carton laineux",,
+5,,,00,00,- â€“ Papier et carton feutre. papier et carton laineux,KG,- - - - -
+,,4805.91,,,- - D'un poids au m2 n'excÃ©dant pas 150 g,,
+5,,,10,00,- - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,80,00,- - - pour condensateurs Ã©lectriques,KG,- - - - -
+,,4805.92,,,- - D'un poids au m2 excÃ©dant 150 g mais infÃ©rieur Ã  225 g,,
+5,,,10,00,- - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,4805.93,,,- - D'un poids au m2 Ã©gal ou supÃ©rieur Ã  225 g,,
+5,,,10,00,- - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,80,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,,90,,- - - autres :,,
+,48.06,,,,"- - Papiers et cartons sulfurisÃ©s, papiers ingraissables, papiers-calques et papier dit Â«cristalÂ» et autres papiers calandrÃ©s transparents ou translucides, en rouleaux ou en feuilles.",,
+5,,4806.10,00,00,- Papiers et cartons sulfurisÃ©s (parchemin vÃ©gÃ©tal),KG,- - - - -
+5,,4806.20,00,00,- Papiers ingraissables (greaseproof),KG,- - - - -
+5,,4806.30,00,00,- Papiers-calques,KG,- - - - -
+,,4806.40,,,- Papier dit Â«cristalÂ» et autres papiers calandrÃ©s transparents ou translucides,,
+5,,,20,00,- - - â€“ â€“ â€“ papier cristal d'un grammage compris entre 48 et 52 grammes inclus. prÃ©sentÃ© en bobines d'une largeur de 34 cm,KG,- - - - -
+5,,,80,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,4807.00,,,"Papiers et cartons assemblÃ©s Ã  plat par collage, non couchÃ©s ni enduits Ã  la surface ni imprÃ©gnÃ©s, mÃªme renforcÃ©s intÃ©rieurement, en rouleaux ou en feuilles.",,
+5,,,00,00,Papiers et cartons assemblÃ©s Ã  plat par collage. non couchÃ©s ni enduits Ã  la surface ni imprÃ©gnÃ©s. mÃªme renforcÃ©s intÃ©rieurement. en rouleaux ou en feuilles,KG,- - - - -
+,,,10,,"- - - Papiers et cartons Â«entre-deuxÂ», assemblÃ©s avec du bitume, du goudron ou de l'asphalte :",,
+,48.08,,,,"Papiers et cartons ondulÃ©s (mÃªme avec recouvrement par collage), crÃªpÃ©s, plissÃ©s, gaufrÃ©s, estampÃ©s ou perforÃ©s, en rouleaux ou en feuilles, autres que les papiers des types dÃ©crits dans le libellÃ© du nÂ° 48.03.",,
+,,4808.10,,,"- Papiers et cartons ondulÃ©s, mÃªme perforÃ©sÂ£- - - simplement ondulÃ©s (mÃªme avec recouvrement par collage) :",,
+5,,,23,00,"- - - - papiers autres que les papiers et cartons kraft, destinÃ©s Ã  la fabrication de filtres pour moteurs automobiles et industriels, d'une Ã©paisseur infÃ©rieure Ã  900 microns et d'un poids au mÃ¨tre carrÃ© infÃ©rieur Ã  235 g, prÃ©sentÃ©s en bobines",KG,- - - - -
+5,,,28,00,- - - - autres - - - autres :,KG,- - - - -
+5,,,28,00,- - - - autres - - - autres :,KG,- - - - -
+5,,,28,00,- - - - autres - - - autres :,KG,- - - - -
+5,,,28,00,- - - - autres - - - autres :,KG,- - - - -
+5,,,28,00,- - - - autres,KG,- - - - -
+5,,,28,00,- - - - autres,KG,- - - - -
+5,,,28,00,- - - - autres,KG,- - - - -
+5,,,28,00,- - - - autres,KG,- - - - -
+8,,,80,00,- - - autres,KG,- - - - -
+,,4808.20,,,"- Papiers Kraft pour sacs de grande contenance, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s",,
+,,4808.30,,,"- Autres papiers Kraft, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s",,
+,,4808.40,,,"- Papiers Kraft, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s",,
+,,,00,,"- Papiers Kraft, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s",,
+8,,,,00,"- Papiers Kraft, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s",KG,- - - - -
+8,,4808.90,00,00,- Autres,KG,- - - - -
+,48.09,,,,"Papiers carbone, papiers dits â€œautocopiantsâ€ et autres papiers pour duplication ou reports (y compris les papiers couchÃ©s, enduits ou imprÃ©gnÃ©s pour stencils ou pour plaques offset), mÃªme imprimÃ©s, en rouleaux ou en feuilles.",,
+5,,4809.20,00,00,- Papiers dits â€œautocopiantsâ€,KG,- - - - -
+,,4809.90,,,- Autres,,
+5,,,00,00,- â€“ Autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,48.10,,,,"Papiers et cartons couchÃ©s au kaolin ou Ã  d'autres substances inorganiques sur une ou sur les deux faces, avec ou sans liants, Ã  l'exclusion de tout autre couchage ou enduction, mÃªme coloriÃ©s en surface, dÃ©corÃ©s en surface ou imprimÃ©s, en rouleaux",,
+,,4810.13,,,- - En rouleaux,,
+5,,,20,00,- - - â€“ â€“ â€“ d'une largeur n'excÃ©dant pas 15 cm,KG,- - - - -
+,,,40,,- - - - - autres :,,
+,,,80,,- - - â€“ â€“ â€“ autres,,
+8,,,,10,- - - - â€“ â€“ â€“ â€“ simplement rÃ©glÃ©s. lignÃ©s ou quadrillÃ©s,KG,- - - - -
+5,,,,90,- - - - â€“ â€“ â€“ â€“ autres,KG,- - - - -
+,,,90,,- - - - d'unpoids au m2 excÃ©dant 150 g :,,
+,,4810.14,,,- - En feuilles dont un des cÃ´tÃ©s n'excÃ¨de pas 435 mm et dont l'autre cÃ´tÃ© n'excÃ¨de pas 297 mm Ã  l'Ã©tat non pliÃ©,,
+5,,,20,00,- - - â€“ â€“ â€“ dont aucun cÃ´tÃ© ne dÃ©passe 36 cm,KG,- - - - -
+,,,40,,- - - - - autres :,,
+,,,80,,- - - â€“ â€“ â€“ autres,,
+8,,,,10,- - - - â€“ â€“ â€“ â€“ simplement rÃ©glÃ©s. lignÃ©s ou quadrillÃ©s,KG,- - - - -
+5,,,,90,- - - - â€“ â€“ â€“ â€“ autres,KG,- - - - -
+,,,90,,- - - - d'un poids au m2 excÃ©dant 150 g :,,
+,,4810.19,,,- - Autres,,
+5,,,20,00,- - - â€“ â€“ â€“ dont aucun cÃ´tÃ© ne dÃ©passe 36 cm,KG,- - - - -
+,,,40,,- - - - - autres :,,
+,,,80,,- - - â€“ â€“ â€“ autres,,
+8,,,,10,- - - - â€“ â€“ â€“ â€“ simplement rÃ©glÃ©s. lignÃ©s ou quadrillÃ©s,KG,- - - - -
+5,,,,90,- - - - â€“ â€“ â€“ â€“ autres,KG,- - - - -
+,,,90,,- - - - d'un poids au m2 excÃ©dant 150 g :,,
+,,4810.22,,,"- - Papier couchÃ© lÃ©ger, dit Â«LWCÂ»",,
+5,,,00,00,- - â€“ â€“ Papier couchÃ© lÃ©ger. dit Â«L.W.C.Â»,KG,- - - - -
+,,,20,,"- - - autres, de forme carrÃ©e ou rectangulaire dont aucun cÃ´tÃ© ne dÃ©passe 36 cm ou en rouleaux d'une largeur ne dÃ©passant pas 15 cm :",,
+,,4810.29,,,- - Autres,,
+,,,00,,- - Autres,,
+8,,,,10,"- - - simplement rÃ©glÃ©s, lignÃ©s ou quadrillÃ©s autres que ceux de forme carrÃ©e Â£ou rÃ©ctangulaire dont aucun cotÃ© ne dÃ©passe 36 cm, ou en rouleaux Â£d'une largeur ne dÃ©passant pas 15cm",KG,- - - - -
+5,,,,90,- - - autres papiers et cartons,KG,- - - - -
+,,,80,,- - - â€“ â€“ â€“ autres,,
+,,4810.31,,,"- - Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique, d'un poids au m2 n'excÃ©dant pas 150 g",,
+5,,,00,00,- - â€“ â€“ Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique. d'un poids au m2 n'excÃ©dant pas 150 g,KG,- - - - -
+,,,90,,- - - autres :,,
+,,4810.32,,,"- - poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique, d'un poids au m2 excÃ©dant 150 g",,
+5,,,00,00,- - â€“ â€“ Blanchis uniformÃ©ment dans la masse et dont plus de 95% en poids de la composition fibreuse totale sont constituÃ©s par des fibres de bois obtenues par un procÃ©dÃ© chimique. d'un poids au m2 excÃ©dant 150 g,KG,- - - - -
+,,,90,,- - - autres :,,
+,,4810.39,,,- - Autres,,
+5,,,00,00,- - â€“ â€“ Autres,KG,- - - - -
+,,,90,,- - - autres :,,
+,,4810.92,,,- - Multicouches,,
+5,,,00,10,- - - papier duplex,KG,- - - - -
+5,,,00,90,- - - autres,KG,- - - - -
+,,4810.99,,,- - Autres,,
+5,,,00,00,- - â€“ â€“ Autres,KG,- - - - -
+,,,90,,- - - - autres :,,
+,48.11,,,,"Papiers, cartons, ouate de cellulose et nappes de fibres de cellulose, couchÃ©s, enduits, imprÃ©gnÃ©s, recouverts, coloriÃ©s en surface, dÃ©corÃ©s en surface ou imprimÃ©s, en rouleaux ou en feuilles, de forme carrÃ©e ou rectangulaire, de tout format, autr",,
+5,,4811.10,00,00,- Papiers et cartons goudronnÃ©s. bitumÃ©s ou asphaltÃ©s,KG,- - - - -
+5,,4811.10,00,00,- Papiers et cartons goudronnÃ©s. bitumÃ©s ou asphaltÃ©s,KG,- - - - -
+5,,4811.10,00,00,- Migration NGP inexistants,KG,- - - - -
+5,,4811.10,00,00,- Migration NGP inexistants,KG,- - - - -
+5,,4811.41,10,00,- - - d'un grammage compris entre 40 et 45 grammes inclus et prÃ©sentÃ©es en bobines d'une largeur comprise entre 15 cm et 25 cm inclus,KG,- - - - -
+5,,4811.41,90,00,- - - autres,KG,- - - - -
+5,,4811.49,00,00,"- - AutresÂ£- Papiers et cartons enduits, imprÃ©gnÃ©s ou recouverts de matiÃ¨re plastique (Ã  l'exclusion des adhÃ©sifs) :",KG,- - - - -
+,,4811.51,,,"- - Blanchis, d'un poids au m2 excÃ©dant 150 g",,
+5,,,00,00,- - â€“ â€“ Blanchis. d'un poids au m2 excÃ©dant 150 g,KG,- - - - -
+,,4811.59,,,- - Autres,,
+,,,00,,- - Autres,,
+5,,,,10,"- - - couvre-parquets a supports de papier ou de carton, mÃªme dÃ©coupÃ©s.%â€“ â€“ â€“ autres",KG,- - - - -
+5,,,,20,"- - - - imprÃ©gnÃ©s de rÃ©sines, destinÃ©s Ã  la fabrication d'emballage du lait en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,30,"- - - - siliconÃ©s ou imprÃ©gnÃ©s de rÃ©sines phÃ©noliques ou nitrocellulosiques en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©%â€“ â€“ â€“ â€“ endui",KG,- - - - -
+5,,,,41,"- - - - - papier Kraft crÃªpÃ© enduit ou imprÃ©gnÃ© sur une face d'un latex synthÃ©tique styrolo-butadiÃ¨ne et sur l'autre face d'un latex synthÃ©tique vinyl-acrylique, d'un grammage n'excÃ©dant pas 65 g/mÂ² et prÃ©sentÃ© en bobine d'une largeur de 375 mm",KG,- - - - -
+5,,,,49,- - - - - autres,KG,- - - - -
+5,,,,51,"- - - - produits en cartons ou en papiers Ã©crus ou blanchis contrecollÃ©s, non imprimÃ©s ni illustrÃ©s, destinÃ©s Ã  la fabrication d'emballages pour boissons, lait liquide ou pour autres produits alimentaires liquides ou pÃ¢teux, recouverts d'une fine c",KG,- - - - -
+5,,,,59,"- - - - produits en cartons ou en papiers Ã©crus ou blanchis contrecollÃ©s, non imprimÃ©s ni illustrÃ©s, destinÃ©s Ã  la fabrication d'emballages pour boissons, lait liquide ou pour autres produits alimentaires liquides ou pÃ¢teux, recouverts d'une fine c",KG,- - - - -
+5,,,,60,"- - - - produits en cartons ou en papiers Ã©crus ou blanchis, non imprimÃ©s ni illustrÃ©s,destinÃ©s Ã  la fabrication d'emballages pour boissons, lait liquide ou pour autres produits alimentaires liquides ou pÃ¢teux, recouverts sur une face d'une fine cou",KG,- - - - -
+5,,,,70,"- - - - carton contre-collÃ© Ã  une mince feuille d'alluminium recouverte d'une pellicule en matiÃ¨re plastique, d'un poids Ã©gal ou supÃ©rieur Ã  250 g/m2 en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et d",KG,- - - - -
+5,,,,80,"- - - - papiers imprÃ©gnÃ©s de rÃ©sines acryliques ou phÃ©noliques d'une Ã©paisseur ne dÃ©passant pas 1mm, prÃ©sentÃ©s en bobines d'un diamÃ¨tre compris entre 370 et 1100 mm et d'une hauteur comprise entre 100 et 1100 mm",KG,- - - - -
+5,,,,99,"- - - - autres, y compris le calque imprÃ©gnÃ©",KG,- - - - -
+,,,30,,- - - enduits ou imprÃ©gnÃ©s de rÃ©sines artificielles :,,
+,,4811.60,,,"- Papiers et cartons enduits, imprÃ©gnÃ©s ou recouverts de cire, de paraffine, de stÃ©arine, d'huile ou de glycÃ©rolÂ£- - - paraffinÃ©s, stearinÃ©s ou cirÃ©s :",,
+5,,,20,00,"- - - paraffinÃ©s, stearinÃ©s ou cirÃ©s Ã  usage industriel â€œdits indÃ©chirablesâ€, destinÃ©s Ã  la fabrication de joints pour moteurs thermiques, d'une Ã©paisseur supÃ©rieure ou Ã©gale Ã  0,1 mm et infÃ©rieure ou Ã©gale Ã  4 mm, prÃ©sentÃ©s en bobines",KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,4811.90,,,"- Autres papiers, cartons, ouate de cellulose et nappes de fibres de celluloseÂ£- - - coloriÃ©s en surface non couchÃ©s :",,
+,,,00,,"- Autres papiers, cartons, ouate de cellulose et nappes de fibres de cellulose",,
+5,,,,10,- - - couvre - parquets Ã  support de papier ou de carton mÃªme dÃ©coupÃ©s%â€“ â€“ â€“ autres :%â€“ â€“ â€“ â€“ coloriÃ©s en surface non couchÃ©s :,KG,- - - - -
+5,,,,21,"- - - - - pour stratifiÃ©s, d'un poids au m2 de 80 Ã  120 g inclus en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,29,- - - - - autres%â€“ â€“ â€“ â€“ imprimÃ©s :,KG,- - - - -
+5,,,,31,"- - - - - impermÃ©abilisÃ©s, prÃ©sentÃ©s en bobines, d'une largeur variant de 20 Ã  30 cm",KG,- - - - -
+5,,,,38,"- - - - - autres Â£â€“ â€“ â€“ â€“ autres : Â£â€“ â€“ â€“ â€“ â€“ en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles , dont l'un des Â£cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©:",KG,- - - - -
+5,,,,91,"- - - - - traitÃ©s, destinÃ©s Ã  la fabrication du papier abrasif en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,92,"- - - - - vernis en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,94,"- - - - - pour dÃ©calcomanies en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,95,"- - - - - renforcÃ©s extÃ©rieurement de fils textiles ou de tissus en rouleaux, d'une largeur excÃ©dant 15 cm ou en feuilles, dont l'un des cÃ´tÃ©s excÃ¨de 36 cm et dont l'autre cÃ´tÃ© excÃ¨de 15 cm Ã  l'Ã©tat non pliÃ©",KG,- - - - -
+5,,,,97,- - - - - - veloutÃ©s et similaires,KG,- - - - -
+5,,,,99,- - - - - autres,KG,- - - - -
+5,,4812.00,00,00,"Blocs filtrants et plaques filtrantes, en pÃ¢te Ã  papier",KG,- - - - -
+,48.13,,,,"Papier Ã  cigarettes, mÃªme dÃ©coupÃ© Ã  format ou en cahiers ou en tubes",,
+8,,4813.10,00,00,- En cahiers ou en tubes,KG,- - - - -
+8,,4813.20,00,00,- En rouleaux d'une largeur n'excÃ©dant pas 5 cm,KG,- - - - -
+,,4813.90,,,- - - Autres,,
+5,,,00,00,- Autres,KG,- - - - -
+,48.14,,,,Papiers peints et revÃªtements muraux similaires ; vitrauphanies,,
+,,4814.10,,,- â€“ Papier dit Â«IngrainÂ»,,
+,,,00,,- Papier dit Â«IngrainÂ»,,
+,,4814.20,,,"- Papiers peints et revÃªtements muraux similaires, constituÃ©s par du papier enduit ou recouvert, sur l'endroit, d'une couche de matiÃ¨re plastique grainÃ©e, gaufrÃ©e, coloriÃ©e, imprimÃ©e de motifs ou autrement dÃ©corÃ©e",,
+5,,,20,00,"- - - de dÃ©rivÃ©s chimiqes de caoutchouc naturel, ne comportant pas une ou deux marges ou d'une largeur supÃ©rieur Ã  60 cm",KG,- - - - -
+5,,,20,00,"- - - de dÃ©rivÃ©s chimiqes de caoutchouc naturel, ne comportant pas une ou deux marges ou d'une largeur supÃ©rieur Ã  60 cm",KG,- - - - -
+5,,,20,00,- - - de phÃ©noplastes,KG,- - - - -
+5,,,20,00,- - - de phÃ©noplastes,KG,- - - - -
+5,,,80,00,- - - de dÃ©rivÃ©s chimiqes de caoutchouc naturel,KG,- - - - -
+5,,,80,00,- - - de dÃ©rivÃ©s chimiqes de caoutchouc naturel,KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,4814.30,,,"- Papiers peints et revÃªtements muraux similaires, constituÃ©s par du papier recouvert, sur l'endroit, de matiÃ¨res Ã  tresser, mÃªme tissÃ©es Ã  plat ou parallÃ©lisÃ©es",,
+,,4814.90,,,- Autres,,
+,,,00,,"- ""Autres%â€“ â€“ â€“ comportant une ou deux marges ou d'une largeur maximum de 60 cm;%vitrauphanies :""",,
+8,,,,10,"- - - ""comportant une ou deux marges ou d'une largeur maximum de 60 cm; vitrauphanies""",KG,- - - - -
+5,,,,21,"- - - - - en papiers couchÃ©s, enduits ou coloriÃ©s .",KG,- - - - -
+5,,,,29,- - - - - autres .,KG,- - - - -
+5,,,,40,"- - - - autres, en papiers couchÃ©s, enduits, ou coloriÃ©s %â€“ â€“ â€“ â€“ autres :",KG,- - - - -
+5,,,,91,- - - - - en papiers kraft ondulÃ©s ou estampÃ©s ..,KG,- - - - -
+8,,,,98,- - - - - autres,KG,- - - - -
+,48.16,,,,"Papiers carbone, papiers dits Â«autocopiantsÂ» et autres papiers pour duplication ou reports (autres que ceux du nÂ° 48.09), stencils complets et plaques offset, en papier, mÃªme conditionnÃ©s en boÃ®tes.",,
+,,4816.10,00,,- Papiers carbone et papiers similaires,,
+,,4816.20,00,,- Papiers dits Â«autocopiantsÂ»,,
+8,,,,10,- - - dÃ©coupÃ©s Ã  format,KG,- - - - -
+5,,,,90,- - - - autres,KG,- - - - -
+,,4816.90,00,,- Autres,,
+,,4816.90,10,,- - - papiers carbones et papiers similaires :,,
+5,,,,10,- - - - dÃ©coupÃ©s Ã  formatâ€¦,KG,- - - - -
+5,,,,90,- - - - autres.,KG,- - - - -
+,,4816.90,20,,- - - stencils complets.,,
+5,,,,00,- - - stencils complets.,KG,- - - - -
+,,4816.90,90,,- - - autres :,,
+5,,,,10,- - - - papiers pour plaques offset .,KG,- - - - -
+5,,,,80,- - - - autres,KG,- - - - -
+,48.17,,,,"Enveloppes, cartes-lettres, cartes postales non illustrÃ©es et cartes pour correspondance, en papier ou carton; boÃ®tes, pochettes et prÃ©sentations similaires, en papier ou carton, renfermant un assor- timent d'articles de correspondance.",,
+8,,4817.10,00,00,- Enveloppes,KG,- - - - -
+8,,4817.20,00,00,"- - Cartes-lettres, cartes postales non illustrÃ©es et cartes pour corres- pondance",KG,- - - - -
+8,,4817.30,00,00,"- - BoÃ®tes, pochettes et prÃ©sentations similaires, en papier ou carton, renfermant un assortiment d'articles de correspondance",KG,- - - - -
+,48.18,,,,"Papiers des types utilisÃ©s pour papiers de toilette et pour papiers similaires, ouate de cellulose ou nappes de fibres de cellulose, des types utilisÃ©s Ã  des fins domestiques ou sanitaires, en rouleaux d'une largeur n'excÃ©dant pas 36 cm, ou coupÃ©s",,
+,,4818.10,,,- Papier hygiÃ©nique,,
+5,,,10,00,"- - - dÃ©coupÃ© Ã  formatÂ£- - - autres :Â£- - - - simplement ondulÃ©, crÃªpÃ©, plissÃ©, gaufrÃ©, estampÃ© ou perforÃ© :",KG,- - - - -
+5,,,80,00,- - - autres,KG,- - - - -
+,,4818.20,00,,"- Mouchoirs, serviettes Ã  dÃ©maquiller et essuie-mains",,
+8,,,,30,- - - â€“ â€“ â€“ mouchoirs,KG,- - - - -
+8,,,,40,- - - â€“ â€“ â€“ serviettes Ã  dÃ©maquiller,KG,- - - - -
+8,,,,80,- - - â€“ â€“ â€“ essuie-mains,KG,- - - - -
+,,4818.30,00,,- Nappes et serviettes de table,,
+8,,,,10,- - - en ouate de cellulose,KG,- - - - -
+8,,,,80,- - - autres,KG,- - - - -
+,,4818.40,00,,"- Serviettes et tampons hygiÃ©niques, couches pour bÃ©bÃ©s et articles hygiÃ©niques similaires",,
+,,4818.50,00,,- VÃªtements et accessoires du vÃªtement,,
+8,,,,00,- VÃªtements et accessoires du vÃªtement,KG,- - - - -
+,,4818.90,00,,- Autres,,
+8,,,,00,- Autres,KG,- - - - -
+,48.19,,,,"BoÃ®tes, sacs, pochettes, cornets et autres emballages en papier, carton, ouate de cellulose ou nappes de fibres de cellulose; carton- nages de bureau, de magasin ou similaires.",,
+,,4819.10,,,- BoÃ®tes et caisses en papier ou carton ondulÃ©,NON PREVUE,
+5,,,10,00,"- - - boÃ®tes pliantes et imprimÃ©es, fabriquÃ©es Ã  partir d'un complexe de plusieurs couches de papier ou carton entre lesquelles est intercalÃ© un film protecteur en polyÃ©thylÃ¨ne ou une couche de cire, d'une largeur variant entre 180 mm et 400 mm, d'",KG,- - - - -
+5,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,4819.20,,,"- BoÃ®tes et cartonnages, pliants, en papier ou carton non ondulÃ©",NON PREVUE,
+5,,,10,00,"- - - boÃ®tes imprimÃ©es, fabriquÃ©es Ã  partir d'un complexe de plusieurs couches de papier ou carton entre lesquelles est intercalÃ© un film protecteur en polyÃ©thylÃ¨ne ou une couche de cire, d'une largeur variant entre 180 mm et 400 mm, d'une longueur",KG,- - - - -
+,,,90,,- - - autres :,NON PREVUE,
+5,,,,10,- - - - caisses pliantes en carton compact,KG,- - - - -
+8,,,,80,- - - - Autres,KG,- - - - -
+,,4819.30,,,- â€“ Sacs d'une largeur Ã  la base de 40 cm ou plus,,
+,,,00,,- Sacs d'une largeur Ã  la base de 40 cm ou plusÂ£- - - en papier ou carton :,,
+5,,,11,10,- - - - - avec poignÃ©es,KG,- - - - -
+5,,,11,90,- - - - - autres,KG,- - - - -
+5,,,19,00,- - - - autres,KG,- - - - -
+8,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,4819.40,,,"- ""â€“ Autres sacs; sachets, pochettes (autres que celles pour disques) et cornets""",,
+,,,00,,"- Autres sacs; sachets, pochettes (autres que celles pour disques) et cornetsÂ£- - - en papier ou carton :",,
+5,,,10,11,- - - - - - avec poignÃ©es,KG,- - - - -
+5,,,10,19,- - - - - - autres,KG,- - - - -
+5,,,10,21,- - - - - - avec poignÃ©es,KG,- - - - -
+5,,,10,29,- - - - - - autres,KG,- - - - -
+5,,,10,31,- - - - - avec poignÃ©es,KG,- - - - -
+5,,,10,39,- - - - - autres,KG,- - - - -
+5,,,10,90,- - - - autres,KG,- - - - -
+8,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+,,4819.50,,,"- Autres emballages, y compris les pochettes pour disquesÂ£- - - en papiers ou cartons :",,
+8,,,30,00,"- - - boÃ®tes en carton non ondulÃ©, impermÃ©abilisÃ©, d'une contenance de 1/4, 1/2 Â£et 1 litre, destinÃ©es Ã  l'emballage du lait, importÃ©es par les industriels Â£intÃ©ressÃ©s",KG,- - - - -
+5,,,40,00,"- - - autres, en papiers ou cartons non ondulÃ©s",KG,- - - - -
+8,,,70,00,- - - autres,KG,- - - - -
+8,,4819.60,00,00,"- Cartonnages de bureau, de magasin ou similaires",KG,- - - - -
+,48.20,,,,"- Registres, livres comptables, carnets (de notes, de commandes, de quittances), agendas, blocs-mÃ©morandums, blocs de papier Ã  lettres et ouvrages similaires, cahiers, sous-main, classeurs, reliures (Ã  feuillets mobiles ou autres), chemises et couvertu",,
+8,,4820.10,00,00,- â€“ Registres. livres comptables. carnets (de notes. de commandes. de quittances). blocs-mÃ©morandums. blocs de papier Ã  lettres. agendas et ouvrages similaires,KG,- - - - -
+8,,4820.20,00,00,- Cahiers,KG,- - - - -
+8,,4820.30,00,00,"- Classeurs, reliures (autres que les couvertures pour livres), chemises et couvertures Ã  dossiers",KG,- - - - -
+8,,4820.40,00,00,"- - Liasses et carnets manifold, mÃªme comportant des feuilles de papier carbone",KG,- - - - -
+8,,4820.50,00,00,- Albums pour Ã©chantillonnages ou pour collections,KG,- - - - -
+8,,4820.90,00,00,- Autres,KG,- - - - -
+,48.21,,,,"- Etiquettes de tous genres, en papier ou carton, imprimÃ©es ou non",,
+5,,4821.10,00,00,- â€“ ImprimÃ©es,KG,- - - - -
+5,,4821.10,00,00,- â€“ ImprimÃ©es,KG,- - - - -
+5,,4821.10,00,00,- Migration NGP inexistants,KG,- - - - -
+5,,4821.10,00,00,- Migration NGP inexistants,KG,- - - - -
+5,,4821.90,00,00,- â€“ Autres,KG,- - - - -
+5,,4821.90,00,00,- â€“ Autres,KG,- - - - -
+5,,4821.90,00,00,- Migration NGP inexistants,KG,- - - - -
+5,,4821.90,00,00,- Migration NGP inexistants,KG,- - - - -
+,48.22,,,,"Tambours, bobines, fusettes, canettes et supports similaires, en pÃ¢te Ã  papier, papier ou carton, mÃªme perforÃ©s ou durcis.",,
+5,,4822.10,00,00,- - Des types utilisÃ©s pour l'enroulement des fils textiles,KG,- - - - -
+5,,4822.90,00,00,- Autres,KG,- - - - -
+,48.23,,,,"Autres papiers, cartons, ouate de cellulose et nappes de fibres de cellulose dÃ©coupÃ©s Ã  format; autres ouvrages en pÃ¢te Ã  papier, papier, carton, ouate de cellulose ou nappes de fibres de cellulose.Â£- Papier gommÃ© ou adhÃ©sif, en bandes ou en roule",,
+,,4823.20,,,- Papier et carton filtreÂ£- - - en feuilles de forme autre que carrÃ©e ou rectangulaire ou de forme carrÃ©e ou rectangulaire dont aucun cÃ´tÃ© ne dÃ©passe 36 cm ou en rouleaux ou en bandes d'une largeur ne dÃ©passant pas 15 cm :,,
+5,,,13,00,"- - - - destinÃ©s Ã  la fabrication de filtres pour moteurs automobiles et industriels, imprÃ©gnÃ©s de rÃ©sine non apparente, d'une Ã©paisseur infÃ©rieure Ã  710 microns et d'un poids aumÃ¨tre carrÃ© infÃ©rieur Ã  230 grammes, prÃ©sentÃ©s en bobines d'un",KG,- - - - -
+5,,,17,00,- - - - autres,KG,- - - - -
+5,,,90,00,- - - â€“ â€“ â€“ autres,KG,- - - - -
+5,,4823.40,00,00,"- Papiers Ã  diagrammes pour appareils enregistreurs, en bobines, en feuilles ou en disques",KG,- - - - -
+,,4823.60,00,,"- Plateaux, plats, assiettes, tasses, gobelets et articles similaires, en papier ou carton :",,
+,,4823.61,,,- - En bambou :,,
+,,,00,,- - En bambou :,,
+5,,,,10,"- - - gobelets imprimÃ©s, obtenus Ã  partir d'un complexe papier ou carton et du polyÃ©thylÃ¨ne d'une contenance variant entre 10 cl Ã  75 cl",KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,4823.69,,,- - Autres :,,
+,,,00,,- - Autres :,,
+5,,,,10,"- - - gobelets imprimÃ©s, obtenus Ã  partir d'un complexe papier ou carton et du polyÃ©thylÃ¨ne d'une contenance variant entre 10 cl Ã  75 cl",KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+5,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+5,,,,90,- - - Migration NGP inexistants,KG,- - - - -
+,,4823.70,00,,- Articles moulÃ©s ou pressÃ©s en pÃ¢te Ã  papier :,,
+8,,,,10,- - - plaques moulÃ©es Ã  alvÃ©oles pour l'emballage des oeufs,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,4823.90,,,- AutresÂ£- - - papiers et cartons en feuilles de forme autre que carrÃ©e ou rectangulaire ou de forme carrÃ©e ou rectangulaire dont aucun cÃ´tÃ© ne dÃ©passe 36 cm; papiers et cartons en bandes ou en rouleaux d'une largeur ne dÃ©passant pas 15 cm :,,
+,,,05,,"- - - couvre - parquets a supports de papier, ou de carton, mÃªme dÃ©coupÃ©s.",,
+5,,,,00,"- - - couvre - parquets a supports de papier, ou de carton, mÃªme dÃ©coupÃ©s.",KG,- - - - -
+5,,,11,00,- - - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,12,00,"- - - - bandes et bandelettes pliÃ©es, enduites ou non, pour la vannerie et autres usages",KG,- - - - -
+5,,,13,00,- - - - papier Ã©lectrolytique du genre â€˜'MÃ©thocel'' pour piles Ã©lectriques sÃ¨ches,KG,- - - - -
+5,,,15,00,"- - - - nappes de fibres de cellulose d'une largeur de 140 mm Ã  145 mmÂ£- - - - papiers et cartons des types utilisÃ©s pour l'Ã©criture, l'impression ou d'autres fins graphiques :",KG,- - - - -
+5,,,16,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons des types utilisÃ©s pour l'Ã©criture. l'impression ou d'autres fins graphiques,KG,- - - - -
+,,,17,,- - - - - autres :,,
+,,,18,,- - - - autres :,,
+5,,,,10,"- - - - - - papier Kraft, prÃ©sentÃ© en bobine, d'un poids de 70 g au mÃ¨tre carrÃ© et d'une largeur n'excÃ©dant pas 12 mm",KG,- - - - -
+5,,,,90,"- - - - - - autresÂ£- - - ouvrages en pÃ¢te Ã  papier, papier, carton ou ouate de cellulose ou nappes de fibres de cellulose :Â£- - - - papiers et cartons perforÃ©s pour mÃ©caniques jacquard et similaires :",KG,- - - - -
+5,,,20,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons perforÃ©s pour mÃ©caniques jacquard et similaires,KG,- - - - -
+5,,,31,00,- - - - - carcasses pour bobinages Ã©lectriques,KG,- - - - -
+5,,,32,00,- - - - - flans de clicherie non matricÃ©s,KG,- - - - -
+8,,,33,00,- - - - - joints et articles similaires en papier,KG,- - - - -
+8,,,34,00,- - - - - filtres conditionnÃ©s,KG,- - - - -
+8,,,35,00,- - - - - â€“ â€“ â€“ â€“ â€“ cartes. mÃªme prÃ©sentÃ©es en bandes. pour machines Ã  cartes perforÃ©es,KG,- - - - -
+8,,,36,00,- - - - - coins pour papiers peints et revÃªtements muraux,KG,- - - - -
+8,,,37,00,- - - - - Ã©ventails et Ã©crans main et leurs montures et parties de montures,KG,- - - - -
+8,,,38,00,- - - - - pots de filature,KG,- - - - -
+,,,39,,- - - - - autres :,,
+8,,,,60,"- - - - - - patrons, modÃ¨les et gabarits, mÃªme assemblÃ©s",KG,- - - - -
+8,,,,70,- - - - - - ronds et bandes frangÃ©es ou festonnÃ©es pour l'emballage,KG,- - - - -
+8,,,,85,- - - - - - - autres,KG,- - - - -
+,,,41,,"- - - - papiers et cartons kraft, non couchÃ©s ni enduits, autres que ceux des nÂ° 48.02 ou 48.03 :",,
+5,,,,10,"- - - - - papiers et cartons pour couverture, dits â€œkraftlinerâ€Â£- - - - - autres papiers et cartons kraft d'un poids au m2 n'excÃ©dant pas 150 g :Â£- - - - - - Ã©crus :",KG,- - - - -
+5,,,,31,"- - - - - - - papiers destinÃ©s Ã  la fabrication de fils de papier (papier dit â€œkraft Ã  filerâ€ d'un poids de 40 Ã  45 g au m2, importÃ©s en bobines par les exploitants de fabriques d'allumettes et conduits directement Ã  l'usine)",KG,- - - - -
+5,,,,33,"- - - - - - - autres, pour stratifiÃ©s, pesant au m2 140 g et plus",KG,- - - - -
+5,,,,35,- - - - - - - autresÂ£- - - - - - autres :,KG,- - - - -
+5,,,,36,"- - - - - - - papiers destinÃ©s Ã  la fabrication de fils de papier (papier dit â€œkraft Ã  filerâ€ d'un poids de 40 Ã  45 g au m2, importÃ©s en bobines par les exploitants de fabriques d'allumettes et conduits directement Ã  l'usine)",KG,- - - - -
+5,,,,39,- - - - - - - autresÂ£- - - - - autres papiers et cartons kraft d'un poids au m2 compris entre 150 g exclus et 225 g exclus :Â£- - - - - - Ã©crus :,KG,- - - - -
+5,,,,41,"- - - - - - - pour stratifiÃ©s, d'un poids au m2 maximum de 170 g",KG,- - - - -
+5,,,,42,- - - - - - - autres,KG,- - - - -
+5,,,,49,- - - - - - autres,KG,- - - - -
+5,,,,90,"- - - - - autres papiers et cartons, d'un poids au m2 Ã©gal ou supÃ©rieur Ã  225 g",KG,- - - - -
+,,,42,,"- - - - autres papiers et cartons, non couchÃ©s ni enduits, n'ayant pas subi d'ouvraison complÃ©mentaire ou de traitement autres que ceux stipulÃ©s dans la Note 2 du prÃ©sent chapitre :",,
+5,,,,10,- - - - - papier mi-chimique pour cannelureÂ£- - - - - papiers et cartons multicouches :,KG,- - - - -
+5,,,,21,- - - - - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,,22,"- - - - - - traitÃ©s, destinÃ©s Ã  la fabrication du papier abrasif",KG,- - - - -
+5,,,,23,"- - - - - - coloriÃ©s dans la masse pour stratifiÃ©s, d'un poids au m2 variant de 80 Ã  120 g inclus",KG,- - - - -
+5,,,,29,- - - - - - autres,KG,- - - - -
+5,,,,30,- - - - - papier sulfite d'emballage,KG,- - - - -
+5,,,,40,- - - - - papier et carton-filtre,KG,- - - - -
+5,,,,50,"- - - - - papier et carton feutre, papier et carton laineuxÂ£- - - - - autres papiers et cartons :",KG,- - - - -
+5,,,,91,- - - - - - pour condensateurs Ã©lectriques,KG,- - - - -
+5,,,,92,"- - - - - - traitÃ©s, destinÃ©s Ã  la fabrication du papier abrasif",KG,- - - - -
+5,,,,93,"- - - - - - coloriÃ©s dans la masse pour stratifiÃ©s, d'unpoids au m2 variant de 80 Ã  120 g inclus",KG,- - - - -
+5,,,,99,- - - - - - autres,KG,- - - - -
+5,,,43,00,- - - - Migration NGP inexistants,KG,- - - - -
+5,,,43,00,- - - - Migration NGP inexistants,KG,- - - - -
+5,,,43,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons sulfurisÃ©s. papiers ingraissables. papiers calques et papiers dit â€œcristalâ€ et autres papiers calandrÃ©s transparents ou translucides,KG,- - - - -
+5,,,43,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons sulfurisÃ©s. papiers ingraissables. papiers calques et papiers dit â€œcristalâ€ et autres papiers calandrÃ©s transparents ou translucides,KG,- - - - -
+5,,,44,00,"- - - - papiers et cartons assemblÃ©s Ã  plat par collage, non couchÃ©s ni enduits Ã  la surface ni imprÃ©gnÃ©s, mÃªme renforcÃ©s intÃ©rieurement",KG,- - - - -
+,,,45,,"- - - - papiers et cartons ondulÃ©s (mÃªme avec recouvrement par collage), crÃªpÃ©s, plissÃ©s, gaufrÃ©s, estampÃ©s ou perforÃ©s, autres que les papiers des types dÃ©crits dans le libellÃ© du nÂ° 48.03 :Â£- - - - - papiers et cartons ondulÃ©s mÃªme perforÃ",,
+5,,,,11,"- - - - - - papier destinÃ© Ã  la fabrication de filtres pour moteurs automobiles et industriels, d'une Ã©paisseur infÃ©rieure Ã  900 microns et d'un poids au mÃ¨tre carrÃ© infÃ©rieur Ã  235 grammes, prÃ©sentÃ© en bobines, importÃ© par les fabricants intÃ",KG,- - - - -
+5,,,,19,"- - - - - - autresÂ£- - - - - papiers kraft pour sacs de grande contenance, crÃªpÃ©s ou plissÃ©s, mÃªme gaufrÃ©s, estampÃ©s ou perforÃ©s :",KG,- - - - -
+8,,,,80,- - - - - â€“ â€“ â€“ â€“ â€“ autres,KG,- - - - -
+,,,49,,"- - - - autres papiers et cartons des types utilisÃ©s pour l'Ã©criture, l'impression ou d'autres fins graphiques :",,
+5,,,,20,"- - - - - - non imprimÃ©s, non estampÃ©s ou perforÃ©s, pesant 15 g ou moins par m2 et destinÃ©s Ã  la fabrication du papier stencil",KG,- - - - -
+5,,,,80,- - - - - - autres,KG,- - - - -
+5,,,50,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons fabriquÃ©s mÃ©caniquement. y compris l'ouate de cellulose et les nappes de fibres de cellulose. non imprÃ©gnÃ©s. ni enduits. ni couchÃ©s. ni imprimÃ©s. ni dÃ©corÃ©s. ni faÃ§onnÃ©s,KG,- - - - -
+8,,,60,00,- - - - â€“ â€“ â€“ â€“ papiers et cartons crÃªpÃ©s. plissÃ©s. gaufrÃ©s. estampÃ©s ou perforÃ©s. en rouleaux ou en feuilles,KG,- - - - -
+5,,,92,00,- - - - - pour dÃ©calcomanies,KG,- - - - -
+5,,,98,00,- - - - - â€“ â€“ â€“ â€“ â€“ autres,KG,- - - - -

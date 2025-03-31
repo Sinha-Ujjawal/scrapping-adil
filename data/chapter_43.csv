@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7
+,43.01,,,,"Pelleteries brutes (y compris les tÃªtes, queues, pattes et autres morceaux utilisables en pelleteries), autres que les peaux brutes des nÂ°s 41.01, 41.02 ou 41.03.",,
+3,,4301.10,00,00,"- De visons, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",KG,NOMBRE
+3,,4301.30,00,00,"- D'agneaux dits astrakan, breitschwanz, caracul, persianer ou similaires, d'agneaux des Indes, de Chine, de Mongolie ou du Tibet, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",KG,NOMBRE
+3,,4301.60,00,00,"- De renards, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",KG,- - - - -
+,,4301.80,,,"- Autres pelleteries, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",,
+3,,,00,00,"- - - Autres pelleteries, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",KG,- - - - -
+,,,40,,"- - - de phoques ou d'otaries, entiÃ¨res, mÃªme sans les tÃªtes, queues ou pattes",,
+,,,80,,- - - autres,,
+,,4301.90,00,,"TÃªtes, queues, pattes et autres morceaux utilisables en pelleterie.",,
+3,,,,00,"- TÃªtes, queues, pattes et autres morceaux utilisables en pelleterie",KG,- - - - -
+,43.02,,,,"Pelleteries tannÃ©es ou apprÃªtÃ©es (y compris les tÃªtes, queues, pattes et autres morceaux, dÃ©chets et chutes), non assemblÃ©es ou assemblÃ©es (sans adjonction d'autres matiÃ¨res), autres que celles du nÂ° 43.03.Â£- Pelleteries entiÃ¨res, mÃªme sans le",,
+5,,4302.11,00,00,- - De visons,KG,- - - - -
+,,4302.13,00,,"- - D'agneaux dits astrakan, breitschwanz, caracul, persianer ou similaires, d'agneaux des Indes, de Chine, de Mongolie ou du Thibet",,
+,,4302.19,00,,- - Autres,,
+5,,,,10,"- - - d'otaries, de loutres de mer, de nutries et de castors",KG,- - - - -
+5,,,,20,"- - - de petits gris, d'hamsters, de poulains d'Asie, de chiens de Chine, de chÃ¨vres de Chine",KG,- - - - -
+5,,,,30,- - - de lapins ou de liÃ¨vres,KG,- - - - -
+5,,,,41,- - - - de mouflons d'Asie et de moutons de Chine,KG,- - - - -
+5,,,,49,- - - - autres,KG,- - - - -
+5,,,,90,- - - autres,KG,- - - - -
+,,4302.20,,,"- TÃªtes, queues, pattes et autres morceaux,dÃ©chets et chutes, non assemblÃ©s",,
+5,,,00,00,"- - - TÃªtes, queues, pattes et autres morceaux,dÃ©chets et chutes, non assemblÃ©s",KG,- - - - -
+,,,90,,- - - - - autres :,,
+,,4302.30,00,,"- Pelleteries entiÃ¨res et leurs morceaux et chutes, assemblÃ©sÂ£- - - pelleteries tannÃ©es ou apprÃªtÃ©es, assemblÃ©es en nappes, sacs, carrÃ©s, croix ou prÃ©sentations similaires :",,
+5,,,,10,"- - - - pelleteries tannÃ©es ou apprÃªtÃ©es, assemblÃ©es en nappes, sacs, carrÃ©s, croix ou prÃ©sentations similaires",KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,43.03,,,,"VÃªtements, accessoires du vÃªtement et autres articles en pelleteries",,
+8,,4303.10,00,00,- VÃªtements et accessoires du vÃªtement,KG,- - - - -
+,,4303.90,00,,- Autres,,
+7,,,,10,- - - articles Ã  usages techniques,KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -
+,,4304.00,00,,Pelleteries factices et articles en pelleteries factices,,
+5,,,,10,"- - - en piÃ¨ces, bandes ou morceaux cousus (carrÃ©s, nappes, nappettes etc)",KG,- - - - -
+8,,,,90,- - - - - autres,KG,- - - - -

@@ -1,0 +1,81 @@
+0,1,2,3,4,5,6,7
+,06.01,,,,"Bulbes, oignons, tubercules, racines tubÃ©reuses, griffes et rhizomes, en repos vÃ©gÃ©tatif, en vÃ©gÃ©tation ou en fleur; plants, plantes et racines de chicorÃ©e autres que les racines du nÂ° 12.12.",,
+3,,0601.10,00,00,"- Bulbes, oignons, tubercules, racines tubÃ©reuses, griffes et rhizomes, en repos vÃ©gÃ©tatif",U,- - - - -
+,,0601.20,,,"- Bulbes, oignons, tubercules, racines tubÃ©reuses, griffes et rhizomes, en vÃ©gÃ©tation ou en fleur; plants, plantes et racines de chicorÃ©e",,
+3,,,10,00,- - - - - racines de chicorÃ©eÂ£- - - autres :,U,- - - - -
+3,,,91,00,"- - - - orchidÃ©es, jacinthes, narcisses et tulipes",U,- - - - -
+3,,,99,00,- - - - - - autres,U,- - - - -
+,06.02,,,,"Autres plantes vivantes (y compris leurs racines), boutures et greffons; blanc de champignons.",,
+,,0602.10,,,- Boutures non racinÃ©es et greffons,,
+3,,,10,00,- - - - de vigneÂ£- - - de plants fruitiers :,U,- - - - -
+3,,,21,00,- - - - de rosacÃ©es,U,- - - - -
+3,,,29,00,- - - - - - autres,U,- - - - -
+,,,90,,- - - - - autres :,,
+3,,,,10,- - - - de plants forestiers,U,- - - - -
+3,,,,20,- - - - de plantes ornementales,U,- - - - -
+3,,,,30,- - - - de plantes mÃ©dicinales,U,- - - - -
+3,,,,90,- - - - d'autres plantes,U,- - - - -
+,,0602.20,,,"- Arbres, arbustes, arbrisseaux et buissons, Ã  fruits comestibles, greffÃ©s ou non",,
+3,,,10,00,"- - - - plants de vigne, greffÃ©s ou racinÃ©sÂ£- - - plants d'arbres fruitiers :",U,- - - - -
+3,,,31,00,- - - - de rosacÃ©es,U,- - - - -
+3,,,39,00,- - - - - - autresÂ£- - - autres :,U,- - - - -
+,,,91,,- - - - fleuris ou en boutons :Â£- - - - - plants de noyers :,,
+3,,,,11,- - - - - - - non greffÃ©s,U,- - - - -
+3,,,,19,- - - - - - - greffÃ©sÂ£- - - - - plants d'oliviers :,U,- - - - -
+3,,,,21,- - - - - - - non greffÃ©s,U,- - - - -
+3,,,,29,- - - - - - - greffÃ©sÂ£- - - - - autres :,U,- - - - -
+3,,,,91,- - - - - - - non greffÃ©s,U,- - - - -
+3,,,,99,- - - - - - - greffÃ©s,U,- - - - -
+,,,99,,- - - - autres :,,
+3,,,,10,- - - - - plants de noyers,U,- - - - -
+3,,,,20,- - - - - plants d'oliviers,U,- - - - -
+3,,,,90,- - - - - autres,U,- - - - -
+,,0602.30,,,"- Rhododendrons et azalÃ©es, greffÃ©s ou non",,
+,,,10,,- - - fleuris ou en boutons :,,
+3,,,,10,- - - - azalÃ©es,U,- - - - -
+3,,,,90,- - - - - - autres,U,- - - - -
+3,,,90,00,- - - - - autres,U,- - - - -
+,,0602.40,,,"- rosiers, greffÃ©s ou non",,
+3,,,10,00,- - - fleuris ou en boutons,U,- - - - -
+3,,,90,00,- - - - - autres,U,- - - - -
+,,0602.90,,,- Autres,,
+3,,,10,00,- - - blanc de champignons,KG,- - - - -
+3,,,20,00,- - - plants d'ananasÂ£- - - autres :,U,- - - - -
+,,,91,,"- - - - fleuris ou en boutons :Â£- - - - - arbres, arbustes et arbrisseaux :",,
+3,,,,11,- - - - - - - forestiers,KG,- - - - -
+3,,,,19,- - - - - - - - autres,KG,- - - - -
+3,,,,90,- - - - - - - autres,KG,- - - - -
+3,,,99,00,- - - - - - autres,KG,- - - - -
+,06.03,,,,"Fleurs et boutons de fleurs, coupÃ©s, pour bouquets ou pour ornements, frais, sÃ©chÃ©s, blanchis, teints, imprÃ©gnÃ©s ou autrement prÃ©parÃ©s.",,
+,,0603.10,00,,- Frais,,
+,,0603.11,,,- - Roses,,
+,,,00,,- - Roses,,
+3,,,,00,- - Roses,KG,- - - - -
+,,0603.12,,,- - Oeillets,,
+,,,00,,- - Oeillets,,
+3,,,,00,- - Oeillets,KG,- - - - -
+,,0603.13,,,- - OrchidÃ©es,,
+,,,00,,- - OrchidÃ©es,,
+3,,,,00,- - OrchidÃ©es,KG,- - - - -
+,,0603.14,,,- - ChrysanthÃ¨mes,,
+,,,00,,- - ChrysanthÃ¨mes,,
+3,,,,00,- - ChrysanthÃ¨mes,KG,- - - - -
+,,0603.15,,,- - Lis (Lilium spp.),,
+,,,00,,- - Lis (Lilium spp.),,
+3,,,,00,- - Lis (Lilium spp.),KG,- - - - -
+,,0603.19,,,- - Autres,,
+,,,00,,- - Autres,,
+3,,,,10,- - - lilias,KG,- - - - -
+3,,,,80,- - - autres,KG,- - - - -
+3,,0603.90,00,00,- Autres,KG,- - - - -
+,06.04,,,,"Feuillages, feuilles, rameaux et autres parties de plantes, sans fleurs ni boutons de fleurs, et herbes, mousses et lichens, pour bouquets ou pour ornements, frais, sÃ©chÃ©s, blanchis, teints, imprÃ©gnÃ©s ou autrement prÃ©parÃ©s.",,
+,,0604.10,00,,- Mousses et lichens,,
+,,0604.20,,,- Frais,,
+,,,00,,- Frais% â€“ â€“ â€“ mousses et lichens :,,
+3,,,,10,- - - - mousses et lichens,KG,- - - - -
+3,,,,90,- - - autres,KG,- - - - -
+,,0604.90,,,- Autres,,
+,,,00,,- Autres%â€“ â€“ â€“ mousses et lichens :,,
+3,,,,10,- - - - mousses et lichens,KG,- - - - -
+3,,,,90,- - - - autres,KG,- - - - -
+,,0604.99,00,,- - Autres,,
